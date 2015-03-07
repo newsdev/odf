@@ -1,0 +1,18 @@
+Id,ENG Description,FRA Description,POR Description
+E,East,Est,Leste
+ENE,East-North-East,Est-Nord-Est,Leste-Nordeste
+ESE,East-South-East,Est-Sud-Est,Leste-Sudeste
+N,North,Nord,Norte
+NE,North-East,Nord-Est,Nordeste
+NNE,North-North-East,Nord-Nord-Est,Norte-Nordeste
+NNW,North-North-West,Nord-Nord-Ouest,Norte-Noroeste
+NW,North-West,Nord-Ouest,Noroeste
+S,South,Sud,Sul
+SE,South-East,Sud-Est,Sudeste
+SSE,South-South-East,Sud-Sud-Est,Sul-Sudeste
+SSW,South-South-West,Sud-Sud-Ouest,Sul-Sudoeste
+SW,South-West,Sud-Ouest,Sudoeste
+VR,Variable,Variable,Variável
+W,West,Ouest,Oeste
+WNW,West-North-West,Ouest-Nord-Ouest,West-North-West
+WSW,West-South-West,Ouest-Sud-Ouest,Oeste-Sudoeste

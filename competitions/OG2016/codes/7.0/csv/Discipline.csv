@@ -1,0 +1,52 @@
+Id,ENG Description,FRA Description,POR Description,nonsport,Sport,Eventorder,scheduled
+AF,Olympic Arts Festival,Festival olympique des arts,,Y,,DATE,Y
+AQ,Aquatics Sport,Natation,Desportos Aquáticos,N,,DATE,N
+AR,Archery,Tir à l'arc,Tiro com Arco,N,AR,DATE,Y
+AT,Athletics,Athlétisme,Atletismo,N,AT,DATE,Y
+BD,Badminton,Badminton,Badminton,N,BD,DATE,Y
+BK,Basketball,Basketball,Basquetebol,N,BK,DATE,Y
+BV,Beach Volleyball,Volleyball de plage,Vôlei de Praia,N,VB,DATE,Y
+BX,Boxing,Boxe,Boxe,N,BX,DATE,Y
+CA,Canoe Sport,Canoë-kayak,Canoagem,N,,DATE,N
+CB,Cycling BMX,BMX,Ciclismo BMX,N,CY,DATE,Y
+CE,Ceremonies,Cérémonies,Cerimônias,Y,,DATE,Y
+CF,Canoe Sprint,"Canoë-kayak, course en ligne",Canoagem Velocidade,N,CA,DATE,Y
+CM,Cycling Mountain Bike,Cyclisme Mountain Bike,Ciclismo Mountain Bike,N,CY,DATE,Y
+CR,Cycling Road,Cyclisme sur route,Ciclismo de Estrada,N,CY,DATE,Y
+CS,Canoe Slalom,"Canoë-kayak, slalom",Canoagem Slalom,N,CA,DATE,Y
+CT,Cycling Track,Cyclisme sur piste,Ciclismo de Pista,N,CY,DATE,Y
+CY,Cycling Sport,Cyclisme,Ciclismo,N,,DATE,N
+DV,Diving,Plongeon,Saltos Ornamentais,N,AQ,DATE,Y
+EQ,Equestrian,Sports équestres,Hipismo,N,EQ,DATE,Y
+FB,Football,Football,Futebol,N,FB,DATE,Y
+FE,Fencing,Escrime,Esgrima,N,FE,DATE,Y
+GA,Artistic Gymnastics,Gymnastique artistique,Ginástica Artística,N,GY,DATE,Y
+GL,General,Général,Geral,Y,,DATE,N
+GO,Golf,Golf,Golfe,N,GO,DATE,Y
+GR,Rhythmic Gymnastics,Gymnastique rythmique,Ginástica Rítmica,N,GY,DATE,Y
+GT,Trampoline Gymnastics,Trampoline,Ginástica de Trampolim,N,GY,DATE,Y
+GY,Gymnastic Sport,Gymnastique,Ginástica,N,,DATE,N
+HB,Handball,Handball,Handebol,N,HB,DATE,Y
+HO,Hockey,Hockey,Hóquei sobre Grama,N,HO,DATE,Y
+IA,IOC Activities,Activités du CIO,Atividades do COI,Y,,DATE,Y
+JU,Judo,Judo,Judô,N,JU,DATE,Y
+MP,Modern Pentathlon,Pentathlon moderne,Pentatlo Moderno,N,MP,DATE,Y
+OV,Olympic Village,Village Olympique,Vila Olímpica,Y,,DATE,Y
+OW,Marathon Swimming,Natation de marathon,Maratonas Aquáticas,N,AQ,DATE,Y
+PC,Press Conferences,Conférence de presse,Conferência de Imprensa,Y,,DATE,Y
+RO,Rowing,Aviron,Remo,N,RO,DATE,Y
+RU,Rugby,Rugby,Rugby,N,RU,DATE,Y
+SA,Sailing,Voile,Vela,N,SA,DATE,Y
+SH,Shooting,Tir,Tiro Esportivo,N,SH,DATE,Y
+SW,Swimming,Natation,Natação,N,AQ,DATE,Y
+SY,Synchronised Swimming,Natation synchronisée,Nado Sincronizado,N,AQ,DATE,Y
+TE,Tennis,Tennis,Tênis,N,TE,LOC,Y
+TK,Taekwondo,Taekwondo,Taekwondo,N,TK,DATE,Y
+TR,Triathlon,Triathlon,Triatlo,N,TR,DATE,Y
+TT,Table Tennis,Tennis de table,Tênis de Mesa,N,TT,DATE,Y
+UT,Training (Unofficial),Entraînement (non officiel),Treinamento (nao oficial),Y,,DATE,Y
+VB,Volleyball Sport,Volleyball,Voleibol,N,,DATE,N
+VO,Volleyball,Volleyball,Voleibol,N,VB,DATE,Y
+WL,Weightlifting,Haltérophilie,Levantamento de Peso,N,WL,DATE,Y
+WP,Water Polo,Water-polo,Polo Aquático,N,AQ,DATE,Y
+WR,Wrestling,Lutte,Luta Olímpica,N,WR,LOC,Y

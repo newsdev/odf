@@ -1,0 +1,39 @@
+Discipline,recordgroup,recordtype,ENG Description,POR Description,Order
+AR,PR,PR,Paralympic Record,Recorde Paralímpico,2
+AR,WR,WR,World Record,Recorde mundial,1
+AT,AF,AF,African Record,Recorde africano,3
+AT,AM,AM,American Record,Recorde americano,6
+AT,AS,AS,Asian Record,Recorde asiático,4
+AT,ER,ER,European Record,Recorde europeu,5
+AT,OC,OC,Oceania Record,Recorde da Oceania,7
+AT,PB,PB,Personal Best,Melhor marca pessoal,9
+AT,PR,PR,Paralympic Record,Recorde Paralímpico,2
+AT,RR,RR,Regional Record,Recorde regional,8
+AT,SB,SB,Seasonal Best,Melhor marca da temporada,10
+AT,WR,WR,World Record,Recorde mundial,1
+CF,PB,PB,Paralympic Best,Melhor marca Paralímpica,2
+CF,WB,WB,World Best,Melhor marca mundial,1
+CT,PR,PR,Paralympic Record,Recorde Paralímpico,2
+CT,WR,WR,World Record,Recorde mundial,1
+PO,PR,PR,Paralympic Record,Recorde Paralímpico,2
+PO,WR,WR,World Record,Recorde mundial,1
+RO,PB,PB,Paralympic Best,Melhor marca Paralímpica,2
+RO,WB,WB,World Best,Melhor marca mundial,1
+SH,FPR,EFPR,Equalled Final Paralympic Record,Recorde da final Paralímpica igualado,8
+SH,FPR,FPR,Final Paralympic Record,Recorde da final Paralímpica,7
+SH,FWR,EFWR,Equalled Final World Record,Recorde da final mundial igualado,4
+SH,FWR,FWR,Final World Record,Recorde da final mundial,3
+SH,PR,EPR,Equalled Paralympic Record,Recorde Paralímpico igualado,6
+SH,PR,PR,Paralympic Record,Recorde Paralímpico,5
+SH,WR,EWR,Equalled World Record,Recorde mundial igualado,2
+SH,WR,WR,World Record,Recorde mundial,1
+SW,AF,AF,African Record,Recorde africano,3
+SW,ALL,ALL,All Time Best Performers (Top 10),Melhores performances de todos os tempos,9
+SW,AM,AM,Americas Record,Recorde das Américas,4
+SW,AS,AS,Asian Record,Recorde asiático,5
+SW,ER,ER,European Record,Recorde europeu,6
+SW,OC,OC,Oceania Record,Recorde da Oceania,7
+SW,PR,PR,Paralympic Record,Recorde Paralímpico,2
+SW,SBP,SBP,2016 Best Performers (Top 10),Melhores performances de 2016,10
+SW,WR,WR,World Record,Recorde mundial,1
+SW,WRC,WRC,World Record Chronology (Last 10 WR),Cronologia dos recordes mundiais (dez úl,11

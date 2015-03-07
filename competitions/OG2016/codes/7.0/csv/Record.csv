@@ -1,0 +1,226 @@
+Id,Related Event,order,ENG Description,FRA Description,POR Description
+ARM0700000,ARM070,1,Men 72 Arrows 70m Round,"Tour de 70 m, 72 flèches - hommes","Rodada de 70m, 72 flechas - homens"
+ARM4700005,ARM470,2,Men 216 Arrows 70m Round,"Tour de 70 m, 216 flèches - hommes","Rodada de 70m, 216 flechas - homens"
+ARW0700000,ARW070,3,Women 72 Arrows 70m Round,"Tour de 70 m, 72 flèches - femmes","Rodada de 70m, 72 flechas - mulheres"
+ARW4700005,ARW470,4,Women 216 Arrows 70m Round,"Tour de 70 m, 216 flèches - femmes","Rodada de 70m, 216 flechas - mulheres"
+ATM001000,ATM001,1,Men's 100m,100 m - hommes,100m rasos masculino
+ATM002000,ATM002,2,Men's 200m,200 m - hommes,200m rasos masculino
+ATM004000,ATM004,3,Men's 400m,400 m - hommes,400m rasos masculino
+ATM008000,ATM008,4,Men's 800m,800 m - hommes,800m rasos masculino
+ATM012000,ATM012,5,Men's 110m Hurdles,110 m haies - hommes,110m com barreiras masculino
+ATM015000,ATM015,6,Men's 1500m,1 500 m - hommes,1.500m rasos masculino
+ATM033000,ATM033,7,Men's 3000m Steeplechase,3 000 m steeple - hommes,3.000m com obstáculos masculino
+ATM044000,ATM044,8,Men's 400m Hurdles,400 m haies - hommes,400m com barreiras masculino
+ATM050000,ATM050,9,Men's 5000m,5 000 m - hommes,5.000m rasos masculino
+ATM051000,ATM051,10,Men's Shot Put,Lancer de poids - hommes,Arremesso do peso masculino
+ATM052000,ATM052,11,Men's Discus Throw,Lancer de disque - hommes,Lançamento do disco masculino
+ATM053000,ATM053,12,Men's Javelin Throw,Lancer de javelot - hommes,Lançamento do dardo masculino
+ATM054000,ATM054,13,Men's Hammer Throw,Lancer de marteau - hommes,Lançamento do martelo masculino
+ATM061000,ATM061,14,Men's Long Jump,Saut en longueur - hommes,Salto em distância masculino
+ATM062000,ATM062,15,Men's Triple Jump,Triple saut - hommes,Salto triplo masculino 
+ATM071000,ATM071,16,Men's High Jump,Saut en hauteur - hommes,Salto em altura masculino
+ATM072000,ATM072,17,Men's Pole Vault,Saut à la perche - hommes,Salto com vara masculino
+ATM092000,ATM092,18,Men's 20km Race Walk,20 km marche - hommes,Marcha atlética 20km masculina
+ATM095000,ATM095,19,Men's 50km Race Walk,50 km marche - hommes,Marcha atlética 50km masculina
+ATM099000,ATM099,20,Men's Marathon,Marathon - hommes,Maratona masculina
+ATM100000,ATM100,21,"Men's 10,000m",10 000 m - hommes,10.000m rasos masculino
+ATM401000,ATM401,22,Men's 4 x 100m Relay,Relais 4 x 100 m - hommes,Revezamento 4x100m masculino
+ATM404000,ATM404,23,Men's 4 x 400m Relay,Relais 4 x 400 m - hommes,Revezamento 4x400m masculino
+ATM900000,ATM900,24,Men's Decathlon,Décathlon - hommes,Decatlo masculino
+ATM900A00,ATM900,25,Men's Decathlon 100m,"Décathlon - hommes, 100 m",Decatlo - 100m rasos masculino 
+ATM900B00,ATM900,26,Men's Decathlon Long Jump,"Décathlon - saut en longueur, hommes",Decatlo - salto em distância masculino
+ATM900C00,ATM900,27,Men's Decathlon Shot Put,"Décathlon - lancer de poids, hommes",Decatlo - arremesso do peso masculino
+ATM900D00,ATM900,28,Men's Decathlon High Jump,"Décathlon - saut en hauteur, hommes",Decatlo - salto em altura masculino
+ATM900E00,ATM900,29,Men's Decathlon 400m,"Décathlon - 400 m, hommes",Decatlo - 400m rasos masculino
+ATM900F00,ATM900,30,Men's Decathlon 110m Hurdles,"Décathlon - 110 m haies, hommes",Decatlo - 110m com barreiras masculino
+ATM900G00,ATM900,31,Men's Decathlon Discus Throw,"Décathlon - lancer de disque, hommes",Decatlo - lançamento do disco masculino
+ATM900H00,ATM900,32,Men's Decathlon Pole Vault,"Décathlon - saut à la perche, hommes",Decatlo - salto com vara masculino
+ATM900I00,ATM900,33,Men's Decathlon Javelin Throw,"Décathlon - lancer de javelot, hommes",Decatlo - lançamento do dardo masculino
+ATM900J00,ATM900,34,Men's Decathlon 1500m,"Décathlon - 1 500 m, hommes",Decatlo - 1.500m rasos masculino
+ATW001000,ATW001,35,Women's 100m,100 m - femmes,100m rasos feminino
+ATW002000,ATW002,36,Women's 200m,200 m - femmes,200m rasos feminino
+ATW004000,ATW004,37,Women's 400m,400 m - femmes,400m rasos feminino
+ATW008000,ATW008,38,Women's 800m,800 m - femmes,800m rasos feminino
+ATW011000,ATW011,39,Women's 100m Hurdles,100 m haies - femmes,100m com barreiras feminino
+ATW015000,ATW015,40,Women's 1500m,1 500 m - femmes,1.500m rasos feminino
+ATW033000,ATW033,41,Women's 3000m Steeplechase,3 000 m steeple - femmes,3.000m com obstáculos feminino
+ATW044000,ATW044,42,Women's 400m Hurdles,400 m haies - femmes,400m com barreiras feminino
+ATW050000,ATW050,43,Women's 5000m,5 000 m - femmes,5.000m rasos feminino
+ATW051000,ATW051,44,Women's Shot Put,Lancer de poids - femmes,Arremesso do peso feminino
+ATW052000,ATW052,45,Women's Discus Throw,Lancer de disque - femmes,Lançamento do disco feminino
+ATW053000,ATW053,46,Women's Javelin Throw,Lancer de javelot - femmes,Lançamento do dardo feminino
+ATW054000,ATW054,47,Women's Hammer Throw,Lancer de marteau - femmes,Lançamento do martelo feminino
+ATW061000,ATW061,48,Women's Long Jump,Saut en longueur - femmes,Salto em distância feminino
+ATW062000,ATW062,49,Women's Triple Jump,Triple saut - femmes,Salto triplo feminino
+ATW071000,ATW071,50,Women's High Jump,Saut en hauteur - femmes,Salto em altura feminino
+ATW072000,ATW072,51,Women's Pole Vault,Saut à la perche - femmes,Salto com vara feminino
+ATW092000,ATW092,52,Women's 20km Race Walk,20 km marche - femmes,Marcha atlética 20km feminina
+ATW099000,ATW099,53,Women's Marathon,Marathon - femmes,Maratona feminina
+ATW100000,ATW100,54,"Women's 10,000m",10 000 m - femmes,10.000m rasos feminino
+ATW401000,ATW401,55,Women's 4 x 100m Relay,Relais 4 x 100 m - femmes,Revezamento 4x100m feminino
+ATW404000,ATW404,56,Women's 4 x 400m Relay,Relais 4 x 400 m - femmes,Revezamento 4x400m feminino
+ATW700000,ATW700,57,Women's Heptathlon,Heptathlon - femmes,Heptatlo feminino
+ATW700A00,ATW700,58,Women's Heptathlon 100m Hurdles,"Heptathlon - 100 m haies, femmes",Heptatlo - 100m rasos feminino
+ATW700B00,ATW700,59,Women's Heptathlon High Jump,"Heptathlon - saut en hauteur, femmes",Heptatlo - salto em altura feminino
+ATW700C00,ATW700,60,Women's Heptathlon Shot Put,"Heptathlon - lancer de poids, femmes",Heptatlo - arremesso do peso feminino
+ATW700D00,ATW700,61,Women's Heptathlon 200m,"Heptathlon - 200 m, femmes",Heptatlo - 200m rasos feminino
+ATW700E00,ATW700,62,Women's Heptathlon Long Jump,"Heptathlon - saut en longueur, femmes",Heptatlo - salto em distância feminino
+ATW700F00,ATW700,63,Women's Heptathlon Javelin Throw,"Heptathlon - lancer de javelot, femmes",Heptatlo - lançamento do dardo feminino
+ATW700G00,ATW700,64,Women's Heptathlon 800m,"Heptathlon - 800 m, femmes",Heptatlo - 800m rasos feminino
+CFM111000,CFM111,7,Kayak Single (K1) 1000m Men,Kayak monoplace (K1) 1 000 m - hommes,Caiaque individual (K1) 1.000m masculino
+CFM112000,CFM112,4,Kayak Single (K1) 200m Men,Kayak monoplace (K1) 200 m - hommes,Caiaque individual (K1) 200m masculino
+CFM121000,CFM121,10,Kayak Double (K2) 1000m Men,Kayak biplace (K2) 1 000 m - hommes,Caiaque duplo (K2) 1.000m masculino
+CFM122000,CFM122,8,Kayak Double (K2) 200m Men,Kayak biplace (K2) 200 m - hommes,Caiaque duplo (K2) 200m masculino
+CFM141000,CFM141,12,Kayak Four (K4) 1000m Men,Kayak à quatre (K4) 1 000 m - hommes,Caiaque quádruplo (K4) 1.000m masculino
+CFM211000,CFM211,2,Canoe Single (C1) 1000m Men,Canoë monoplace (C1) 1 000 m - hommes,Canoa individual (C1) 1.000m masculina
+CFM212000,CFM212,1,Canoe Single (C1) 200m Men,Canoë monoplace (C1) 200 m - hommes,Canoa individual (C1) 200m masculina
+CFM221000,CFM221,3,Canoe Double (C2) 1000m Men,Canoë biplace (C2) 1 000 m - hommes,Canoa dupla (C2) 1.000m masculina
+CFW112000,CFW112,5,Kayak Single (K1) 200m Women,Kayak monoplace (K1) 200 m - femmes,Caiaque individual (K1) 200m feminino
+CFW115000,CFW115,6,Kayak Single (K1) 500m Women,Kayak monoplace (K1) 500 m - femmes,Caiaque individual (K1) 500m feminino
+CFW125000,CFW125,9,Kayak Double (K2) 500m Women,Kayak biplace (K2) 500 m - femmes,Caiaque duplo (K2) 500m feminino
+CFW145000,CFW145,11,Kayak Four (K4) 500m Women,Kayak à quatre (K4) 500 m - femmes,Caiaque quádruplo (K4) 500m feminino
+CTM001900,CTM001,1,Men's 200m Flying Start,Vitesse départ lancé - hommes,Velocidade masculina
+CTM010300,CTM010,2,Men's 1km Time Trial,"Hom., contre-la-montre (1 km)","Omnium masculino, contrarrelógio de 1km"
+CTM010500,CTM010,3,Men's 4km Individual Pursuit,"Hom., poursuite ind. (4 km)",Perseguição individual masculina (4km)
+CTM401000,CTM401,4,Men's Team Sprint,Vitesse par équipes - hommes,Velocidade por equipes masculina
+CTM402000,CTM402,5,Men's Team Pursuit,Poursuite par équipes - hommes,Perseguição por equipes masculina
+CTW001900,CTW001,6,Women's 200m Flying Start,Vitesse départ lancé - femmes,Velocidade feminina
+CTW010300,CTW010,7,Women's 500m Time Trial,"Fem., contre-la-montre (500 m)","Omnium feminino, contrarrelógio de 500m"
+CTW010500,CTW010,8,Women's 3km Individual Pursuit,"Fem., poursuite ind. (3 km)",Perseguição individual feminina (3km)
+CTW401000,CTW401,9,Women's Team Sprint,Vitesse par équipes - femmes,Velocidade por equipes feminina
+CTW402000,CTW402,10,Women's Team Pursuit,Poursuite par équipes - femmes,Perseguição por equipes feminina
+FEM001000,FEM001,1,Men's Foil Individual,Fleuret individuel - hommes,Florete individual masculino
+FEM002000,FEM002,2,Men's Épée Individual,Épée individuelle - hommes,Espada individual masculina
+FEM003000,FEM003,3,Men's Sabre Individual,Sabre individuel - hommes,Sabre individual masculino
+FEM401000,FEM401,4,Men's Foil Team,Fleuret par équipes - hommes,Florete por equipes masculino
+FEM402000,FEM402,5,Men's Épée Team,Épée par équipes - hommes,Espada por equipes masculina
+FEW001000,FEW001,6,Women's Foil Individual,Fleuret individuel - femmes,Florete individual feminino
+FEW002000,FEW002,7,Women's Épée Individual,Épée individuelle - femmes,Espada individual feminina
+FEW003000,FEW003,8,Women's Sabre Individual,Sabre individuel - femmes,Sabre individual feminino
+FEW402000,FEW402,9,Women's Épée Team,Épée par équipes - femmes,Espada por equipes feminino
+FEW403000,FEW403,10,Women's Sabre Team,Sabre par équipes - femmes,Sabre por equipes feminino
+MPM0010000,MPM001,2,Men's Overall Points,Hommes global,Masculino geral
+MPM001A000,MPM001,4,Men's Fencing Record,Épreuve d'escrime - hommes,Prova de esgrima masculina
+MPM001B001,MPM001,6,Men's Swimming 25m Pool
+MPM001B002,MPM001,8,Men's Swimming 50m Pool
+MPM001D000,MPM001,10,Men's Combined Running/Shooting Record,Épreuve combinée - hommes,Prova combinada masculina
+MPW0010000,MPW001,1,Women's Overall Points,Femmes global,Feminino geral
+MPW001A000,MPW001,3,Women's Fencing Record,Épreuve d'escrime - femmes,Prova de esgrima feminino
+MPW001B001,MPW001,5,Women's Swimming 25m Pool
+MPW001B002,MPW001,7,Women's Swimming 50m Pool
+MPW001D000,MPW001,9,Women's Combined Running/Shooting Record,Épreuve combinée - femmes,Prova combinada - feminino
+ROM012000,ROM012,1,Men's Single Sculls,"Un rameur, skiff - hommes",Single-skiff masculino
+ROM021000,ROM021,3,Men's Pair,Deux en pointe - hommes,Dois sem masculino
+ROM022000,ROM022,5,Men's Double Sculls,Deux en couple - hommes,Double-skiff masculino
+ROM041000,ROM041,7,Men's Four,Quatre en pointe - hommes,Quatro sem masculino
+ROM042000,ROM042,8,Men's Quadruple Sculls,Quatre en couple - hommes,Four-skiff masculino
+ROM083000,ROM083,10,Men's Eight,Huit en pointe - hommes,Oito com masculino
+ROM122000,ROM122,12,Lightweight Men's Double Sculls,Deux en couple poids légers - hommes,Double-skiff peso leve masculino
+ROM141000,ROM141,14,Lightweight Men's Four,Quatre en pointe poids légers - hommes,Quatro sem peso leve masculino
+ROW012000,ROW012,2,Women's Single Sculls,"Un rameur, skiff - femmes",Single-skiff feminino
+ROW021000,ROW021,4,Women's Pair,Deux en pointe - femmes,Dois sem feminino
+ROW022000,ROW022,6,Women's Double Sculls,Deux en couple - femmes,Double-skiff feminino
+ROW042000,ROW042,9,Women's Quadruple Sculls,Quatre en couple - femmes,Four-skiff feminino
+ROW083000,ROW083,11,Women's Eight,Huit en pointe - femmes,Oito com feminino
+ROW122000,ROW122,13,Lightweight Women's Double Sculls,Deux en couple poids légers - femmes,Double-skiff peso leve feminino
+SHM101000,SHM101,5,10m Air Rifle Men,10 m rifle à air - hommes,Carabina de ar 10m masculina
+SHM101100,SHM101,6,10m Air Rifle Men's Finals,"10 m rifle à air - hommes, finale","Carabina de ar 10m masculina, finais"
+SHM103000,SHM103,3,50m Rifle Prone Men,50 m rifle couché - hommes,Carabina deitado 50m masculina
+SHM103100,SHM103,4,50m Rifle Prone Men's Finals,"50 m rifle couché - hommes, finale","Carabina deitado 50m masculina, finais"
+SHM104000,SHM104,1,50m Rifle 3 Positions Men,50 m rifle 3 positions - hommes,Carabina três posições 50m masculina
+SHM104100,SHM104,2,50m Rifle 3 Positions Men's Finals,"50 m rifle 3 positions - hommes, finale","Carabina três posições 50m masculina, fi"
+SHM201000,SHM201,7,50m Pistol Men,50 m pistolet - hommes,Pistola 50m masculina
+SHM201100,SHM201,8,50m Pistol Men's Finals,"50 m pistolet - hommes, finale","Pistola 50m masculina, finais"
+SHM202000,SHM202,9,25m Rapid Fire Pistol Men,25 m pistolet feu rapide - hommes,Pistola de tiro rápido 25m masculina
+SHM202100,SHM202,10,25m Rapid Fire Pistol Men's Finals,"25 m pistolet feu rapide - hom., finale","Pistola de tiro rápido 25m masculina, fi"
+SHM203000,SHM203,11,10m Air Pistol Men,10 m pistolet à air - hommes,Pistola de ar 10m masculina
+SHM203100,SHM203,12,10m Air Pistol Men's Finals,"10 m pistolet à air - hommes, finale","Pistola de ar 10m masculina, finais"
+SHM401000,SHM401,13,Trap Men,Fosse olympique - hommes,Fossa olímpica masculina
+SHM402000,SHM402,14,Double Trap Men,Double trap - hommes,Fossa double masculina
+SHM403000,SHM403,15,Skeet Men,Skeet - hommes, Skeet masculino
+SHW101000,SHW101,18,10m Air Rifle Women,10 m rifle à air - femmes,Carabina de ar 10m feminina
+SHW101100,SHW101,19,10m Air Rifle Women's Finals,"10 m rifle à air - femmes, finale","Carabina de ar 10m feminina, finais"
+SHW104000,SHW104,16,50m Rifle 3 Positions Women,50 m rifle 3 positions - femmes,Carabina três posições 50m feminina
+SHW104100,SHW104,17,50m Rifle 3 Positions Women's Finals,"50 m rifle 3 positions - femmes, finale","Carabina três posições 50m feminina, fin"
+SHW203000,SHW203,21,10m Air Pistol Women,10 m pistolet à air - femmes,Pistola de ar 10m feminina
+SHW203100,SHW203,22,10m Air Pistol Women's Finals,"10 m pistolet à air - femmes, finale","Pistola de ar 10m feminina, final"
+SHW204000,SHW204,20,25m Pistol Women,25 m pistolet - femmes,Pistola 25m feminina
+SHW401000,SHW401,23,Trap Women,Trap - femmes,Fossa olímpica feminina
+SHW403000,SHW403,24,Skeet Women,Skeet - femmes,Skeet feminino
+SWM010000,SWM010,1,Men's 50m Freestyle,50 m nage libre - hommes,50m livre masculino 
+SWM011000,SWM011,2,Men's 100m Freestyle,100 m nage libre - hommes,100m livre masculino
+SWM012000,SWM012,3,Men's 200m Freestyle,200 m nage libre - hommes,200m livre masculino
+SWM014000,SWM014,4,Men's 400m Freestyle,400 m nage libre - hommes,400m livre masculino
+SWM015000,SWM015,5,Men's 1500m Freestyle,1 500 m nage libre - hommes,1.500m livre masculino
+SWM021000,SWM021,10,Men's 100m Butterfly,100 m papillon - hommes,100m borboleta masculino
+SWM022000,SWM022,11,Men's 200m Butterfly,200 m papillon - hommes,200m borboleta masculino
+SWM031000,SWM031,8,Men's 100m Breaststroke,100 m brasse - hommes,100m peito masculino
+SWM032000,SWM032,9,Men's 200m Breaststroke,200 m brasse - hommes,200m peito masculino
+SWM041000,SWM041,6,Men's 100m Backstroke,100 m dos - hommes,100m costas masculino
+SWM042000,SWM042,7,Men's 200m Backstroke,200 m dos - hommes,200m costas masculino
+SWM052000,SWM052,12,Men's 200m Individual Medley,200 m quatre nages individuel - hommes,200m medley masculino
+SWM054000,SWM054,13,Men's 400m Individual Medley,400 m quatre nages individuel - hommes,400m medley masculino
+SWM411000,SWM411,14,Men's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - hommes,Revezamento 4x100m livre masculino
+SWM412000,SWM412,15,Men's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - hommes,Revezamento 4x200m livre masculino
+SWM451000,SWM451,16,Men's 4 x 100m Medley Relay,Relais 4x100 m quatre nages - hommes,Revezamento 4x100m medley masculino
+SWW010000,SWW010,18,Women's 50m Freestyle,50 m nage libre - femmes,50m livre feminino
+SWW011000,SWW011,19,Women's 100m Freestyle,100 m nage libre - femmes,100m livre feminino
+SWW012000,SWW012,20,Women's 200m Freestyle,200 m nage libre - femmes,200m livre feminino
+SWW014000,SWW014,21,Women's 400m Freestyle,400 m nage libre - femmes,400m livre feminino
+SWW018000,SWW018,22,Women's 800m Freestyle,800 m nage libre - femmes,800m livre feminino
+SWW021000,SWW021,27,Women's 100m Butterfly,100 m papillon - femmes,100m borboleta feminino
+SWW022000,SWW022,28,Women's 200m Butterfly,200 m papillon - femmes,200m borboleta feminino
+SWW031000,SWW031,25,Women's 100m Breaststroke,100 m brasse - femmes,100m peito feminino
+SWW032000,SWW032,26,Women's 200m Breaststroke,200 m brasse - femmes,200m peito feminino
+SWW041000,SWW041,23,Women's 100m Backstroke,100 m dos - femmes,100m costas feminino
+SWW042000,SWW042,24,Women's 200m Backstroke,200 m dos - femmes,200m costas feminino
+SWW052000,SWW052,29,Women's 200m Individual Medley,200 m 4 nages individuel - femmes,200m medley feminino
+SWW054000,SWW054,30,Women's 400m Individual Medley,400 m 4 nages individuel - femmes,400m medley feminino
+SWW411000,SWW411,31,Women's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - femmes,Revezamento 4x100m livre feminino
+SWW412000,SWW412,32,Women's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - femmes,Revezamento 4x200m livre feminino
+SWW451000,SWW451,33,Women's 4 x 100m Medley Relay,Relais 4x100 m quatre nages - femmes,Revezamento 4x100m medley feminino
+WLM005000,WLM005,42,Men's 105kg,Jusqu'à 105 kg - hommes,Até 105kg masculino
+WLM025000,WLM025,45,Men's +105kg,+105 kg - hommes,Acima de 105kg masculino
+WLM056000,WLM056,24,Men's 56kg,Jusqu'à 56 kg - hommes,Até 56kg masculino
+WLM062000,WLM062,27,Men's 62kg,Jusqu'à 62 kg - hommes,Até 62kg masculino
+WLM069000,WLM069,30,Men's 69kg,Jusqu'à 69 kg - hommes,Até 69kg masculino
+WLM077000,WLM077,33,Men's 77kg,Jusqu'à 77 kg - hommes,Até 77kg masculino
+WLM085000,WLM085,36,Men's 85kg,Jusqu'à 85 kg - hommes,Até 85kg masculino
+WLM094000,WLM094,39,Men's 94kg,Jusqu'à 94 kg - hommes,Até 94kg masculino
+WLM105000,WLM005,40,Men's 105kg - Snatch,"Jusqu'à 105 kg - hommes, arraché","Até 105kg masculino, arranco"
+WLM125000,WLM025,43,Men's +105kg - Snatch,"+105 kg - hommes, arraché","Acima de 105kg masculino, arranco"
+WLM156000,WLM056,22,Men's 56kg - Snatch,"Jusqu'à 56 kg - hommes, arraché","Até 56kg masculino, arranco"
+WLM162000,WLM062,25,Men's 62kg - Snatch,"Jusqu'à 62 kg - hommes, arraché","Até 62kg masculino, arranco"
+WLM169000,WLM069,28,Men's 69kg - Snatch,"Jusqu'à 69 kg - hommes, arraché","Até 69kg masculino, arranco"
+WLM177000,WLM077,31,Men's 77kg - Snatch,"Jusqu'à 77 kg - hommes, arraché","Até 77kg masculino, arranco"
+WLM185000,WLM085,34,Men's 85kg - Snatch,"Jusqu'à 85 kg - hommes, arraché","Até 85kg masculino, arranco"
+WLM194000,WLM094,37,Men's 94kg - Snatch,"Jusqu'à 94 kg - hommes, arraché","Até 94kg masculino, arranco"
+WLM205000,WLM005,41,Men's 105kg - Clean & Jerk,"Jusqu'à 105 kg - hommes, épaulé-jeté","Até 105kg masculino, arremesso"
+WLM225000,WLM025,44,Men's +105kg - Clean & Jerk,"+105 kg - hommes, épaulé-jeté","Acima de 105kg masculino, arremesso"
+WLM256000,WLM056,23,Men's 56kg - Clean & Jerk,"Jusqu'à 56 kg - hommes, épaulé-jeté","Até 56kg masculino, arremesso"
+WLM262000,WLM062,26,Men's 62kg - Clean & Jerk,"Jusqu'à 62 kg - hommes, épaulé-jeté","Até 62kg masculino, arremesso"
+WLM269000,WLM069,29,Men's 69kg - Clean & Jerk,"Jusqu'à 69 kg - hommes, épaulé-jeté","Até 69kg masculino, arremesso"
+WLM277000,WLM077,32,Men's 77kg - Clean & Jerk,"Jusqu'à 77 kg - hommes, épaulé-jeté","Até 77kg masculino, arremesso"
+WLM285000,WLM085,35,Men's 85kg - Clean & Jerk,"Jusqu'à 85 kg - hommes, épaulé-jeté","Até 85kg masculino, arremesso"
+WLM294000,WLM094,38,Men's 94kg - Clean & Jerk,"Jusqu'à 94 kg - hommes, épaulé-jeté","Até 94kg masculino, arremesso"
+WLW026000,WLW026,21,Women's +75kg,+75 kg - femmes,Acima de 75kg feminino
+WLW048000,WLW048,3,Women's 48kg,Jusqu'à 48 kg - femmes,Até 48kg feminino
+WLW053000,WLW053,6,Women's 53kg,Jusqu'à 53 kg - femmes,Até 53kg feminino
+WLW058000,WLW058,9,Women's 58kg,Jusqu'à 58 kg - femmes,Até 58kg feminino
+WLW063000,WLW063,12,Women's 63kg,Jusqu'à 63 kg - femmes,Até 63kg feminino
+WLW069000,WLW069,15,Women's 69kg,Jusqu'à 69 kg - femmes,Até 69kg feminino
+WLW075000,WLW075,18,Women's 75kg,Jusqu'à 75 kg - femmes,Até 75kg feminino
+WLW126000,WLW026,19,Women's +75kg - Snatch,"+75 kg - femmes, arraché","Acima de 75kg feminino, arranco"
+WLW148000,WLW048,1,Women's 48kg - Snatch,"Jusqu'à 48 kg - femmes, arraché","Até 48kg feminino, arranco"
+WLW153000,WLW053,4,Women's 53kg - Snatch,"Jusqu'à 53 kg - femmes, arraché","Até 53kg feminino, arranco"
+WLW158000,WLW058,7,Women's 58kg - Snatch,"Jusqu'à 58 kg - femmes, arraché","Até 58kg feminino, arranco"
+WLW163000,WLW063,10,Women's 63kg - Snatch,"Jusqu'à 63 kg - femmes, arraché","Até 63kg feminino, arranco"
+WLW169000,WLW069,13,Women's 69kg - Snatch,"Jusqu'à 69 kg - femmes, arraché","Até 69kg feminino, arranco"
+WLW175000,WLW075,16,Women's 75kg - Snatch,"Jusqu'à 75 kg - femmes, arraché","Até 75kg feminino, arranco"
+WLW226000,WLW026,20,Women's +75kg - Clean & Jerk,"+75 kg - femmes, épaulé-jeté","Acima de 75kg feminino, arremesso"
+WLW248000,WLW048,2,Women's 48kg - Clean & Jerk,"Jusqu'à 48 kg - femmes, épaulé-jeté","Até 48kg feminino, arremesso"
+WLW253000,WLW053,5,Women's 53kg - Clean & Jerk,"Jusqu'à 53 kg - femmes, épaulé-jeté","Até 53kg feminino, arremesso"
+WLW258000,WLW058,8,Women's 58kg - Clean & Jerk,"Jusqu'à 58 kg - femmes, épaulé-jeté","Até 58kg feminino, arremesso"
+WLW263000,WLW063,11,Women's 63kg - Clean & Jerk,"Jusqu'à 63 kg - femmes, épaulé-jeté","Até 63kg feminino, arremesso"
+WLW269000,WLW069,14,Women's 69kg - Clean & Jerk,"Jusqu'à 69 kg - femmes, épaulé-jeté","Até 69kg feminino, arremesso"
+WLW275000,WLW075,17,Women's 75kg - Clean & Jerk,"Jusqu'à 75 kg - femmes, épaulé-jeté","Até 75kg feminino, arremesso"

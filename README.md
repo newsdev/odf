@@ -14,7 +14,9 @@ These codes are delivered via `.xlsx` file through `odf.olympictech.org`. Since 
 
 For example, the json version of v7.0 of the codes for the Rio Olympics can be found at `competitions/OG2016/codes/7.0/json`.
 
-These directories contain files that are a direct mapping to the tabs found in the Common Codes and Sport Codes spreadsheets, and named identically but with any `ODF`, `GL`, `OG` or `PG` prefix stripped for simplicity. For example, the Country codes from the tab called `ODF_GL_Country` are exported to `Country.csv` and `Country.json`.
+These directories contain files that are a direct mapping to the tabs found in the Common Codes and Sport Codes spreadsheets, and named identically but with any `ODF`, `GL`, `OG` or `PG` prefix stripped for simplicity. For example, the Country codes from the tab called `ODF_GL_Country` are exported to `Country.csv` and `Country.json`. The Sport-specific codes are stored as `SportCodes`.
+
+All codes are also compiled into a single file, `all.json`, for bulk consumption.
 
 #### Updating the codes
 

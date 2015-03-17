@@ -34,11 +34,11 @@ class Loader
 
       sheet.sheet_data[0..-1].each_with_index do |row, idx|
         begin
-          next unless row && row.cells.size > 0
+          next unless row && row.cells.size > 0 && row.cells.first
           # Skip rows that are shaded red
           next if row.cells.first.fill_color.downcase == 'ffff0000'
 
-          values = row.cells.map { |i| i.value if i }
+          values = row.cells.map { |i| i ? i.value : nil }
 
           if sport_codes
             values[1].gsub!(/^@/, '')
@@ -67,17 +67,19 @@ class Loader
     all_json = File.exist?(all_json_path) ? JSON.load(File.read(all_json_path)) : {}
 
     @data.each do |name, values|
+      headers = values.shift
+
       # CSV
       csv_path = output_path(name, 'csv')
       CSV.open(csv_path, 'w') do |csv|
-        values.each { |row| csv << row }
+        csv << headers
+        values.each { |row| csv << row.dup.fill(nil, row.length, headers.length - row.length) }
       end
       puts "Wrote #{csv_path}"
 
       # JSON
       json_path = output_path(name, 'json')
-      headers = values[0]
-      hash_values = values[1..-1].map do |row|
+      hash_values = values.map do |row|
         Hash[headers.zip(row)]
       end
       File.write(json_path, JSON.dump(hash_values))

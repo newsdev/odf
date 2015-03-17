@@ -1,27 +1,27 @@
 Discipline,Gender,Event,phase,type,ENG Description,FRA Description,POR Description,ENG longdescription,FRA longdescription,POR longdescription,ENG phase Description,FRA phase Description,POR phase Description
-AF,0,CMD,0,8,Comedy,Comedy,Comédia,Comedy,Comedy,Comédia
-AF,0,CRC,0,8,Circus / Street Arts,Circus / Street Arts,Geral,Circus / Street Arts,Circus / Street Arts,Circo / Artes de Rua
-AF,0,CUL,0,8,General,Général,Geral,General,Général,Geral
-AF,0,CUL,1,8,General,Général,Geral,General,Général,Geral
-AF,0,CUL,2,8,General,Général,Geral,General,Général,Geral
-AF,0,DGT,0,8,Digital / Film / Video,Digital / Film / Video,Geral,Digital / Film / Video,Digital / Film / Video,Arte digital / Filme / Vídeo
-AF,0,DNC,0,8,Dance,Dance,Circo / Artes de Rua,Dance,Dance,Dança
-AF,0,LTR,0,8,Literary Arts,Literary Arts,Arte digital / Filme / Vídeo,Literary Arts,Literary Arts,Arte Literária
-AF,0,MSC,0,8,Music,Music,Dança,Music,Music,Música
-AF,0,SPO,0,8,General,Général,Geral,General,Général,Geral
-AF,0,THT,0,8,Theatre,Theatre,Geral,Theatre,Theatre,Teatro
-AF,0,VSL,0,8,Visual Arts,Visual Arts,Música,Visual Arts,Visual Arts,Artes Visuais
-AF,0,VSL,1,8,Visual Arts,Visual Arts,Música,Visual Arts,Visual Arts,Artes Visuais
-AQ,0,000,0,8,Aquatics Sport,Natation,Desportos Aquáticos,Aquatics Sport,Natation,Desportos Aquáticos
-AR,0,000,0,8,Archery,Tir à l'arc,Tiro com arco,Archery,Tir à l'arc,Tiro com arco
-AR,0,000,N,7,Archery - Draw,Tir a l'arc - tirage au sort,Tiro com arco - sorteio,Archery - Draw,Tir a l'arc - tirage au sort,Tiro com arco - sorteio
-AR,0,000,Q,4,Archery Team Captains Meeting,Tir à l'arc - réunion des chefs d'équipe,Tiro com arco - reunião chefes de equipe,Archery Team Captains Meeting,Tir à l'arc - réunion des chefs d'équipe,Tiro com arco - reunião dos chefes de equipe
-AR,0,000,Y,8,Archery Daily Schedule,Tir à l'arc - calendrier par jour,"Tiro com arco, programação diária",Archery Daily Schedule,Tir à l'arc - calendrier par jour,"Tiro com arco, programação diária"
-AR,0,070,Z,8,Archery Individual - Session,Tir à l'arc - épreuve individuelle,Tiro com arco individual - sessão,Archery Individual - Session,Tir à l'arc - épreuve individuelle,Tiro com arco individual - sessão
-AR,0,470,Z,8,Archery Team - Session,Tir à l'arc - épreuve par équipes,Tiro com arco por equipes - sessão,Archery Team - Session,Tir à l'arc - épreuve par équipes,Tiro com arco por equipes - sessão
-AR,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo
-AR,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-AR,M,070,0,8,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina
+AF,0,CMD,0,8,Comedy,Comedy,Comédia,Comedy,Comedy,Comédia,,,
+AF,0,CRC,0,8,Circus / Street Arts,Circus / Street Arts,Geral,Circus / Street Arts,Circus / Street Arts,Circo / Artes de Rua,,,
+AF,0,CUL,0,8,General,Général,Geral,General,Général,Geral,,,
+AF,0,CUL,1,8,General,Général,Geral,General,Général,Geral,,,
+AF,0,CUL,2,8,General,Général,Geral,General,Général,Geral,,,
+AF,0,DGT,0,8,Digital / Film / Video,Digital / Film / Video,Geral,Digital / Film / Video,Digital / Film / Video,Arte digital / Filme / Vídeo,,,
+AF,0,DNC,0,8,Dance,Dance,Circo / Artes de Rua,Dance,Dance,Dança,,,
+AF,0,LTR,0,8,Literary Arts,Literary Arts,Arte digital / Filme / Vídeo,Literary Arts,Literary Arts,Arte Literária,,,
+AF,0,MSC,0,8,Music,Music,Dança,Music,Music,Música,,,
+AF,0,SPO,0,8,General,Général,Geral,General,Général,Geral,,,
+AF,0,THT,0,8,Theatre,Theatre,Geral,Theatre,Theatre,Teatro,,,
+AF,0,VSL,0,8,Visual Arts,Visual Arts,Música,Visual Arts,Visual Arts,Artes Visuais,,,
+AF,0,VSL,1,8,Visual Arts,Visual Arts,Música,Visual Arts,Visual Arts,Artes Visuais,,,
+AQ,0,000,0,8,Aquatics Sport,Natation,Desportos Aquáticos,Aquatics Sport,Natation,Desportos Aquáticos,,,
+AR,0,000,0,8,Archery,Tir à l'arc,Tiro com arco,Archery,Tir à l'arc,Tiro com arco,,,
+AR,0,000,N,7,Archery - Draw,Tir a l'arc - tirage au sort,Tiro com arco - sorteio,Archery - Draw,Tir a l'arc - tirage au sort,Tiro com arco - sorteio,,,
+AR,0,000,Q,4,Archery Team Captains Meeting,Tir à l'arc - réunion des chefs d'équipe,Tiro com arco - reunião chefes de equipe,Archery Team Captains Meeting,Tir à l'arc - réunion des chefs d'équipe,Tiro com arco - reunião dos chefes de equipe,,,
+AR,0,000,Y,8,Archery Daily Schedule,Tir à l'arc - calendrier par jour,"Tiro com arco, programação diária",Archery Daily Schedule,Tir à l'arc - calendrier par jour,"Tiro com arco, programação diária",,,
+AR,0,070,Z,8,Archery Individual - Session,Tir à l'arc - épreuve individuelle,Tiro com arco individual - sessão,Archery Individual - Session,Tir à l'arc - épreuve individuelle,Tiro com arco individual - sessão,,,
+AR,0,470,Z,8,Archery Team - Session,Tir à l'arc - épreuve par équipes,Tiro com arco por equipes - sessão,Archery Team - Session,Tir à l'arc - épreuve par équipes,Tiro com arco por equipes - sessão,,,
+AR,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,,,
+AR,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+AR,M,070,0,8,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,,,
 AR,M,070,1,3,Men's Individual Finals,"Ép. ind. - hommes, finales","Competição individual masculina, finais",Men's Individual Finals,"Épreuve individuelle - hommes, finales","Competição individual masculina, finais",Finals,Finales,Finais
 AR,M,070,2,3,Men's Individual Semifinals,"Ép. ind. - hommes, demi-finales","Competição individual masculina, 1/2",Men's Individual Semifinals,"Épreuve individuelle - hommes, demi-finales","Competição individual masculina, semifinais",Semifinals,Demi-finales,Semifinais
 AR,M,070,3,3,Men's Individual Quarterfinals,"Ép. ind. - hommes, 1/4 finale","Competição individual masculina, quartas",Men's Individual Quarterfinals,"Épreuve individuelle - hommes, quarts de finale","Competição individual masculina, quartas",Quarterfinals,Quarts de finale,Quartas
@@ -54,13 +54,13 @@ AR,W,470,3,3,Women's Team Quarterfinals,"Ép. équipes - femmes, quarts de final
 AR,W,470,4,3,Women's Team 1/8 Eliminations,"Ép. équipes - fem., éliminatoires (1/8)","Competição por equipes feminina, oitavas",Women's Team 1/8 Eliminations,"Épreuve équipes - femmes, éliminatoires (1/8 finale)","Competição por equipes feminina, oitavas",1/8 Eliminations,Éliminatoires (8e de finale),Oitavas
 AR,W,470,9,3,Women's Team Ranking Round,"Ép. équipes - femmes, classement","Equipes feminina, classificatório",Women's Team Ranking Round,"Épreuve par équipes - femmes, tour de classement","Competição por equipes feminina, fase de classificação",Ranking Round,Tour de classement,Fase de classificação
 AR,W,470,M,6,Women's Team Victory Ceremony,"Ép. équipes - femmes, remise médailles","Equipes feminina, cer. premiação",Women's Team Victory Ceremony,"Épreuve par équipes - femmes, cérémonie de remise des médailles","Competição por equipes feminina, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-AT,0,000,0,8,Athletics,Athlétisme,Atletismo,Athletics,Athlétisme,Atletismo
-AT,0,000,Y,8,Athletics Daily Schedule,Athlétisme - calendrier par jour,"Atletismo, programação diária",Athletics Daily Schedule,Athlétisme - calendrier par jour,"Atletismo, programação diária"
-AT,0,OLS,0,8,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico
-AT,0,PON,0,8,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal
-AT,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo
-AT,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-AT,M,001,0,8,Men's 100m,100 m - hommes,100m rasos masculino,Men's 100m,100 m - hommes,100m rasos masculino
+AT,0,000,0,8,Athletics,Athlétisme,Atletismo,Athletics,Athlétisme,Atletismo,,,
+AT,0,000,Y,8,Athletics Daily Schedule,Athlétisme - calendrier par jour,"Atletismo, programação diária",Athletics Daily Schedule,Athlétisme - calendrier par jour,"Atletismo, programação diária",,,
+AT,0,OLS,0,8,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,,,
+AT,0,PON,0,8,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,,,
+AT,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,,,
+AT,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+AT,M,001,0,8,Men's 100m,100 m - hommes,100m rasos masculino,Men's 100m,100 m - hommes,100m rasos masculino,,,
 AT,M,001,1,3,Men's 100m Final,"100 m - hommes, finale","100m rasos masculino, final",Men's 100m Final,"100 m - hommes, finale","100m rasos masculino, final",Final,Finale,Final
 AT,M,001,2,3,Men's 100m Semifinals,"100 m - hommes, demi-finales","100m rasos masculino, semifinais",Men's 100m Semifinals,"100 m - hommes, demi-finales","100m rasos masculino, semifinais",Semifinals,Demi-finales,Semifinais
 AT,M,001,9,3,Men's 100m Round 1,"100 m - hommes, 1er tour","100m rasos masculino, primeira fase ",Men's 100m Round 1,"100 m - hommes, 1er tour","100m rasos masculino, primeira fase ",Round 1,1er tour,Primeira fase 
@@ -320,15 +320,15 @@ AT,W,700,F,3,Women's Heptathlon Javelin Throw,"Heptathlon - lancer de javelot, f
 AT,W,700,G,3,Women's Heptathlon 800m,"Heptathlon - 800 m, femmes",Heptatlo - 800m rasos feminino,Women's Heptathlon 800m,"Heptathlon - 800 m, femmes",Heptatlo - 800m rasos feminino,800m,800 m,800m
 AT,W,700,M,6,Women's Heptathlon Victory Ceremony,"Heptathlon - femmes, remise médailles",Heptatlo - cer. premiação,Women's Heptathlon Victory Ceremony,"Heptathlon - femmes, cérémonie de remise des médailles",Heptatlo - cerimônia de entrega das medalhas,Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
 AT,W,700,N,7,Women's Heptathlon - Draw,"Heptathlon - femmes, tirage au sort",Heptatlo - sorteio,Women's Heptathlon - Draw,"Heptathlon - femmes, tirage au sort",Heptatlo - sorteio,Draw,Tirage au sort,Sorteio
-BD,0,000,0,8,Badminton,Badminton,Badminton,Badminton,Badminton,Badminton
-BD,0,000,N,7,Badminton Draw,Badminton - tirage au sort,Badminton - sorteio,Badminton Draw,Badminton - tirage au sort,Badminton - sorteio
-BD,0,000,Q,4,Badminton Team Managers Meetings,Badminton - réunion directeurs d'équipe,Badminton - réunion directeurs d'équipe,Badminton Team Managers Meetings,Badminton - réunion des directeurs d'équipe,Badminton - reunião dos chefes de equipe
-BD,0,000,U,3,Badminton Session Schedules,Calendriers des sessions de badminton,Calendários das sessões de badminton,Badminton Session Schedules,Calendriers des sessions de badminton,Calendários das sessões de badminton
-BD,0,000,Y,8,Badminton Daily Schedule,Badminton - calendrier par jour,"Badminton, programação diária",Badminton Daily Schedule,Badminton - calendrier par jour,"Badminton, programação diária"
-BD,0,000,Z,8,Badminton - Session,Badminton - session,Badminton - sessão,Badminton - Session,Badminton - session,Badminton - sessão
-BD,0,RC4,0,8,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4
-BD,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-BD,M,001,0,8,Men's Singles,Simple hommes,Simples masculino,Men's Singles,Simple hommes,Simples masculino
+BD,0,000,0,8,Badminton,Badminton,Badminton,Badminton,Badminton,Badminton,,,
+BD,0,000,N,7,Badminton Draw,Badminton - tirage au sort,Badminton - sorteio,Badminton Draw,Badminton - tirage au sort,Badminton - sorteio,,,
+BD,0,000,Q,4,Badminton Team Managers Meetings,Badminton - réunion directeurs d'équipe,Badminton - réunion directeurs d'équipe,Badminton Team Managers Meetings,Badminton - réunion des directeurs d'équipe,Badminton - reunião dos chefes de equipe,,,
+BD,0,000,U,3,Badminton Session Schedules,Calendriers des sessions de badminton,Calendários das sessões de badminton,Badminton Session Schedules,Calendriers des sessions de badminton,Calendários das sessões de badminton,,,
+BD,0,000,Y,8,Badminton Daily Schedule,Badminton - calendrier par jour,"Badminton, programação diária",Badminton Daily Schedule,Badminton - calendrier par jour,"Badminton, programação diária",,,
+BD,0,000,Z,8,Badminton - Session,Badminton - session,Badminton - sessão,Badminton - Session,Badminton - session,Badminton - sessão,,,
+BD,0,RC4,0,8,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,,,
+BD,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+BD,M,001,0,8,Men's Singles,Simple hommes,Simples masculino,Men's Singles,Simple hommes,Simples masculino,,,
 BD,M,001,1,3,Men's Singles Finals,"Simple hommes, finales","Simples masculino, finais",Men's Singles Finals,"Simple hommes, finales","Simples masculino, finais",Finals,Finales,Finais
 BD,M,001,2,3,Men's Singles Semi-finals,"Simple hommes, demi-finales","Simples masculino, semifinais",Men's Singles Semi-finals,"Simple hommes, demi-finales","Simples masculino, semifinais",Semi-finals,Demi-finales,Semifinais
 BD,M,001,3,3,Men's Singles Quarterfinals,"Simple hommes, quarts de finale","Simples masculino, quartas de final",Men's Singles Quarterfinals,"Simple hommes, quarts de finale","Simples masculino, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
@@ -410,13 +410,13 @@ BD,X,002,B,3,Mixed Doubles Group Play Stage - Grp B,"Double mixte, poules - grou
 BD,X,002,C,3,Mixed Doubles Group Play Stage - Grp C,"Double mixte, poules - groupe C","Duplas mistas, fase de grupos - grupo C",Mixed Doubles Group Play Stage - Group C,"Double mixte, poules préliminaires - groupe C","Duplas mistas, fase de grupos - grupo C",Group Play Stage - Group C,Poules préliminaires - groupe C,Fase de grupos - grupo C
 BD,X,002,D,3,Mixed Doubles Group Play Stage - Grp D,"Double mixte, poules - groupe D","Duplas mistas, fase de grupos - grupo D",Mixed Doubles Group Play Stage - Group D,"Double mixte, poules préliminaires - groupe D","Duplas mistas, fase de grupos - grupo D",Group Play Stage - Group D,Poules préliminaires - groupe D,Fase de grupos - grupo D
 BD,X,002,M,6,Mixed Doubles Victory Ceremony,"Double mixte, remise des médailles","Duplas mistas, cer. premiação",Mixed Doubles Victory Ceremony,"Double mixte, cérémonie de remise des médailles","Duplas mistas, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-BK,0,000,0,8,Basketball,Basketball,Basquetebol,Basketball,Basketball,Basquetebol
-BK,0,000,Q,4,Team Managers Meetings,Réunion des chefs d'équipes,Reuniões dos chefes de equipe,Team Managers Meetings,Réunion des chefs d'équipes,Reuniões dos chefes de equipe
-BK,0,000,Y,8,Basketball Daily Schedule,"Basketball, calendrier par jour","Basquetebol, programação diária",Basketball Daily Schedule,"Basketball, calendrier par jour","Basquetebol, programação diária"
-BK,0,CA1,0,8,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1
-BK,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude
-BK,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-BK,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
+BK,0,000,0,8,Basketball,Basketball,Basquetebol,Basketball,Basketball,Basquetebol,,,
+BK,0,000,Q,4,Team Managers Meetings,Réunion des chefs d'équipes,Reuniões dos chefes de equipe,Team Managers Meetings,Réunion des chefs d'équipes,Reuniões dos chefes de equipe,,,
+BK,0,000,Y,8,Basketball Daily Schedule,"Basketball, calendrier par jour","Basquetebol, programação diária",Basketball Daily Schedule,"Basketball, calendrier par jour","Basquetebol, programação diária",,,
+BK,0,CA1,0,8,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,,,
+BK,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,,,
+BK,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+BK,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
 BK,M,400,1,3,Men's Finals,"Hommes, finales","Masculino, finais",Men's Finals,"Hommes, finales","Masculino, finais",Finals,Finales,Finais
 BK,M,400,2,3,Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Semifinals,Demi-finales,Semifinais
 BK,M,400,3,3,Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
@@ -468,14 +468,14 @@ BV,W,400,D,3,Women's Preliminary - Pool D - Matches,"Femmes, tour préliminaire 
 BV,W,400,E,3,Women's Preliminary - Pool E - Matches,"Femmes, tour préliminaire - poule E","Feminino, fase de grupos - grupo E",Women's Preliminary - Pool E - Matches,"Femmes, tour préliminaire - poule E","Feminino, fase de grupos - grupo E",Preliminary - Pool E,Tour Préliminaire - poule E,Fase de grupos - grupo E
 BV,W,400,F,3,Women's Preliminary - Pool F - Matches,"Femmes, tour préliminaire - poule F","Feminino, fase de grupos - grupo F",Women's Preliminary - Pool F - Matches,"Femmes, tour préliminaire - poule F","Feminino, fase de grupos - grupo F",Preliminary - Pool F,Tour Préliminaire - poule F,Fase de grupos - grupo F
 BV,W,400,M,6,Women's Victory Ceremony,"Femmes, remise des médailles","Feminino, cer. premiação ",Women's Victory Ceremony,"Femmes, cérémonie de remise des médailles","Feminino, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-BX,0,000,0,8,Boxing,Boxe,Boxe,Boxing,Boxe,Boxe
-BX,0,000,N,7,Boxing - Draw,Boxe - tirage au sort,Boxe - sorteio,Boxing - Draw,Boxe - tirage au sort,Boxe - sorteio
-BX,0,000,Q,4,Boxing Technical Meeting,Boxe - réunion technique,Boxe - reunião técnica,Boxing Technical Meeting,Boxe - réunion technique,Boxe - reunião técnica
-BX,0,000,Y,8,Boxing Daily Schedule,Boxe - calendrier par jour,"Boxe, programação diária ",Boxing Daily Schedule,Boxe - calendrier par jour,"Boxe, programação diária "
-BX,0,000,Z,8,Boxing - Session,Boxe - session,Boxe - sessão,Boxing - Session,Boxe - session,Boxe - sessão
-BX,0,RC6,0,8,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6
-BX,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-BX,M,049,0,8,Men's Light Fly (49kg),49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (49kg),Men's Light Fly  (49kg),49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (49kg)
+BX,0,000,0,8,Boxing,Boxe,Boxe,Boxing,Boxe,Boxe,,,
+BX,0,000,N,7,Boxing - Draw,Boxe - tirage au sort,Boxe - sorteio,Boxing - Draw,Boxe - tirage au sort,Boxe - sorteio,,,
+BX,0,000,Q,4,Boxing Technical Meeting,Boxe - réunion technique,Boxe - reunião técnica,Boxing Technical Meeting,Boxe - réunion technique,Boxe - reunião técnica,,,
+BX,0,000,Y,8,Boxing Daily Schedule,Boxe - calendrier par jour,"Boxe, programação diária ",Boxing Daily Schedule,Boxe - calendrier par jour,"Boxe, programação diária ",,,
+BX,0,000,Z,8,Boxing - Session,Boxe - session,Boxe - sessão,Boxing - Session,Boxe - session,Boxe - sessão,,,
+BX,0,RC6,0,8,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,,,
+BX,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+BX,M,049,0,8,Men's Light Fly (49kg),49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (49kg),Men's Light Fly  (49kg),49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (49kg),,,
 BX,M,049,1,3,Men's Light Fly (49kg) Final,"49 kg (mi-mouche) - hom., finale","Peso mosca ligeiro masc (49kg), final",Men's Light Fly (49kg) Final,"49 kg (poids mi-mouche) - hommes, finale","Peso mosca ligeiro masculino (49kg), final",Final,Finale,Final
 BX,M,049,2,3,Men's Light Fly (49kg) Semifinals,"49 kg (mi-mouche) - hom., demi-finales","Peso mosca ligeiro masculino (49kg), 1/2",Men's Light Fly (49kg) Semifinals,"49 kg (poids mi-mouche) - hommes, demi-finales","Peso mosca ligeiro masculino (49kg), semifinais",Semifinals,Demi-finales,Semifinais
 BX,M,049,3,3,Men's Light Fly (49kg) Quarterfinals,"49 kg (mi-mouche) - hom., 1/4 de finale","Peso mosca ligeiro masc (49kg), 1/4 ",Men's Light Fly (49kg) Quarterfinals,"49 kg (poids mi-mouche) - hommes, quarts de finale","Peso mosca ligeiro masculino (49kg), quartas de final ",Quarterfinals,Quarts de finale,Quartas de Final 
@@ -677,7 +677,7 @@ CR,0,FTC,0,8,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacab
 CR,0,PON,0,8,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,"","",""
 CR,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,"","",""
 CR,M,011,0,8,Men's Individual Time Trial,Contre-la-montre individuel - hommes,Contrarrelógio individual masculino,Men's Individual Time Trial,Épreuve contre la montre individuelle - hommes,Contrarrelógio individual masculino,"","",""
-CR,M,011,1,3,Men's Individual Time Trial,Contre-la-montre individuel - hommes,Contrarrelógio individual masculino,Men's Individual Time Trial,Épreuve contre la montre individuelle - hommes,Contrarrelógio individual masculino
+CR,M,011,1,3,Men's Individual Time Trial,Contre-la-montre individuel - hommes,Contrarrelógio individual masculino,Men's Individual Time Trial,Épreuve contre la montre individuelle - hommes,Contrarrelógio individual masculino,,,
 CR,M,011,M,6,Men's Ind. Time Trial Victory Ceremony,"Contre montre indiv. - hom., remise méd.","Contrarrelógio ind. masc, cer. premiação",Men's Individual Time Trial Victory Ceremony,"Épreuve contre la montre individuelle - hommes, remise des médailles","Contrarrelógio individual masculino, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de premiação
 CR,M,012,0,8,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,"","",""
 CR,M,012,1,3,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,"","",""
@@ -714,11 +714,11 @@ CS,W,110,1,3,Kayak (K1) Women Final,"Kayak mono (K1) - femmes, finale","Caiaque 
 CS,W,110,2,3,Kayak (K1) Women Semi-final,"Kayak mono (K1) - femmes, demi-finale","Caiaque individual (K1) feminino, 1/2",Kayak (K1) Women Semi-final,"Kayak monoplace (K1) - femmes, demi-finale","Caiaque individual (K1) feminino, semifinal",Semi-final,Demi-finale,Semifinal
 CS,W,110,9,3,Kayak (K1) Women Heats 1st and 2nd Run,"K1 - fem., élim. - manches 1 et 2","K1 fem, eliminatórias, corridas 1 e 2",Kayak (K1) Women Heats 1st and 2nd Run,"Kayak monoplace (K1) - femmes, éliminatoires - manches 1 et 2","Caiaque individual (K1) feminino, eliminatórias, corridas 1 e 2",Heats 1st and 2nd Run,Éliminatoires - manches 1 et 2,Corridas 1 e 2
 CS,W,110,M,6,Kayak (K1) Women Victory Ceremony,"Kayak mono (K1) - fem., remise médailles","K1 fem, cer. premiação",Kayak (K1) Women Victory Ceremony,"Kayak monoplace (K1) - femmes, cérémonie de remise des médailles","Caiaque individual (K1) feminino, cerimônia de premiação",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-CT,0,000,0,8,Cycling Track,Cyclisme sur piste,Ciclismo de pista,Cycling Track,Cyclisme sur piste,Ciclismo de pista
-CT,0,000,Q,4,Cycling Track Team Managers' Meeting,Cyclisme piste - réunion directeurs é...,"Ciclismo de pista, reunião dos chefes",Cycling Track Team Managers' Meeting,Cyclisme sur piste - réunion des directeurs d'équipe,"Ciclismo de pista, reunião dos chefes de equipe"
-CT,0,ROV,0,8,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio
-CT,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-CT,M,001,0,8,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculina,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculina
+CT,0,000,0,8,Cycling Track,Cyclisme sur piste,Ciclismo de pista,Cycling Track,Cyclisme sur piste,Ciclismo de pista,,,
+CT,0,000,Q,4,Cycling Track Team Managers' Meeting,Cyclisme piste - réunion directeurs é...,"Ciclismo de pista, reunião dos chefes",Cycling Track Team Managers' Meeting,Cyclisme sur piste - réunion des directeurs d'équipe,"Ciclismo de pista, reunião dos chefes de equipe",,,
+CT,0,ROV,0,8,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,,,
+CT,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+CT,M,001,0,8,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculina,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculina,,,
 CT,M,001,1,3,Men's Sprint Finals,"Vitesse individuelle - hommes, finales","Velocidade masculina, finais",Men's Sprint Finals,"Vitesse individuelle - hommes, finales","Velocidade masculina, finais",Finals,Finales,Finais
 CT,M,001,2,3,Men's Sprint Semifinals,"Vitesse individuelle - hom., 1/2 finales","Velocidade masculina, semifinais",Men's Sprint Semifinals,"Vitesse individuelle - hommes, demi-finales","Velocidade masculina, semifinais",Semifinals,Demi-finales,Semifinais
 CT,M,001,3,3,Men's Sprint Quarterfinals,"Vitesse individuelle - hom., 1/4 finale","Velocidade masculina, quartas de final",Men's Sprint Quarterfinals,"Vitesse individuelle - hommes, quarts de finale","Velocidade masculina, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
@@ -857,15 +857,15 @@ EQ,X,403,1,3,Eventing Team Jumping Final,"CC par équipes, saut d'obstacles -fin
 EQ,X,403,2,3,Eventing Team Cross Country,"CC par équipes, parcours de cross","CCE por equipes, cross-country",Eventing Team Cross Country,"Concours complet par équipes, parcours de cross","Concurso Completo de Equitação (CCE) por equipes, cross-country",Cross Country,(cross),Cross-country
 EQ,X,403,3,3,Eventing Team Dressage,"CC par équipes, dressage","CCE por equipes, adestramento",Eventing Team Dressage,"Concours complet par équipes, dressage","Concurso Completo de Equitação (CCE) por equipes, adestramento",Dressage,Dressage,Adestramento
 EQ,X,403,M,6,Eventing Team Victory Ceremony,"CC par équipes, remise des médailles","CCE por equipes, cer. premiação",Eventing Team Victory Ceremony,"Concours complet par équipes, cérémonie de remise des médailles","Concurso Completo de Equitação (CCE) por equipes, cerimônia de entrega medalhas",Victory Ceremony,Cérémonie de remise des médailles,"Concurso Completo de Equitação(CCE)por equipes,Cerimônia de entrega das medalhas"
-FB,0,000,0,8,Football,Football,Futebol,Football,Football,Futebol
-FB,0,000,Y,8,Football Daily Schedule,Football - calendrier par jour,"Futebol, programação diária",Football Daily Schedule,Football - calendrier par jour,"Futebol, programação diária"
-FB,0,FNA,0,8,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova
-FB,0,MGA,0,8,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha
-FB,0,MIN,0,8,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão
-FB,0,MRC,0,8,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã
-FB,0,SPA,0,8,São Paulo Arena,São Paulo Arena,Arena de São Paulo,São Paulo Arena,São Paulo Arena,Arena de São Paulo
-FB,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-FB,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
+FB,0,000,0,8,Football,Football,Futebol,Football,Football,Futebol,,,
+FB,0,000,Y,8,Football Daily Schedule,Football - calendrier par jour,"Futebol, programação diária",Football Daily Schedule,Football - calendrier par jour,"Futebol, programação diária",,,
+FB,0,FNA,0,8,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,,,
+FB,0,MGA,0,8,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,,,
+FB,0,MIN,0,8,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,,,
+FB,0,MRC,0,8,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,,,
+FB,0,SPA,0,8,São Paulo Arena,São Paulo Arena,Arena de São Paulo,São Paulo Arena,São Paulo Arena,Arena de São Paulo,,,
+FB,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+FB,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
 FB,M,400,1,3,Men's Finals,"Hommes, finales","Masculino, finais",Men's Finals,"Hommes, finales","Masculino, finais",Finals,Finales,Finais
 FB,M,400,2,3,Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Semifinals,Demi-finales,Semifinais
 FB,M,400,3,3,Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
@@ -1034,57 +1034,57 @@ GA,W,400,0,8,Women's Team,Par équipes - femmes,Competição por equipes feminin
 GA,W,400,1,3,Women's Team Final,"Par équipes - femmes, finale","Competição por equipes feminina, final",Women's Team Final,"Compétition par équipes - femmes, finale","Competição por equipes feminina, final",Final,Finale,Finais
 GA,W,400,9,3,Women's Team Qualification,"Par équipes - femmes, qualification","Competição equipes fem, classificatória",Women's Team Qualification,"Compétition par équipes - femmes, qualification","Competição por equipes feminina, classificatória",Qualification,Qualification,Classificatória
 GA,W,400,M,6,Women's Team Victory Ceremony,"Par équipes - femmes, remise méd.","Equipes feminina, cer. premiação",Women's Team Victory Ceremony,"Compétition par équipes - femmes, cérémonie de remise des médailles","Competição por equipes feminina, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-GL,0,000,0,8,General,Général,Geral,General,Général,Geral
-GL,0,AQC,0,8,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk
-GL,0,BAT,0,8,BAT Place Conditions / Weather Alerts,BAT Conditions / alertes météorologiques,BAT Condições do Local / Alertas meteo,BAT Place Conditions / Weather Alerts,BAT Conditions de place / Alertes météorologiques,BAT Condições do Local / Alertas meteorológicos
-GL,0,BHZ,0,8,BHZ Place Conditions / Weather Alerts,BHZ Conditions / alertes météorologiques,BHZ Condições do Local / Alertas meteo,BHZ Place Conditions / Weather Alerts,BHZ Conditions de place / Alertes météorologiques,BHZ Condições do Local / Alertas meteorológicos
-GL,0,BMX,0,8,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX
-GL,0,BRS,0,8,BRS Place Conditions / Weather Alerts,BRS Conditions / alertes météorologiques,BRS Condições do Local / Alertas meteo,BRS Place Conditions / Weather Alerts,BRS Conditions de place / Alertes météorologiques,BRS Condições do Local / Alertas meteorológicos
-GL,0,BVA,0,8,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia
-GL,0,CA1,0,8,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1
-GL,0,CA2,0,8,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2
-GL,0,CA3,0,8,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3
-GL,0,COP,0,8,COP Place Conditions / Weather Alerts,COP Conditions / alertes météorologiques,COP Condições do Local / Alertas meteo,COP Place Conditions / Weather Alerts,COP Conditions de place / Alertes météorologiques,COP Condições do Local / Alertas meteorológicos
-GL,0,DAQ,0,8,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro
-GL,0,DEO,0,8,DEO Place Conditions / Weather Alerts,DEO Conditions / alertes météorologiques,DEO Condições do Local / Alertas meteo,DEO Place Conditions / Weather Alerts,DEO Conditions de place / Alertes météorologiques,DEO Condições do Local / Alertas meteorológicos
-GL,0,DES,0,8,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro
-GL,0,EQC,0,8,Olympic Equestrian Centre,Centre Olympique d´Équitation,Centro Olímpico de Hipismo,Olympic Equestrian Centre,Centre Olympique d´Équitation,Centro Olímpico de Hipismo
-GL,0,FNA,0,8,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova
-GL,0,FTA,0,8,Future Arena,Future Arena,Arena do Futuro,Future Arena,Future Arena,Arena do Futuro
-GL,0,FTC,0,8,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana
-GL,0,GLO,0,8,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória
-GL,0,JDL,0,8,Julio de Lamare Aquatics Centre,Centre Aquatique Julio de Lamare,Centro Aquático Julio de Lamare,Julio de Lamare Aquatics Centre,Centre Aquatique Julio de Lamare,Centro Aquático Julio de Lamare
-GL,0,LAG,0,8,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa
-GL,0,MBT,0,8,Mountain Bike Track,Piste de Mountain Bike,Pista de Mountain Bike,Mountain Bike Track,Piste de Mountain Bike,Pista de Mountain Bike
-GL,0,MGA,0,8,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha
-GL,0,MIN,0,8,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão
-GL,0,MNZ,0,8,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho
-GL,0,MRC,0,8,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã
-GL,0,MRZ,0,8,MRZ Place Conditions / Weather Alerts,MRZ Conditions / alertes météorologiques,MRZ Condições do Local / Alertas meteo,MRZ Place Conditions / Weather Alerts,MRZ Conditions de place / Alertes météorologiques,MRZ Condições do Local / Alertas meteorológicos
-GL,0,OAS,0,8,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico
-GL,0,OGC,0,8,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe
-GL,0,OHK,0,8,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei
-GL,0,OLS,0,8,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico
-GL,0,OSC,0,8,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro
-GL,0,OTN,0,8,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis
-GL,0,PON,0,8,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal
-GL,0,RC2,0,8,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2
-GL,0,RC3,0,8,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3
-GL,0,RC4,0,8,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4
-GL,0,RC6,0,8,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6
-GL,0,ROA,0,8,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio
-GL,0,ROV,0,8,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio
-GL,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo
-GL,0,SLV,0,8,SLV Place Conditions / Weather Alerts,SLV Conditions / alertes météorologiques,SLV Condições do Local / Alertas meteo,SLV Place Conditions / Weather Alerts,SLV Conditions de place / Alertes météorologiques,SLV Condições do Local / Alertas meteorológicos
-GL,0,SPA,0,8,São Paulo Arena,São Paulo Arena,Arena de São Paulo,São Paulo Arena,São Paulo Arena,Arena de São Paulo
-GL,0,SPL,0,8,SPL Place Conditions / Weather Alerts,SPL Conditions / alertes météorologiques,SPL Condições do Local / Alertas meteo,SPL Place Conditions / Weather Alerts,SPL Conditions de place / Alertes météorologiques,SPL Condições do Local / Alertas meteorológicos
-GL,0,WWS,0,8,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom
-GL,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude
-GO,0,000,0,8,Golf,Golf,Golfe,Golf,Golf,Golfe
-GO,0,OGC,0,8,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe
-GO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-GO,M,001,0,8,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino
-GO,M,001,1,3,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino
+GL,0,000,0,8,General,Général,Geral,General,Général,Geral,,,
+GL,0,AQC,0,8,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,,,
+GL,0,BAT,0,8,BAT Place Conditions / Weather Alerts,BAT Conditions / alertes météorologiques,BAT Condições do Local / Alertas meteo,BAT Place Conditions / Weather Alerts,BAT Conditions de place / Alertes météorologiques,BAT Condições do Local / Alertas meteorológicos,,,
+GL,0,BHZ,0,8,BHZ Place Conditions / Weather Alerts,BHZ Conditions / alertes météorologiques,BHZ Condições do Local / Alertas meteo,BHZ Place Conditions / Weather Alerts,BHZ Conditions de place / Alertes météorologiques,BHZ Condições do Local / Alertas meteorológicos,,,
+GL,0,BMX,0,8,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,,,
+GL,0,BRS,0,8,BRS Place Conditions / Weather Alerts,BRS Conditions / alertes météorologiques,BRS Condições do Local / Alertas meteo,BRS Place Conditions / Weather Alerts,BRS Conditions de place / Alertes météorologiques,BRS Condições do Local / Alertas meteorológicos,,,
+GL,0,BVA,0,8,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,,,
+GL,0,CA1,0,8,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,,,
+GL,0,CA2,0,8,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,,,
+GL,0,CA3,0,8,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,,,
+GL,0,COP,0,8,COP Place Conditions / Weather Alerts,COP Conditions / alertes météorologiques,COP Condições do Local / Alertas meteo,COP Place Conditions / Weather Alerts,COP Conditions de place / Alertes météorologiques,COP Condições do Local / Alertas meteorológicos,,,
+GL,0,DAQ,0,8,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,,,
+GL,0,DEO,0,8,DEO Place Conditions / Weather Alerts,DEO Conditions / alertes météorologiques,DEO Condições do Local / Alertas meteo,DEO Place Conditions / Weather Alerts,DEO Conditions de place / Alertes météorologiques,DEO Condições do Local / Alertas meteorológicos,,,
+GL,0,DES,0,8,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,,,
+GL,0,EQC,0,8,Olympic Equestrian Centre,Centre Olympique d´Équitation,Centro Olímpico de Hipismo,Olympic Equestrian Centre,Centre Olympique d´Équitation,Centro Olímpico de Hipismo,,,
+GL,0,FNA,0,8,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,,,
+GL,0,FTA,0,8,Future Arena,Future Arena,Arena do Futuro,Future Arena,Future Arena,Arena do Futuro,,,
+GL,0,FTC,0,8,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,,,
+GL,0,GLO,0,8,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,,,
+GL,0,JDL,0,8,Julio de Lamare Aquatics Centre,Centre Aquatique Julio de Lamare,Centro Aquático Julio de Lamare,Julio de Lamare Aquatics Centre,Centre Aquatique Julio de Lamare,Centro Aquático Julio de Lamare,,,
+GL,0,LAG,0,8,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,,,
+GL,0,MBT,0,8,Mountain Bike Track,Piste de Mountain Bike,Pista de Mountain Bike,Mountain Bike Track,Piste de Mountain Bike,Pista de Mountain Bike,,,
+GL,0,MGA,0,8,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,,,
+GL,0,MIN,0,8,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,,,
+GL,0,MNZ,0,8,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,,,
+GL,0,MRC,0,8,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,,,
+GL,0,MRZ,0,8,MRZ Place Conditions / Weather Alerts,MRZ Conditions / alertes météorologiques,MRZ Condições do Local / Alertas meteo,MRZ Place Conditions / Weather Alerts,MRZ Conditions de place / Alertes météorologiques,MRZ Condições do Local / Alertas meteorológicos,,,
+GL,0,OAS,0,8,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,,,
+GL,0,OGC,0,8,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,,,
+GL,0,OHK,0,8,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,,,
+GL,0,OLS,0,8,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,,,
+GL,0,OSC,0,8,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,,,
+GL,0,OTN,0,8,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,,,
+GL,0,PON,0,8,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,,,
+GL,0,RC2,0,8,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,,,
+GL,0,RC3,0,8,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,,,
+GL,0,RC4,0,8,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,,,
+GL,0,RC6,0,8,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,,,
+GL,0,ROA,0,8,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,,,
+GL,0,ROV,0,8,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,,,
+GL,0,SBD,0,8,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,,,
+GL,0,SLV,0,8,SLV Place Conditions / Weather Alerts,SLV Conditions / alertes météorologiques,SLV Condições do Local / Alertas meteo,SLV Place Conditions / Weather Alerts,SLV Conditions de place / Alertes météorologiques,SLV Condições do Local / Alertas meteorológicos,,,
+GL,0,SPA,0,8,São Paulo Arena,São Paulo Arena,Arena de São Paulo,São Paulo Arena,São Paulo Arena,Arena de São Paulo,,,
+GL,0,SPL,0,8,SPL Place Conditions / Weather Alerts,SPL Conditions / alertes météorologiques,SPL Condições do Local / Alertas meteo,SPL Place Conditions / Weather Alerts,SPL Conditions de place / Alertes météorologiques,SPL Condições do Local / Alertas meteorológicos,,,
+GL,0,WWS,0,8,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,,,
+GL,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,,,
+GO,0,000,0,8,Golf,Golf,Golfe,Golf,Golf,Golfe,,,
+GO,0,OGC,0,8,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,,,
+GO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+GO,M,001,0,8,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,,,
+GO,M,001,1,3,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,Men's Individual Stroke Play,"Stroke Play individuel, homme",Jogo por tacadas individual masculino,,,
 GO,M,001,M,6,Men's Victory Ceremony,"Hommes, remise des médailles","Masculino, cer. premiação",Men's Individual Stroke Play Victory Ceremony,"Hommes, cérémonie de remise des médailles","Masculino, cerimônia de entrega das medalhas",Victory Ceremony,Remise des médailles,Cerimônia de entrega das medalhas
 GO,W,000,0,8,Women,Femmes,Feminino,Women,Femmes,Feminino,"","",""
 GO,W,001,0,8,Women's Individual Stroke Play,"Stroke Play individuel, femme",Jogo por tacadas individual feminino,Women's Individual Stroke Play,"Stroke Play individuel, femme",Jogo por tacadas individual feminino,"","",""
@@ -1283,14 +1283,14 @@ JU,W,178,4,3,Women +78 kg Elimination Round of 16,"+78 kg - f, éliminatoires","
 JU,W,178,5,3,Women +78 kg Elimination Round of 32,"+78 kg - f, éliminatoires","Acima de 78kg fem, elim, 2a fase",Women +78 kg Elimination Round of 32,"+78 kg - femmes, éliminatoires","Acima de 78kg feminino, eliminatórias, segunda fase",Elimination Round of 32,Éliminatoires,"Eliminatórias, segunda fase"
 JU,W,178,6,3,Women +78 kg Elimination Round of 64,"+78 kg - f, éliminatoires","Acima de 78kg fem, elim, 1a fase",Women +78 kg Elimination Round of 64,"+78 kg - femmes, éliminatoires","Acima de 78kg feminino, eliminatórias, primeira fase",Elimination Round of 64,Éliminatoires,"Eliminatórias, primeira fase"
 JU,W,178,M,6,Women +78 kg Victory Ceremony,"+78 kg - femmes, remise des médailles","Acima de 78kg fem, cer. premiação",Women +78 kg Victory Ceremony,"+78 kg - femmes, remise des médailles","Acima de 78kg feminino, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-MP,0,000,0,8,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno
-MP,0,000,Q,4,Modern Pentathlon Technical Meeting,Pentathlon moderne - réunion technique,Pentatlo moderno - reunião técnica ,Modern Pentathlon Technical Meeting,Pentathlon moderne - réunion technique,Pentatlo moderno - reunião técnica 
-MP,0,001,R,8,Modern Pentathlon Jumping Test,"Pentathlon moderne, essai saut d'obst.",Pentatlo moderno - teste de saltos,Modern Pentathlon Jumping Test,"Pentathlon moderne, essai de saut d'obstacles",Pentatlo moderno - teste de saltos
-MP,0,DAQ,0,8,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro
-MP,0,DES,0,8,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro
-MP,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude
-MP,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-MP,M,001,0,8,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina
+MP,0,000,0,8,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,,,
+MP,0,000,Q,4,Modern Pentathlon Technical Meeting,Pentathlon moderne - réunion technique,Pentatlo moderno - reunião técnica ,Modern Pentathlon Technical Meeting,Pentathlon moderne - réunion technique,Pentatlo moderno - reunião técnica ,,,
+MP,0,001,R,8,Modern Pentathlon Jumping Test,"Pentathlon moderne, essai saut d'obst.",Pentatlo moderno - teste de saltos,Modern Pentathlon Jumping Test,"Pentathlon moderne, essai de saut d'obstacles",Pentatlo moderno - teste de saltos,,,
+MP,0,DAQ,0,8,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,,,
+MP,0,DES,0,8,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,,,
+MP,0,YOA,0,8,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,,,
+MP,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+MP,M,001,0,8,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,,,
 MP,M,001,A,3,Men's Fencing,Épreuve d'escrime - hommes,Prova de esgrima masculina,Men's Fencing,Épreuve d'escrime - hommes,Prova de esgrima masculina,Fencing,Épreuve d'escrime,Prova de esgrima
 MP,M,001,B,3,Men's Swimming,Épreuve de natation - hommes,Prova de natação masculina,Men's Swimming,Épreuve de natation - hommes,Prova de natação masculina,Swimming,Épreuve de natation,Prova de natação
 MP,M,001,C,3,Men's Riding Show Jumping,Épreuve d'équitation - hommes,Prova de hipismo masculina ,Men's Riding Show Jumping,Épreuve d'équitation - hommes,Prova de hipismo masculina ,Riding Show Jumping,Épreuve d'équitation,Prova de hipismo
@@ -1303,92 +1303,92 @@ MP,W,001,B,3,Women's Swimming,Épreuve de natation - femmes,Prova de natação f
 MP,W,001,C,3,Women's Riding Show Jumping,Épreuve d'équitation - femmes,Prova de natação feminina,Women's Riding Show Jumping,Épreuve d'équitation - femmes,Prova de natação feminina,Riding Show Jumping,Épreuve d'équitation,Prova de hipismo
 MP,W,001,D,3,Women's Combined Running/Shooting,Épreuve combinée - femmes,Evento combinado feminino,Women's Combined Running/Shooting,Épreuve combinée - femmes,Evento combinado feminino,Combined Running/Shooting,Épreuve combinée,Evento combinado
 MP,W,001,M,6,Women's Victory Ceremony,"Femmes, remise des médailles","Feminino, cer. premiação ",Women's Victory Ceremony,"Femmes, cérémonie de remise des médailles","Feminino, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-OV,0,CFH,0,8,Coffee House,Café,Café,Coffee House,Café,Café
-OV,0,CLB,0,8,Club,Club,Clube,Club,Club,Clube
-OV,0,ENP,0,8,Entertainment Programme,Entertainment Programme,Programas de Entretenimento,Entertainment Programme,Entertainment Programme,Programa de entretenimento
-OV,0,IFC,0,8,Interfaith Centre,Interfaith Centre,Centro inter-religioso,Interfaith Centre,Interfaith Centre,Centro ecumênico
-OV,0,IOC,0,8,IOC Athletes' Commission Election,IOC Athletes' Commission Election,Eleição da comisssão de atletas do COI,IOC Athletes' Commission Election,IOC Athletes' Commission Election,Eleição da comisssão de atletas do COI
-OV,0,SPE,0,8,Special Events,Évènements spéciaux,Eventos especiais,Special Events,Évènements spéciaux,Eventos especiais
-OV,0,TEA,0,8,Team Welcome Ceremonies,Cérémonie de bienvenue des équipes,Cerimônias de boas-vindas aos times,Team Welcome Ceremonies,Cérémonie de bienvenue des équipes,Cerimônias de boas-vindas aos times
-OV,0,THR,0,8,Theatre,Théâtre,Geral,Theatre,Théâtre,Teatro
-OV,0,VTG,0,8,IOC Voting,Vote du CIO,Votação do COI,IOC Voting,Vote du CIO,Votação do COI
-OW,0,000,0,8,Marathon Swimming,Natation de marathon,Maratonas aquáticas,Marathon Swimming,Natation de marathon,Maratonas aquáticas
-OW,0,000,Q,4,Marathon Swimming technical meeting,Natation de marathon - réunion technique,Maratonas aquáticas - reunião técnica,Marathon Swimming technical meeting,Natation de marathon - réunion technique,Maratonas aquáticas - reunião técnica
-OW,0,FTC,0,8,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana
-OW,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-OW,M,010,0,8,Men's 10km,10 km - hommes,10km masculina,Men's 10km,10 km - hommes,10km masculina
-OW,M,010,1,3,Men's 10km,10 km - hommes,10km masculina,Men's 10km,10 km - hommes,10km masculina
+OV,0,CFH,0,8,Coffee House,Café,Café,Coffee House,Café,Café,,,
+OV,0,CLB,0,8,Club,Club,Clube,Club,Club,Clube,,,
+OV,0,ENP,0,8,Entertainment Programme,Entertainment Programme,Programas de Entretenimento,Entertainment Programme,Entertainment Programme,Programa de entretenimento,,,
+OV,0,IFC,0,8,Interfaith Centre,Interfaith Centre,Centro inter-religioso,Interfaith Centre,Interfaith Centre,Centro ecumênico,,,
+OV,0,IOC,0,8,IOC Athletes' Commission Election,IOC Athletes' Commission Election,Eleição da comisssão de atletas do COI,IOC Athletes' Commission Election,IOC Athletes' Commission Election,Eleição da comisssão de atletas do COI,,,
+OV,0,SPE,0,8,Special Events,Évènements spéciaux,Eventos especiais,Special Events,Évènements spéciaux,Eventos especiais,,,
+OV,0,TEA,0,8,Team Welcome Ceremonies,Cérémonie de bienvenue des équipes,Cerimônias de boas-vindas aos times,Team Welcome Ceremonies,Cérémonie de bienvenue des équipes,Cerimônias de boas-vindas aos times,,,
+OV,0,THR,0,8,Theatre,Théâtre,Geral,Theatre,Théâtre,Teatro,,,
+OV,0,VTG,0,8,IOC Voting,Vote du CIO,Votação do COI,IOC Voting,Vote du CIO,Votação do COI,,,
+OW,0,000,0,8,Marathon Swimming,Natation de marathon,Maratonas aquáticas,Marathon Swimming,Natation de marathon,Maratonas aquáticas,,,
+OW,0,000,Q,4,Marathon Swimming technical meeting,Natation de marathon - réunion technique,Maratonas aquáticas - reunião técnica,Marathon Swimming technical meeting,Natation de marathon - réunion technique,Maratonas aquáticas - reunião técnica,,,
+OW,0,FTC,0,8,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,,,
+OW,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+OW,M,010,0,8,Men's 10km,10 km - hommes,10km masculina,Men's 10km,10 km - hommes,10km masculina,,,
+OW,M,010,1,3,Men's 10km,10 km - hommes,10km masculina,Men's 10km,10 km - hommes,10km masculina,,,
 OW,M,010,M,6,Men's 10km Victory Ceremony,"10 km - hommes, remise des médailles","10km masculina, cerimônia de premiação",Men's 10km Victory Ceremony,"10 km - hommes, cérémonie de remise des médailles","10km masculina, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
 OW,W,000,0,8,Women,Femmes,Feminino,Women,Femmes,Feminino,"","",""
 OW,W,010,0,8,Women's 10km,10 km - femmes,10km feminina,Women's 10km,10 km - femmes,10km feminina,"","",""
 OW,W,010,1,3,Women's 10km,10 km - femmes,10km feminina,Women's 10km,10 km - femmes,10km feminina,"","",""
 OW,W,010,M,6,Women's 10km Victory Ceremony,"10 km - femmes, remise des médailles","10km feminina, cerimônia de premiação",Women's 10km Victory Ceremony,"10 km - femmes, cérémonie de remise des médailles","10km feminina, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-PC,0,AR0,0,5,Archery Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco,Japanese Archery Team Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco
-PC,0,AT0,0,5,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo
-PC,0,BD0,0,5,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton
-PC,0,BK0,0,5,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol
-PC,0,BV0,0,5,Beach Volleyball Press Conference,Conférence de presse - volleyball plage,Coletiva de imprensa - Vôlei de praia,Beach Volleyball Press Conference,Conférence de presse - volleyball de plage,Coletiva de imprensa - Vôlei de praia
-PC,0,BX0,0,5,Boxing Press Conference - Final,Conférence de presse - boxe,Conférence de presse - boxe,Boxing Press Conference - Final,Conférence de presse - boxe,Coletiva de imprensa - Boxe
-PC,0,CB0,0,8,Cycling BMX Media Conference,Cycling BMX Media Conference,Coletiva de imprensa - Ciclismo BMX,Cycling BMX Media Conference,Cycling BMX Media Conference,Coletiva de imprensa - Ciclismo BMX
-PC,0,CF0,0,5,CF Press Conference,"Conf. de presse - canoë-kayak, ligne",Coletiva de imprensa-Canoagem velocidade,CF Press Conference,"Conférence de presse - canoë-kayak, course en ligne",Coletiva de imprensa - Canoagem velocidade
-PC,0,CM0,0,5,CM Bike Press Conference,Conférence de presse - VTT,Coletiva de imprensa - Mountain bike,CM Bike Press Conference,Conférence de presse - VTT,Coletiva de imprensa - Mountain bike
-PC,0,CR0,0,5,CR Press Conference,Conférence de presse - cyclisme route,Coletiva de imprensa-Ciclismo de estrada,CR Press Conference,Conférence de presse - cyclisme sur route,Coletiva de imprensa - Ciclismo de estrada
-PC,0,CS0,0,5,CS Press Conference,"Conf. de presse - canoë-kayak, slalom",Coletiva de imprensa - Canoagem slalom,CS Press Conference,Conférence de presse - canoë-kayak slalom,Coletiva de imprensa - Canoagem slalom
-PC,0,CT0,0,5,CT Press Conference,Conférence de presse - cyclisme piste,Coletiva de imprensa - Ciclismo de pista,CT Press Conference,Conférence de presse - cyclisme sur piste,Coletiva de imprensa - Ciclismo de pista
-PC,0,DV0,0,5,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa -Saltos ornamentais,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa - Saltos ornamentais
-PC,0,EQ0,0,5,Equestrian Press Conference,Conférence de presse - équitation,Coletiva de imprensa - Hipismo,Equestrian Press Conference,Conférence de presse - équitation,Coletiva de imprensa - Hipismo
-PC,0,FB0,0,5,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol
-PC,0,FE0,0,5,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima
-PC,0,GA0,0,5,GA Press Conference,Conférence de presse - gym. artistique,Coletiva de imprensa-Ginástica artística,GA Press Conference,Conférence de presse - gymnastique artistique,Coletiva de imprensa - Ginástica artística
-PC,0,GEN,0,8,General,Conférence de presse générale,Geral,General,Conférence de presse générale,Geral
-PC,0,GEN,1,8,Australian Olympic Committee,Comité Olympique australien,Comité Olympique australien,Australian Olympic Committee,Comité Olympique australien,Comitê Olímpico Australiano
-PC,0,GEN,2,8,Spanish Olympic Committee,Comité Olympique espagnol,Comité Olympique espagnol,Spanish Olympic Committee,Comité Olympique espagnol,Comitê Olímpico Espanhol
-PC,0,GEN,3,8,US Olympic Committee,Comité Olympique des États-Unis,Comité Olympique des États-Unis,US Olympic Committee,Comité Olympique des États-Unis,Comitê Olímpico dos Estados Unidos 
-PC,0,GEN,6,8,World Anti-Doping Agency,Agence Mondiale Antidopage,Agence Mondiale Antidopage,World Anti-Doping Agency,Agence Mondiale Antidopage,Agência Mundial Antidoping
-PC,0,GEN,7,8,General Press Conference,Conférence de presse générale,Coletiva de imprensa - Geral,General Press Conference,Conférence de presse générale,Coletiva de Imprensa Geral
-PC,0,GEN,9,8,Slovak Olympic Committee,Comité Olympique slovaque,Comité Olympique slovaque,Slovak Olympic Committee,Comité Olympique slovaque,Comitê Olímpico da Eslovênia
-PC,0,GEN,A,8,Japanese Olympic Committee,Comité Olympique japonais,Comité Olympique japonais,Japanese Olympic Committee,Comité Olympique japonais,Comitê Olímpico Japonês
-PC,0,GEN,B,8,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Comitê Olímpico da Coreia do Sul 
-PC,0,GEN,C,8,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Comitê Olímpico da Bélgica
-PC,0,GEN,D,8,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,Comitê Olímpico da Nova Zelândia
-PC,0,GEN,E,8,British Olympic Association,British Olympic Association,British Olympic Association,British Olympic Association,British Olympic Association,Associação Olímpica Britânica
-PC,0,GEN,F,8,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Comitê Olímpico Sérvio 
-PC,0,GEN,G,8,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Comitê Olímpico de Luxemburgo 
-PC,0,GEN,H,8,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Comitê Olímpico Dinamarquês 
-PC,0,GO0,0,5,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe
-PC,0,GR0,0,5,GR Press Conference,Conférence de presse -  gym. rythmique,Coletiva de imprensa - Ginástica rítmica,GR Press Conference,Conférence de presse -  gymnastique rythmique,Coletiva de imprensa - Ginástica rítmica
-PC,0,GT0,0,5,GT Press Conference,Conférence de presse -  trampoline,Coletiva de imprensa-Ginástica trampolim,GT Press Conference,Conférence de presse -  trampoline,Coletiva de imprensa - Ginástica de trampolim
-PC,0,HB0,0,5,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol
-PC,0,HO0,0,8,Hockey Press Conference,Conférence de presse - hockey,Coletiva de imprensa -Hóquei sobre grama,Japanese Women's Hockey Team Press Conference,Conférence de presse - hockey,Coletiva de imprensa - Hóquei sobre grama
-PC,0,IOC,0,8,IOC/LOCOG Press Briefing,Réunion de presse CIO/LOCOG,Réunion de presse CIO/LOCOG,IOC/LOCOG Press Briefing,Réunion de presse CIO/LOCOG,Coletiva de imprensa - COI/Rio2016
-PC,0,IOC,2,8,IOC General,Plan général CIO,Plan général CIO,IOC General,Plan général CIO,Plano Geral COI
-PC,0,IOC,7,8,IOC Media Outreach Programme,Programme opérations médias du CIO,Programme opérations médias du CIO,IOC Media Outreach Programme,Programme des opérations médias du CIO,Programa de operações de mídia do COI
-PC,0,JU0,0,5,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô
-PC,0,LOC,0,5,LOCOG Press Conference,Conférence de presse - LOCOG,Conférence de presse - LOCOG,Briefing with LOCOG Spokesperson,Conférence de presse - LOCOG,Coletiva de imprensa - Rio2016
-PC,0,MP0,0,5,MP Press Conference,Conférence de presse - penta. moderne,Coletiva de imprensa - Pentatlo moderno,MP Press Conference,Conférence de presse - pentathlon moderne,Coletiva de imprensa - Pentatlo moderno
-PC,0,RO0,0,5,Rowing Press Conferences,Conference de presse - aviron,Coletiva de imprensa - Remo,Rowing Press Conferences,Conférence de presse - aviron,Coletiva de imprensa - Remo
-PC,0,RU0,0,5,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby
-PC,0,SA0,0,5,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela
-PC,0,SH0,0,5,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo
-PC,0,SPO,0,5,Sponsor Press Conference,Conférence de presse des partenaires,Conférence de presse des partenaires,Sponsor Press Conference,Conférence de presse des partenaires,Coletiva de imprensa - Patrocinador
-PC,0,SW0,0,5,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação
-PC,0,SY0,0,5,SY Press Conference,Conférence de presse - natation synchro.,Coletiva de imprensa - Nado sincronizado,SY Press Conference,Conférence de presse - natation synchronisée,Coletiva de imprensa - Nado sincronizado
-PC,0,TE0,0,5,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis
-PC,0,TK0,0,5,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo
-PC,0,TR0,0,5,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo
-PC,0,TT0,0,5,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa
-PC,0,VO0,0,5,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol
-PC,0,WL0,0,5,WL Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa-Levantamento peso,WL Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa - Levantamento de peso
-PC,0,WP0,0,5,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático
-PC,0,WR0,0,5,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica
-RO,0,000,0,8,Rowing,Aviron,Remo,Rowing,Aviron,Remo
-RO,0,000,N,7,Rowing Draw,"Aviron, tirage au sort","Remo, sorteio",Rowing Draw,"Aviron, tirage au sort","Remo, sorteio"
-RO,0,000,Q,4,Rowing Team Managers Meeting,"Aviron, réunion directeurs équipe","Remo, reunião técnica",Rowing Team Managers Meeting,"Aviron, réunion des directeurs d'équipe","Remo, reunião técnica"
-RO,0,000,Y,8,Rowing Daily Schedule,"Aviron, calendrier par jour","Remo, programação diária",Rowing Daily Schedule,"Aviron, calendrier par jour","Remo, programação diária"
-RO,0,000,Z,8,Rowing - Session,Aviron - session,Remo - sessão,Rowing - Session,Aviron - session,Remo - sessão
-RO,0,LAG,0,8,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa
-RO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-RO,M,012,0,8,Men's Single Sculls,Skiff - hommes,Single-skiff masculino,Men's Single Sculls,"Un rameur, skiff - hommes",Single-skiff masculino
+PC,0,AR0,0,5,Archery Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco,Japanese Archery Team Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco,,,
+PC,0,AT0,0,5,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo,,,
+PC,0,BD0,0,5,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton,,,
+PC,0,BK0,0,5,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol,,,
+PC,0,BV0,0,5,Beach Volleyball Press Conference,Conférence de presse - volleyball plage,Coletiva de imprensa - Vôlei de praia,Beach Volleyball Press Conference,Conférence de presse - volleyball de plage,Coletiva de imprensa - Vôlei de praia,,,
+PC,0,BX0,0,5,Boxing Press Conference - Final,Conférence de presse - boxe,Conférence de presse - boxe,Boxing Press Conference - Final,Conférence de presse - boxe,Coletiva de imprensa - Boxe,,,
+PC,0,CB0,0,8,Cycling BMX Media Conference,Cycling BMX Media Conference,Coletiva de imprensa - Ciclismo BMX,Cycling BMX Media Conference,Cycling BMX Media Conference,Coletiva de imprensa - Ciclismo BMX,,,
+PC,0,CF0,0,5,CF Press Conference,"Conf. de presse - canoë-kayak, ligne",Coletiva de imprensa-Canoagem velocidade,CF Press Conference,"Conférence de presse - canoë-kayak, course en ligne",Coletiva de imprensa - Canoagem velocidade,,,
+PC,0,CM0,0,5,CM Bike Press Conference,Conférence de presse - VTT,Coletiva de imprensa - Mountain bike,CM Bike Press Conference,Conférence de presse - VTT,Coletiva de imprensa - Mountain bike,,,
+PC,0,CR0,0,5,CR Press Conference,Conférence de presse - cyclisme route,Coletiva de imprensa-Ciclismo de estrada,CR Press Conference,Conférence de presse - cyclisme sur route,Coletiva de imprensa - Ciclismo de estrada,,,
+PC,0,CS0,0,5,CS Press Conference,"Conf. de presse - canoë-kayak, slalom",Coletiva de imprensa - Canoagem slalom,CS Press Conference,Conférence de presse - canoë-kayak slalom,Coletiva de imprensa - Canoagem slalom,,,
+PC,0,CT0,0,5,CT Press Conference,Conférence de presse - cyclisme piste,Coletiva de imprensa - Ciclismo de pista,CT Press Conference,Conférence de presse - cyclisme sur piste,Coletiva de imprensa - Ciclismo de pista,,,
+PC,0,DV0,0,5,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa -Saltos ornamentais,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa - Saltos ornamentais,,,
+PC,0,EQ0,0,5,Equestrian Press Conference,Conférence de presse - équitation,Coletiva de imprensa - Hipismo,Equestrian Press Conference,Conférence de presse - équitation,Coletiva de imprensa - Hipismo,,,
+PC,0,FB0,0,5,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol,,,
+PC,0,FE0,0,5,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima,,,
+PC,0,GA0,0,5,GA Press Conference,Conférence de presse - gym. artistique,Coletiva de imprensa-Ginástica artística,GA Press Conference,Conférence de presse - gymnastique artistique,Coletiva de imprensa - Ginástica artística,,,
+PC,0,GEN,0,8,General,Conférence de presse générale,Geral,General,Conférence de presse générale,Geral,,,
+PC,0,GEN,1,8,Australian Olympic Committee,Comité Olympique australien,Comité Olympique australien,Australian Olympic Committee,Comité Olympique australien,Comitê Olímpico Australiano,,,
+PC,0,GEN,2,8,Spanish Olympic Committee,Comité Olympique espagnol,Comité Olympique espagnol,Spanish Olympic Committee,Comité Olympique espagnol,Comitê Olímpico Espanhol,,,
+PC,0,GEN,3,8,US Olympic Committee,Comité Olympique des États-Unis,Comité Olympique des États-Unis,US Olympic Committee,Comité Olympique des États-Unis,Comitê Olímpico dos Estados Unidos ,,,
+PC,0,GEN,6,8,World Anti-Doping Agency,Agence Mondiale Antidopage,Agence Mondiale Antidopage,World Anti-Doping Agency,Agence Mondiale Antidopage,Agência Mundial Antidoping,,,
+PC,0,GEN,7,8,General Press Conference,Conférence de presse générale,Coletiva de imprensa - Geral,General Press Conference,Conférence de presse générale,Coletiva de Imprensa Geral,,,
+PC,0,GEN,9,8,Slovak Olympic Committee,Comité Olympique slovaque,Comité Olympique slovaque,Slovak Olympic Committee,Comité Olympique slovaque,Comitê Olímpico da Eslovênia,,,
+PC,0,GEN,A,8,Japanese Olympic Committee,Comité Olympique japonais,Comité Olympique japonais,Japanese Olympic Committee,Comité Olympique japonais,Comitê Olímpico Japonês,,,
+PC,0,GEN,B,8,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Korean Olympic Committee,Comitê Olímpico da Coreia do Sul ,,,
+PC,0,GEN,C,8,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Belgian Olympic Committee,Comitê Olímpico da Bélgica,,,
+PC,0,GEN,D,8,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,New Zealand Olympic Committee,Comitê Olímpico da Nova Zelândia,,,
+PC,0,GEN,E,8,British Olympic Association,British Olympic Association,British Olympic Association,British Olympic Association,British Olympic Association,Associação Olímpica Britânica,,,
+PC,0,GEN,F,8,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Serbian Olympic Committee,Comitê Olímpico Sérvio ,,,
+PC,0,GEN,G,8,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Luxembourg Olympic Committee,Comitê Olímpico de Luxemburgo ,,,
+PC,0,GEN,H,8,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Danish Olympic Committee,Comitê Olímpico Dinamarquês ,,,
+PC,0,GO0,0,5,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe,,,
+PC,0,GR0,0,5,GR Press Conference,Conférence de presse -  gym. rythmique,Coletiva de imprensa - Ginástica rítmica,GR Press Conference,Conférence de presse -  gymnastique rythmique,Coletiva de imprensa - Ginástica rítmica,,,
+PC,0,GT0,0,5,GT Press Conference,Conférence de presse -  trampoline,Coletiva de imprensa-Ginástica trampolim,GT Press Conference,Conférence de presse -  trampoline,Coletiva de imprensa - Ginástica de trampolim,,,
+PC,0,HB0,0,5,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol,,,
+PC,0,HO0,0,8,Hockey Press Conference,Conférence de presse - hockey,Coletiva de imprensa -Hóquei sobre grama,Japanese Women's Hockey Team Press Conference,Conférence de presse - hockey,Coletiva de imprensa - Hóquei sobre grama,,,
+PC,0,IOC,0,8,IOC/LOCOG Press Briefing,Réunion de presse CIO/LOCOG,Réunion de presse CIO/LOCOG,IOC/LOCOG Press Briefing,Réunion de presse CIO/LOCOG,Coletiva de imprensa - COI/Rio2016,,,
+PC,0,IOC,2,8,IOC General,Plan général CIO,Plan général CIO,IOC General,Plan général CIO,Plano Geral COI,,,
+PC,0,IOC,7,8,IOC Media Outreach Programme,Programme opérations médias du CIO,Programme opérations médias du CIO,IOC Media Outreach Programme,Programme des opérations médias du CIO,Programa de operações de mídia do COI,,,
+PC,0,JU0,0,5,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô,,,
+PC,0,LOC,0,5,LOCOG Press Conference,Conférence de presse - LOCOG,Conférence de presse - LOCOG,Briefing with LOCOG Spokesperson,Conférence de presse - LOCOG,Coletiva de imprensa - Rio2016,,,
+PC,0,MP0,0,5,MP Press Conference,Conférence de presse - penta. moderne,Coletiva de imprensa - Pentatlo moderno,MP Press Conference,Conférence de presse - pentathlon moderne,Coletiva de imprensa - Pentatlo moderno,,,
+PC,0,RO0,0,5,Rowing Press Conferences,Conference de presse - aviron,Coletiva de imprensa - Remo,Rowing Press Conferences,Conférence de presse - aviron,Coletiva de imprensa - Remo,,,
+PC,0,RU0,0,5,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby,,,
+PC,0,SA0,0,5,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela,,,
+PC,0,SH0,0,5,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo,,,
+PC,0,SPO,0,5,Sponsor Press Conference,Conférence de presse des partenaires,Conférence de presse des partenaires,Sponsor Press Conference,Conférence de presse des partenaires,Coletiva de imprensa - Patrocinador,,,
+PC,0,SW0,0,5,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação,,,
+PC,0,SY0,0,5,SY Press Conference,Conférence de presse - natation synchro.,Coletiva de imprensa - Nado sincronizado,SY Press Conference,Conférence de presse - natation synchronisée,Coletiva de imprensa - Nado sincronizado,,,
+PC,0,TE0,0,5,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis,,,
+PC,0,TK0,0,5,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo,,,
+PC,0,TR0,0,5,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo,,,
+PC,0,TT0,0,5,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa,,,
+PC,0,VO0,0,5,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol,,,
+PC,0,WL0,0,5,WL Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa-Levantamento peso,WL Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa - Levantamento de peso,,,
+PC,0,WP0,0,5,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático,,,
+PC,0,WR0,0,5,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica,,,
+RO,0,000,0,8,Rowing,Aviron,Remo,Rowing,Aviron,Remo,,,
+RO,0,000,N,7,Rowing Draw,"Aviron, tirage au sort","Remo, sorteio",Rowing Draw,"Aviron, tirage au sort","Remo, sorteio",,,
+RO,0,000,Q,4,Rowing Team Managers Meeting,"Aviron, réunion directeurs équipe","Remo, reunião técnica",Rowing Team Managers Meeting,"Aviron, réunion des directeurs d'équipe","Remo, reunião técnica",,,
+RO,0,000,Y,8,Rowing Daily Schedule,"Aviron, calendrier par jour","Remo, programação diária",Rowing Daily Schedule,"Aviron, calendrier par jour","Remo, programação diária",,,
+RO,0,000,Z,8,Rowing - Session,Aviron - session,Remo - sessão,Rowing - Session,Aviron - session,Remo - sessão,,,
+RO,0,LAG,0,8,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,,,
+RO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+RO,M,012,0,8,Men's Single Sculls,Skiff - hommes,Single-skiff masculino,Men's Single Sculls,"Un rameur, skiff - hommes",Single-skiff masculino,,,
 RO,M,012,1,3,Men's Single Sculls Finals,"Skiff - hommes, finales","Single-skiff masculino, finais",Men's Single Sculls Finals,"Un rameur, skiff - hommes, finales","Single-skiff masculino, finais",Finals,Finales,Finais
 RO,M,012,2,3,Men's Single Sculls Semifinals,"Skiff - hommes, demi-finales","Single-skiff masculino, semifinal",Men's Single Sculls Semifinals,"Un rameur, skiff - hommes, demi-finales","Single-skiff masculino, semifinal",Semifinals,Demi-finales,Semifinal
 RO,M,012,3,3,Men's Single Sculls Quarterfinals,"Skiff - hommes, quarts de finale","Single-skiff masculino, quartas de final",Men's Single Sculls Quarterfinals,"Un rameur, skiff - hommes, quarts de finale","Single-skiff masculino, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
@@ -1867,14 +1867,14 @@ TE,X,002,2,3,Mixed Doubles Semifinals,Double mixte - demi-finales,"Duplas mistas
 TE,X,002,3,3,Mixed Doubles Quarterfinals,Double mixte - quarts de finale,"Duplas mistas, quartas de final",Mixed Doubles Quarterfinals,Double mixte - quarts de finale,"Duplas mistas, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final
 TE,X,002,4,3,Mixed Doubles First Round,Double mixte - 2nd tour,"Duplas mistas, primeira rodada",Mixed Doubles First Round,Double mixte - 2nd tour,"Duplas mistas, primeira rodada",First Round,1er tour,Primeira rodada
 TE,X,002,M,6,Mixed Doubles Victory Ceremony,Double mixte - remise des médailles,"Duplas mistas, cer. premiação",Mixed Doubles Victory Ceremony,Double mixte - cérémonie de remise des médailles,"Duplas mistas, cerimônia de entrega das medalhas",Victory Ceremony,Cérémonie de remise des médailles,Cerimônia de entrega das medalhas
-TK,0,000,0,8,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo
-TK,0,000,N,7,Taekwondo Draw,Taekwondo - tirage au sort,"Taekwondo, sorteio",Taekwondo Draw,Taekwondo - tirage au sort,"Taekwondo, sorteio"
-TK,0,000,Q,4,Head of Team Meetings,Réunions des chefs d'équipe,Reuniões dos chefes de equipe,Head of Team Meetings,Réunions des chefs d'équipe,Reuniões dos chefes de equipe
-TK,0,000,Y,8,Taekwondo Daily Schedule,Taekwondo - calendrier par jour,"Taekwondo, programação diária",Taekwondo Daily Schedule,Taekwondo - calendrier par jour,"Taekwondo, programação diária"
-TK,0,000,Z,8,Taekwondo - Session,Taekwondo - session,Taekwondo - sessão,Taekwondo - Session,Taekwondo - session,Taekwondo - sessão
-TK,0,CA3,0,8,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3
-TK,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-TK,M,058,0,8,Men -58kg,-58 kg - hommes,Até 58kg masculino,Men -58kg,Moins de 58 kg - hommes,Até 58kg masculino
+TK,0,000,0,8,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo,,,
+TK,0,000,N,7,Taekwondo Draw,Taekwondo - tirage au sort,"Taekwondo, sorteio",Taekwondo Draw,Taekwondo - tirage au sort,"Taekwondo, sorteio",,,
+TK,0,000,Q,4,Head of Team Meetings,Réunions des chefs d'équipe,Reuniões dos chefes de equipe,Head of Team Meetings,Réunions des chefs d'équipe,Reuniões dos chefes de equipe,,,
+TK,0,000,Y,8,Taekwondo Daily Schedule,Taekwondo - calendrier par jour,"Taekwondo, programação diária",Taekwondo Daily Schedule,Taekwondo - calendrier par jour,"Taekwondo, programação diária",,,
+TK,0,000,Z,8,Taekwondo - Session,Taekwondo - session,Taekwondo - sessão,Taekwondo - Session,Taekwondo - session,Taekwondo - sessão,,,
+TK,0,CA3,0,8,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,,,
+TK,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+TK,M,058,0,8,Men -58kg,-58 kg - hommes,Até 58kg masculino,Men -58kg,Moins de 58 kg - hommes,Até 58kg masculino,,,
 TK,M,058,1,3,Men -58kg Gold Medal Contest,"-58 kg - hommes, médaille d'or","Até 58kg masculino, disputa pelo ouro",Men -58kg Gold Medal Contest,"Moins de 58 kg - hommes, finale (médaille d'or)","Até 58kg masculino, final (medalha de ouro)",Gold Medal Final,Finale (médaille d'or),Final (medalha de ouro)
 TK,M,058,2,3,Men -58kg Semifinals/Bronze Mdl Contests,"-58 kg - hommes, médaille de bronze","Até 58kg masc, 1/2 / disputa pelo bronze",Men -58kg Semifinals/Bronze Medal Contests,"Moins de 58 kg - hommes, demi-finales (médaille de bronze)","Até 58kg masculino, semifinais (disputa pela medalha de bronze)",Semifinals/Bronze Medal Finals,Demi-finales (médaille de bronze),Semifinais (Disputa pela medalha de bronze)
 TK,M,058,3,3,Men -58kg Quarterfinals/Repechages,"-58 kg - hommes, 1/4 finale - repêchage","Até 58kg masculino, 1/4 / repescagem",Men -58kg Quarterfinals/Repechages,"Moins de 58 kg - hommes, quarts de finale - repêchage","Até 58kg masculino, quartas de final / repescagem",Quarterfinals/Repechage,Quarts de finale - repêchage,Quartas de Final / repescagem
@@ -2037,52 +2037,52 @@ TT,W,E00,1,3,Women's Team Finals - Match 5,"Par équipes femmes, finales","Compe
 TT,W,E00,2,3,Women's Team Semifinals - Match 5,"Par équipes femmes, demi-finales","Competição por equipes feminina, 1/2",Women's Team Semifinals - Match 5,"Par équipes femmes, demi-finales","Competição por equipes feminina, semifinais",Semifinals - Match 5,Demi-finales,Semifinais
 TT,W,E00,3,3,Women's Team Quarterfinals - Match 5,"Par équipes femmes, quarts de finale","Equipes feminina, quartas de final",Women's Team Quarterfinals - Match 5,"Par équipes femmes, quarts de finale","Competição por equipes feminina, quartas de final",Quarterfinals - Match 5,Quarts de finale,Quartas de final
 TT,W,E00,9,3,Women's Team First Round - Match 5,"Par équipes femmes, 1er tour","Equipes feminina, primeira fase",Women's Team First Round - Match 5,"Par équipes femmes, 1er tour","Competição por equipes feminina, primeira fase",First Round,1er tour,Primeira fase
-UT,0,ART,0,8,Archery Training,Entraînement de tir a l'arc,Treinamento de tiro com arco,Archery Training,Entraînement de tir a l'arc,Treinamento de tiro com arco
-UT,0,ATT,0,8,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo
-UT,0,BDT,0,8,Badminton Training,Entraînement de badminton,Treinamento de badminton,Badminton Training,Entraînement de badminton,Treinamento de badminton
-UT,0,BKT,0,8,Basketball Training,Entraînement de basketball,Treinamento de basquetebol,Basketball Training,Entraînement de basketball,Treinamento de basquetebol
-UT,0,BVT,0,8,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia
-UT,0,BXT,0,8,Boxing Training,Entraînement de boxe,Treinamento de boxe,Boxing Training,Entraînement de boxe,Treinamento de boxe
-UT,0,CBT,0,8,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX
-UT,0,CFT,0,8,CF Training,"Entraînement de canoë-kayak, ligne",Treinamento de canoagem velocidade,Canoe Sprint Racing Training,"Entraînement de canoë-kayak, course en ligne",Treinamento de canoagem velocidade
-UT,0,CMT,0,8,CM Bike Training,Entraînement de VTT,Treinamento de ciclismo mountain bike,Cycling Mountain Bike Training,Entraînement de VTT,Treinamento de ciclismo mountain bike
-UT,0,CRT,0,8,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada
-UT,0,CST,0,8,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom
-UT,0,CTT,0,8,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista
-UT,0,DVT,0,8,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais
-UT,0,EQT,0,8,Equestrian Training,Entraînement d'équitation,Treinamento de hipismo,Equestrian Training,Entraînement d'équitation,Treinamento de hipismo
-UT,0,FBT,0,8,Football Training,Entraînement de football,Treinamento de futebol ,Football Training,Entraînement de football,Treinamento de futebol 
-UT,0,FET,0,8,Fencing Training,Entraînement d'escrime,Treinamento de esgrima,Fencing Training,Entraînement d'escrime,Treinamento de esgrima
-UT,0,GAT,0,8,Gymnastics Artistic Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística,Gymnastics Artistic Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística
-UT,0,GOT,0,8,Golf Training,Entraînement de golf,Treinamento de golfe,Golf Training,Entraînement de golf,Treinamento de golfe
-UT,0,GRT,0,8,Gymnastics Rhythmic Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica,Gymnastics Rhythmic Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica
-UT,0,GTT,0,8,GT Training,Entraînement de trampoline,Treinamento de ginástica de trampolim,Gymnastics Trampoline Training,Entraînement de trampoline,Treinamento de ginástica de trampolim
-UT,0,HBT,0,8,Handball Training,Entraînement de handball,Treinamento de handebol,Handball Training,Entraînement de handball,Treinamento de handebol
-UT,0,HOT,0,8,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama
-UT,0,JUT,0,8,Judo Training,Entraînement de judo,Treinamento de judô,Judo Training,Entraînement de judo,Treinamento de judô
-UT,0,MPT,0,8,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno
-UT,0,ROT,0,8,Rowing Training,Entraînement d'aviron,Treinamento de remo,Rowing Training,Entraînement d'aviron,Treinamento de remo
-UT,0,RUT,0,8,Rugby Training,Entraînement de rugby,Treinamento de Rugby,Rugby Training,Entraînement de rugby,Treinamento de Rugby
-UT,0,SAT,0,8,Sailing Training,Entraînement de voile,Treinamento de vela ,Sailing Training,Entraînement de voile,Treinamento de vela 
-UT,0,SHT,0,8,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo
-UT,0,SWT,0,8,Swimming Training,Entraînement  de natation,Treinamento de natação,Swimming Training,Entraînement  de natation,Treinamento de natação
-UT,0,SYT,0,8,SY Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado,Synchronised Swimming Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado
-UT,0,TET,0,8,Tennis Training,Entraînement de tennis,Treinamento de tênis,Tennis Training,Entraînement de tennis,Treinamento de tênis
-UT,0,TKT,0,8,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo
-UT,0,TRT,0,8,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo
-UT,0,TTT,0,8,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa
-UT,0,VOT,0,8,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol
-UT,0,WLT,0,8,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso
-UT,0,WPT,0,8,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático
-UT,0,WRT,0,8,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica ,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica 
-VB,0,000,0,8,Volleyball Sport,Volleyball,Voleibol,Volleyball Sport,Volleyball,Voleibol
-VO,0,000,0,8,Volleyball,Volleyball,Voleibol,Volleyball,Volleyball,Voleibol
-VO,0,000,N,7,Volleyball - Draw,Volleyball - tirage au sort,"Voleibol, sorteio",Volleyball - Draw,Volleyball - tirage au sort,"Voleibol, sorteio"
-VO,0,000,Q,9,Volleyball - Team Captains Meeting,"Volleyball, réunion des chefs d'équipe","Voleibol, reunião dos chefes de equipe",Volleyball - Team Captains Meeting,"Volleyball, réunion des chefs d'équipe","Voleibol, reunião dos chefes de equipe"
-VO,0,000,Y,8,Volleyball Daily Schedule,Volleyball - calendrier par jour,"Voleibol, programação diária",Volleyball Daily Schedule,Volleyball - calendrier par jour,"Voleibol, programação diária"
-VO,0,MNZ,0,8,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho
-VO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
-VO,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino
+UT,0,ART,0,8,Archery Training,Entraînement de tir a l'arc,Treinamento de tiro com arco,Archery Training,Entraînement de tir a l'arc,Treinamento de tiro com arco,,,
+UT,0,ATT,0,8,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo,,,
+UT,0,BDT,0,8,Badminton Training,Entraînement de badminton,Treinamento de badminton,Badminton Training,Entraînement de badminton,Treinamento de badminton,,,
+UT,0,BKT,0,8,Basketball Training,Entraînement de basketball,Treinamento de basquetebol,Basketball Training,Entraînement de basketball,Treinamento de basquetebol,,,
+UT,0,BVT,0,8,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia,,,
+UT,0,BXT,0,8,Boxing Training,Entraînement de boxe,Treinamento de boxe,Boxing Training,Entraînement de boxe,Treinamento de boxe,,,
+UT,0,CBT,0,8,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX,,,
+UT,0,CFT,0,8,CF Training,"Entraînement de canoë-kayak, ligne",Treinamento de canoagem velocidade,Canoe Sprint Racing Training,"Entraînement de canoë-kayak, course en ligne",Treinamento de canoagem velocidade,,,
+UT,0,CMT,0,8,CM Bike Training,Entraînement de VTT,Treinamento de ciclismo mountain bike,Cycling Mountain Bike Training,Entraînement de VTT,Treinamento de ciclismo mountain bike,,,
+UT,0,CRT,0,8,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada,,,
+UT,0,CST,0,8,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom,,,
+UT,0,CTT,0,8,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista,,,
+UT,0,DVT,0,8,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais,,,
+UT,0,EQT,0,8,Equestrian Training,Entraînement d'équitation,Treinamento de hipismo,Equestrian Training,Entraînement d'équitation,Treinamento de hipismo,,,
+UT,0,FBT,0,8,Football Training,Entraînement de football,Treinamento de futebol ,Football Training,Entraînement de football,Treinamento de futebol ,,,
+UT,0,FET,0,8,Fencing Training,Entraînement d'escrime,Treinamento de esgrima,Fencing Training,Entraînement d'escrime,Treinamento de esgrima,,,
+UT,0,GAT,0,8,Gymnastics Artistic Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística,Gymnastics Artistic Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística,,,
+UT,0,GOT,0,8,Golf Training,Entraînement de golf,Treinamento de golfe,Golf Training,Entraînement de golf,Treinamento de golfe,,,
+UT,0,GRT,0,8,Gymnastics Rhythmic Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica,Gymnastics Rhythmic Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica,,,
+UT,0,GTT,0,8,GT Training,Entraînement de trampoline,Treinamento de ginástica de trampolim,Gymnastics Trampoline Training,Entraînement de trampoline,Treinamento de ginástica de trampolim,,,
+UT,0,HBT,0,8,Handball Training,Entraînement de handball,Treinamento de handebol,Handball Training,Entraînement de handball,Treinamento de handebol,,,
+UT,0,HOT,0,8,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama,,,
+UT,0,JUT,0,8,Judo Training,Entraînement de judo,Treinamento de judô,Judo Training,Entraînement de judo,Treinamento de judô,,,
+UT,0,MPT,0,8,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno,,,
+UT,0,ROT,0,8,Rowing Training,Entraînement d'aviron,Treinamento de remo,Rowing Training,Entraînement d'aviron,Treinamento de remo,,,
+UT,0,RUT,0,8,Rugby Training,Entraînement de rugby,Treinamento de Rugby,Rugby Training,Entraînement de rugby,Treinamento de Rugby,,,
+UT,0,SAT,0,8,Sailing Training,Entraînement de voile,Treinamento de vela ,Sailing Training,Entraînement de voile,Treinamento de vela ,,,
+UT,0,SHT,0,8,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo,,,
+UT,0,SWT,0,8,Swimming Training,Entraînement  de natation,Treinamento de natação,Swimming Training,Entraînement  de natation,Treinamento de natação,,,
+UT,0,SYT,0,8,SY Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado,Synchronised Swimming Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado,,,
+UT,0,TET,0,8,Tennis Training,Entraînement de tennis,Treinamento de tênis,Tennis Training,Entraînement de tennis,Treinamento de tênis,,,
+UT,0,TKT,0,8,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo,,,
+UT,0,TRT,0,8,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo,,,
+UT,0,TTT,0,8,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa,,,
+UT,0,VOT,0,8,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol,,,
+UT,0,WLT,0,8,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso,,,
+UT,0,WPT,0,8,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático,,,
+UT,0,WRT,0,8,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica ,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica ,,,
+VB,0,000,0,8,Volleyball Sport,Volleyball,Voleibol,Volleyball Sport,Volleyball,Voleibol,,,
+VO,0,000,0,8,Volleyball,Volleyball,Voleibol,Volleyball,Volleyball,Voleibol,,,
+VO,0,000,N,7,Volleyball - Draw,Volleyball - tirage au sort,"Voleibol, sorteio",Volleyball - Draw,Volleyball - tirage au sort,"Voleibol, sorteio",,,
+VO,0,000,Q,9,Volleyball - Team Captains Meeting,"Volleyball, réunion des chefs d'équipe","Voleibol, reunião dos chefes de equipe",Volleyball - Team Captains Meeting,"Volleyball, réunion des chefs d'équipe","Voleibol, reunião dos chefes de equipe",,,
+VO,0,000,Y,8,Volleyball Daily Schedule,Volleyball - calendrier par jour,"Voleibol, programação diária",Volleyball Daily Schedule,Volleyball - calendrier par jour,"Voleibol, programação diária",,,
+VO,0,MNZ,0,8,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,,,
+VO,M,000,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
+VO,M,400,0,8,Men,Hommes,Masculino,Men,Hommes,Masculino,,,
 VO,M,400,1,3,Men's Final Round,"Hommes, finales","Masculino, finais",Men's Final Round,"Hommes, finales","Masculino, finais",Final Round,Finales,Finais
 VO,M,400,2,3,Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Men's Semifinals,"Hommes, demi-finales","Masculino, semifinais",Semifinals,Demi-finales,Semifinais
 VO,M,400,3,3,Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Men's Quarterfinals,"Hommes, quarts de finale","Masculino, quartas de final",Quarterfinals,Quarts de finale,Quartas de Final

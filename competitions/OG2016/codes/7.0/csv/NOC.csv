@@ -6,7 +6,7 @@ ALG,ALG,Algeria,Algérie,Argélia,Algeria,Algérie,Argélia,AFR,P,4
 AND,AND,Andorra,Andorre,Andorra,Andorra,Andorre,Andorra,EUR,P,6
 ANG,ANG,Angola,Angola,Angola,Angola,Angola,Angola,AFR,P,7
 ANT,ANT,Antigua & Barbuda,Antigua-Barbuda,Antígua e Barbuda,Antigua and Barbuda,Antigua-et-Barbuda,Antígua e Barbuda,AME,P,8
-ANZ,ANZ,AUS/NZL,AUS/NZL,AUS/NZL,Australia/New Zealand,Australie/Nouvelle-Zélande,Austrrália/Nova Zelândia,OCE,H
+ANZ,ANZ,AUS/NZL,AUS/NZL,AUS/NZL,Australia/New Zealand,Australie/Nouvelle-Zélande,Austrrália/Nova Zelândia,OCE,H,
 ARG,ARG,Argentina,Argentine,Argentina,Argentina,Argentine,Argentina,AME,P,11
 ARM,ARM,Armenia,Arménie,Armênia,Armenia,Arménie,Armênia,EUR,P,12
 ARU,ARU,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,AME,P,13
@@ -40,7 +40,7 @@ CGO,CGO,Congo,Congo,República do Congo,Congo,Congo,República do Congo,AFR,P,46
 CHA,CHA,Chad,Tchad,Chade,Chad,Tchad,Chade,AFR,P,185
 CHI,CHI,Chile,Chili,Chile,Chile,Chili,Chile,AME,P,41
 CHN,CHN,China,Chine,China,People's Republic of China,République populaire de Chine,República Popular da China,ASI,P,42
-CIS,CIS,CIS,CIS,CEI,Commonwealth of Independent States,FRA Commonwealth of Independent States,Comunidade dos Estados Independentes,EUR,H
+CIS,CIS,CIS,CIS,CEI,Commonwealth of Independent States,FRA Commonwealth of Independent States,Comunidade dos Estados Independentes,EUR,H,
 CIV,CIV,Côte d'Ivoire,Côte d'Ivoire,Costa do Marfim,Côte d'Ivoire,Côte d'Ivoire,Costa do Marfim,AFR,P,51
 CMR,CMR,Cameroon,Cameroun,Camarões,Cameroon,Cameroun,Camarões,AFR,P,37
 COD,COD,DR Congo,RD Congo,"Congo, Rep. Dem.",Democratic Republic of the Congo,République démocratique du Congo,República Democrática do Congo,AFR,P,47
@@ -59,23 +59,23 @@ DMA,DMA,Dominica,Dominique,Dominica,Dominica,Dominique,Dominica,AME,P,57
 DOM,DOM,Dominican Republic,Rép. Dominicaine,República Dominicana,Dominican Republic,République dominicaine,República Dominicana,AME,P,56
 ECU,ECU,Ecuador,Équateur,Equador,Ecuador,Équateur,Equador,AME,P,61
 EGY,EGY,Egypt,Égypte,Egito,Egypt,Égypte,Egito,AFR,P,58
-ENG,ENG,England,Angleterre,Inglaterra,England,Angleterre,Inglaterra,EUR,H
+ENG,ENG,England,Angleterre,Inglaterra,England,Angleterre,Inglaterra,EUR,H,
 ERI,ERI,Eritrea,Érythrée,Eritréia,Eritrea,Érythrée,Eritréia,AFR,P,62
 ESA,ESA,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,AME,P,59
 ESP,ESP,Spain,Espagne,Espanha,Spain,Espagne,Espanha,EUR,P,63
 EST,EST,Estonia,Estonie,Estônia,Estonia,Estonie,Estônia,EUR,P,64
 ETH,ETH,Ethiopia,Éthiopie,Etiópia,Ethiopia,Éthiopie,Etiópia,AFR,P,66
-EUN,EUN,Unified Team,Équipe unifiée,Equipe Unificada,Unified Team,Équipe unifiée,Equipe Unificada,EUR,H
+EUN,EUN,Unified Team,Équipe unifiée,Equipe Unificada,Unified Team,Équipe unifiée,Equipe Unificada,EUR,H,
 FIJ,FIJ,Fiji,Fidji,Fiji,Fiji,Fidji,Fiji,OCE,P,68
 FIN,FIN,Finland,Finlande,Finlândia,Finland,Finlande,Finlândia,EUR,P,69
 FRA,FRA,France,France,França,France,France,França,EUR,P,70
-FRG,FRG,FRG,FRG,Alemanha Ocidental,Federal Republic of Germany,République Fédérale d'Allemagne,República Federal da Alemanha,EUR,H
+FRG,FRG,FRG,FRG,Alemanha Ocidental,Federal Republic of Germany,République Fédérale d'Allemagne,República Federal da Alemanha,EUR,H,
 FSM,FSM,Micronesia,Micronésie,Micronésia,Federated States of Micronesia,États fédérés de Micronésie,Micronésia,OCE,P,124
 GAB,GAB,Gabon,Gabon,Gabão,Gabon,Gabon,Gabão,AFR,P,71
 GAM,GAM,Gambia,Gambie,Gâmbia,Gambia,Gambie,Gâmbia,AFR,P,72
 GBR,GBR,Great Britain,Grande-Bretagne,Grã-Bretanha,Great Britain,Grande-Bretagne,Grã-Bretanha,EUR,P,75
 GBS,GBS,Guinea-Bissau,Guinée-Bissau,Guiné-Bissau,Guinea-Bissau,Guinée-Bissau,Guiné-Bissau,AFR,P,81
-GDR,GDR,GDR,RDA,Alemanha Oriental,GDR,RDA,República Democrática Alemã,EUR,H
+GDR,GDR,GDR,RDA,Alemanha Oriental,GDR,RDA,República Democrática Alemã,EUR,H,
 GEO,GEO,Georgia,Géorgie,Geórgia,Georgia,Géorgie,Geórgia,EUR,P,73
 GEQ,GEQ,Equatorial Guinea,Guinée équatoriale,Guiné Equatorial,Equatorial Guinea,Guinée équatoriale,Guiné Equatorial,AFR,P,82
 GER,GER,Germany,Allemagne,Alemanha,Germany,Allemagne,Alemanha,EUR,P,5
@@ -109,7 +109,7 @@ KEN,KEN,Kenya,Kenya,Quênia,Kenya,Kenya,Quênia,AFR,P,100
 KGZ,KGZ,Kyrgyzstan,Kirghizistan,Quirguistão,Kyrgyzstan,Kirghizistan,Quirguistão,ASI,P,101
 KIR,KIR,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,OCE,P,102
 KOR,KOR,Korea,Corée,República da Coréia,Republic of Korea,République de Corée,República da Coréia,ASI,P,49
-KOS,KOS,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,EUR,P
+KOS,KOS,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,EUR,P,
 KSA,KSA,Saudi Arabia,Arabie saoudite,Arábia Saudita,Saudi Arabia,Arabie saoudite,Arábia Saudita,ASI,P,10
 KUW,KUW,Kuwait,Koweït,Kuaite,Kuwait,Koweït,Kuaite,ASI,P,103
 LAO,LAO,Lao PDR,RDP lao,Laos,Lao People's Democratic Republic,République démocratique populaire lao,República Democrática Popular Lau,ASI,P,104
@@ -168,7 +168,7 @@ RSA,RSA,South Africa,Afrique du Sud,África do Sul,South Africa,Afrique du Sud,�
 RUS,RUS,Russia,Russie,Federação Russa,Russian Federation,Fédération de Russie,Federação Russa,EUR,P,157
 RWA,RWA,Rwanda,Rwanda,Ruanda,Rwanda,Rwanda,Ruanda,AFR,P,158
 SAM,SAM,Samoa,Samoa,Samoa,Samoa,Samoa,Samoa,OCE,P,164
-SCG,SCG,Serbia & Montenegro,Serbie-et-Monténégro,Sérvia e Montenegro,Serbia and Montenegro,Serbie-et-Monténégro,Estado da Sérvia e Montenegro,EUR,H
+SCG,SCG,Serbia & Montenegro,Serbie-et-Monténégro,Sérvia e Montenegro,Serbia and Montenegro,Serbie-et-Monténégro,Estado da Sérvia e Montenegro,EUR,H,
 SEN,SEN,Senegal,Sénégal,Senegal,Senegal,Sénégal,Senegal,AFR,P,167
 SEY,SEY,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,AFR,P,169
 SIN,SIN,Singapore,Singapour,Singapura,Singapore,Singapour,Singapura,ASI,P,171
@@ -188,9 +188,9 @@ SVK,SVK,Slovakia,Slovaquie,Eslováquia,Slovakia,Slovaquie,Eslováquia,EUR,P,172
 SWE,SWE,Sweden,Suède,Suécia,Sweden,Suède,Suécia,EUR,P,177
 SWZ,SWZ,Swaziland,Swaziland,Suazilândia,Swaziland,Swaziland,Suazilândia,AFR,P,180
 SYR,SYR,Syria,Syrie,Síria,Syrian Arab Republic,République arabe syrienne,República Árabe Síria,ASI,P,181
-TAH,TAH,Tahiti,Tahiti,Taiti,Tahiti,Tahiti,Taiti,OCE,H
+TAH,TAH,Tahiti,Tahiti,Taiti,Tahiti,Tahiti,Taiti,OCE,H,
 TAN,TAN,Tanzania,Tanzanie,Tanzânia,United Republic of Tanzania,République-Unie de Tanzanie,República Unida da Tanzânia,AFR,P,184
-TCH,TCH,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,EUR,H
+TCH,TCH,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,EUR,H,
 TGA,TGA,Tonga,Tonga,Tonga,Tonga,Tonga,Tonga,OCE,P,190
 THA,THA,Thailand,Thaïlande,Tailândia,Thailand,Thaïlande,Tailândia,ASI,P,187
 TJK,TJK,Tajikistan,Tadjikistan,Tadjiquistão,Tajikistan,Tadjikistan,Tadjiquistão,ASI,P,182
@@ -205,7 +205,7 @@ TUV,TUV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,OCE,P,195
 UAE,UAE,United Arab Emirates,Émirats arabes unis,Emirados Árabes Unid,United Arab Emirates,Émirats arabes unis,Emirados Árabes Unidos,ASI,P,60
 UGA,UGA,Uganda,Ouganda,Uganda,Uganda,Ouganda,Uganda,AFR,P,140
 UKR,UKR,Ukraine,Ukraine,Ucrânia,Ukraine,Ukraine,Ucrânia,EUR,P,196
-URS,URS,USSR,U.R.S.S.,U.R.S.S.,USSR,U.R.S.S.,União das Repúblicas Socialistas Soviéticas,EUR,H
+URS,URS,USSR,U.R.S.S.,U.R.S.S.,USSR,U.R.S.S.,União das Repúblicas Socialistas Soviéticas,EUR,H,
 URU,URU,Uruguay,Uruguay,Uruguai,Uruguay,Uruguay,Uruguai,AME,P,197
 USA,USA,United States,États-Unis,Estados Unidos,United States of America,États-Unis d'Amérique,Estados Unidos,AME,P,65
 UZB,UZB,Uzbekistan,Ouzbékistan,Uzbequistão,Uzbekistan,Ouzbékistan,Uzbequistão,ASI,P,141
@@ -214,6 +214,6 @@ VEN,VEN,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,AME,P,199
 VIE,VIE,Vietnam,Vietnam,Vietnã,Vietnam,Vietnam,Vietnã,ASI,P,202
 VIN,VIN,St Vinc & Grenadines,St Vinc & Grenadines,São Vicente e Granad,St Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,São Vicente e Granadinas,AME,P,162
 YEM,YEM,Yemen,Yémen,Iêmen,Yemen,Yémen,Iêmen,ASI,P,203
-YUG,YUG,Yugoslavia,Yougoslavie,Iugoslávia,The Federal Republic of Yugoslavia,Yougoslavie,República Socialista Federativa da Iugoslávia,EUR,H
+YUG,YUG,Yugoslavia,Yougoslavie,Iugoslávia,The Federal Republic of Yugoslavia,Yougoslavie,República Socialista Federativa da Iugoslávia,EUR,H,
 ZAM,ZAM,Zambia,Zambie,Zâmbia,Zambia,Zambie,Zâmbia,AFR,P,204
 ZIM,ZIM,Zimbabwe,Zimbabwe,Zimbábue,Zimbabwe,Zimbabwe,Zimbábue,AFR,P,205

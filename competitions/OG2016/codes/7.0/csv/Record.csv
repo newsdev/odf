@@ -101,13 +101,13 @@ FEW402000,FEW402,9,Women's Épée Team,Épée par équipes - femmes,Espada por e
 FEW403000,FEW403,10,Women's Sabre Team,Sabre par équipes - femmes,Sabre por equipes feminino
 MPM0010000,MPM001,2,Men's Overall Points,Hommes global,Masculino geral
 MPM001A000,MPM001,4,Men's Fencing Record,Épreuve d'escrime - hommes,Prova de esgrima masculina
-MPM001B001,MPM001,6,Men's Swimming 25m Pool
-MPM001B002,MPM001,8,Men's Swimming 50m Pool
+MPM001B001,MPM001,6,Men's Swimming 25m Pool,,
+MPM001B002,MPM001,8,Men's Swimming 50m Pool,,
 MPM001D000,MPM001,10,Men's Combined Running/Shooting Record,Épreuve combinée - hommes,Prova combinada masculina
 MPW0010000,MPW001,1,Women's Overall Points,Femmes global,Feminino geral
 MPW001A000,MPW001,3,Women's Fencing Record,Épreuve d'escrime - femmes,Prova de esgrima feminino
-MPW001B001,MPW001,5,Women's Swimming 25m Pool
-MPW001B002,MPW001,7,Women's Swimming 50m Pool
+MPW001B001,MPW001,5,Women's Swimming 25m Pool,,
+MPW001B002,MPW001,7,Women's Swimming 50m Pool,,
 MPW001D000,MPW001,9,Women's Combined Running/Shooting Record,Épreuve combinée - femmes,Prova combinada - feminino
 ROM012000,ROM012,1,Men's Single Sculls,"Un rameur, skiff - hommes",Single-skiff masculino
 ROM021000,ROM021,3,Men's Pair,Deux en pointe - hommes,Dois sem masculino

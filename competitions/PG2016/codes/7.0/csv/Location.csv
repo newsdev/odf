@@ -7,7 +7,7 @@ BO3,CA2,3,Y,Carioca Arena 2 - Court 3,Arena Carioca 2 - Quadra 3,Carioca Arena 2
 BO4,CA2,4,Y,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,CA2BO1
 BO5,CA2,5,Y,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,CA2BO1
 BO6,CA2,6,Y,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,CA2BO1
-CA1,CA1,,Y,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1
+CA1,CA1,,Y,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,
 CA2,CA2,,Y,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Arena Carioca 2,CA2BO1
 CA3,CA3,,Y,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Arena Carioca 3,CA3JU1
 CF1,LAG,,Y,Lagoa Stadium - Cannoe Sprint,Estádio da Lagoa,Lagoa Stadium - Cannoe Sprint,Estádio da Lagoa,LAGCF1
@@ -23,8 +23,8 @@ LAG,LAG,,Y,Lagoa Stadium,Estádio da Lagoa,Lagoa Stadium,Estádio da Lagoa,LAGRO
 OAS,OAS,,Y,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Estádio Aquático Olímpico,OASSW1
 OLS,OLS,,Y,Olympic Stadium,Estádio Olímpico,Olympic Stadium,Estádio Olímpico,OLSAT1
 OSC,OSC,,Y,Olympic Shooting Centre,Centro Olímpico de Tiro,Olympic Shooting Centre,Centro Olímpico de Tiro,OSCSH1
-OTN,OTN,,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Olympic Tennis Centre,Centro Olímpico de Tênis
-PON,PON,,Y,Pontal,Pontal,Pontal,Pontal
+OTN,OTN,,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Olympic Tennis Centre,Centro Olímpico de Tênis,
+PON,PON,,Y,Pontal,Pontal,Pontal,Pontal,
 RC2,RC2,,Y,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,RC2PO1
 RC3,RC3,,Y,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,RC3TT1
 RC6,RC6,,Y,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,RC6VS1

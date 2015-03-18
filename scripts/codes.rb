@@ -34,11 +34,14 @@ class Loader
 
       sheet.sheet_data[0..-1].each_with_index do |row, idx|
         begin
+          # Skip rows without cells and rows that are shaded red
           next unless row && row.cells.size > 0 && row.cells.first
-          # Skip rows that are shaded red
           next if row.cells.first.fill_color.downcase == 'ffff0000'
 
           values = row.cells.map { |i| i ? i.value : nil }
+
+          # Skip empty rows
+          next unless values.compact.size > 0
 
           if sport_codes
             values[1].gsub!(/^@/, '')

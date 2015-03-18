@@ -1,0 +1,15 @@
+ODF1 Code,ODF2 Code,ENG Description
+1,UNSCHEDULED,Planned
+2,SCHEDULED,Scheduled
+3,GETTING_READY,Getting Ready,"Applied in ALL ODF2 disciplines and in the following ODF1: AT, CF, SW"
+4,RUNNING,Running
+15,INTERRUPTED,Interrupted
+,SCHEDULED_BREAK,Scheduled Break
+,FINISHED,Finished
+6,,Unofficial
+7,,Official
+9,DELAYED,Delayed
+11,CANCELLED,Cancelled
+12,PROTESTED,Protested
+13,POSTPONED,Postponed
+14,RESCHEDULED,Rescheduled

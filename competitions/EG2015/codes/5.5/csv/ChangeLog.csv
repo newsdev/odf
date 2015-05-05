@@ -1,0 +1,408 @@
+Changes Since Last Version,,,,
+Version,Date,Changes,,,,,,,,,,,
+1.0 DRAFT,2014-04-10T00:00:00+00:00,Initial draft - Pending Revision,,,,,,,,,,,
+1.1 DRAFT,,"Record and Record Type tables - reviewed to adjust to records condidered here
+TR0000Ynn - reduced the number of Daily Schedule days to 10
+SW0000Ynn - reduced the number of Daily Schedule days to 15
+Reviewed TK and TR
+
+",,,,,
+1.2 DRAFT,,"Updates codes related to TK M+80kg and W+67Kg, instead of M+87Kg and W+73kg",,,,,
+1.3 DRAFT,2014-06-04T00:00:00+00:00,"Added missing tables (See green addition in Contents tab)
+Removed all logos, headers and other non-data related information from tables
+Added additional schedule status for ODF 2.0 status transported over ODF 1.0
+All added table contains sample data copied from Rio2016 OG Common Codes.
+They have to be validated and modified if required by BEGOC
+Added to content table the Codeset (ease automating importation)
+Moved content table by one column to the right",,,,,
+1.4 DRAFT,2014-06-17T00:00:00+00:00,"1 -  Syncronised with BEGOC_CodeSet_20140613 - Adjustments to tables: Country, NOC, Organisation and Venues
+2- Added column BEGOC to the Contents tab to indicate which code sets are owned by BEGOC and shared with other functional areas
+3-  Replaced Event, Phase and Event Units tables with the ones in v1.2-MF - the ones used to build v1.3 were outdated
+4 - Added temporary venues for TR (TRF) and CR (CYR) - impacts Event, Phase, Event Unit, Location and Venue
+5- Consolidated Accreditation Function  and Sport Function into 'Participant Function'. Accreditation codes not yet defined, Sport Codes are the ones from London. 
+6- WP Common codes update:
+All - Updated venue code from BAC to WAP, and the corresponding description.
+Event Unit - Removed extra competition days in both Men's competition and Women's competition.
+Event Unit - Removed Tie break games event units in both Men's competition and Women's competition.
+Event Unit - Added extra event unit in Men's competition in the Semifinal round, Quaterfinal round.
+Phase/Event Unit - Updated group round description from Preliminary round to Group round.
+Event Unit - Added extra teams to Women's competition.
+Event Unit - Added extra event unit in Women's competition in the Final round, Semifinal round.
+7 -  TT Common codes update:
+Phase - Update phase number for the Single's Initial rounds (TTM001/TTW001).
+Phase - Added preliminary round for Teams (TTM400/TTW400).
+Phase - Added TT0000Y, TT daily schedule
+Event Unit - Remove extra TT0000Yxx units.
+Event Unit - Updated event units accordangly to Initial round update in phase (TTM001/TTW001).
+Event Unit - Added Team's preliminary round event units (TTM4009xx/TTW4009xx).
+Event Unit - Addes days for singles and team events (TT0001Yxx/TT0400Yxx).",,
+1.5,2014-06-17T00:00:00+00:00,"1 - Syncronised with BEGOC_CodeSet_20140613
+2 - EVENT - removed 'Short Name' and 'Competition Schedule Name' columns
+3 - PHASE and EVENT UNIT - removed all codes other than BD, CE, CF, GL, SW, TK, TR, TT, UT and WP - codes will be added after validation following the Sport Pack delivery schedule
+4 - EVENT UNIT: added 'ENG TV Name' column - to be used in TVG
+5 - PHASE, EVENT UNIT - adjusted the length of some description in the 'ENG Results Short Name' column to 40 char",,
+2.0,2014-07-18T00:00:00+00:00,"1. Synchronised with BEGOC_CodeSet_20140709
+2. EVENT UNIT and PHASE - Adjusted ENG Short Name for CF
+3. LOCATION - Changed TT1, TT2, TT3 and TT4 to TB1, TB2, TB3 and TB4 in order not to conflict with TT1 and TT2 venues
+4. EVENT UNIT - Added event units for BV, DV, SY
+5. PHASE - Added phases for BV, DV, SY
+6. EVENT - Set to ""N"" the 'Team Event Flag' for the SH events 401, M402, 403
+7. SCHEDULESTATUS - The new 'combined' ODF1/ODF2 table has been inserted, as agreed by email communication among BECOG, D3 & SwissTiming",,
+2.1,2014-07-25T00:00:00+00:00,"1. EVENT, EVENT UNIT and PHASE - Corrected Diving - only 1 plarform event - 100 (divers can chose different heights)
+2. EVENT UNIT - Schedule's Description corrected for the Events: CFW122 and CFM116; yellow highlighted
+3. PHASE - All the Descriptions for the Event SWM0101 have been corrected ('Finals' to 'Final'); yellow highlighted",,
+2.2,2014-08-19T00:00:00+00:00,"1. SW updates according to the EGRIS document:
+EVENT UNIT - SW: Deleted SWM0159UU - Men's 1500m Freestyle Heats and Swim-off / SWM0189UU - Men's 800m Freestyle Heats and Swim-off / SWW0159UU - Women's 1500m Freestyle Heats and Swim-off / SWW0189UU - Women's 800m Freestyle Heats and Swim-off",,
+,,"2. EVENT UNIT - BV: corrected names used in the Preliminary Phase (Group Stage and Elimination Round) 
+3. EVENT UNIT and PHASE - DV: corrected the Phase/Unit Short Name for DVM203 to shorten the length from 41 characters to 40
+4. EVENT UNIT and PHASE - The column for Competiton Schedule names is hidden - those names are, in principle, not going to be used; keeping them hidden just in case
+5. EVENT: several changes to Pack #+3 sports and changes to venues for the sports in Crystal Hall",,
+,,"6. AR updates:
+- EVENT - AR: Couple of changes made in the table (descriptions, non-used events, etc.)
+- EVENT UNIT and PHASE  - AR: the related tables have beed added
+
+7. EVENT: Athletics (AT) has been added
+8. BD updates:
+- EVENT UNIT - BD: Removed all bronze medal maches BDM001102 / BDM002102 / BDW001102 / BDW002102 / BDX002102
+- EVENT UNIT and PHASE: Updated phases' number for group round for BD events; from BDM0015UU / BDM0024UU / BDW0015UU / BDW0024UU / BDX0024UU to BDM0019UU / BDM0029UU / BDW0019UU / BDW0029UU / BDX0029UU
+
+9. EVENT UNIT and PHASE - BV: Phase 8 changed to '5'
+10. CF updates according to the EGRIS document:
+- EVENT UNIT - CF: Deleted All Kayak Single (K1) 5000m Men and Women Heats, Semifinals, Re - Race and Final A, Final B
+- PHASE - CF: Deleted Kayak Single (K1) 5000m Men - Semifinals, Kayak Single (K1) 5000m Men - Heats, Kayak Single (K1) 5000m Women - Semifinals, Kayak Single (K1) 5000m Women - Heats
+
+11. EVENT UNIT and PHASE - TK: corrected venue from CH2 to CH3
+12. WP updates:
+- EVENT UNIT and PHASE - WP: Added phase for WPM400xxx, phase 8 - qualifying round, and event units: WPM400800 / WPM400801 / WPM400802 / WPM400803 / WPM400804
+- EVENT UNIT - WP: Added WPM400105 / WPM400106 / WPM400107 / WPM400108 / WPW400106
+- EVENT UNIT - WP: Removed WPM400305 / WPM400306 / WPM400307 / WPM400308 / WPM400309 / WPM400310 / WPM400311 / WPM400312
+- EVENT UNIT - WP: Descriptions are updated for WPM400205 / WPM400206 / WPM400207 / WPM400208 / WPW400203 / WPW400204 / WPW400301 / WPW400302 / WPW400303 / WPW400304",,
+3.0,2014-08-25T00:00:00+00:00,"1. EVENT UNIT - BD: Updated 'Medal Flag' indicators for the phase's 2 (SF) units from '0' to '2', since there will be no bronze medal matches",,
+,,"2. EVENT: Added Events for AT (Mixed Team event as the Medal one), GA, GC
+3. PHASE: Added Phases for AT, B3, CM, GA, GC, GE, GR, GT, SH, VO, WR
+4. EVENT UNIT: Added Event Units for AT, B3, CM, GA, GC, GE, GR, GT, SH, VO, WR
+5. RECORD - SH: Added Records for SH events",,
+,2014-08-26T00:00:00+00:00,WR: Event Unit and Phase - updated the column  Long Name description ,,
+,,"SH: Event Unit and Phase - updated the column Long Name description (Marked as yellow)
+EVENT UNIT - SHX411PUU: Long and Short name descriptions have been corrected (""10m"" instead of ""100m"")",,
+3.1,2014-09-05T00:00:00+00:00,"1. EVENT: The TeamFlag column has been updated
+2. EVENT - AT: 2 identical rows have been removed (AT0000, AT0STA)
+3. EVENT, EVENT UNIT and PHASE - AT: The references to the ATM999 and ATW999 have been removed since only one medal event exists (ATX999)
+4. WEATHER CONDITION: The sheet has been added since the DT_WEATHER is included in the ODF
+5. WIND DIRECTION: The sheet has been added since the DT_WEATHER is included in the ODF
+6. EVENT UNIT - SW: Restore of SWM0159UU - Men's 1500m Freestyle Heats and Swim-off / SWM0189UU - Men's 800m Freestyle Heats and Swim-off / SWW0159UU - Women's 1500m Freestyle Heats and Swim-off / SWW0189UU - Women's 800m Freestyle Heats and Swim-off
+7. SOURCE: The sheet has been added since the related attribute is included in the ODF2
+8. LANGUAGE: The sheet has been added since the related attribute is included in the ODF
+9. RECORD TYPE - SW: The types 'WJ' and ""=WJ"" are replaced by 'WJR' and '=WJR' correspondingly",,
+3.2,2014-09-08T00:00:00+00:00,1. COVER: The sheet has been added,,
+,2014-09-16T00:00:00+00:00,"2. AT updates:
+- EVENT, EVENT UNIT and PHASE - AT: The Mixed Team's code is modified to 'X880' (instead of 'X999') after ST request on 16.09.2014
+- EVENT, EVENT UNIT and PHASE - AT: The Women's Hurdles' Code and Description are modified to '011' (instead of '012') and to 'Women's 100m Hurdles' (instead of 'Women's 110m Hurdles') based on both London2012 and EA Common Codes",,
+,2014-09-22T00:00:00+00:00,"3. PHASE - SW: The Phase 2 for the events SWX411 and SWX451 are removed since as per the EGRIS “In the 400m and relay events there will be heats and finals” (phases 9 and 1)
+4. PHASE - TT: The First Round's phase number for the TTW400 has been corrected to '4' (instead of '9')",,
+,2014-09-26T00:00:00+00:00,"5. PARTICIPANT FUNCTION: The sheet has been modified [the previous related sheet ""Participant Function_OLD"" is set to red so to be removed in the next version]",,
+,2014-10-03T00:00:00+00:00,"6. EVENT UNIT - WP: The WPW400205 is removed
+
+7. SH updates:
+- EVENT UNIT - SH: 'Trapl' typo corrected to 'Trap' for the SHW401Sxx
+- EVENT UNIT - SH: Changes to Short ENG Description due to a wrong copy-paste that dropped down two phases
+
+8. WR updates:
+- EVENT - WR: The codes for 'Men's Greco-Roman 130 kg' and 'Men's Freestyle 125 kg' have modified to 330 (instead of 199) and 425 (instead of 299)
+- EVENT - WR: The column Order is updated
+- EVENT UNIT and PHASE - WR: 6 new weight categories have been added (M171, M180, M261, M270, W255, W260)
+
+9. EVENT UNIT and PHASE: Judo (JU) has been added
+10. EVENT, EVENT UNIT and PHASE: Beach Soccer (BS) has been added
+11. EVENT UNIT and PHASE - SW: Codes added for 800m and 1500m. ENG Description of corresponding phase codes edited.
+12. EVENT UNIT and PHASE - GC: The missing phase 0 for the W499 and X299 has been added while the Phase 1 is replaced by Phase 9
+13. DISCIPLINE, DISCIPLINE GENDER, EVENT, EVENT UNIT and PHASE: Sambo (SC) has been added
+14. ORGANISATION - NOC: Added historical NOCs (FDR, GDR, URS, TCH, YUG)
+15. LOCATION: Modificaitons (corrections and additions) to 'HAA', 'CH3', 'CYT', 'TRL'; 'RAM' is removed
+
+16. VENUE updates
+- Removed 'RAM'; added 'CYT', 'TRL'; changed cluster name from 'Other' to 'Western'
+- Removed all Non-Competition venues
+- The Code 'CRS' has been added (the only Non-Competition venue), since the related attribute is included in the ODF1
+
+17. SOURCE updates:
+- The Code for the BX, FE, TK is changed based on the latest Comp. Format document (v1.3)
+- The codes for CR and TR have been added since the 'CYT', 'TRL', codes have been added in the Venue page;
+- The code for SC has been added (based on the 'HAA' Venue code)
+
+Synchronised with The Codeset - 12-Sep-2014",,
+4.0,2014-10-06T00:00:00+00:00,"1. EVENT UNIT - CF: The Units CFM116101 & CFW116101 have been added
+2. EVENT: The Order for GC, GR is modified and the Team Event Flag for AR, AT, CB, FE, TT, WR is updated
+3. RECORD TYPE: Some errors, mistypes and duplications are corrected",,
+,2014-10-07T00:00:00+00:00,"4. EVENT - WR: Added the new 6 weight categories
+5. EVENT - WR: The Order for WR is modified after the addition of the 6 new categories
+6. EVENT, PHASE and EVENT UNIT - SW: Added missing SWX000000 code",,
+,2014-10-10T00:00:00+00:00,7. EVENT UNIT and PHASE: Boxing (BX) has been added,,
+,2014-10-15T00:00:00+00:00,"8. EVENT UNIT and PHASE - SC: The Phase 4 is added for the M110, W052, W060, W064, W068
+9. EVENT UNIT and PHASE - SC: The Phase N is removed",,
+,2014-10-16T00:00:00+00:00,"10. EVENT UNIT: The columns 'Print Name (40)' for both ENG and AZE have been added as per the request of ST for Reports' use
+11. DISCIPLINE, DISCIPLINE GENDER, EVENT, EVENT UNIT and PHASE: The 'BS' is replaced by 'BF'",,
+,2014-10-17T00:00:00+00:00,"12. EVENT, PHASE and EVENT UNIT: Fencing (FE) has been added
+13. COUNTRY: Changed the ENG name for MKD to ""Former Yugoslav Republic of Macedonia""
+14. ORGANISATION - NOC: Changed the name for MKD to ""Former Yugoslav Republic of Macedonia"" (ENG) and ""Makedoniya"" (AZE)
+15. VENUE: Removed temporary codes for Cycling and Triathlon venues: CYT, TRF, TRL and CYR and added BIL and FSQ
+16. LOCATION and SOURCE: Adjusted to match the changes in ""Venue"" tab (see #15 above)
+17. EVENT, PHASE and EVENT UNIT - TR: Removed the code 'TR0TRF' and added the 'TR0BIL'/'TR0BIL000'
+18. EVENT, PHASE and EVENT UNIT - CR: Removed the code 'CR0CYR' and added the codes 'CR0BIL'/'CR0BIL000', 'CR0FSQ'/'CR0FSQ000'",,
+,2014-10-20T00:00:00+00:00,"19. PHASE and EVENT UNIT: Cycling Road (CR) has been added
+20. PHASE and EVENT UNIT: Karate (KA) has been added
+
+21. SY updates:
+- EVENT, PHASE and EVENT UNIT - SY: Removed Technical Routine and added Figures as SYW199901
+- EVENT UNIT - SY: Corrected some mistakes with the Competition Flag and Event Unit Flag
+
+22. EVENT - GA: Updated order column for GA events
+
+23. GC updates:
+- PHASE - GC: GCW4990 updated long name & short name
+                       GCX2990 updated long name & short name
+- EVENT UNIT - GC: GCW400101 updated Results long name & short name
+                               GCW499000 updated Results long name & short name
+                               GCW200101 updated Results long name & short name
+                               GCW299000 updated Results long name & short name
+
+24. GE updates:
+- EVENT - GE: Updated name for GEX400
+- PHASE - GE: GEX400x updated long name & short name
+- EVENT UNIT - GE: GEX400xxx updated Results long name
+",,
+,,"25. GR updates:
+- EVENT - GR: Updated order column for GR events
+- PHASE - GR: GRW0019/GRW0119/GRW0129/GRW0139/GRW0149/GRW4009/GRW4119/GRW4129 added
+- EVENT UNIT - GR: GR0000Q00/GR0000Q01 updated Results long name
+                              GRW001900/GRW001901 added
+                              GRW011900/GRW011901 added
+                              GRW012900/GRW012901 added
+                              GRW013900/GRW013901 added
+                              GRW400900/GRW400901 added
+                              GRW411900/GRW411901 added
+                              GRW412900/GRW412901 added
+",,
+,2014-10-21T00:00:00+00:00,"26. SH Updates:
+- EVENT UNIT - SH: Additions and Description changes
+                              Qualification Relays and Shoot-Offs added
+- PHASE - SH: Additions for Mixed Team Rifle and Pistol (Semifinal stage)
+",,
+,2014-10-22T00:00:00+00:00,"27. AR Updates:
+- EVENT UNIT and PHASE - AR: Phases Q & N are removed
+- EVENT, EVENT UNIT and PHASE - AR: The Codes for the Ranking Round (Phase 9) are added
+
+28. EVENT UNIT and PHASE - JU, SC, VO, WR: The Phases Q & N are removed
+29. EVENT - JU: The events M155, M190, W155, W157 are added
+30. PHASE - AT: Changed Phase types for ""0"" phases (from 3 to 8)
+31. EVENT UNIT and PHASE - GY: Phase Q is removed from all GA, GC, GE, GR and GT
+
+Synchronised with BEGOC's Codeset -  13-Oct-2014",,
+4.1,2014-10-29T00:00:00+00:00,"1. EVENT UNIT - BX: ""Victory Cer…"" is replaced by ""Vic Ceremony"" where appropriate (ENG Results Short Name)",,
+,,2. CHANGE LOG: The Pending section here below is removed,,
+,,"3. BV Updates:
+- PHASE - BV: Corrected the Elimination Round from 8 to 5 to match with the Event Unit table
+- EVENT UNIT and PHASE - BV: The related Elimination Round's (Phase 5) are modified ('Preliminary Phase' is removed)
+
+4. PHASE - FE: Added missing phases for Pool Round Groups
+5. PHASE - KA: Added missing phase for Victory Ceremony of W168
+6. PHASE - SH: Added missing phases for M4012, M4022, M4032, W2042, W4012, W4032
+7. EVENT UNIT and PHASE - WR: ENG Results Long Name (80) is modified
+8. EVENT UNIT and PHASE - SW: Removed 800m and 1500m phase 9 codes
+9. EVENT UNIT - SW: Edited name of 800m and 1500m slow heats",,
+,2014-10-30T00:00:00+00:00,"10. EVENT UNIT and PHASE: deleted everything related to phases N,Q,S and T for all sports
+11. PHASE - AT/BX: Corrected Phase Type in some medal phases (correct one is phase type = 6)
+12. PHASE - BD/BV: Corrected duplicated codes (same gender) in BDW0014 and BVM400G and BVM400H
+
+13. JU Updates:
+- PHASE - JU: Shortened the short name for JUW1574 to 40 char
+- EVENT - JU: The events JUM999 and JUW948 are removed and the descritpions of the JUM190 and JUW157 are modified
+- EVENT UNIT - JU: The descritpions of the JUW157 are corrected ('Women' instead of 'Men')
+
+14. EVENT - SH: The descritpion of the SHW403 is corrected ('Women' instead of 'Women's')",,
+,2014-10-31T00:00:00+00:00,"15. EVENT UNIT - SY: The Event Unit Type for the SYW199901 is corrected to ""ATH""
+16. PARTICIPANT FUNCTION: The Discipline code for Sambo (SC) is defined (column 'Z')",,
+5.0,2014-11-04T00:00:00+00:00,"1. EVENT UNIT and PHASE: All the ""Victory Ceremony"", ""Vic Ceremony"", ""VC"" and ""Victory Cer…"" descriptions are replaced by ""Medal Ceremony"", ""Mdl Ceremony"", ""MC"" and ""Mdl Ceremony"" correspondingly",,
+,2014-11-17T00:00:00+00:00,2. The Discipline codes for Gymnastics Aerobic and Gymnastics Acrobatic are changed to 'AE' and 'AC' accordingly (previously 'GE' and 'GC'). This change affected also the sorting of the related tables,,
+,2014-11-26T00:00:00+00:00,"3. SCHEDULE STATUS: The clarification note ""Applied in ALL ODF2 disciplines and in the following ODF1: AT, CF, SW"" is added by the Status 3 - GETTING_READY",,
+,2014-11-27T00:00:00+00:00,"4. EVENT UNIT and PHASE: The hidden columns ""Competition Schedule Description"" (ENG and AZE) are removed
+
+5. JU Updates:
+- EVENT UNIT and PHASE - JU: Repechages for Phase 6 is deleted / Repechages for Phases 3, 4, 5 are updated
+- EVENT - JU: removed duplicated Men's Team & Women's Team
+
+6. EVENT UNIT - BF: Match Numbers Updated / The Units BFM400203, BFM400204 are removed
+7. EVENT UNIT - SY: The Unit SYW801902 is removed
+8. EVENT UNIT - BV: Match Numbers Updated
+9. EVENT UNIT and PHASE: Cycling BMX (CB) has been added
+10. EVENT UNIT - FE: Women's Sabre Team Medal Ceremony is added
+11. POSITIONS: Removed Captain/Assistant Captain for BF and WP (not really a Position) / Removed Left/Right side diver for DV / Added positions for BV
+12. EVENT UNIT - CF: The events (K1) 1000m Men, (K1) 200m Men, (K1) 200m Women, (K1) 500m Women are updated from 3 Semifinals and 2 Finals to 4 Semifinals and 3 Finals
+13. PARTICIPANT FUNCTION: Accreditation Functions for officials have been added
+
+Synchronised with BEGOC's Codeset -  21-Nov-2014",,
+5.1,2014-12-09T00:00:00+00:00,1. EVENT UNIT - SH: The Long Description of the SHW104803 is modified so to be consistent with the rest phase's units,,
+,,"2. EVENT UNIT - VO: Added match numbers for the semifinals. Corrected the short description for the Quarterfinals
+3. EVENT UNIT and PHASE - WP: Phase 8 changed to Phase 4.
+4. EVENT UNIT - WP: Unit codes edited for qualifcation matches for both M (P:4) and W (P:3)
+
+5. JU Updates:
+- EVENT UNIT - JU: Phase's 1 Event Units 51 & 52 are removed; Phase's 1 Event Unit 00 is renamed to 'Final - Gold Medal'
+                             Phase's 2 Event Units 51, 52, 00 modified the Long and Short name description (Bronze Medal Contest)
+                             Phase's 3 Event Units 51,52,53,54,00  undeleted and modified the Long and Short name description (Repechage)
+                             Added the codes for the Individual matches within the Team Competition
+- PHASE - JU: Phases 1,2,3 modified the Long and Short name description
+
+6. EVENT, EVENT UNIT and PHASE - SH: The codes for the team events have been updated (401 to 421 / 403 to 423 / 411 to 121 / 421 to 223)",,
+,2014-12-18T00:00:00+00:00,"7. EVENT, EVENT UNIT and PHASE - AC: The following codes and their Order in the 'Event' tab have been updated: 400 to 242 / 411 to 102 / 412 to 202 / 200 to 241 / 211 to 101 / 212 to 201 AND the 499 and 299 are removed
+8. EVENT, EVENT UNIT and PHASE - AE: The following codes have been updated: 200 to 002 / 400 to 004
+9. EVENT, EVENT UNIT and PHASE - GA: The following codes have been updated: 499 to 000. The Code GAx499 and its Phase/Unit extensions (GAx4990/GAx499000) are removed, so the Order in the 'Event' tab is updated accordingly
+10. EVENT UNIT - GA: The Subdivisions Units are added in the Qualification Phase 9 for both M and W
+11. EVENT, EVENT UNIT and PHASE - GA: The following codes have been updated: 001 to 024 / 011 to 002 / 012 to 003 / 013 to 004 / 014 to 005 / 400 to 340 / 411 to 301 / 412 to 302
+12. EVENT, EVENT UNIT and PHASE - GT: The following codes have been updated: 400 to 002
+13. EVENT UNIT - GT: The units 902 are removed and the related Descriptions are updated accordingly",,
+,2014-12-24T00:00:00+00:00,14. EVENT UNIT - SY: Both Long and Short Description of the SYW801101 are modified,,
+,2014-12-24T00:00:00+00:00,15. POSITION: The sheet is removed from the Common Codes and the entities are kept in the corresponding Data Dictionaries only!,,
+5.2,2014-12-24T00:00:00+00:00,"1. COUNTRY: The column ""ENG TV Names"" is added for TVG use
+2. EVENT UNIT - FE: The word ""Match"" is replaced by ""Bout""
+3. EVENT, (+ EVENT UNIT and PHASE): The Discipline name is removed from some codes so to not be repeated (in BD, BF, BV); this in some cases affected also the related descriptions in EVENT UNIT and PHASE",,
+,2015-01-08T00:00:00+00:00,4. EVENT UNIT - JU: Match Number 6 in the Phases 1-2-3 is added for Men & Women Team Event (155) and the Short Name of W157100 is modified,,
+,2015-01-12T00:00:00+00:00,"5. EVENT UNIT - WP: The descriptions for the WPW400303 and WPW400305 are swapt
+6. EVENT - AT: Team Event Flag changed for the Mixed Team (880) to 'Y'",,
+,2015-01-13T00:00:00+00:00,"7. FE Updates:
+- EVENT UNIT - FE: The number format for some of the units are corrected so to have 2 digits
+- EVENT UNIT - FE: Added Round of 16-21 for all Men's and Women's individual events",,
+,2015-01-15T00:00:00+00:00,"8. EVENT UNIT - BV: The units in elimination round 5 are modified from 01 to 08 to 02 until 16 and the corresponding Print Name is added
+9. PARTICIPANT FUNCTION: The sheet is updated by ST. Below are the changes:
+
+- BF: removed 4O – 4th Official; AR1/AR2 – Assistant Referee 1\2; AST_COA – Assistant Coach; RE – Referee
+- BF: marked R1- Referee 1, R2 – Referee 2, J3 – Judge 3, TK – Timekeeper
+- VO: marked AST_COA; COACH; DOCTOR; R1; R2; THERAP; TM_MGR
+- WP: marked GOAL_J; HD_COA; RE; SEC; Time_Judge; TM_MGR; TO_J TWPC
+- BX: added J03 – Technical Official
+- B3: added J05 – Referee + marked UM – Umpire as Official
+- JU: removed marks for J1 & J2 + marked JU - Judge as Official
+- KA: marked JU – Judge & RE - Referee as Official
+- SC: marked JU – Judge, RE - Referee & MC – Mat Chairman as Official
+- CF: marked CHF_FNS_JDG - Chief Finish Official, CHF_JDG - Chief Judge, CHF_OFF – Chief Official & STA - Starter as Official
+- The Function Code 'AO03 - Press Attache' is removed
+
+10. SH Updates:
+- EVENT UNIT - SH: Event units SHX421902 and SHX423902 are removed as a second qualification unit is not required for these events
+- EVENT UNIT - SH: Event units for Shoot-offs (50) in all events have been removed as the shoot-offs are captured within the qualification units and are not separate
+- EVENT UNIT - SH: Following the format update for Team Shotgun events (421 & 423) - 101 changed to Gold Medal match and 102 added for Bronze Medal match
+- EVENT UNIT - SH: The Description for Team events (121, 223, 421 & 423) is corrected by removing the ""'s"" from the Event's name (i.e Trap instead of Trap's), in some cases",,
+,2015-01-16T00:00:00+00:00,11. EVENT UNIT and PHASE - SY: The Phase/Unit for the Figures Event is changed to 105 (instead of 901),,
+,2015-01-20T00:00:00+00:00,"12. EVENT, EVENT UNIT and PHASE - BX: Updated women's weight categories
+13. LOCATION: The Name for BE1 is updated to ""Center Court""",,
+,2015-01-21T00:00:00+00:00,14. EVENT UNIT - BF: Added 5th place in play off matches (203 / 204),,
+,2015-01-23T00:00:00+00:00,"15. EVENT UNIT - KA: Added RSC codes for the play off matches (Phase 3)
+16. RECORD TYPE - AT: deleted NR & =NR, updated WJR & =WJR
+17. COUNTRY: Change the ENG description for USA / change the code for Kosovo to 'KOS'
+18. ORGANISATION-NOC: Added KOS and IEA / Corrected the AZE translation for MKD
+19. DISCIPLINE: Added AZE translations for all sport disciplines",,
+,,"20. AC Updates:
+- EVENT UNIT - AC: The 901 Schedule Flag for the W102, W202, X101 and X201 is modified to ""Y""
+- EVENT UNIT - AC: The Short Name of the W242901, W242902, X241901 and X241902 is changed
+
+21. GA Updates:
+- EVENT UNIT - GA: The Short Name of the Subdivisions is changed
+- EVENT UNIT - GA: The Schedule Flag for the M400101 and W400101 is changed to ""Y""
+- EVENT UNIT - GA: The GAW000906-08 (Subdivision 6-8) are added
+
+22. GR Updates:
+- EVENT UNIT - GA: The Short Name of the Rotations is changed
+",,
+,,"23. EVENT UNIT - BF, BV, JU, VO: The Match # is removed from the Descriptions",,
+,,"24. EVENT UNIT: Added the Print Name for all Event Units with Phase different than 0, M, N and Y",,
+,2015-01-27T00:00:00+00:00,"25. RECORD TYPE - SH: 6 Record Codes that were missing are now added and are consistent with EGRIS
+26. EVENT UNIT: The words 'Semi-Final' / 'Semi-Finals' are replaced by the 'Semifinal' / 'Semifinals' (without '-')
+
+Synchronised with BEGOC's Codeset -  21-Jan-2015",,
+5.3,2015-01-30T00:00:00+00:00,"1. EVENT UNIT - KA: The RSC codes for the play off matches (Phase 3) are corrected (EventUnit had previously 3 digits)
+2. PHASE - KA: The RSC codes for the play off matches (Phase 3) are added",,
+5.4,2015-02-03T00:00:00+00:00,"1. EVENT UNIT - BX: The BX0000000 is added
+2. EVENT UNIT: The column ""ENG TV Names"" is filled in for TVG use
+
+3. JU Updates:
+- EVENT UNIT - JU: Deleted Phase's 3 Repechage Units
+- EVENT UNIT - JU: Modified the column Event Unit Type in Team Event (155); new value is 'HTEAM'
+- EVENT UNIT - JU: Added the analysis of Phase 4 (A1 - F8)
+- EVENT UNIT and PHASE - JU: Phase 5 in Team Event (155) is deleted
+
+4. EVENT UNIT - CB: 'Semifinal x' changed to 'Semifinal Heat x'",,
+,2015-02-06T00:00:00+00:00,"5. EVENT UNIT - CB: The Units 11-14, 21-24, 31-34 for M and 11-12, 21-22, 31-32 for W are removed since they are used nowhere
+6. EVENT UNIT and PHASE - KA: The Phase 3 (and Event Unit '00') are removed since they are used nowhere
+7. EVENT UNIT - BX: Updated both English Long and Short names for Boxing Women's 64kg",,
+,2015-02-17T00:00:00+00:00,"8. COUNTRY: The column 'English Name' is renamed to 'ENG Name'
+9. LOCATION: The 'WR1', 'WR2' and 'WR3' are changed to 'WRA', 'WRB' and 'WRC'
+10. VENUE: Changed the description for the Western Cluster / included FSQ to City Cluster
+11. ORGANISATION - IF: 'ETU' of European Taekwondo Union changed to 'ETUTK' and 'ETU' of European Triathlon Union changed to 'ETUTR'",,
+,2015-02-18T00:00:00+00:00,"12. ORGANISATION-NOC table updates:
+- The non-EUR countries are added as 'NP'
+- Armenia's Participation code is changed to 'NP'
+- One of the GDR is removed since it was duplicated
+
+13. PARTICIPANT FUNCTION: The Code of the Assistant for AE is changed to 'SUP_AST' instead of 'SUP_AS' that was duplicated
+14. RECORD TYPE - SH: Added ER, FER, ERJ, FERJ, EER, EFER, EERJ and EFERJ / Removed the EGR and EFGR and the Order is updated",,
+,2015-02-19T00:00:00+00:00,"15. SC Updates:
+- EVENT UNIT - SC: The lines SCgeeeM01 are deleted
+- EVENT UNIT and PHASE - SC: The Phase 4 for Men 57kg (057) and 90kg (090) is added
+
+16. EVENT UNIT - CF: Corrected Schedule Flag entries for a number of units of M221, M116 and W116
+
+17. BX Updates:
+- EVENT UNIT and PHASE - BX: The Phase Z (Session) is added, as per ST request
+- PHASE - BX: The general BX00000 is added and the 'BXMCH2Y' is corrected to 'BX0CH20'
+- EVENT UNIT - BX: The Venue 'BX0CH2000' is added
+",,
+,2015-02-24T00:00:00+00:00,"18. SH Updates:
+- EVENT UNIT - SH: Corrections made to medal flag entries for Bronze medal matches for a number of the team events (X421, X121 and X223)
+- EVENT UNIT - SH: Missing Bronze medal match for Mixed Team Skeet (SHX423102) is added
+",,
+,2015-02-25T00:00:00+00:00,"19. LOCATION: Removed the Venue name from the Location description and the SH5 for SH is added
+
+20. CB Updates:
+- EVENT UNIT - CB: Schedule flags updated
+- EVENT UNIT and PHASE - CB: the ""Victory Ceremony"" descriptions are replaced by the ""Medal Ceremony"" ones
+
+Syncronised with BEGOC_CodeSet_20150213",,
+5.5,2015-03-02T00:00:00+00:00,1. EVENT UNIT - VO: Added Volleyball Day 1 to Day 20,,
+,2015-03-03T00:00:00+00:00,2. EVENT UNIT - CF: The Medal Flag for the Units CFM116101 & CFW116101 is changed to '1',,
+,2015-03-10T00:00:00+00:00,"3. EVENT UNIT - CB: corrected the Schedule flag for CBM001202, CBM001300 and CBW001300",,
+,,4. PARTICIPANT FUNCTION: added EF09 - Technical Officials (NTO) [the EF07 will be used for Technical Officials (ITO)] and added the IF44 - IF Staff,,
+,,"5. RECORD: Added Record codes for AR, AT, CF, corrected SH Mixed Team record codes",,
+,2015-03-11T00:00:00+00:00,6. ORGANISATION-NOC: ARM is added back to Participating NOC,,
+,2015-03-12T00:00:00+00:00,7. EVENT UNIT - BX: Updated Long and Short names for Women's (60-64kg) weight categories,,
+,2015-03-13T00:00:00+00:00,8. COMPETITION: AZE translations are added,,
+,,9. DISCIPLINE: AZE translations are added,,
+,,10. DISCIPLINE GENDER: AZE translations are added,,
+,,11. LANGUAGE: AZE translations are added,,
+,,12. PERSON GENDER: AZE Transation are added,,
+,,13. SESSION TYPE: corrected AFT and added AZE translations,,
+,,14. VENUE: STA to National Stadium + AZE translations are added,,
+,,15. EVENT: Removed AZE Name column (not needed),,
+,,16. EVENT UNIT: Removed AZE Results Short Name and AZE Results Long Name (not needed). Only AZE Print name needs translation,,
+,,17. LOCATION: Removed AZE Name column (not needed),,
+,,18. ORGANISATION-IF: Removed AZE Name column (not needed),,
+,,19. PARTICIPANT FUNCTION: Removed AZE Name column (not needed),,
+,,20. PHASE: Removed AZE Results Short Name and AZE Results Long Name (not needed) and removed SW0182,,
+,,21. PHASE TYPE: Removed AZE Name column (not needed),,
+,,22. RECORD: Removed AZE name column (not needed),,
+,,23. RECORD TYPE: Removed AZE name column (not needed),,
+,,24. SOURCE: Removed AZE name column (not needed),,
+,,25. WEATHER CONDITIONS: Removed AZE name column (not needed),,
+,,26. WIND DIRECTION: Removed AZE name column (not needed),,
+,2015-03-20T00:00:00+00:00,"27. EVENT UNIT - WR: updated Long/Short Name Description, Print Name, TV Name  ",,
+,,"28. EVENT UNIT - JU: updated Long/Short Name Description, Print Name, TV Name  ",,
+,,"29. EVENT UNIT - SC: updated Long/Short Name Description, Print Name, TV Name  ",,
+,,"30. EVENT UNIT: The ""Archery"" (AR0000000) and ""Cycling BMX"" (CB0000000) are filled in, in the column ""ENG TV Names""",,
+,,31. EVENT UNIT - AT: The 'Print Names' are corrected,,
+,2015-03-21T00:00:00+00:00,"32. SH Updates:
+- EVENT UNIT - SH: The RSCs SHX223000 and SHX223100 are added
+- EVENT UNIT and Phase - SH: The ""'s"" is removed from the Long and Short Name for all Mixed events",,
+,,33. PARTICIPANT FUNCTION: The Code IF is added as a category where the related Function code will be sent in the DT_PARTIC or/and START LIST messages,,
+,2015-03-24T00:00:00+00:00,"34. EVENT UNIT and Phase - TT: The Phase 9 (Preliminary Round) is removed for both M and W, since it's confirmed that is not needed for the Baku Games",,
+,,"35. EVENT UNIT - B3, JU, KA, SC, WR: The ENG TV Name is modified",,
+,2015-03-26T00:00:00+00:00,36. LOCATION: The Code BX1 is added,,
+,2015-03-27T00:00:00+00:00,"37. COUNTRY, LOCATION, ORGANISATION - IF, ORGANISATION - NOC, VENUE: The ENG Short Name column is added",,

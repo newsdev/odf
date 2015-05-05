@@ -1,0 +1,41 @@
+Code,Discipline,Order,ENG Description
+WR,AR,1,World Record
+GR,AR,2,European Games Record
+WR,AT,1,World Record
+ER,AT,3,European Record
+GR,AT,5,European Games Record
+WJR,AT,7,World Junior Record
+=WR,AT,2,Equal World Record
+=ER,AT,4,Equal European Record
+=GR,AT,6,Equal European Games Record
+=WJR,AT,8,Equal World Junior Record
+WB,CF,1,World Best
+GB,CF,2,European Games Best
+WR,SH,1,World Record
+ER,SH,4,European Record
+GR,SH,3,European Games Record
+WRJ,SH,6,World Record Junior
+ERJ,SH,8,European Record Junior
+EER,SH,5,Equalled European Record
+EERJ,SH,9,Equalled European Record Junior
+EFER,SH,14,Equalled Final European Record
+EFERJ,SH,18,Equalled Final European Record Junior
+EFWR,SH,11,Equalled Final World Record
+EFWRJ,SH,16,Equalled Final World Record Junior
+EWR,SH,2,Equalled World Record
+EWRJ,SH,7,Equalled World Record Junior
+FER,SH,13,Final European Record
+FERJ,SH,17,Final European Record Junior
+FGR,SH,12,Final European Games Record
+FWR,SH,10,Final World Record
+FWRJ,SH,15,Final World Record Junior
+WR,SW,1,World Record
+ER,SW,3,European Record
+GR,SW,5,European Games Record
+NR,SW,7,National Record
+WJR,SW,9,World Junior Record
+=WR,SW,2,Equal World Record
+=ER,SW,4,Equal European Record
+=GR,SW,6,Equal European Games Record
+=NR,SW,8,Equal National Record
+=WJR,SW,10,Equal World Junior Record

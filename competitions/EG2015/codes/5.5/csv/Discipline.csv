@@ -1,0 +1,34 @@
+Code,ENG Name,AZE Name,Sport Flag,Sport Code,Sport Name,AZE Sport Name
+DV,Diving,Suya tullanma,Y,AQ,Aquatics,Su idmanı
+SW,Swimming ,Üzgüçülük,Y,AQ,Aquatics,Su idmanı
+SY,Synchronised Swimming,Sinxron üzgüçülük,Y,AQ,Aquatics,Su idmanı
+WP,Water Polo,Su polosu,Y,AQ,Aquatics,Su idmanı
+AR,Archery,Kamandan oxatma,Y,AR,Archery,Kamandan oxatma
+AT,Athletics,Atletika,Y,AT,Athletics,Atletika
+BD,Badminton,Badminton,Y,BD,Badminton,Badminton
+B3,Basketball 3x3,Basketbol 3x3,Y,BK,Basketball,Basketbol
+BF,Beach Soccer,Çimərlik futbolu,Y,FB,Football,Futbol
+BX,Boxing,Boks,Y,BX,Boxing,Boks
+CF,Canoe Sprint,Avarçəkmə,Y,CA,Canoe,Avarçəkmə
+CB,Cycling BMX,BMX,Y,CY,Cycling,Velosiped idmanı 
+CM,Cycling Mountain Bike,Dağ velosipedi,Y,CY,Cycling,Velosiped idmanı 
+CR,Cycling Road ,Şosse velosipedi,Y,CY,Cycling,Velosiped idmanı 
+FE,Fencing,Qılıncoynatma,Y,FE,Fencing,Qılıncoynatma
+AC,Gymnastics Acrobatic,Akrobatika gimnastikası,Y,GY,Gymnastics,Gimnastika
+AE,Gymnastics Aerobic,Aerobika gimnastikası,Y,GY,Gymnastics,Gimnastika
+GA,Gymnastics Artistic,İdman gimnastikası,Y,GY,Gymnastics,Gimnastika
+GR,Gymnastics Rhythmic,Bədii gimnastika,Y,GY,Gymnastics,Gimnastika
+GT,Trampoline,Batut gimnastikası,Y,GY,Gymnastics,Gimnastika
+JU,Judo,Cüdo,Y,JU,Judo,Cüdo
+KA,Karate,Karate,Y,KA,Karate,Karate
+SC,Sambo,Sambo,Y,SC,Sambo,Sambo
+SH,Shooting,Atıcılıq,Y,SH,Shooting,Atıcılıq
+TT,Table Tennis,Stolüstü tennis,Y,TT,Table Tennis,Stolüstü tennis
+TK,Taekwondo,Taekvondo,Y,TK,Taekwondo,Taekvondo
+TR,Triathlon,Triatlon,Y,TR,Triathlon,Triatlon
+BV,Beach Volleyball,Çimərlik voleybolu,Y,VB,Volleyball,Voleybol
+VO,Volleyball,Voleybol,Y,VB,Volleyball,Voleybol
+WR,Wrestling,Güləş,Y,WR,Wrestling,Güləş
+CE,Ceremonies,Mərasimlər,N,,,
+GL,General,Ümumi,N,,,
+UT,Training,Məşq ,N,,,

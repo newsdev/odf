@@ -1,0 +1,35 @@
+Code,ENG Description
+clr,Clear sky
+drz,Drizzle
+dust,Dust
+fog,Fog
+hail,Hail
+haze,Haze
+hlshrd,Hail shower
+hlshrn,Hail shower
+hrain,Heavy rain
+hrshrd,Heavy rain shower
+hrshrn,Heavy rain shower
+hsnow,Heavy snow
+hsshrd,Heavy snow shower
+hsshrn,Heavy snow shower
+lowcld,Low-level cloud
+lrain,Light rain
+lrshrd,Light rain shower
+lrshrn,Light rain shower
+lsnow,Light snow
+lsshrd,Light snow shower
+lsshrn,Light snow shower
+medcld,Medium-level cloud
+mist,Mist
+nocond,No condition
+prtcld,Partly cloudy
+slshrd,Sleet shower
+slshrn,Sleet shower
+slt,Sleet
+sun,Sunny
+sunint,Sunny intervals
+thshrd,Thundery shower
+thshrn,Thundery shower
+thstrm,Thunder storm
+trpstm,Tropical storm

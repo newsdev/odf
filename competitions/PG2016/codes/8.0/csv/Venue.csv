@@ -1,0 +1,98 @@
+Id,competition,ENG Description,FRA Description,POR Description,ENG longdescription,FRA longdescription,POR longdescription,IndoorOutdoor,Cluster
+AMZ,Y,Amazônia Arena,Arena da Amazônia,Arena da Amazônia,Amazônia Arena,Arena da Amazônia,Arena da Amazônia,O,FBC
+AQC,Y,Maria Lenk Aquatics Centr,Centre Aquatique Maria Le,Centro Aquático Maria Len,Maria Lenk Aquatics Centre,Centre Aquatique Maria Lenk,Centro Aquático Maria Lenk,,BAT
+BMX,Y,Olympic BMX Centre,Centre Olympique de BMX,Centro Olímpico de BMX,Olympic BMX Centre,Centre Olympique de BMX,Centro Olímpico de BMX,O,DEO
+BVA,Y,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,O,COP
+CA1,Y,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,I,BAT
+CA2,Y,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,I,BAT
+CA3,Y,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,I,BAT
+DAQ,Y,Deodoro Aquatics Centre,Centre Aquatique de Deodo,Centro Aquático de Deodor,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,,DEO
+DES,Y,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,,DEO
+EQC,Y,Olympic Equestrian Centre,Centre Olympique d´Équita,Centro Olímpico de Hipism,Olympic Equestrian Centre,Centre Olympique d´Équitation,Centro Olímpico de Hipismo,O,DEO
+FNA,Y,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,O,FBC
+FTA,Y,Future Arena,Future Arena,Arena do Futuro,Future Arena,Future Arena,Arena do Futuro,I,BAT
+FTC,Y,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,O,COP
+GLO,Y,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,O,COP
+JDL,Y,Julio de Lamare Aquatics,Centre Aquatique Julio de,Centro Aquático Julio de,Julio de Lamare Aquatics Centre,Centre Aquatique Julio de Lamare,Centro Aquático Julio de Lamare,O,MRZ
+LAG,Y,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,O,COP
+MBT,Y,Mountain Bike  Centre,Centre de Mountain Bike,Centro de Mountain Bike,Mountain Bike  Centre,Centre de Mountain Bike,Centro de Mountain Bike,O,DEO
+MGA,Y,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,O,FBC
+MIN,Y,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,O,FBC
+MNZ,Y,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,I,MRZ
+MRC,Y,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,O,MRZ
+OAS,Y,Olympic Aquatics Stadium,Stade Aquatique Olympique,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade Aquatique Olympique,Estádio Aquático Olímpico,I,BAT
+OGC,Y,Olympic Golf Course,Parcours Olympique de Gol,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,O,BAT
+OHK,Y,Olympic Hockey Centre,Centre Olympique de Hocke,Centro Olímpico de Hóquei,Olympic Hockey Centre,Centre Olympique de Hockey,Centro Olímpico de Hóquei,O,DEO
+OLS,Y,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,O,MRZ
+OSC,Y,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,B,DEO
+OTN,Y,Olympic Tennis Centre,Centre Olympique de Tenni,Centro Olímpico de Tênis,Olympic Tennis Centre,Centre Olympique de Tennis,Centro Olímpico de Tênis,O,BAT
+PON,Y,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,O,BAT
+RC2,Y,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,I,BAT
+RC3,Y,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,I,BAT
+RC4,Y,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,I,BAT
+RC6,Y,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,I,BAT
+ROA,Y,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,I,BAT
+ROV,Y,Rio Olympic Velodrome,Vélodrome Olympique de Ri,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome Olympique de Rio,Velódromo Olímpico do Rio,I,BAT
+SBD,Y,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,O,MRZ
+SPA,Y,São Paulo Arena,São Paulo Arena,Arena de São Paulo,São Paulo Arena,São Paulo Arena,Arena de São Paulo,O,FBC
+WWS,Y,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalo,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,O,DEO
+YOA,Y,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,I,DEO
+AMC,N,Alternative Main Operatio,Centre Principal des Opér,Centro Principal de Opera,Alternative Main Operation Centre,Centre Principal des Opérations Alternatif,Centro Principal de Operações Alternativo,,DEO
+BSB,N,Brasília International Ai,Aéroport international de,Aeroporto Internacional d,Brasília International Airport,Aéroport international de Brasília,Aeroporto Internacional de Brasília,,FBC
+BV1,N,Barra Accommodation Villa,Village de l'Hébergement ,Vila de Acomodações da Ba,Barra Accommodation Village 1,Village de l'Hébergement de Barra 1,Vila de Acomodações da Barra 1,,BAT
+BV2,N,Barra Accommodation Villa,Village de l'Hébergement ,Vila de Acomodações da Ba,Barra Accommodation Village 2,Village de l'Hébergement de Barra 2,Vila de Acomodações da Barra 2,,BAT
+BV3,N,Barra Accommodation Villa,Village de l'Hébergement ,Vila de Acomodações da Ba,Barra Accommodation Village 3,Village de l'Hébergement de Barra 3,Vila de Acomodações da Barra 3,,BAT
+BV4,N,Barra Accommodation Villa,Village de l'Hébergement ,Vila de Acomodações da Ba,Barra Accommodation Village 4,Village de l'Hébergement de Barra 4,Vila de Acomodações da Barra 4,,BAT
+CGH,N,Congonhas Domestic Airpor,Aéroport Domestique de Co,Aeroporto Doméstico de Co,Congonhas Domestic Airport,Aéroport Domestique de Congonhas,Aeroporto Doméstico de Congonhas,,FBC
+CNF,N,Confins International Air,Aéroport international de,Aeroporto Internacional d,Confins International Airport,Aéroport international de Confins,Aeroporto Internacional de Confins,,FBC
+DAV,N,Deodoro Accommodation Vil,Village de l'Hébergement ,Vila de Acomodações de De,Deodoro Accommodation Village,Village de l'Hébergement de Deodoro,Vila de Acomodações de Deodoro,,DEO
+DCD,N,Deodoro Common Domain,Zone Commune de Deodoro,Área Comum de Deodoro,Deodoro Common Domain,Zone Commune de Deodoro,Área Comum de Deodoro,,DEO
+DUD,N,Deodoro Urban Domain,Zone Urbaine de Deodoro,Área Urbana de Deodoro,Deodoro Urban Domain,Zone Urbaine de Deodoro,Área Urbana de Deodoro,,DEO
+DWA,N,Deodoro Workforce Accommo,Centre d'Hébergement de W,Centro de Acomodações de,Deodoro Workforce Accommodation Centre,Centre d'Hébergement de Workforce de Deodoro,Centro de Acomodações de Força de Trabalho de Deod,,DEO
+FH1,N,Football City Hotel - Bel,Hôtel de la Ville du Foot,Hotel da Cidade do Futebo,Football City Hotel - Belo Horizonte,Hôtel de la Ville  du Football  - Belo Horizonte,Hotel da Cidade do Futebol - Belo Horizonte,,FBC
+FH2,N,Football City Hotel - Bra,Hôtel de la Ville du Foot,Hotel da Cidade do Futebo,Football City Hotel - Brasília,Hôtel de la Ville  du Football  - Brasília,Hotel da Cidade do Futebol - Brasília,,FBC
+FH3,N,Football City Hotel - Sal,Hôtel de la Ville du Foot,Hotel da Cidade do Futebo,Football City Hotel - Salvador,Hôtel de la Ville  du Football  - Salvador,Hotel da Cidade do Futebol - Salvador,,FBC
+FH4,N,Football City Hotel - São,Hôtel de la Ville du Foot,Hotel da Cidade do Futebo,Football City Hotel - São Paulo,Hôtel de la Ville  du Football  - São Paulo,Hotel da Cidade do Futebol - São Paulo,,FBC
+GIG,N,Rio de Janeiro Internatio,Rio Galeão - Aéroport int,Aeroporto Internacional d,Rio de Janeiro International Airport - Antônio Car,Rio Galeão - Aéroport international Tom Jobim,Aeroporto Internacional do Rio de Janeiro - Antôni,,MRZ
+GRA,N,Grooms Accommodation,Hébergement des palfrenie,Acomodação dos Tratadores,Grooms Accommodation,Hébergement des palfreniers,Acomodação dos Tratadores,,DEO
+GRU,N,Guarulhos International A,Aéroport international de,Aeroporto Internacional d,Guarulhos International Airport,Aéroport international de Guarulhos,Aeroporto Internacional de Guarulhos,,FBC
+IBC,N,International Broadcast C,Centre international de d,Centro Internacional de R,International Broadcast Centre (IBC),Centre international de diffusion (IBC),Centro Internacional de Radiodifusão (IBC),,BAT
+MCD,N,Maracanã Common Domain,Zone Commune de Maracanã,Área Comum do Maracanã,Maracanã Common Domain,Zone Commune de Maracanã,Área Comum do Maracanã,,MRZ
+MOC,N,Main Operations Centre (M,Centre Principal des Opér,Centro Principal de Opera,Main Operations Centre (MOC),Centre Principal des Opérations,Centro Principal de Operações,,MRZ
+MPC,N,Main Press Centre (MPC),Centre Principal de Press,Centro Principal de Impre,Main Press Centre (MPC),Centre Principal de Presse,Centro Principal de Imprensa (MPC),,BAT
+MWA,N,Maracanã Workforce Accomm,Centre d'Hébergement de W,Centro de Acomodações de,Maracanã Workforce Accommodation Centre,Centre d'Hébergement de Workforce de Maracanã,Centro de Acomodações de Força de Trabalho do Mara,,MRZ
+OF2,N,Olympic Family Hotel - Wi,Hôtel de la Famille Olymp,Hotel da Família Olímpica,Olympic Family Hotel - Windsor Barra II,Hôtel de la Famille Olympique - Windsor Marapendi,Hotel da Família Olímpica - Windsor Barra II,,BAT
+OFH,N,Official Olympic Family H,Hôtel Principal de la Fam,Hotel Oficial da Família ,Official Olympic Family Hotel - Grand Hyatt,Hôtel Principal de la Famille Olympique - Windsor,Hotel Oficial da Família Olímpica - Grand Hyatt,,BAT
+OLB,N,Olympic and Paralympic Be,Plage Olympique et Paraly,Praia Olímpica e Paralímp,Olympic and Paralympic Beach,Plage Olympique et Paralympique,Praia Olímpica e Paralímpica,,BAT
+OLV,N,Olympic and Paralympic Vi,Village Olympique et Para,Vila Olímpica e Paralímpi,Olympic and Paralympic Village,Village Olympique et Paralympique,Vila Olímpica e Paralímpica,,BAT
+PF2,N,Paralympic Family Hotel,Hôtel de la Famille Paral,Hotel da Família Paralímp,Paralympic Family Hotel - Windsor Barra,Hôtel de la Famille Paralympique - Windsor Barra,Hotel da Família Paralímpica - Windsor Barra,,BAT
+PFH,N,Official Paralympic Famil,Hôtel Officiel de la Fami,Hotel Oficial da Família,Official Paralympic Family Hotel - Windsor Barra I,Hôtel Officiel de la Famille Paralympique - Windso,Hotel Oficial da Família Paralímpica - Windsor Bar,,BAT
+PMC,N,Pier Mauá Cruise Accommod,Hébergement des navires P,Acomodação de Navios do P,Pier Mauá Cruise Accommodations,Hébergement des navires Pier Maua,Acomodação de Navios do Pier Mauá,,MRZ
+RCD,N,Rio Olympic Park Common D,Zone Commune du Parc Olym,Área Comum do Parque Olím,Rio Olympic Park Common Domain,Zone Commune du Parc Olympique de Barra,Área Comum do Parque Olímpico do Rio,,BAT
+RHQ,N,Rio 2016 Office,Bureau Rio 2016,Escritório Rio 2016,Rio 2016 Office,Bureau Rio 2016,Escritório Rio 2016,,MRZ
+RID,N,Riocentro Common Domain,Zone Commune de Riocentro,Área Comum do Riocentro,Riocentro Common Domain,Zone Commune de Riocentro,Área Comum do Riocentro,,BAT
+SDU,N,Rio de Janeiro Domestic A,Aéroport Domestique de Ri,Aeroporto Doméstico do Ri,Rio de Janeiro Domestic Airport - Santos Dumont,Aéroport Domestique de Rio de Janeiro - Santos Dum,Aeroporto Doméstico do Rio de Janeiro - Santos Dum,,COP
+SSA,N,Salvador International Ai,Aéroport international de,Aeroporto Internacional d,Salvador International Airport,Aéroport international de Salvador,Aeroporto Internacional de Salvador,,FBC
+TOC,N,Technology Operations Cen,Centre d'Opérations de Te,Centro de Operações de Te,Technology Operations Centre,Centre d'Opérations de Technologie,Centro de Operações de Tecnologia,,MRZ
+UAC,N,Uniform and Accreditation,Centre de Uniformes et Ac,Centro de Uniformes e Cre,Uniform and Accreditation Centre,Centre de Uniformes et Accréditation,Centro de Uniformes e Credenciamento,,MRZ
+VCP,N,Viracopos International A,Aéroport international de,Aeroporto Internacional d,Viracopos International Airport,Aéroport international de Viracopos,Aeroporto Internacional de Viracopos,,FBC
+XCD,N,X-Park Common Domain,Zone Commune de Parc Radi,Área Comum do Parque Radi,X-Park Common Domain,Zone Commune de Parc Radical,Área Comum do Parque Radical,,DEO
+AB3,N,Army Barracks 3,Casernes Militaires,31º GAP,Army Barracks 3,Casernes Militaires,31º GAP,,DEO
+AFC,N,Air Force Club,Club de l'aéronautique,Clube de Aeronáutica,Air Force Club,Club de l'aéronautique,Clube de Aeronáutica,,BAT
+AFU,N,Air Force University (UNI,Université de la Force Aé,Universidade de Força Aér,Air Force University (UNIFA),Université de la Force Aérienne (UNIFA),Universidade da Força Aérea(UNIFA),,DEO
+BAS,N,Barradão Stadium (Salvado,Stade Barradão (Salvador),Estádio Barradão (Salvado,Barradão Stadium (Salvador),Stade Barradão (Salvador),Estádio Barradão (Salvador),,FBC
+BZS,N,Bezerrão Stadium (Brasíli,Stade Bezerrão (Brasília),Estádio Bezerrão (Brasíli,Bezerrão Stadium (Brasília),Stade Bezerrão (Brasília),Estádio Bezerrão (Brasília),,FBC
+CIG,N,Gericinó Instruction Camp,Siège du Camp d'Entraînem,Sede do Campo de Instruçã,Gericinó Instruction Camp Headquarter,Siège du Camp d'Entraînement de Gericinó,Sede do Campo de Instrução de Gericinó,,DEO
+CPA,N,Sport Club Pão de Açucar ,Pão de Açucar Sporte Club,CT Pão de Açucar Esporte ,Sport Club Pão de Açucar (São Paulo),Pão de Açucar Sporte Club (São Paulo),CT Pão de Açucar Esporte Clube- SP,,FBC
+FPT,N,Fireman Physical Training,Centre de Formation Physi,Centro de Capacitação Fís,Fireman Physical Training Centre (Brasília),Centre de Formation Physique des Pompiers (Brasíli,Centro de Capacitação Física dos Bombeiros - BRA,,FBC
+FUR,N,Federal University of Rio,Université Fédérale de Ri,Universidade Federal do R,Federal University of Rio de Janeiro,Université Fédérale de Rio de Janeiro,Universidade Federal do Rio de Janeiro (UFRJ),,MRZ
+INS,N,Independência Stadium (Be,Stade Independência (Belo,Estádio Independência (Be,Independência Stadium (Belo Horizonte),Stade Independência (Belo Horizonte),Estádio Independência (Belo Horizonte),,FBC
+MPT,N,Marapendi Park,Parc Marapendi,Parque Marapendi,Marapendi Park,Parc Marapendi,Parque Marapendi,,BAT
+OVP,N,Athletes' Park,Parc des Athlètes,Parque dos Atletas,Athletes' Park,Parc des Athlètes,Parque dos Atletas,,BAT
+PBS,N,Pacaembu Stadium (São Pau,Stade Pacaembu (São Paulo,Estádio Pacaembu - SP,Pacaembu Stadium (São Paulo),Stade Pacaembu (São Paulo),Estádio Pacaembu - SP,,FBC
+PEC,N,Navy Physical Education C,Centre d'Éducation Physiq,Centro de Educação Física,Navy Physical Education Centre (CEFAN),Centre d'Éducation Physique Almirante Adalberto Un,Centro de Educação Física Almirante Adalberto Nune,,MRZ
+PIS,N,Pituaçu Stadium (Salvador,Stade Pituaçu (Salvador),Estádio Pituaçu (Salvador,Pituaçu Stadium (Salvador),Stade Pituaçu (Salvador),Estádio Pituaçu (Salvador),,FBC
+PLA,N,Palestra Arena (São Paulo,Palestra Arena (São Paulo,Arena Palestra - SP,Palestra Arena (São Paulo),Palestra Arena (São Paulo),Arena Palestra - SP,,FBC
+RC5,N,Riocentro - Pavilion 5,Riocentro - Pavillon 5,Riocentro - Pavilhão 5,Riocentro - Pavilion 5,Riocentro - Pavillon 5,Riocentro - Pavilhão 5,,BAT
+SJS,N,Serejão Stadium (Brasília,Stade Serejão (Brasília),Estádio do Serejão - Tagu,Serejão Stadium (Brasília),Stade Serejão (Brasília),Estádio do Serejão - Taguatinga (Boca do Jacaré) -,,FBC
+SVN,N,SESC Venda Nova (Belo Hor,SESC Venda Nova (Belo Hor,SESC Venda Nova - BH,SESC Venda Nova (Belo Horizonte),SESC Venda Nova (Belo Horizonte),SESC Venda Nova - BH,,FBC

@@ -8,12 +8,20 @@ require 'csv'
 require 'fileutils'
 
 class Loader
-  def initialize(file, games, version = nil)
+  def initialize(file, games = nil, version = nil)
     @file = file
-    @games = games
-    @version = version
+
+    if file.match(/\/(\w+)_(\w{2})_(\d+\.\d+)\.xlsx$/)
+      @games = $1
+      @version = $3
+    else
+      @games = games
+      @version = version
+    end
 
     @data = {}
+
+    raise "Please specify the competition and version." if @games.nil? || @version.nil?
 
     puts "Created loader for #{@games}"
   end
@@ -110,5 +118,3 @@ end
 loader = Loader.new(*ARGV)
 loader.parse!
 loader.write!
-
-

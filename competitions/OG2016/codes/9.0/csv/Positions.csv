@@ -1,0 +1,82 @@
+Discipline,Id,PositionOrder,ENG Description,FRA Description,POR Description
+BK,C,,Centre,Centre,Pivô
+BK,C/F,,Centre/Forward,Centre/Ailier,Pivô/Ala
+BK,F,,Forward,Ailier,Ala
+BK,F/C,,Forward/Centre,Ailier/Centre,Ala/Pivô
+BK,F/G,,Forward/Guard,Ailier/Arrière,Ala/Armador
+BK,G,,Guard,Arrière,Armador
+BK,G/F,,Guard/Forward,Arrière/Ailier,Armador/Ala
+BK,PF,,Power Forward,Ailier fort,Ala de força
+BK,PF/C,,Power Forward/Centre,Ailier fort/Centre,Ala de força/Pivô
+BK,PG,,Point Guard,Meneur de jeu,Armador
+BK,SF,,Small Forward,Ailier,Ala
+BK,SF/SG,,Small Forward/Shooting Guard,Ailier/Deuxième arrière,Ala/Ala-armador
+BK,SG,,Shooting Guard,Deuxième arrière,Ala-armador
+BV,LB,,Left Blocker,Bloqueur Gauche,Bloqueador de esquerda
+BV,LD,,Left Defender,Défenseur Gauche,Defensor esquerda
+BV,RB,,Right Blocker,Bloqueur Droit,Bloqueador de direito
+BV,RD,,Right Defender,Défenseur Droit,Defesa Direito
+CF,1,1,Position 1,Position 1,Posição 1
+CF,2,2,Position 2,Position 2,Posição 2
+CF,3,3,Position 3,Position 3,Posição 3
+CF,4,4,Position 4,Position 4,Posição 4
+CS,A,1,Bow,Proue,Canoísta da proa
+CS,B,2,Stern,Poupe,Canoísta da popa
+DV,A,,Left side diver,Plongeur de gauche,Saltador da esquerda
+DV,B,,Right side diver,Plongeur de droite,Saltador da direita
+FB,DF,,Defender,Défenseur,Defensor
+FB,FP,,Field Player,Joueur,Jogador em campo
+FB,FW,,Forward,Attaquant,Atacante
+FB,GK,,Goalkeeper,Gardien de but,Goleiro
+FB,MF,,Midfield,Milieu de terrain,Meio-campo
+HB,CB,,Centre Back,Demi-centre,Armador central
+HB,CB/LB,,Centre Back/Left Back,Demi-centre/Arrière gauch,Armador central/Armador e
+HB,CB/LW,,Centre Back/Left Wing,Demi-centre/Ailier gauche,Armador central/Ponta esq
+HB,CB/RB,,Centre Back/Right Back,Demi-centre/Arrière droit,Armador central/Armador d
+HB,CB/RW,,Centre Back/Right Wing,Demi-centre/Ailier droit,Armador central/Ponta dir
+HB,FP,,Field Player,Joueur,Jogador em campo
+HB,GK,,Goalkeeper,Gardien de but,Goleiro
+HB,LB,,Left Back,Arrière gauche,Armador esquerdo
+HB,LB/CB,,Left Back/Centre Back,Arrière gauche/Demi-ctr,Armador esquerdo/Armador
+HB,LB/RB,,Left Back/Right Back,Arrière gauche/Arrière dr,Armador esquerdo/Armador
+HB,LW,,Left Wing,Ailier gauche,Ponta esquerda
+HB,LW/CB,,Left Wing/Centre Back,Ailier gauche/Demi-centre,Ponta esquerda/Armador ce
+HB,P,,Pivot,Pivot,Pivô
+HB,P/CB,,Pivot/Centre Back,Pivot/Demi-centre,Pivô/Armador central
+HB,RB,,Right Back,Arrière droit,Armador direito
+HB,RB/CB,,Right Back/Centre Back,Arrière droit/Demi-centre,Armador direito/Armador c
+HB,RB/RW,,Right Back/Right Wing,Arrière droit/Ailier droi,Armador direito/Ponta dir
+HB,RW,,Right Wing,Ailier droit,Ponta direita
+HB,RW/CB,,Right Wing/Centre Back,Ailier droit/Demi-centre,Ponta direita/Armador cen
+HB,RW/RB,,Right Wing/Right Back,Ailier droit/Arrière droi,Ponta direita/Armador dir
+HB,W,,Wing,Ailier,Ala
+HO,D,,Defender,Défenseur,Defensor
+HO,F,,Forward,Attaquant,Atacante
+HO,FP,,Field Player,Joueur,Jogador em campo
+HO,GK,,Goalkeeper,Gardien de but,Goleiro
+HO,M,,Midfield,Milieu de terrain,Meio-campo
+RO,2,2,Rower 2,Rameur 2,Remador 2
+RO,3,3,Rower 3,Rameur 3,Remador 3
+RO,4,4,Rower 4,Rameur 4,Remador 4
+RO,5,5,Rower 5,Rameur 5,Remador 5
+RO,6,6,Rower 6,Rameur 6,Remador 6
+RO,7,7,Rower 7,Rameur 7,Remador 7
+RO,B,1,Bow,Proue,Proa
+RO,C,9,Coxswain,Barreur,Timoneiro
+RO,S,8,Stroke,Coup d'aviron,Voga
+RU,B,,Back,Arrière,Três-quartos
+RU,F,,Forward,Avant,Forward
+RU,FP,,Field Player,Joueur,Jogador em campo
+SA,C,2,Crew,Équipage,Tripulação
+SA,H,1,Helm,Barreur,Timoneiro
+VO,FP,,Field Player,Joueur,Jogador em campo
+VO,L,,Libero,Libéro,Líbero
+VO,MB,,Middle Blocker,Central,Meio-de-rede
+VO,OS,,Opposite Spiker,Attaquant,Oposto
+VO,S,,Setter,Passeur,Levantador
+VO,WS,,Wing Spiker,Réceptionneur-attaquant,Ponteiro passador
+WP,CB,,Centre Back,Centre en retrait,Jogador de centro
+WP,CF,,Centre Forward,Avant de pointe,Marcador de centro
+WP,D,,Driver,Passeur,Armador
+WP,FP,,Field Player,Joueur,Jogador em campo
+WP,GK,,Goalkeeper,Gardien de but,Goleiro

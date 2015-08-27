@@ -40,13 +40,28 @@ class Loader
       @data[name] = []
       sport_codes = (name == "SportCodes")
 
+      # Keep track of columns that were removed via shading (the entire column
+      # was shaded red, or as we're detecting it, the header cell was shaded
+      # red).
+      removed_columns = []
+      sheet.sheet_data[0].cells.each_with_index do |cell, i|
+        removed_columns << i if cell.fill_color.downcase == 'ffff0000'
+      end
+
       sheet.sheet_data[0..-1].each_with_index do |row, idx|
         begin
-          # Skip rows without cells and rows that are shaded red
+          # Skip rows without cells.
           next unless row && row.cells.size > 0 && row.cells.first
-          next if row.cells.first.fill_color.downcase == 'ffff0000'
 
-          values = row.cells.map { |i| i ? i.value : nil }
+          # Remove cells from any removed columns
+          cells = []
+          row.cells.each_with_index { |cell, i| cells << cell unless removed_columns.include?(i) }
+
+          # Skip rows that are shaded red (they tend to included as a reference
+          # of data that was removed).
+          next if cells.first.fill_color.downcase == 'ffff0000'
+
+          values = cells.map { |i| i ? i.value : nil }
 
           # Skip empty rows
           next unless values.compact.size > 0

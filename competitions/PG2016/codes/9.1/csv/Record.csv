@@ -1,0 +1,651 @@
+Id,Related Event,order,ENG Description,POR Description
+ARM0710000,ARM071,1,M Recurve/Comp. W1 - 72 Arrw. Rkg. Rnd.,Arco composto masculino - W1
+ARM0710001,ARM071,2,M Recurve/Compound W1 - 15 Arrows Match,Arco composto masculino - W1
+ARM0720000,ARM072,3,M Compound Open - 72 Arrw. Rkg. Rnd.,Arco composto masculino - aberto
+ARM0720001,ARM072,4,M Compound Open - 15 Arrows Match,Arco composto masculino - aberto
+ARM0730000,ARM073,5,M Recurve Open - 72 Arrw. Rkg. Rnd.,Arco recurvo masculino - aberto
+ARW0710000,ARW071,6,W Recurve/Compound W1-72 Arrw. Rkg. Rnd.,Arco composto feminino - W1
+ARW0710001,ARW071,7,W Recurve/Compound W1 - 15 Arrows Match,Arco composto feminino - W1
+ARW0720000,ARW072,8,W Compound Open - 72 Arrw. Rkg. Rnd.,Arco composto feminino - aberto
+ARW0720001,ARW072,9,W Compound Open - 15 Arrows Match,Arco composto feminino - aberto
+ARW0730000,ARW073,10,W Recurve Open - 72 Arrw. Rkg. Rnd.,Arco recurvo feminino - aberto
+ARX4710005,ARX471,11,X Team W1 Rec./Comp.-144 Arrw. Rkg. Rnd.,Arco Recurvo/Composto W1 times mistos
+ARX4710006,ARX471,12,X Team W1 Recurve/Comp.-16 Arrw. Match,Times mistos recurvo/comp W1 16 flechas
+ARX4720005,ARX472,13,X Team Compound Open-144 Arrw. Rkg. Rnd.,Arco Composto Aberto times mistos
+ARX4720006,ARX472,14,X Team Compound Open - 16 Arrw. Match,Times mistos composto aberto 16 flechas
+ARX4730005,ARX473,15,X Team Recurve Open- 144 Arrw. Rkg. Rnd.,Arco Recurvo Aberto times mistos
+ATM0140000,ATM014,81,Men's High Jump - F42,Salto em altura masculino - F42
+ATM0200000,ATM020,84,Men's High Jump - F46,Salto em altura masculino - F46
+ATM0200001,ATM020,82,Men's High Jump - F44,Salto em altura masculino - F44
+ATM0200002,ATM020,83,Men's High Jump - F45,Salto em altura masculino - F45
+ATM0310000,ATM031,85,Men's Long Jump - F11,Salto em distância masculino - F11
+ATM0330000,ATM033,86,Men's Long Jump - F13,Salto em distância masculino - F13
+ATM0340000,ATM034,87,Men's Long Jump - F36,Salto em distância masculino - F36
+ATM0350000,ATM035,88,Men's Long Jump - F20,Salto em distância masculino - F20
+ATM0400001,ATM040,89,Men's Long Jump - F37,Salto em distância masculino - F37
+ATM0400002,ATM040,90,Men's Long Jump - F38,Salto em distância masculino - F38
+ATM0420001,ATM042,91,Men's Long Jump - F42,Salto em distância masculino - F42
+ATM0420002,ATM042,93,Men's Long Jump - F44,Salto em distância masculino - F44
+ATM0420003,ATM042,92,Men's Long Jump - F43,Salto em distância masculino - F43
+ATM0600000,ATM060,95,Men's Long Jump - F46,Salto em distância masculino - F46
+ATM0910000,ATM091,96,Men's Triple Jump - F11,Salto triplo masculino - F11
+ATM0920000,ATM092,97,Men's Triple Jump - F12,Salto triplo masculino - F12
+ATM0930000,ATM093,99,Men's Triple Jump - F46,Salto triplo masculino - F46
+ATM0930001,ATM093,98,Men's Triple Jump - F45,Salto triplo masculino - F45
+ATM1100000,ATM710,76,Men's Marathon - T11,Maratona masculina - T11
+ATM1110000,ATM111,1,Men's 100m - T11,100m rasos masculino - T11
+ATM1120000,ATM112,2,Men's 100m - T12,100m rasos masculino - T12
+ATM1130000,ATM113,3,Men's 100m - T13,100m rasos masculino - T13
+ATM1200000,ATM560,64,Men's 1500m - T12,1500m rasos masculinos -T12
+ATM1330000,ATM134,4,Men's 100m - T33,100m rasos masculino - T33
+ATM1340000,ATM134,5,Men's 100m - T34,100m rasos masculino - T34
+ATM1350000,ATM135,6,Men's 100m - T35,100m rasos masculino - T35
+ATM1360000,ATM136,7,Men's 100m - T36,100m rasos masculino - T36
+ATM1370000,ATM137,8,Men's 100m - T37,100m rasos masculino - T37
+ATM1380000,ATM138,9,Men's 100m - T38,100m rasos masculino - T38
+ATM1400000,ATM140,11,Men's 100m - T44,100m rasos masculino - T44
+ATM1410000,ATM141,13,Men's 100m - T46,100m rasos masculino - T46
+ATM1420000,ATM142,14,Men's 100m - T42,100m rasos masculino - T42
+ATM1430000,ATM140,10,Men's 100m - T43,100m rasos masculino - T43
+ATM1450000,ATM141,12,Men's 100m - T45,100m rasos masculino - T45
+ATM1500000,ATM150,15,Men's 100m - T52,100m rasos masculino - T52
+ATM1510000,ATM151,16,Men's 100m - T51,100m rasos masculino - T51
+ATM1530000,ATM153,17,Men's 100m - T53,100m rasos masculino - T53
+ATM1540000,ATM154,18,Men's 100m - T54,100m rasos masculino - T54
+ATM2110000,ATM211,19,Men's 200m - T11,200m rasos masculino - T11
+ATM2120000,ATM212,20,Men's 200m - T12,200m rasos masculino - T12
+ATM2130000,ATM213,21,Men's 200m - T13,200m rasos masculino - T13
+ATM2300000,ATM230,23,Men's 200m - T36,200m rasos masculino - T36
+ATM2330000,ATM234,22,Men's 200m - T33,200m rasos masculino - T33
+ATM2340000,ATM234,24,Men's 200m - T34,200m rasos masculino - T34
+ATM2350000,ATM235,25,Men's 200m - T35,200m rasos masculino - T35
+ATM2370000,ATM237,26,Men's 200m - T37,200m rasos masculino - T37
+ATM2380000,ATM238,27,Men's 200m - T38,200m rasos masculino - T38
+ATM2400000,ATM240,29,Men's 200m - T44,200m rasos masculino - T44
+ATM2410000,ATM241,31,Men's 200m - T46,200m rasos masculino - T46
+ATM2420000,ATM242,32,Men's 200m - T42,200m rasos masculino - T42
+ATM2430000,ATM240,28,Men's 200m - T43,200m rasos masculino - T43
+ATM2450000,ATM241,30,Men's 200m - T45,200m rasos masculino - T45
+ATM2500000,ATM250,34,Men's 200m - T52,200m rasos masculino - T52
+ATM2510000,ATM250,33,Men's 200m - T51,200m rasos masculino - T51
+ATM2530000,ATM253,35,Men's 200m - T53,200m rasos masculino - T53
+ATM3010001,ATM301,154,Men's Club Throw - F31,Arremesso de bastão masculino - F31
+ATM3010002,ATM301,155,Men's Club Throw - F32,Arremesso de bastão masculino - F32
+ATM3010003,ATM301,156,Men's Club Throw - F51,Arremesso de bastão masculino - F51
+ATM3110001,ATM311,100,Men's Shot Put - F11,Arremesso do peso masculino - F11
+ATM3110002,ATM311,101,Men's Shot Put - F12,Arremesso do peso masculino - F12
+ATM3130000,ATM313,102,Men's Shot Put - F20,Arremesso do peso masculino - F20
+ATM3310001,ATM331,103,Men's Shot Put - F37,Arremesso do peso masculino - F37
+ATM3310002,ATM331,104,Men's Shot Put - F38,Arremesso do peso masculino - F38
+ATM3330001,ATM333,105,Men's Shot Put - F32,Arremesso do peso masculino - F32
+ATM3330002,ATM333,106,Men's Shot Put - F33,Arremesso do peso masculino - F33
+ATM3340000,ATM334,107,Men's Shot Put - F34,Arremesso do peso masculino - F34
+ATM3400000,ATM340,108,Men's Shot Put - F40,Arremesso do peso masculino - F40
+ATM3420001,ATM342,109,Men's Shot Put - F42,Arremesso do peso masculino - F42
+ATM3420002,ATM342,111,Men's Shot Put - F44,Arremesso do peso masculino - F44
+ATM3420003,ATM342,110,Men's Shot Put - F43,Arremesso do peso masculino - F43
+ATM3460000,ATM346,112,Men's Shot Put - F46,Arremesso do peso masculino - F46
+ATM3520001,ATM352,113,Men's Shot Put - F52,Arremesso do peso masculino - F52
+ATM3520002,ATM352,114,Men's Shot Put - F53,Arremesso do peso masculino - F53
+ATM3610001,ATM361,115,Men's Shot Put - F54,Arremesso do peso masculino - F54
+ATM3610002,ATM361,116,Men's Shot Put - F55,Arremesso do peso masculino - F55
+ATM3610003,ATM361,117,Men's Shot Put - F56,Arremesso do peso masculino - F56
+ATM3700001,ATM370,118,Men's Shot Put - F57,Arremesso do peso masculino - F57
+ATM3700002,ATM370,119,Men's Shot Put - F58,Arremesso do peso masculino - F58
+ATM4110000,ATM411,36,Men's 400m - T11,400m rasos masculino - T11
+ATM4120000,ATM412,37,Men's 400m - T12,400m rasos masculino - T12
+ATM4130000,ATM413,38,Men's 400m - T13,400m rasos masculino - T13
+ATM4300000,ATM430,39,Men's 400m - T36,400m rasos masculino - T36
+ATM4310000,ATM431,41,Men's 400m - T38,400m rasos masculino - T38
+ATM4370000,ATM431,40,Men's 400m - T37,400m rasos masculino - T37
+ATM4400000,ATM440,44,Men's 400m - T44,400m rasos masculino - T44
+ATM4400001,ATM440,42,Men's 400m - T42,400m rasos masculino - T42
+ATM4400002,ATM440,43,Men's 400m - T43,400m rasos masculino - T43
+ATM4410000,ATM441,46,Men's 400m - T46,400m rasos masculino - T46
+ATM4450000,ATM441,45,Men's 400m - T45,400m rasos masculino - T45
+ATM4500000,ATM450,48,Men's 400m - T52,400m rasos masculino - T52
+ATM4500001,ATM450,47,Men's 400m - T51,400m rasos masculino - T51
+ATM4530000,ATM453,49,Men's 400m - T53,400m rasos masculino - T53
+ATM4540000,ATM454,50,Men's 400m - T54,400m rasos masculino - T54
+ATM4600001,ATM060,94,Men's Long Jump - F45,Salto em distância masculino - F45
+ATM5110000,ATM511,70,Men's 5000m - T11,5.000m rasos masculino - T11
+ATM5120000,ATM512,71,Men's 5000m - T12,5.000m rasos masculino - T12
+ATM5200000,ATM760,79,Men's Marathon - T52,Maratona masculina - T52
+ATM5540000,ATM554,72,Men's 5000m - T54,5.000m rasos masculino - T54
+ATM5600000,ATM560,62,Men's 1500m - T13,1500m rasos masculinos -T13
+ATM5610000,ATM561,63,Men's 1500m - T11,1.500m rasos masculino - T11
+ATM5640000,ATM564,65,Men's 1500m - T37,1.500m rasos masculino - T37
+ATM5650000,ATM565,66,Men's 1500m - T20,1.500m rasos masculino - T20
+ATM5700000,ATM570,68,Men's 1500m - T46,1.500m rasos masculino - T46
+ATM5700001,ATM570,67,Men's 1500m - T45,1.500m rasos masculino - T45
+ATM5800000,ATM580,69,Men's 1500m - T54,1.500m rasos masculino - T54
+ATM6030001,ATM603,120,Men's Discus Throw - F32,Lançamento do disco masculino - F32
+ATM6030002,ATM603,121,Men's Discus Throw - F33,Lançamento do disco masculino - F33
+ATM6030003,ATM603,122,Men's Discus Throw - F34,Lançamento do disco masculino - F34
+ATM6050001,ATM605,123,Men's Discus Throw - F35,Lançamento do disco masculino - F35
+ATM6050002,ATM605,124,Men's Discus Throw - F36,Lançamento do disco masculino - F36
+ATM6060001,ATM606,125,Men's Discus Throw - F37,Lançamento do disco masculino - F37
+ATM6060002,ATM606,126,Men's Discus Throw - F38,Lançamento do disco masculino - F38
+ATM6070000,ATM607,128,Men's Discus Throw - F44,Lançamento do disco masculino - F44
+ATM6070001,ATM607,127,Men's Discus Throw - F43,Lançamento do disco masculino - F43
+ATM6110000,ATM611,129,Men's Discus Throw - F11,Lançamento do disco masculino - F11
+ATM6200001,ATM620,130,Men's Discus Throw - F57,Lançamento do disco masculino - F57
+ATM6200002,ATM620,131,Men's Discus Throw - F58,Lançamento do disco masculino - F58
+ATM6400000,ATM640,132,Men's Discus Throw - F40,Lançamento do disco masculino - F40
+ATM6420000,ATM642,133,Men's Discus Throw - F42,Lançamento do disco masculino - F42
+ATM6510001,ATM651,134,Men's Discus Throw - F51,Lançamento do disco masculino - F51
+ATM6510002,ATM651,135,Men's Discus Throw - F52,Lançamento do disco masculino - F52
+ATM6510003,ATM651,136,Men's Discus Throw - F53,Lançamento do disco masculino - F53
+ATM6540001,ATM654,137,Men's Discus Throw - F54,Lançamento do disco masculino - F54
+ATM6540002,ATM654,138,Men's Discus Throw - F55,Lançamento do disco masculino - F55
+ATM6540003,ATM654,139,Men's Discus Throw - F56,Lançamento do disco masculino - F56
+ATM6600001,ATM660,140,Men's Javelin Throw - F12,Lançamento do dardo masculino - F12
+ATM6600002,ATM660,141,Men's Javelin Throw - F13,Lançamento do dardo masculino - F13
+ATM6620000,ATM662,142,Men's Javelin Throw - F42,Lançamento do dardo masculino - F42
+ATM6640000,ATM664,143,Men's Javelin Throw - F44,Lançamento do dardo masculino - F44
+ATM6670001,ATM667,144,Men's Javelin Throw - F57,Lançamento do dardo masculino - F57
+ATM6670002,ATM667,145,Men's Javelin Throw - F58,Lançamento do dardo masculino - F58
+ATM6720001,ATM672,146,Men's Javelin Throw - F33,Lançamento do dardo masculino - F33
+ATM6720002,ATM672,147,Men's Javelin Throw - F34,Lançamento do dardo masculino - F34
+ATM6730000,ATM673,148,Men's Javelin Throw - F40,Lançamento do dardo masculino - F40
+ATM6750001,ATM675,149,Men's Javelin Throw - F52,Lançamento do dardo masculino - F52
+ATM6750002,ATM675,150,Men's Javelin Throw - F53,Lançamento do dardo masculino - F53
+ATM6760001,ATM676,151,Men's Javelin Throw - F54,Lançamento do dardo masculino - F54
+ATM6760002,ATM676,152,Men's Javelin Throw - F55,Lançamento do dardo masculino - F55
+ATM6760003,ATM676,153,Men's Javelin Throw - F56,Lançamento do dardo masculino - F56
+ATM7100000,ATM710,77,Men's Marathon - T12,Maratona masculina - T12
+ATM7400000,ATM740,78,Men's Marathon - T46,Maratona masculina - T46
+ATM7600000,ATM760,80,Men's Marathon - T54,Maratona masculina - T54
+ATM8100000,ATM810,52,Men's 800m - T12,800m rasos masculino - T12
+ATM8110000,ATM810,51,Men's 800m - T11,800m rasos masculino - T11
+ATM8130000,ATM813,53,Men's 800m - T13,800m rasos masculino - T13
+ATM8300000,ATM830,54,Men's 800m - T36,800m rasos masculino - T36
+ATM8370000,ATM837,55,Men's 800m - T37,800m rasos masculino - T37
+ATM8400000,ATM840,57,Men's 800m - T46,800m rasos masculino - T46
+ATM8450000,ATM840,56,Men's 800m - T45,800m rasos masculino - T45
+ATM8500000,ATM850,59,Men's 800m - T52,800m rasos masculino - T52
+ATM8510000,ATM850,58,Men's 800m - T51,800m rasos masculino - T51
+ATM8530000,ATM853,60,Men's 800m - T53,800m rasos masculino - T53
+ATM8540000,ATM854,61,Men's 800m - T54,800m rasos masculino - T54
+ATM8900000,ATM890,73,Men's 4x100m Relay - T11/T13,Revezamento 4x100m masculino - T11/13
+ATM8920000,ATM892,74,Men's 4x100m Relay - T42/T46,Revezamento 4x100m masculino - T42/46
+ATM8960000,ATM896,75,Men's 4x400m Relay - T53/T54,Revezamento 4x100m masculino - T53/54
+ATW0110001,ATW011,213,Women's Long Jump - F11,Salto em distância feminino - F11
+ATW0110002,ATW011,214,Women's Long Jump - F12,Salto em distância feminino - F12
+ATW0330000,ATW033,215,Women's Long Jump - F13,Salto em distância feminino - F13
+ATW0350000,ATW035,216,Women's Long Jump - F20,Salto em distância feminino - F20
+ATW0370001,ATW037,217,Women's Long Jump - F37,Salto em distância feminino - F37
+ATW0370002,ATW037,218,Women's Long Jump - F38,Salto em distância feminino - F38
+ATW0420001,ATW042,219,Women's Long Jump - F42,Salto em distância feminino - F42
+ATW0420002,ATW042,221,Women's Long Jump - F44,Salto em distância feminino - F44
+ATW0420003,ATW042,220,Women's Long Jump - F43,Salto em distância feminino - F43
+ATW0460000,ATW046,223,Women's Long Jump - F46,Salto em distância feminino - F46
+ATW0460001,ATW046,222,Women's Long Jump - F45,Salto em distância feminino - F45
+ATW1110000,ATW111,157,Women's 100m - T11,100m rasos feminino - T11
+ATW1120000,ATW112,158,Women's 100m - T12,100m rasos feminino - T12
+ATW1130000,ATW113,159,Women's 100m - T13,100m rasos feminino - T13
+ATW1140000,ATW114,161,Women's 100m - T34,100m rasos feminino - T34
+ATW1140001,ATW114,160,Women's 100m - T33,100m rasos feminino - T33
+ATW1150000,ATW115,162,Women's 100m - T35,100m rasos feminino - T35
+ATW1300000,ATW130,163,Women's 100m - T36,100m rasos feminino - T36
+ATW1370000,ATW137,164,Women's 100m - T37,100m rasos feminino - T37
+ATW1380000,ATW138,165,Women's 100m - T38,100m rasos feminino - T38
+ATW1400000,ATW140,167,Women's 100m - T44,100m rasos feminino - T44
+ATW1400001,ATW140,166,Women's 100m - T43,100m rasos feminino - T43
+ATW1410000,ATW141,169,Women's 100m - T46,100m rasos feminino - T46
+ATW1410001,ATW141,168,Women's 100m - T45,100m rasos feminino - T45
+ATW1420000,ATW142,170,Women's 100m - T42,100m rasos feminino - T42
+ATW1500000,ATW150,172,Women's 100m - T52,100m rasos feminino - T52
+ATW1500001,ATW150,171,Women's 100m - T51,100m rasos feminino - T51
+ATW1510000,ATW151,173,Women's 100m - T53,100m rasos feminino - T53
+ATW1540000,ATW154,174,Women's 100m - T54,100m rasos feminino - T54
+ATW2110000,ATW211,175,Women's 200m - T11,200m rasos feminino - T11
+ATW2120000,ATW212,176,Women's 200m - T12,200m rasos feminino - T12
+ATW2140000,ATW214,178,Women's 200m - T34,200m rasos feminino - T34
+ATW2150000,ATW215,179,Women's 200m - T35,200m rasos feminino - T35
+ATW2300000,ATW230,180,Women's 200m - T36,200m rasos feminino - T36
+ATW2370000,ATW237,181,Women's 200m - T37,200m rasos feminino - T37
+ATW2380000,ATW238,182,Women's 200m - T38,200m rasos feminino - T38
+ATW2400000,ATW240,185,Women's 200m - T44,200m rasos feminino - T44
+ATW2400001,ATW240,183,Women's 200m - T42,200m rasos feminino - T42
+ATW2400002,ATW240,184,Women's 200m - T43,200m rasos feminino - T43
+ATW2410000,ATW241,187,Women's 200m - T46,200m rasos feminino - T46
+ATW2410001,ATW241,186,Women's 200m - T45,200m rasos feminino - T45
+ATW2500000,ATW250,189,Women's 200m - T52,200m rasos feminino - T52
+ATW2500001,ATW250,188,Women's 200m - T51,200m rasos feminino - T51
+ATW2510000,ATW251,190,Women's 200m - T53,200m rasos feminino - T53
+ATW3010001,ATW301,267,Women's Club Throw - F31,Arremesso de bastão feminino - F31
+ATW3010002,ATW301,268,Women's Club Throw - F32,Arremesso de bastão feminino - F32
+ATW3010003,ATW301,269,Women's Club Throw - F51,Arremesso de bastão feminino - F51
+ATW3110001,ATW311,224,Women's Shot Put - F11,Arremesso do peso feminino - F11
+ATW3110002,ATW311,225,Women's Shot Put - F12,Arremesso do peso feminino - F12
+ATW3130000,ATW313,226,Women's Shot Put - F20,Arremesso do peso feminino - F20
+ATW3300000,ATW214,177,Women's 200m - T33,200m rasos feminino - T33
+ATW3300001,ATW330,227,Women's Shot Put - F35,Arremesso do peso feminino - F35
+ATW3300002,ATW330,228,Women's Shot Put - F36,Arremesso do peso feminino - F36
+ATW3320000,ATW332,229,Women's Shot Put - F37,Arremesso do peso feminino - F37
+ATW3330001,ATW333,230,Women's Shot Put - F32,Arremesso do peso feminino - F32
+ATW3330002,ATW333,231,Women's Shot Put - F33,Arremesso do peso feminino - F33
+ATW3330003,ATW333,232,Women's Shot Put - F34,Arremesso do peso feminino - F34
+ATW3400000,ATW340,233,Women's Shot Put - F40,Arremesso do peso feminino - F40
+ATW3420001,ATW342,234,Women's Shot Put - F42,Arremesso do peso feminino - F42
+ATW3420002,ATW342,236,Women's Shot Put - F44,Arremesso do peso feminino - F44
+ATW3420003,ATW342,235,Women's Shot Put - F43,Arremesso do peso feminino - F43
+ATW3600001,ATW360,237,Women's Shot Put - F54,Arremesso do peso feminino - F54
+ATW3600002,ATW360,238,Women's Shot Put - F55,Arremesso do peso feminino - F55
+ATW3600003,ATW360,239,Women's Shot Put - F56,Arremesso do peso feminino - F56
+ATW3700001,ATW370,240,Women's Shot Put - F57,Arremesso do peso feminino - F57
+ATW3700002,ATW370,241,Women's Shot Put - F58,Arremesso do peso feminino - F58
+ATW4100000,ATW410,192,Women's 400m - T12,400m rasos feminino - T12
+ATW4100001,ATW410,191,Women's 400m - T11,400m rasos feminino - T11
+ATW4130000,ATW413,193,Women's 400m - T13,400m rasos feminino - T13
+ATW4140000,ATW414,194,Women's 400m - T37,400m rasos feminino - T37
+ATW4150000,ATW415,196,Women's 400m - T46,400m rasos feminino - T46
+ATW4150001,ATW415,195,Women's 400m - T45,400m rasos feminino - T45
+ATW4500000,ATW450,199,Women's 400m - T53,400m rasos feminino - T53
+ATW4500001,ATW450,197,Women's 400m - T51,400m rasos feminino - T51
+ATW4500002,ATW450,198,Women's 400m - T52,400m rasos feminino - T52
+ATW4540000,ATW454,200,Women's 400m - T54,400m rasos feminino - T54
+ATW5500000,ATW550,209,Women's 5000m - T54,5.000m rasos feminino - T54
+ATW5590000,ATW559,206,Women's 1500m - T12,1.500m rasos feminino - T12
+ATW5590001,ATW559,205,Women's 1500m - T11,1.500m rasos feminino - T11
+ATW5610000,ATW561,207,Women's 1500m - T20,1.500m rasos feminino - T20
+ATW5800000,ATW580,208,Women's 1500m - T54,1.500m rasos feminino - T54
+ATW6010001,ATW601,242,Women's Discus Throw - F11,Lançamento do disco feminino - F11
+ATW6010002,ATW601,243,Women's Discus Throw - F12,Lançamento do disco feminino - F12
+ATW6040000,ATW604,244,Women's Discus Throw - F37,Lançamento do disco feminino - F37
+ATW6050001,ATW605,245,Women's Discus Throw - F35,Lançamento do disco feminino - F35
+ATW6050002,ATW605,246,Women's Discus Throw - F36,Lançamento do disco feminino - F36
+ATW6080001,ATW608,247,Women's Discus Throw - F51,Lançamento do disco feminino - F51
+ATW6080002,ATW608,248,Women's Discus Throw - F52,Lançamento do disco feminino - F52
+ATW6080003,ATW608,249,Women's Discus Throw - F53,Lançamento do disco feminino - F53
+ATW6200001,ATW620,250,Women's Discus Throw - F57,Lançamento do disco feminino - F57
+ATW6200002,ATW620,251,Women's Discus Throw - F58,Lançamento do disco feminino - F58
+ATW6400000,ATW640,252,Women's Discus Throw - F40,Lançamento do disco feminino - F40
+ATW6600001,ATW660,253,Women's Javelin Throw - F12,Lançamento do dardo feminino - F12
+ATW6600002,ATW660,254,Women's Javelin Throw - F13,Lançamento do dardo feminino - F13
+ATW6610001,ATW661,255,Women's Javelin Throw - F33,Lançamento do dardo feminino - F33
+ATW6610002,ATW661,256,Women's Javelin Throw - F34,Lançamento do dardo feminino - F34
+ATW6610003,ATW661,257,Women's Javelin Throw - F52,Lançamento do dardo feminino - F52
+ATW6610004,ATW661,258,Women's Javelin Throw - F53,Lançamento do dardo feminino - F53
+ATW6650001,ATW665,259,Women's Javelin Throw - F54,Lançamento do dardo feminino - F54
+ATW6650002,ATW665,260,Women's Javelin Throw - F55,Lançamento do dardo feminino - F55
+ATW6650003,ATW665,261,Women's Javelin Throw - F56,Lançamento do dardo feminino - F56
+ATW6660000,ATW666,262,Women's Javelin Throw - F46,Lançamento do dardo feminino - F46
+ATW6670001,ATW667,263,Women's Javelin Throw - F57,Lançamento do dardo feminino - F57
+ATW6670002,ATW667,264,Women's Javelin Throw - F58,Lançamento do dardo feminino - F58
+ATW6740001,ATW674,265,Women's Javelin Throw - F37,Lançamento do dardo feminino - F37
+ATW6740002,ATW674,266,Women's Javelin Throw - F38,Lançamento do dardo feminino - F38
+ATW7600000,ATW760,212,Women's Marathon - T54,Maratona feminina - T54
+ATW7600001,ATW760,211,Women's Marathon - T52,Maratona feminina - T52
+ATW8500000,ATW850,203,Women's 800m - T53,800m rasos feminino - T53
+ATW8500001,ATW850,201,Women's 800m - T51,800m rasos feminino - T51
+ATW8500002,ATW850,202,Women's 800m - T52,800m rasos feminino - T52
+ATW8540001,ATW854,204,Women's 800m - T54,800m rasos feminino - T54
+ATW8950000,ATW895,210,Women's 4x100m Relay - T35/T38,Revezamento 4x100m feminino - T35/38
+CFM112000,CFM112,1,Men's KL1,KL1 masculino
+CFM113000,CFM113,3,Men's KL2,KL2 masculino
+CFM114000,CFM114,5,Men's KL3,KL3 masculino
+CFW112000,CFW112,2,Women's KL1,KL1 feminino
+CFW113000,CFW113,4,Women's KL2,KL2 feminino
+CFW114000,CFW114,6,Women's KL3,KL3 feminino
+CTM0260000,CTM026,1,Men's Individual C1 Pursuit,Perseguição masculina - C1
+CTM0270000,CTM027,2,Men's Individual B Pursuit,Perseguição masculina - B
+CTM0280000,CTM028,3,Men's Individual C2 Pursuit,Perseguição masculina - C2
+CTM0290000,CTM029,4,Men's Individual C3 Pursuit,Perseguição masculina - C3
+CTM0300000,CTM030,5,Men's Individual C4 Pursuit,Perseguição masculina - C4
+CTM0360000,CTM036,6,Men's Individual B 1km Time Trial,Quilômetro masculino - B
+CTM0370001,CTM037,7,Men's Individual C1 1km Time Trial,Quilômetro masculino - C1
+CTM0370002,CTM037,8,Men's Individual C2 1km Time Trial,Quilômetro masculino - C2
+CTM0370003,CTM037,9,Men's Individual C3 1km Time Trial,Quilômetro masculino - C3
+CTM0380001,CTM038,10,Men's Individual C4 1km Time Trial,Quilômetro masculino - C4
+CTM0380002,CTM038,11,Men's Individual C5 1km Time Trial,Quilômetro masculino - C5
+CTM0410000,CTM041,12,Men's Individual C5 Pursuit,Perseguição masculina - C5
+CTW0270000,CTW027,13,Women's Individual B Pursuit,Perseguição feminina - B
+CTW0280001,CTW028,14,Women's Individual C1 Pursuit,Perseguição feminina - C1
+CTW0280002,CTW028,15,Women's Individual C2 Pursuit,Perseguição feminina - C2
+CTW0280003,CTW028,16,Women's Individual C3 Pursuit,Perseguição feminina - C3
+CTW0290000,CTW029,17,Women's Individual C4 Pursuit,Perseguição feminina - C4
+CTW0300000,CTW030,18,Women's Individual C5 Pursuit,Perseguição feminina - C5
+CTW0360000,CTW036,19,Women's Individual B 1km Time Trial,Quilômetro feminino - B
+CTW0370001,CTW037,20,Women's Individual C1 500m Time Trial,500m feminino - C1
+CTW0370002,CTW037,21,Women's Individual C2 500m Time Trial,500m feminino - C2
+CTW0370003,CTW037,22,Women's Individual C3 500m Time Trial,500m feminino - C3
+CTW0380001,CTW038,23,Women's Individual C4 500m Time Trial,500m feminino - C4
+CTW0380002,CTW038,24,Women's Individual C5 500m Time Trial,500m feminino - C5
+CTX0520000,CTX052,25,Mixed C1 to 5 Team Sprint,Velocidade por equipes mista - C1-5
+POM049000,POM049,1,Men's -49 kg,Até 49kg masculino
+POM054000,POM054,2,Men's -54 kg,Até 54kg masculino
+POM059000,POM059,3,Men's -59 kg,Até 59kg masculino
+POM065000,POM065,4,Men's -65 kg,Até 65kg masculino
+POM072000,POM072,5,Men's -72 kg,Até 72kg masculino
+POM080000,POM080,6,Men's -80 kg,Até 80kg masculino
+POM088000,POM088,7,Men's -88 kg,Até 88kg masculino
+POM097000,POM097,8,Men's -97 kg,Até 97kg masculino
+POM107000,POM107,9,Men's -107 kg,Até 107kg masculino
+POM207000,POM207,10,Men's +107 kg,Acima de 107kg masculino 
+POW041000,POW041,11,Women's -41 kg,Até 41kg feminino
+POW045000,POW045,12,Women's -45 kg,Até 45kg feminino
+POW050000,POW050,13,Women's -50 kg,Até 50kg feminino
+POW055000,POW055,14,Women's -55 kg,Até 55kg feminino
+POW061000,POW061,15,Women's -61 kg,Até 61kg feminino
+POW067000,POW067,16,Women's -67 kg,Até 67kg feminino
+POW073000,POW073,17,Women's -73 kg,Até 73kg feminino
+POW079000,POW079,18,Women's -79 kg,Até 79kg feminino
+POW086000,POW086,19,Women's -86 kg,Até 86kg feminino
+POW186000,POW186,20,Women's +86 kg,Acima de 86kg feminino
+ROM012000,ROM012,1,Men's Single Sculls - A,Skiff simples masculino - A
+ROW012000,ROW012,2,Women's Single Sculls - A,Skiff simples feminino - A
+ROX022000,ROX022,3,Mixed Double Sculls - TA,Skiff duplo misto - TA
+ROX043000,ROX043,4,Mixed Coxed Four - LTA,LTA quatro com misto
+SHM101000,SHM101,1,M R1-10m Air Rifle Standing SH1,Carabina de ar em pé masculina R1 - SH1
+SHM101100,SHM101,2,M R1-10m Air Rifle Standing SH1 Final,"Carabina ar em pé masc R1 - SH1, final"
+SHM102000,SHM102,3,Men's R7-50m Rifle 3 Positions - SH1,Carabina 3 posições masculina R7 - SH1
+SHM102100,SHM102,4,M R7-50m Rifle 3 Positions - SH1 Final,"Carabina 3 posições masc R7 - SH1, final"
+SHM201000,SHM201,5,M P1-10m Air Pistol SH1,Pistola de ar masculino P1 - SH1
+SHM201100,SHM201,6,M P1-10m Air Pistol SH1 Final,"Pistola de ar masculino P1 - SH1, final"
+SHW101000,SHW101,7,W R2-10m Air Rifle Standing SH1,Carabina de ar feminino R2 - SH1
+SHW101100,SHW101,8,W R2-10m Air Rifle Standing SH1 Final,"Carabina de ar feminino R2 - SH1, final"
+SHW103000,SHW103,9,Women's R8-50m Rifle 3 Positions - SH1,Carabina 3 posições feminina R8 - SH1
+SHW103100,SHW103,10,W R8-50m Rifle 3 Positions - SH1 Final,"Carabina 3 posições fem R8 - SH1, final"
+SHW201000,SHW201,11,W P2-10m Air Pistol SH1,Pistola de ar feminino P2 - SH1
+SHW201100,SHW201,12,W P2-10m Air Pistol SH1 Final,"Pistola de ar feminino P2 - SH1, final"
+SHX104000,SHX104,13,Mixed R3-10m Air Rifle Prone SH1,Carabina de ar deitado mista R3 - SH1
+SHX104100,SHX104,14,Mixed R3-10m Air Rifle Prone SH1 Final,"Carabina ar deitado mista R3 - SH1,final"
+SHX105000,SHX105,15,Mixed R4-10m Air Rifle Stand SH2,Carabina de ar em pé mista R4 - SH2
+SHX105100,SHX105,16,Mixed R4-10m Air Rifle Stand SH2 Final,"Carabina ar em pé mista R4 - SH2, final"
+SHX106000,SHX106,17,Mixed R5-10m Air Rifle Prone SH2,Carabina de ar deitado mista R5 - SH2
+SHX106100,SHX106,18,Mixed R5-10m Air Rifle Prone SH2 Final,"Carabina ar deitado mista R5 - SH2,final"
+SHX107000,SHX107,19,Mixed R6-50m Free Rifle Prone SH1,Carabina deitado mista R6 - SH1
+SHX107100,SHX107,20,Mixed R6-50m Free Rifle Prone SH1 Final,"Carabina deitado mista R6 - SH1, final"
+SHX202000,SHX202,21,Mixed P3-25m Pistol - SH1,Pistola 25m mista P3 - SH1
+SHX203000,SHX203,22,Mixed P4-50m Pistol - SH1,Pistola 50m mista P4 - SH1
+SHX203100,SHX203,23,Mixed P4-50m Pistol - SH1 Final,"Pistola 50m mista P4 - SH1, final"
+SWM101000,,1,Men's 50m Freestyle - S1,50m livre masculino - S1
+SWM102000,,2,Men's 50m Freestyle - S2,50m livre masculino - S2
+SWM103000,SWM103,3,Men's 50m Freestyle - S3,50m livre masculino - S3
+SWM104000,SWM104,4,Men's 50m Freestyle - S4,50m livre masculino - S4
+SWM105000,SWM105,5,Men's 50m Freestyle - S5,50m livre masculino - S5
+SWM106000,SWM106,6,Men's 50m Freestyle - S6,50m livre masculino - S6
+SWM107000,SWM107,7,Men's 50m Freestyle - S7,50m livre masculino - S7
+SWM108000,SWM108,8,Men's 50m Freestyle - S8,50m livre masculino - S8
+SWM109000,SWM109,9,Men's 50m Freestyle - S9,50m livre masculino - S9
+SWM110000,SWM110,10,Men's 50m Freestyle - S10,50m livre masculino - S10
+SWM111000,SWM111,11,Men's 50m Freestyle - S11,50m livre masculino - S11
+SWM112000,SWM112,12,Men's 50m Freestyle - S12,50m livre masculino - S12
+SWM113000,SWM113,13,Men's 50m Freestyle - S13,50m livre masculino - S13
+SWM114000,,14,Men's 50m Freestyle - S14,50m livre masculino - S14
+SWM121000,,15,Men's 100m Freestyle - S1,100m livre masculino - S1
+SWM122000,,16,Men's 100m Freestyle - S2,100m livre masculino - S2
+SWM123000,,17,Men's 100m Freestyle - S3,100m livre masculino - S3
+SWM124000,SWM124,18,Men's 100m Freestyle - S4,100m livre masculino - S4
+SWM125000,SWM125,19,Men's 100m Freestyle - S5,100m livre masculino - S5
+SWM126000,SWM126,20,Men's 100m Freestyle - S6,100m livre masculino - S6
+SWM127000,SWM127,21,Men's 100m Freestyle - S7,100m livre masculino - S7
+SWM128000,SWM128,22,Men's 100m Freestyle - S8,100m livre masculino - S8
+SWM129000,SWM129,23,Men's 100m Freestyle - S9,100m livre masculino - S9
+SWM130000,SWM130,24,Men's 100m Freestyle - S10,100m livre masculino - S10
+SWM131000,SWM131,25,Men's 100m Freestyle - S11,100m livre masculino - S11
+SWM132000,,26,Men's 100m Freestyle - S12,100m livre masculino - S12
+SWM133000,SWM133,27,Men's 100m Freestyle - S13,100m livre masculino - S13
+SWM134000,,28,Men's 100m Freestyle - S14,100m livre masculino - S14
+SWM161000,,29,Men's 200m Freestyle - S1,200m livre masculino - S1
+SWM162000,SWM162,30,Men's 200m Freestyle - S2,200m livre masculino - S2
+SWM163000,SWM163,31,Men's 200m Freestyle - S3,200m livre masculino - S3
+SWM164000,SWM164,32,Men's 200m Freestyle - S4,200m livre masculino - S4
+SWM165000,SWM165,33,Men's 200m Freestyle - S5,200m livre masculino - S5
+SWM166000,,34,Men's 200m Freestyle - S6,200m livre masculino - S6
+SWM167000,,35,Men's 200m Freestyle - S7,200m livre masculino - S7
+SWM168000,,36,Men's 200m Freestyle - S8,200m livre masculino - S8
+SWM169000,,37,Men's 200m Freestyle - S9,200m livre masculino - S9
+SWM170000,,38,Men's 200m Freestyle - S10,200m livre masculino - S10
+SWM171000,,39,Men's 200m Freestyle - S11,200m livre masculino - S11
+SWM172000,,40,Men's 200m Freestyle - S12,200m livre masculino - S12
+SWM173000,,41,Men's 200m Freestyle - S13,200m livre masculino - S13
+SWM174000,SWM174,42,Men's 200m Freestyle - S14,200m livre masculino - S14
+SWM186000,SWM186,43,Men's 400m Freestyle - S6,400m livre masculino - S6
+SWM187000,SWM187,44,Men's 400m Freestyle - S7,400m livre masculino - S7
+SWM188000,SWM188,45,Men's 400m Freestyle - S8,400m livre masculino - S8
+SWM189000,SWM189,46,Men's 400m Freestyle - S9,400m livre masculino - S9
+SWM190000,SWM190,47,Men's 400m Freestyle - S10,400m livre masculino - S10
+SWM191000,SWM191,48,Men's 400m Freestyle - S11,400m livre masculino - S11
+SWM192000,,49,Men's 400m Freestyle - S12,400m livre masculino - S12
+SWM193000,SWM193,50,Men's 400m Freestyle - S13,400m livre masculino - S13
+SWM194000,,51,Men's 400m Freestyle - S14,400m livre masculino - S14
+SWM201000,,104,Men's 50m Butterfly - S1,50m borboleta masculino - S1
+SWM202000,,105,Men's 50m Butterfly - S2,50m borboleta masculino - S2
+SWM203000,,106,Men's 50m Butterfly - S3,50m borboleta masculino - S3
+SWM204000,,107,Men's 50m Butterfly - S4,50m borboleta masculino - S4
+SWM205000,SWM205,108,Men's 50m Butterfly - S5,50m borboleta masculino - S5
+SWM206000,SWM206,109,Men's 50m Butterfly - S6,50m borboleta masculino - S6
+SWM207000,SWM207,110,Men's 50m Butterfly - S7,50m borboleta masculino - S7
+SWM208000,,111,Men's 50m Butterfly - S8,50m borboleta masculino - S8
+SWM209000,,112,Men's 50m Butterfly - S9,50m borboleta masculino - S9
+SWM210000,,113,Men's 50m Butterfly - S10,50m borboleta masculino - S10
+SWM211000,,114,Men's 50m Butterfly - S11,50m borboleta masculino - S11
+SWM212000,,115,Men's 50m Butterfly - S12,50m borboleta masculino - S12
+SWM213000,,116,Men's 50m Butterfly - S13,50m borboleta masculino - S13
+SWM225000,,117,Men's 100m Butterfly - S5,100m borboleta masculino - S5
+SWM226000,,118,Men's 100m Butterfly - S6,100m borboleta masculino - S6
+SWM227000,,119,Men's 100m Butterfly - S7,100m borboleta masculino - S7
+SWM228000,SWM228,120,Men's 100m Butterfly - S8,100m borboleta masculino - S8
+SWM229000,SWM229,121,Men's 100m Butterfly - S9,100m borboleta masculino - S9
+SWM230000,SWM230,122,Men's 100m Butterfly - S10,100m borboleta masculino - S10
+SWM231000,SWM231,123,Men's 100m Butterfly - S11,100m borboleta masculino - S11
+SWM232000,,124,Men's 100m Butterfly - S12,100m borboleta masculino - S12
+SWM233000,SWM233,125,Men's 100m Butterfly - S13,100m borboleta masculino - S13
+SWM234000,,126,Men's 100m Butterfly - S14,100m borboleta masculino - S14
+SWM301000,,79,Men's 50m Breaststroke - SB1,50m peito masculino - SB1
+SWM302000,SWM302,80,Men's 50m Breaststroke - SB2,50m peito masculino - SB2
+SWM303000,SWM303,81,Men's 50m Breaststroke - SB3,50m peito masculino - SB3
+SWM304000,,82,Men's 50m Breaststroke - SB4,50m peito masculino - SB4
+SWM305000,,83,Men's 50m Breaststroke - SB5,50m peito masculino - SB5
+SWM306000,,84,Men's 50m Breaststroke - SB6,50m peito masculino - SB6
+SWM307000,,85,Men's 50m Breaststroke - SB7,50m peito masculino - SB7
+SWM308000,,86,Men's 50m Breaststroke - SB8,50m peito masculino - SB8
+SWM309000,,87,Men's 50m Breaststroke - SB9,50m peito masculino - SB9
+SWM311000,,88,Men's 50m Breaststroke - SB11,50m peito masculino - SB11
+SWM312000,,89,Men's 50m Breaststroke - SB12,50m peito masculino - SB12
+SWM313000,,90,Men's 50m Breaststroke - SB13,50m peito masculino - SB13
+SWM321000,,91,Men's 100m Breaststroke - SB1,100m peito masculino - SB1
+SWM322000,,92,Men's 100m Breaststroke - SB2,100m peito masculino - SB2
+SWM323000,,93,Men's 100m Breaststroke - SB3,100m peito masculino - SB3
+SWM324000,SWM324,94,Men's 100m Breaststroke - SB4,100m peito masculino - SB4
+SWM325000,SWM325,95,Men's 100m Breaststroke - SB5,100m peito masculino - SB5
+SWM326000,SWM326,96,Men's 100m Breaststroke - SB6,100m peito masculino - SB6
+SWM327000,SWM327,97,Men's 100m Breaststroke - SB7,100m peito masculino - SB7
+SWM328000,SWM328,98,Men's 100m Breaststroke - SB8,100m peito masculino - SB8
+SWM329000,SWM329,99,Men's 100m Breaststroke - SB9,100m peito masculino - SB9
+SWM331000,SWM331,100,Men's 100m Breaststroke - SB11,100m peito masculino - SB11
+SWM332000,SWM332,101,Men's 100m Breaststroke - SB12,100m peito masculino - SB12
+SWM333000,SWM333,102,Men's 100m Breaststroke - SB13,100m peito masculino - SB13
+SWM334000,SWM334,103,Men's 100m Breaststroke - SB14,100m peito masculino - SB14
+SWM401000,SWM401,52,Men's 50m Backstroke - S1,50m costas masculino - S1
+SWM402000,SWM402,53,Men's 50m Backstroke - S2,50m costas masculino - S2
+SWM403000,SWM403,54,Men's 50m Backstroke - S3,50m costas masculino - S3
+SWM404000,SWM404,55,Men's 50m Backstroke - S4,50m costas masculino - S4
+SWM405000,SWM405,56,Men's 50m Backstroke - S5,50m costas masculino - S5
+SWM406000,,57,Men's 50m Backstroke - S6,50m costas masculino - S6
+SWM407000,,58,Men's 50m Backstroke - S7,50m costas masculino - S7
+SWM408000,,59,Men's 50m Backstroke - S8,50m costas masculino - S8
+SWM409000,,60,Men's 50m Backstroke - S9,50m costas masculino - S9
+SWM410000,,61,Men's 50m Backstroke - S10,50m costas masculino - S10
+SWM411000,,62,Men's 50m Backstroke - S11,50m costas masculino - S11
+SWM412000,,63,Men's 50m Backstroke - S12,50m costas masculino - S12
+SWM413000,,64,Men's 50m Backstroke - S13,50m costas masculino - S13
+SWM421000,SWM421,65,Men's 100m Backstroke - S1,100m costas masculino - S1
+SWM422000,SWM422,66,Men's 100m Backstroke - S2,100m costas masculino - S2
+SWM423000,,67,Men's 100m Backstroke - S3,100m costas masculino - S3
+SWM424000,,68,Men's 100m Backstroke - S4,100m costas masculino - S4
+SWM425000,,69,Men's 100m Backstroke - S5,100m costas masculino - S5
+SWM426000,SWM426,70,Men's 100m Backstroke - S6,100m costas masculino - S6
+SWM427000,SWM427,71,Men's 100m Backstroke - S7,100m costas masculino - S7
+SWM428000,SWM428,72,Men's 100m Backstroke - S8,100m costas masculino - S8
+SWM429000,SWM429,73,Men's 100m Backstroke - S9,100m costas masculino - S9
+SWM430000,SWM430,74,Men's 100m Backstroke - S10,100m costas masculino - S10
+SWM431000,SWM431,75,Men's 100m Backstroke - S11,100m costas masculino - S11
+SWM432000,SWM432,76,Men's 100m Backstroke - S12,100m costas masculino - S12
+SWM433000,SWM433,77,Men's 100m Backstroke - S13,100m costas masculino - S13
+SWM434000,SWM434,78,Men's 100m Backstroke - S14,100m costas masculino - S14
+SWM541000,,127,Men's 150m Individual Medley - SM1,150m medley masculino - SM1
+SWM542000,,128,Men's 150m Individual Medley - SM2,150m medley masculino - SM2
+SWM543000,SWM543,129,Men's 150m Individual Medley - SM3,150m medley masculino - SM3
+SWM544000,SWM544,130,Men's 150m Individual Medley - SM4,150m medley masculino - SM4
+SWM563000,,131,Men's 200m Individual Medley - SM3,200m medley masculino - SM3
+SWM564000,,132,Men's 200m Individual Medley - SM4,200m medley masculino - SM4
+SWM565000,,133,Men's 200m Individual Medley - SM5,200m medley masculino - SM5
+SWM566000,SWM566,134,Men's 200m Individual Medley - SM6,200m medley masculino - SM6
+SWM567000,SWM567,135,Men's 200m Individual Medley - SM7,200m medley masculino - SM7
+SWM568000,SWM568,136,Men's 200m Individual Medley - SM8,200m medley masculino - SM8
+SWM569000,SWM569,137,Men's 200m Individual Medley - SM9,200m medley masculino - SM9
+SWM570000,SWM570,138,Men's 200m Individual Medley - SM10,200m medley masculino - SM10
+SWM571000,SWM571,139,Men's 200m Individual Medley - SM11,200m medley masculino - SM11
+SWM572000,,140,Men's 200m Individual Medley - SM12,200m medley masculino - SM12
+SWM573000,SWM573,141,Men's 200m Individual Medley - SM13,200m medley masculino - SM13
+SWM574000,SWM574,142,Men's 200m Individual Medley - SM14,200m medley masculino - SM14
+SWM712000,SWM712,143,Men's 4x100m Freestyle Relay - 34 Points,Revezamento 4x100m livre masc -34 pontos
+SWM752000,SWM752,144,Men's 4x100m Medley Relay - 34 Points,Revezamento 4x100m medley masc-34 pontos
+SWW101000,,145,Women's 50m Freestyle - S1,50m livre feminino - S1
+SWW102000,,146,Women's 50m Freestyle - S2,50m livre feminino - S2
+SWW103000,,147,Women's 50m Freestyle - S3,50m livre feminino - S3
+SWW104000,SWW104,148,Women's 50m Freestyle - S4,50m livre feminino - S4
+SWW105000,SWW105,149,Women's 50m Freestyle - S5,50m livre feminino - S5
+SWW106000,SWW106,150,Women's 50m Freestyle - S6,50m livre feminino - S6
+SWW107000,SWW107,151,Women's 50m Freestyle - S7,50m livre feminino - S7
+SWW108000,SWW108,152,Women's 50m Freestyle - S8,50m livre feminino - S8
+SWW109000,SWW109,153,Women's 50m Freestyle - S9,50m livre feminino - S9
+SWW110000,SWW110,154,Women's 50m Freestyle - S10,50m livre feminino - S10
+SWW111000,SWW111,155,Women's 50m Freestyle - S11,50m livre feminino - S11
+SWW112000,SWW112,156,Women's 50m Freestyle - S12,50m livre feminino - S12
+SWW113000,SWW113,157,Women's 50m Freestyle - S13,50m livre feminino - S13
+SWW121000,,158,Women's 100m Freestyle - S1,100m livre feminino - S1
+SWW122000,,159,Women's 100m Freestyle - S2,100m livre feminino - S2
+SWW123000,SWW123,160,Women's 100m Freestyle - S3,100m livre feminino - S3
+SWW124000,,161,Women's 100m Freestyle - S4,100m livre feminino - S4
+SWW125000,SWW125,162,Women's 100m Freestyle - S5,100m livre feminino - S5
+SWW126000,SWW126,163,Women's 100m Freestyle - S6,100m livre feminino - S6
+SWW127000,SWW127,164,Women's 100m Freestyle - S7,100m livre feminino - S7
+SWW128000,SWW128,165,Women's 100m Freestyle - S8,100m livre feminino - S8
+SWW129000,SWW129,166,Women's 100m Freestyle - S9,100m livre feminino - S9
+SWW130000,SWW130,167,Women's 100m Freestyle - S10,100m livre feminino - S10
+SWW131000,SWW131,168,Women's 100m Freestyle - S11,100m livre feminino - S11
+SWW132000,,169,Women's 100m Freestyle - S12,100m livre feminino - S12
+SWW133000,SWW133,170,Women's 100m Freestyle - S13,100m livre feminino - S13
+SWW134000,,171,Women's 100m Freestyle - S14,100m livre feminino - S14
+SWW161000,,172,Women's 200m Freestyle - S1,200m livre feminino - S1
+SWW162000,,173,Women's 200m Freestyle - S2,200m livre feminino - S2
+SWW163000,,174,Women's 200m Freestyle - S3,200m livre feminino - S3
+SWW164000,,175,Women's 200m Freestyle - S4,200m livre feminino - S4
+SWW165000,SWW165,176,Women's 200m Freestyle - S5,200m livre feminino - S5
+SWW166000,,177,Women's 200m Freestyle - S6,200m livre feminino - S6
+SWW167000,,178,Women's 200m Freestyle - S7,200m livre feminino - S7
+SWW168000,,179,Women's 200m Freestyle - S8,200m livre feminino - S8
+SWW169000,,180,Women's 200m Freestyle - S9,200m livre feminino - S9
+SWW170000,,181,Women's 200m Freestyle - S10,200m livre feminino - S10
+SWW171000,,182,Women's 200m Freestyle - S11,200m livre feminino - S11
+SWW172000,,183,Women's 200m Freestyle - S12,200m livre feminino - S12
+SWW173000,,184,Women's 200m Freestyle - S13,200m livre feminino - S13
+SWW174000,SWW174,185,Women's 200m Freestyle - S14,200m livre feminino - S14
+SWW186000,SWW186,186,Women's 400m Freestyle - S6,400m livre feminino - S6
+SWW187000,SWW187,187,Women's 400m Freestyle - S7,400m livre feminino - S7
+SWW188000,SWW188,188,Women's 400m Freestyle - S8,400m livre feminino - S8
+SWW189000,SWW189,189,Women's 400m Freestyle - S9,400m livre feminino - S9
+SWW190000,SWW190,190,Women's 400m Freestyle - S10,400m livre feminino - S10
+SWW191000,SWW191,191,Women's 400m Freestyle - S11,400m livre feminino - S11
+SWW192000,,192,Women's 400m Freestyle - S12,400m livre feminino - S12
+SWW193000,SWW193,193,Women's 400m Freestyle - S13,400m livre feminino - S13
+SWW194000,,194,Women's 400m Freestyle - S14,400m livre feminino - S14
+SWW201000,,247,Women's 50m Butterfly - S1,50m borboleta feminino - S1
+SWW202000,,248,Women's 50m Butterfly - S2,50m borboleta feminino - S2
+SWW203000,,249,Women's 50m Butterfly - S3,50m borboleta feminino - S3
+SWW204000,,250,Women's 50m Butterfly - S4,50m borboleta feminino - S4
+SWW205000,SWW205,251,Women's 50m Butterfly - S5,50m borboleta feminino - S5
+SWW206000,SWW206,252,Women's 50m Butterfly - S6,50m borboleta feminino - S6
+SWW207000,SWW207,253,Women's 50m Butterfly - S7,50m borboleta feminino - S7
+SWW208000,,254,Women's 50m Butterfly - S8,50m borboleta feminino - S8
+SWW209000,,255,Women's 50m Butterfly - S9,50m borboleta feminino - S9
+SWW210000,,256,Women's 50m Butterfly - S10,50m borboleta feminino - S10
+SWW211000,,257,Women's 50m Butterfly - S11,50m borboleta feminino - S11
+SWW212000,,258,Women's 50m Butterfly - S12,50m borboleta feminino - S12
+SWW213000,,259,Women's 50m Butterfly - S13,50m borboleta feminino - S13
+SWW225000,,260,Women's 100m Butterfly - S5,100m borboleta feminino - S5
+SWW226000,,261,Women's 100m Butterfly - S6,100m borboleta feminino - S6
+SWW227000,,262,Women's 100m Butterfly - S7,100m borboleta feminino - S7
+SWW228000,SWW228,263,Women's 100m Butterfly - S8,100m borboleta feminino - S8
+SWW229000,SWW229,264,Women's 100m Butterfly - S9,100m borboleta feminino - S9
+SWW230000,SWW230,265,Women's 100m Butterfly - S10,100m borboleta feminino - S10
+SWW231000,,266,Women's 100m Butterfly - S11,100m borboleta feminino - S11
+SWW232000,,267,Women's 100m Butterfly - S12,100m borboleta feminino - S12
+SWW233000,SWW233,268,Women's 100m Butterfly - S13,100m borboleta feminino - S13
+SWW234000,,269,Women's 100m Butterfly - S14,100m borboleta feminino - S14
+SWW301000,,222,Women's 50m Breaststroke - SB1,50m peito feminino - SB1
+SWW302000,,223,Women's 50m Breaststroke - SB2,50m peito feminino - SB2
+SWW303000,SWW303,224,Women's 50m Breaststroke - SB3,50m peito feminino - SB3
+SWW304000,,225,Women's 50m Breaststroke - SB4,50m peito feminino - SB4
+SWW305000,,226,Women's 50m Breaststroke - SB5,50m peito feminino - SB5
+SWW306000,,227,Women's 50m Breaststroke - SB6,50m peito feminino - SB6
+SWW307000,,228,Women's 50m Breaststroke - SB7,50m peito feminino - SB7
+SWW308000,,229,Women's 50m Breaststroke - SB8,50m peito feminino - SB8
+SWW309000,,230,Women's 50m Breaststroke - SB9,50m peito feminino - SB9
+SWW311000,,231,Women's 50m Breaststroke - SB11,50m peito feminino - SB11
+SWW312000,,232,Women's 50m Breaststroke - SB12,50m peito feminino - SB12
+SWW313000,,233,Women's 50m Breaststroke - SB13,50m peito feminino - SB13
+SWW321000,,234,Women's 100m Breaststroke - SB1,100m peito feminino - SB1
+SWW322000,,235,Women's 100m Breaststroke - SB2,100m peito feminino - SB2
+SWW323000,,236,Women's 100m Breaststroke - SB3,100m peito feminino - SB3
+SWW324000,SWW324,237,Women's 100m Breaststroke - SB4,100m peito feminino - SB4
+SWW325000,SWW325,238,Women's 100m Breaststroke - SB5,100m peito feminino - SB5
+SWW326000,SWW326,239,Women's 100m Breaststroke - SB6,100m peito feminino - SB6
+SWW327000,SWW327,240,Women's 100m Breaststroke - SB7,100m peito feminino - SB7
+SWW328000,SWW328,241,Women's 100m Breaststroke - SB8,100m peito feminino - SB8
+SWW329000,SWW329,242,Women's 100m Breaststroke - SB9,100m peito feminino - SB9
+SWW331000,SWW331,243,Women's 100m Breaststroke - SB11,100m peito feminino - SB11
+SWW332000,,244,Women's 100m Breaststroke - SB12,100m peito feminino - SB12
+SWW333000,SWW333,245,Women's 100m Breaststroke - SB13,100m peito feminino - SB13
+SWW334000,SWW334,246,Women's 100m Breaststroke - SB14,100m peito feminino - SB14
+SWW401000,,195,Women's 50m Backstroke - S1,50m costas feminino - S1
+SWW402000,SWW402,196,Women's 50m Backstroke - S2,50m costas feminino - S2
+SWW403000,SWW403,197,Women's 50m Backstroke - S3,50m costas feminino - S3
+SWW404000,SWW404,198,Women's 50m Backstroke - S4,50m costas feminino - S4
+SWW405000,SWW405,199,Women's 50m Backstroke - S5,50m costas feminino - S5
+SWW406000,,200,Women's 50m Backstroke - S6,50m costas feminino - S6
+SWW407000,,201,Women's 50m Backstroke - S7,50m costas feminino - S7
+SWW408000,,202,Women's 50m Backstroke - S8,50m costas feminino - S8
+SWW409000,,203,Women's 50m Backstroke - S9,50m costas feminino - S9
+SWW410000,,204,Women's 50m Backstroke - S10,50m costas feminino - S10
+SWW411000,,205,Women's 50m Backstroke - S11,50m costas feminino - S11
+SWW412000,,206,Women's 50m Backstroke - S12,50m costas feminino - S12
+SWW413000,,207,Women's 50m Backstroke - S13,50m costas feminino - S13
+SWW421000,,208,Women's 100m Backstroke - S1,100m costas feminino - S1
+SWW422000,SWW422,209,Women's 100m Backstroke - S2,100m costas feminino - S2
+SWW423000,,210,Women's 100m Backstroke - S3,100m costas feminino - S3
+SWW424000,,211,Women's 100m Backstroke - S4,100m costas feminino - S4
+SWW425000,,212,Women's 100m Backstroke - S5,100m costas feminino - S5
+SWW426000,SWW426,213,Women's 100m Backstroke - S6,100m costas feminino - S6
+SWW427000,SWW427,214,Women's 100m Backstroke - S7,100m costas feminino - S7
+SWW428000,SWW428,215,Women's 100m Backstroke - S8,100m costas feminino - S8
+SWW429000,SWW429,216,Women's 100m Backstroke - S9,100m costas feminino - S9
+SWW430000,SWW430,217,Women's 100m Backstroke - S10,100m costas feminino - S10
+SWW431000,SWW431,218,Women's 100m Backstroke - S11,100m costas feminino - S11
+SWW432000,SWW432,219,Women's 100m Backstroke - S12,100m costas feminino - S12
+SWW433000,SWW433,220,Women's 100m Backstroke - S13,100m costas feminino - S13
+SWW434000,SWW434,221,Women's 100m Backstroke - S14,100m costas feminino - S14
+SWW541000,,270,Women's 150m Individual Medley - SM1,150m medley feminino - SM1
+SWW542000,,271,Women's 150m Individual Medley - SM2,150m medley feminino - SM2
+SWW543000,,272,Women's 150m Individual Medley - SM3,150m medley feminino - SM3
+SWW544000,SWW544,273,Women's 150m Individual Medley - SM4,150m medley feminino - SM4
+SWW563000,,274,Women's 200m Individual Medley - SM3,200m medley feminino - SM3
+SWW564000,,275,Women's 200m Individual Medley - SM4,200m medley feminino - SM4
+SWW565000,SWW565,276,Women's 200m Individual Medley - SM5,200m medley feminino - SM5
+SWW566000,SWW566,277,Women's 200m Individual Medley - SM6,200m medley feminino - SM6
+SWW567000,SWW567,278,Women's 200m Individual Medley - SM7,200m medley feminino - SM7
+SWW568000,SWW568,279,Women's 200m Individual Medley - SM8,200m medley feminino - SM8
+SWW569000,SWW569,280,Women's 200m Individual Medley - SM9,200m medley feminino - SM9
+SWW570000,SWW570,281,Women's 200m Individual Medley - SM10,200m medley feminino - SM10
+SWW571000,SWW571,282,Women's 200m Individual Medley - SM11,200m medley feminino - SM11
+SWW572000,,283,Women's 200m Individual Medley - SM12,200m medley feminino - SM12
+SWW573000,SWW573,284,Women's 200m Individual Medley - SM13,200m medley feminino - SM13
+SWW574000,SWW574,285,Women's 200m Individual Medley - SM14,200m medley feminino - SM14
+SWW712000,SWW712,286,Women's 4x100m Freestyle Relay - 34 Pts,Revezamento 4x100m livre fem - 34 pontos
+SWW752000,SWW752,287,Women's 4x100m Medley Relay - 34 Points,Revezamento 4x100m medley fem- 34 pontos
+SWX611000,SWX611,288,Mixed 4x50m Freestyle Relay - 20 Points,Revezamento 4x50m livre misto-20 pontos

@@ -14,16 +14,15 @@ class Loader
     if file.match(/\/(\w+)_(\w{2})_(\d+\.\d+)\.xlsx$/)
       @games = $1
       @version = $3
-    else
-      @games = games
-      @version = version
     end
+    @games   = games   || @games
+    @version = version || @version
 
     @data = {}
 
     raise "Please specify the competition and version." if @games.nil? || @version.nil?
 
-    puts "Created loader for #{@games}"
+    puts "Created loader for #{@games} v#{version}"
   end
 
   def parse!
@@ -82,7 +81,7 @@ class Loader
     end
 
     if @data['Version']
-      @version = @data['Version'][1][0]
+      puts "Source file is tagged at v#{@data['Version']}, but loader is set to v#{@version}"
     end
   end
 

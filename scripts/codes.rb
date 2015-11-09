@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
-# ./src/codes.rb [PATH TO XLSX FILE] [COMPETITION SLUG] [VERSION]
+# ./scripts/codes.rb [PATH TO XLSX FILE] [COMPETITION SLUG] [VERSION]
+# ./scripts/codes.rb source/Rio\ 2016\ ODF\ Olympic\ Common\ Codes\ v10.0.xlsx OG2016 10.0 
 
 require 'rubyXL'
 require 'json'

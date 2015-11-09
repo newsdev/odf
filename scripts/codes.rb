@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# ./src/codes.rb [PATH TO XLSX FILE] [COMPETITION SLUG]
+# ./src/codes.rb [PATH TO XLSX FILE] [COMPETITION SLUG] [VERSION]
 
 require 'rubyXL'
 require 'json'

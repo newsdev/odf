@@ -1,0 +1,10 @@
+Id,ENG Description,FRA Description,POR Description
+ATH,Individuals,Individuel,Individual
+COUP,Couples,Couples,Duplas
+HATH,Individuals Head to Head,Face à face individuel,Confronto direto individual
+HCOUP,Couples Head to Head,Face à face couples,Confronto direto entre duplas
+HNOC,NOC Head to Head,Face à face CNO,Confronto direto entre CONs
+HTEAM,Teams Head to Head,Face à face par équipes,Confronto direto entre equipes
+NOC,NOC,CNO,CON
+NONE,Not Applicable,Sans objet,Não se aplica
+TEAM,Teams,Équipes,Equipes

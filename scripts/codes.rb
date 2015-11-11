@@ -7,7 +7,7 @@ require 'json'
 require 'csv'
 require 'fileutils'
 
-class Loader
+class CodesLoader
   def initialize(file, games = nil, version = nil)
     @file = file
 
@@ -129,6 +129,6 @@ class Loader
   end
 end
 
-loader = Loader.new(*ARGV)
+loader = CodesLoader.new(*ARGV)
 loader.parse!
 loader.write!

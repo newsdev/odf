@@ -23,7 +23,7 @@ class CodesLoader
 
     raise "Please specify the competition and version." if @games.nil? || @version.nil?
 
-    puts "Created loader for #{@games} v#{version}"
+    puts "Created loader for #{@games} v#{@version}"
   end
 
   def parse!

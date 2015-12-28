@@ -1,0 +1,31 @@
+Id,ENG Description,POR Description,nonsport,Sport,Eventorder,scheduled
+AR,Archery,Tiro com Arco,N,AR,DATE,Y
+AT,Athletics,Atletismo,N,AT,DATE,Y
+BO,Boccia,Bocha,N,BO,DATE,Y
+CA,Canoe,Canoagem,N,,DATE,Y
+CE,Ceremonies,Cerimônias,Y,,DATE,Y
+CF,Canoe Sprint,Canoagem Velocidade,N,CA,DATE,Y
+CR,Cycling Road,Ciclismo de Estrada,N,CY,DATE,Y
+CT,Cycling Track,Ciclismo de Pista,N,CY,DATE,Y
+CY,Cycling,Ciclismo,N,,DATE,N
+EQ,Equestrian,Hipismo,N,EQ,DATE,Y
+FB,Football 5-a-side,Futebol de 5,N,FB,DATE,Y
+FT,Football 7-a-side,Futebol de 7,N,FT,DATE,Y
+GB,Goalball,Goalball,N,GB,DATE,Y
+GL,General,Geral,N,,DATE,N
+JU,Judo,Judô,N,JU,DATE,Y
+OV,Paralympic Village,Vila Paralímpica,Y,,DATE,Y
+PC,Press Conferences,Conferência de Imprensa,Y,,DATE,Y
+PO,Powerlifting,Halterofilismo,N,PO,DATE,Y
+RO,Rowing,Remo,N,RO,DATE,Y
+SA,Sailing,Vela,N,SA,DATE,Y
+SH,Shooting,Tiro Esportivo,N,SH,DATE,Y
+SW,Swimming,Natação,N,SW,DATE,Y
+TR,Triathlon,Triatlo,N,TR,DATE,Y
+TT,Table Tennis,Tênis de Mesa,N,TT,DATE,Y
+UT,Training (Unofficial),Treinamento (nao oficial),Y,,DATE,Y
+VS,Sitting Volleyball,Voleibol Sentado,N,VS,DATE,Y
+WB,Wheelchair Basketball,Basquetebol em Cadeira de Rodas,N,WB,DATE,Y
+WF,Wheelchair Fencing,Esgrima em Cadeira de Rodas,N,WF,DATE,Y
+WR,Wheelchair Rugby,Rugby em Cadeira de Rodas,N,WR,DATE,Y
+WT,Wheelchair Tennis,Tênis em Cadeira de Rodas,N,WT,LOC,Y

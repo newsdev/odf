@@ -1,0 +1,36 @@
+Discipline,Id,PositionOrder,ENG Description,POR Description
+FB,DF,,Defender,Defensor
+FB,FP,,Field Player,Jogador em campo
+FB,FW,,Forward,Atacante
+FB,GK,,Goalkeeper,Goleiro
+FB,MP,,Midfield,Meio-campo
+FT,DF,,Defender,Defensor
+FT,FP,,Field Player,Jogador em campo
+FT,FW,,Forward,Atacante
+FT,GK,,Goalkeeper,Goleiro
+FT,MP,,Midfield,Meio-campo
+RO,2,2,Rower 2,Remador 2
+RO,3,3,Rower 3,Remador 3
+RO,4,4,Rower 4,Remador 4
+RO,5,5,Rower 5,Remador 5
+RO,6,6,Rower 6,Remador 6
+RO,7,7,Rower 7,Remador 7
+RO,B,1,Bow,Proa
+RO,C,9,Coxswain,Timoneiro
+RO,S,8,Stroke,Voga
+SA,C,,Crew,Tripulação
+SA,C1,1,Crew 1,Tripulação 1
+SA,C2,2,Crew 2,Tripulação 2
+SA,H,,Helm,Timoneiro
+VS,FP,,Field Player,Jogador em campo
+VS,L,,Libero,Líbero
+VS,MB,,Middle Blocker,Meio-de-rede
+VS,OS,,Opposite Spiker,Oposto
+VS,S,,Setter,Levantador
+VS,WS,,Wing Spiker,Ponteiro passador
+WB,C,,Centre,Pivô
+WB,F,,Forward,Ala
+WB,G,,Guard,Armador
+WR,BK,,Back,Três-quartos
+WR,FP,,Field Player,Jogador em campo
+WR,FW,,Forward,Forward

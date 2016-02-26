@@ -35,9 +35,9 @@ class SharePoint
       @sharepoint.read_timeout = 500
 
       print "Username: "
-      @username = STDIN.gets.chomp
+      @username = ENV['username'] || STDIN.gets.chomp
       print "Password: "
-      @password = STDIN.noecho(&:gets).chomp
+      @password = ENV['password'] || STDIN.noecho(&:gets).chomp
       puts
 
       @cookie_cache = File.join(@local_directory, '_cookie')

@@ -25,7 +25,7 @@ class SharePoint
     @local_directory = File.expand_path('../../portals/rio2016', __FILE__)
 
     puts "Running #{args[0]}..."
-    method(args.first).call(*args[1..-1])
+    method(args.first).call(*args[1..-1] || [])
   end
 
   def setup_http

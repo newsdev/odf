@@ -15,6 +15,7 @@ require 'pp'
 require 'fileutils'
 require 'shellwords'
 require 'zip'
+require 'tempfile'
 require 'io/console'
 
 class SharePoint
@@ -41,7 +42,8 @@ class SharePoint
       puts
 
       @cookie_cache = File.join(@local_directory, '_cookie')
-      if @sharepoint_cookie = File.exists?(@cookie_cache) ? File.read(@cookie_cache) : nil
+      if File.exists?(@cookie_cache) && ((Time.now - File.mtime(@cookie_cache)) / 60 / 60 / 24 < 1)
+        @sharepoint_cookie = File.read(@cookie_cache)
         puts "Loaded cookie"
       else
         login
@@ -216,6 +218,9 @@ class SharePoint
 
     startIndex = resp.body.index('var WPQ2ListData')
     endIndex = resp.body.index('var WPQ2SchemaData')
+    if !startIndex && !endIndex
+      raise "List data not found"
+    end
     list_data = JSON.parse(resp.body[(startIndex + 19)...(endIndex - 1)])
 
     list_data['Row'].each do |row|
@@ -237,22 +242,7 @@ class SharePoint
 
     # loop over zip files
     Dir.glob(File.join(@local_directory, path, '**', '*.zip')).each do |filepath|
-      Zip::File.open(filepath) do |zipfile|
-        zipfile.each do |f|
-          next unless f.file?
-
-          name = get_name(zipfile.read(f))
-          if name.nil?
-            puts "ERROR: empty file? #{f.name}"
-            next
-          end
-
-          fpath = File.join(destination, name)
-          FileUtils.mkdir_p(File.dirname(fpath))
-          zipfile.extract(f, fpath) unless File.exist?(fpath)
-          puts " - #{fpath}"
-        end
-      end
+      extract_zip(path, destination, filepath)
     end
 
     # loop over xml files
@@ -263,6 +253,44 @@ class SharePoint
       FileUtils.cp(filepath, fpath) unless File.exist?(fpath)
       puts " - #{fpath}"
     end
+  end
+
+  def extract_zip(path, destination, filepath)
+    return if File.extname(filepath).match(/\.(txt|pdf)$/)
+    return if !File.exist?(filepath) || File.size(filepath) == 0
+
+    Zip::File.open(filepath) do |zipfile|
+      zipfile.each do |f|
+        next unless f.file?
+
+        case File.extname(f.name)
+        when /\.(txt|pdf)$/
+          next
+        when '.zip'
+          temppath = Tempfile.new(File.basename(f.name)).path
+          zipfile.extract(f, temppath) unless File.exist?(temppath)
+          extract_zip(path, destination, temppath)
+          next
+        end
+
+        name = get_name(zipfile.read(f))
+        if name.nil?
+          puts "ERROR: empty file? #{f.name}"
+          next
+        end
+
+        fpath = File.join(destination, name)
+        FileUtils.mkdir_p(File.dirname(fpath))
+        zipfile.extract(f, fpath) unless File.exist?(fpath)
+        puts " - #{fpath}"
+      end
+    end
+  rescue Zip::Error => e
+    puts "Error: #{e.message}"
+    puts "#{path}, #{destination}, #{filepath}"
+  rescue Exception => e
+    puts "Error: #{path}, #{destination}, #{filepath}"
+    raise e
   end
 
   private
@@ -306,7 +334,7 @@ class SharePoint
   end
 
   def get_name(xml)
-    attrs = Hash[xml.match(/<OdfBody (.*?)>/m)[0].scan(/(\w+?)="(.*?)"/)]
+    attrs = Hash[xml.match(/<OdfBody (.*?)>/m)[0].scan(/(\w+?)=['"](.*?)['"]/)]
 
     File.join(
       attrs['Date'].gsub!('-',''),
@@ -315,6 +343,7 @@ class SharePoint
     )
   rescue Exception => e
     puts "EXCEPTION: #{e.message}"
+    puts e.backtrace
     puts xml
     nil
   end

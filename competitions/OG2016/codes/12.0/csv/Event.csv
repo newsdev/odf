@@ -1,0 +1,674 @@
+Discipline,Gender,Event,order,ENG Description,FRA Description,POR Description,ENG longdescription,FRA longdescription,POR longdescription,Team Event
+AF,0,CMD,,Comedy,Comédie,Comédia,Comedy,Comédie,Comédia,
+AF,0,CRC,,Circus / Street Arts,Cirque / Arts de la rue,Circo / Artes de rua,Circus / Street Arts,Cirque / Arts de la rue,Circo / Artes de rua,
+AF,0,CUL,,Culture Activities,Activités culturelles,Atividades culturais,Culture Activities,Activités culturelles,Atividades culturais,
+AF,0,DGT,,Digital / Film / Video,Digital / Film / Vidéo,Arte digital / Filme / Vídeo,Digital / Film / Video,Digital / Film / Vidéo,Arte digital / Filme / Vídeo,
+AF,0,DNC,,Dance,Danse,Dança,Dance,Danse,Dança,
+AF,0,LTR,,Literary Arts,Arts Littéraires,Artes literárias,Literary Arts,Arts Littéraires,Artes literárias,
+AF,0,MSC,,Music,Musique,Música,Music,Musique,Música,
+AF,0,SPO,,Sponsor Activities,Activités des partenaires,Atividades dos patrocinadores,Sponsor Activities,Activités des partenaires,Atividades dos patrocinadores,
+AF,0,THT,,Theatre,Théâtre,Teatro,Theatre,Théâtre,Teatro,
+AF,0,VSL,,Visual Arts,Arts Visuels,Artes visuais,Visual Arts,Arts Visuels,Artes visuais,
+AQ,0,000,,Aquatics Sport,Natation,Desportos Aquáticos,Aquatics Sport,Natation,Desportos Aquáticos,
+AR,0,000,,Archery,Tir à l'arc,Tiro com arco,Archery,Tir à l'arc,Tiro com arco,
+AR,0,070,,Archery Individual,"Tir à l'arc, épreuve individuelle","Tiro com arco, competição individual",Archery Individual,"Tir à l'arc, épreuve individuelle","Tiro com arco, competição individual",
+AR,0,470,,Archery Team,"Tir à l'arc, épreuve par équipes","Tiro com arco, competição por equipes",Archery Team,"Tir à l'arc, épreuve par équipes","Tiro com arco, competição por equipes",N
+AR,0,SBD,,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,
+AR,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+AR,M,070,1,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,N
+AR,M,470,3,Men's Team,Épreuve par équipes - hommes,Competição por equipes masculina,Men's Team,Épreuve par équipes - hommes,Competição por equipes masculina,Y
+AR,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+AR,W,070,2,Women's Individual,Épreuve individuelle - femmes,Competição individual feminina,Women's Individual,Épreuve individuelle - femmes,Competição individual feminina,N
+AR,W,470,4,Women's Team,Épreuve par équipes - femmes,Competição por equipes feminina,Women's Team,Épreuve par équipes - femmes,Competição por equipes feminina,Y
+AT,0,000,,Athletics,Athlétisme,Atletismo,Athletics,Athlétisme,Atletismo,
+AT,0,OLS,,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,
+AT,0,PON,,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,
+AT,0,SBD,,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,
+AT,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+AT,M,001,1,Men's 100m,100 m - hommes,100m rasos masculino,Men's 100m,100 m - hommes,100m rasos masculino,
+AT,M,002,2,Men's 200m,200 m - hommes,200m rasos masculino,Men's 200m,200 m - hommes,200m rasos masculino,
+AT,M,004,3,Men's 400m,400 m - hommes,400m rasos masculino,Men's 400m,400 m - hommes,400m rasos masculino,
+AT,M,008,4,Men's 800m,800 m - hommes,800m rasos masculino,Men's 800m,800 m - hommes,800m rasos masculino,
+AT,M,012,10,Men's 110m Hurdles,110 m haies - hommes,110m com barreiras masculino,Men's 110m Hurdles,110 m haies - hommes,110m com barreiras masculino,
+AT,M,015,5,Men's 1500m,1 500 m - hommes,1.500m rasos masculino,Men's 1500m,1 500 m - hommes,1.500m rasos masculino,
+AT,M,033,9,Men's 3000m Steeplechase,3 000 m steeple - hommes,3.000m com obstáculos masculino,Men's 3000m Steeplechase,3 000 m steeple - hommes,3.000m com obstáculos masculino,
+AT,M,044,11,Men's 400m Hurdles,400 m haies - hommes,400m com barreiras masculino,Men's 400m Hurdles,400 m haies - hommes,400m com barreiras masculino,
+AT,M,050,6,Men's 5000m,5 000 m - hommes,5.000m rasos masculino,Men's 5000m,5 000 m - hommes,5.000m rasos masculino,
+AT,M,051,16,Men's Shot Put,Lancer de poids - hommes,Arremesso do peso masculino,Men's Shot Put,Lancer de poids - hommes,Arremesso do peso masculino,
+AT,M,052,17,Men's Discus Throw,Lancer de disque - hommes,Lançamento do disco masculino,Men's Discus Throw,Lancer de disque - hommes,Lançamento do disco masculino,
+AT,M,053,19,Men's Javelin Throw,Lancer de javelot - hommes,Lançamento do dardo masculino,Men's Javelin Throw,Lancer de javelot - hommes,Lançamento do dardo masculino,
+AT,M,054,18,Men's Hammer Throw,Lancer de marteau - hommes,Lançamento do martelo masculino,Men's Hammer Throw,Lancer de marteau - hommes,Lançamento do martelo masculino,
+AT,M,061,14,Men's Long Jump,Saut en longueur - hommes,Salto em distância masculino,Men's Long Jump,Saut en longueur - hommes,Salto em distância masculino,
+AT,M,062,15,Men's Triple Jump,Triple saut - hommes,Salto triplo masculino ,Men's Triple Jump,Triple saut - hommes,Salto triplo masculino ,
+AT,M,071,12,Men's High Jump,Saut en hauteur - hommes,Salto em altura masculino,Men's High Jump,Saut en hauteur - hommes,Salto em altura masculino,
+AT,M,072,13,Men's Pole Vault,Saut à la perche - hommes,Salto com vara masculino,Men's Pole Vault,Saut à la perche - hommes,Salto com vara masculino,
+AT,M,092,21,Men's 20km Walk,20 km marche - hommes,Marcha atlética 20km masculina,Men's 20km Walk,20 km marche - hommes,Marcha atlética 20km masculina,
+AT,M,095,22,Men's 50km Walk,50 km marche - hommes,Marcha atlética 50km masculina,Men's 50km Walk,50 km marche - hommes,Marcha atlética 50km masculina,
+AT,M,099,8,Men's Marathon,Marathon - hommes,Maratona masculina,Men's Marathon,Marathon - hommes,Maratona masculina,
+AT,M,100,7,"Men's 10,000m",10 000 m - hommes,10.000m rasos masculino,"Men's 10,000m",10 000 m - hommes,10.000m rasos masculino,
+AT,M,401,23,Men's 4 x 100m Relay,Relais 4 x 100 m - hommes,Revezamento 4x100m masculino,Men's 4 x 100m Relay,Relais 4 x 100 m - hommes,Revezamento 4x100m masculino,Y
+AT,M,404,24,Men's 4 x 400m Relay,Relais 4 x 400 m - hommes,Revezamento 4x400m masculino,Men's 4 x 400m Relay,Relais 4 x 400 m - hommes,Revezamento 4x400m masculino,Y
+AT,M,900,20,Men's Decathlon,Décathlon - hommes,Decatlo masculino,Men's Decathlon,Décathlon - hommes,Decatlo masculino,
+AT,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+AT,W,001,26,Women's 100m,100 m - femmes,100m rasos feminino,Women's 100m,100 m - femmes,100m rasos feminino,
+AT,W,002,27,Women's 200m,200 m - femmes,200m rasos feminino,Women's 200m,200 m - femmes,200m rasos feminino,
+AT,W,004,28,Women's 400m,400 m - femmes,400m rasos feminino,Women's 400m,400 m - femmes,400m rasos feminino,
+AT,W,008,29,Women's 800m,800 m - femmes,800m rasos feminino,Women's 800m,800 m - femmes,800m rasos feminino,
+AT,W,011,35,Women's 100m Hurdles,100 m haies - femmes,100m com barreiras feminino,Women's 100m Hurdles,100 m haies - femmes,100m com barreiras feminino,
+AT,W,015,30,Women's 1500m,1 500 m - femmes,1.500m rasos feminino,Women's 1500m,1 500 m - femmes,1.500m rasos feminino,
+AT,W,033,34,Women's 3000m Steeplechase,3 000 m steeple - femmes,3.000m com obstáculos feminino,Women's 3000m Steeplechase,3 000 m steeple - femmes,3.000m com obstáculos feminino,
+AT,W,044,36,Women's 400m Hurdles,400 m haies - femmes,400m com barreiras feminino,Women's 400m Hurdles,400 m haies - femmes,400m com barreiras feminino,
+AT,W,050,31,Women's 5000m,5 000 m - femmes,5.000m rasos feminino,Women's 5000m,5 000 m - femmes,5.000m rasos feminino,
+AT,W,051,41,Women's Shot Put,Lancer de poids - femmes,Arremesso do peso feminino,Women's Shot Put,Lancer de poids - femmes,Arremesso do peso feminino,
+AT,W,052,42,Women's Discus Throw,Lancer de disque - femmes,Lançamento do disco feminino,Women's Discus Throw,Lancer de disque - femmes,Lançamento do disco feminino,
+AT,W,053,44,Women's Javelin Throw,Lancer de javelot - femmes,Lançamento do dardo feminino,Women's Javelin Throw,Lancer de javelot - femmes,Lançamento do dardo feminino,
+AT,W,054,43,Women's Hammer Throw,Lancer de marteau - femmes,Lançamento do martelo feminino,Women's Hammer Throw,Lancer de marteau - femmes,Lançamento do martelo feminino,
+AT,W,061,39,Women's Long Jump,Saut en longueur - femmes,Salto em distância feminino,Women's Long Jump,Saut en longueur - femmes,Salto em distância feminino,
+AT,W,062,40,Women's Triple Jump,Triple saut - femmes,Salto triplo feminino,Women's Triple Jump,Triple saut - femmes,Salto triplo feminino,
+AT,W,071,37,Women's High Jump,Saut en hauteur - femmes,Salto em altura feminino,Women's High Jump,Saut en hauteur - femmes,Salto em altura feminino,
+AT,W,072,38,Women's Pole Vault,Saut à la perche - femmes,Salto com vara  feminino,Women's Pole Vault,Saut à la perche - femmes,Salto com vara  feminino,
+AT,W,092,46,Women's 20km Walk,20 km marche - femmes,Marcha atlética 20km feminina,Women's 20km Walk,20 km marche - femmes,Marcha atlética 20km feminina,
+AT,W,099,33,Women's Marathon,Marathon - femmes,Maratona feminina,Women's Marathon,Marathon - femmes,Maratona feminina,
+AT,W,100,32,"Women's 10,000m",10 000 m - femmes,10.000m rasos feminino,"Women's 10,000m",10 000 m - femmes,10.000m rasos feminino,
+AT,W,401,47,Women's 4 x 100m Relay,Relais 4 x 100 m - femmes,Revezamento 4x100m feminino,Women's 4 x 100m Relay,Relais 4 x 100 m - femmes,Revezamento 4x100m feminino,Y
+AT,W,404,48,Women's 4 x 400m Relay,Relais 4 x 400 m - femmes,Revezamento 4x400m feminino,Women's 4 x 400m Relay,Relais 4 x 400 m - femmes,Revezamento 4x400m feminino,Y
+AT,W,700,45,Women's Heptathlon,Heptathlon - femmes,Heptatlo feminino,Women's Heptathlon,Heptathlon - femmes,Heptatlo feminino,
+BD,0,000,,Badminton,Badminton,Badminton,Badminton,Badminton,Badminton,
+BD,0,RC4,,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,
+BD,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+BD,M,001,1,Men's Singles,Simple hommes,Simples masculino,Men's Singles,Simple hommes,Simples masculino,
+BD,M,002,3,Men's Doubles,Double hommes,Duplas masculinas,Men's Doubles,Double hommes,Duplas masculinas,
+BD,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+BD,W,001,2,Women's Singles,Simple femmes,Simples feminino,Women's Singles,Simple femmes,Simples feminino,
+BD,W,002,4,Women's Doubles,Double femmes,Duplas femininas,Women's Doubles,Double femmes,Duplas femininas,
+BD,X,002,5,Mixed Doubles,Double mixte,Duplas mistas,Mixed Doubles,Double mixte,Duplas mistas,
+BK,0,000,,Basketball,Basketball,Basquetebol,Basketball,Basketball,Basquetebol,
+BK,0,CA1,,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,
+BK,0,YOA,,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,
+BK,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+BK,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+BK,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+BK,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+BV,0,000,,Beach Volleyball,Volleyball de plage,Vôlei de praia,Beach Volleyball,Volleyball de plage,Vôlei de praia,
+BV,0,BVA,,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,
+BV,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+BV,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+BV,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+BV,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+BX,0,000,,Boxing,Boxe,Boxe,Boxing,Boxe,Boxe,
+BX,0,RC6,,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,
+BX,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+BX,M,049,1,Men's Light Fly (46-49kg),46-49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (46-49kg),Men's Light Fly (46-49kg),46-49 kg (poids mi-mouche) - hommes,Peso mosca ligeiro masculino (46-49kg),
+BX,M,052,2,Men's Fly (52kg),52 kg (poids mouche) - hommes,Peso mosca masculino (52kg),Men's Fly (52kg),52 kg (poids mouche) - hommes,Peso mosca masculino (52kg),
+BX,M,056,3,Men's Bantam (56kg),56 kg (poids coq) - hommes,Peso galo masculino (56kg),Men's Bantam (56kg),56 kg (poids coq) - hommes,Peso galo masculino (56kg),
+BX,M,060,4,Men's Light (60kg),60 kg (poids léger) - hommes,Peso ligeiro masculino (60kg) ,Men's Light (60kg),60 kg (poids léger) - hommes,Peso ligeiro masculino (60kg) ,
+BX,M,064,5,Men's Light Welter (64kg),64 kg (poids super léger) - hommes,Peso meio-médio ligeiro masculino (64kg),Men's Light Welter (64kg),64 kg (poids super léger) - hommes,Peso meio-médio ligeiro masculino (64kg),
+BX,M,069,6,Men's Welter (69kg),69 kg (poids mi-moyen) - hommes,Peso meio-médio masculino (69kg),Men's Welter (69kg),69 kg (poids mi-moyen) - hommes,Peso meio-médio masculino (69kg),
+BX,M,075,7,Men's Middle (75kg),75 kg (poids moyen) - hommes,Peso médio masculino (75kg),Men's Middle (75kg),75 kg (poids moyen) - hommes,Peso médio masculino (75kg),
+BX,M,081,8,Men's Light Heavy (81kg),81 kg (poids mi-lourd) - hommes,Peso meio-pesado masculino (81kg),Men's Light Heavy (81kg),81 kg (poids mi-lourd) - hommes,Peso meio-pesado masculino (81kg),
+BX,M,091,9,Men's Heavy (91kg),91 kg (poids lourd) - hommes,Peso pesado masculino (91kg),Men's Heavy (91kg),91 kg (poids lourd) - hommes,Peso pesado masculino (91kg),
+BX,M,191,10,Men's Super Heavy (+91kg),+91 kg (poids super-lourd) - hommes,Peso superpesado masculino (+91kg),Men's Super Heavy (+91kg),+91 kg (poids super-lourd) - hommes,Peso superpesado masculino (+91kg),
+BX,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+BX,W,051,11,Women's Fly (48-51kg),48-51 kg (poids mouche) - femmes,Peso mosca feminino (48-51kg),Women's Fly (48-51kg),48-51 kg (poids mouche) - femmes,Peso mosca feminino (48-51kg),
+BX,W,060,12,Women's Light (57-60kg),57-60 kg (poids léger) - femmes,Peso ligeiro feminino (57-60kg),Women's Light (57-60kg),57-60 kg (poids léger) - femmes,Peso ligeiro feminino (57-60kg),
+BX,W,075,13,Women's Middle (69-75kg),69-75 kg (poids moyen) - femmes,Peso médio feminino (69-75kg),Women's Middle (69-75kg),69-75 kg (poids moyen) - femmes,Peso médio feminino (69-75kg),
+CA,0,000,,Canoe,Canoë-Kayak,Canoagem,Canoe,Canoë-Kayak,Canoagem,
+CB,0,000,,Cycling BMX,BMX,Ciclismo BMX,Cycling BMX,BMX,Ciclismo BMX,
+CB,0,001,,BMX,BMX,BMX,BMX,BMX,BMX,
+CB,0,BMX,,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,
+CB,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CB,M,001,1,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CB,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CB,W,001,2,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CE,0,CLO,,Closing Ceremony,Cérémonie de clôture,Cerimônia de encerramento,Closing Ceremony,Cérémonie de clôture,Cerimônia de encerramento,
+CE,0,OPN,,Opening Ceremony,Cérémonie d'ouverture,Cerimônia de abertura,Opening Ceremony,Cérémonie d'ouverture,Cerimônia de abertura,
+CE,0,SPE,,Special Ceremonies,Cérémonies spéciales,Cerimônias especiais,Special Ceremonies,Cérémonies spéciales,Cerimônias especiais,
+CF,0,000,,Canoe Sprint,"Canoë-kayak, course en ligne",Canoagem velocidade,Canoe Sprint,"Canoë-kayak, course en ligne",Canoagem velocidade,
+CF,0,LAG,,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,
+CF,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CF,M,111,2,Men's Kayak Single 1000m,Kayak monoplace (K1) 1 000 m - hommes,Caiaque individual (K1) 1.000m masculino,Men's Kayak Single 1000m,Kayak monoplace (K1) 1 000 m - hommes,Caiaque individual (K1) 1.000m masculino,N
+CF,M,112,1,Men's Kayak Single 200m,Kayak monoplace (K1) 200 m - hommes,Caiaque individual (K1) 200m masculino,Men's Kayak Single 200m,Kayak monoplace (K1) 200 m - hommes,Caiaque individual (K1) 200m masculino,N
+CF,M,121,4,Men's Kayak Double 1000m,Kayak biplace (K2) 1 000 m - hommes,Caiaque duplo (K2) 1.000m masculino,Men's Kayak Double 1000m,Kayak biplace (K2) 1 000 m - hommes,Caiaque duplo (K2) 1.000m masculino,
+CF,M,122,3,Men's Kayak Double 200m,Kayak biplace (K2) 200 m - hommes,Caiaque duplo (K2) 200m masculino,Men's Kayak Double 200m,Kayak biplace (K2) 200 m - hommes,Caiaque duplo (K2) 200m masculino,
+CF,M,141,5,Men's Kayak Four 1000m,Kayak à quatre (K4) 1 000 m - hommes,Caiaque quádruplo (K4) 1.000m masculino,Men's Kayak Four 1000m,Kayak à quatre (K4) 1 000 m - hommes,Caiaque quádruplo (K4) 1.000m masculino,
+CF,M,211,7,Men's Canoe Single 1000m,Canoë monoplace (C1) 1 000 m - hommes,Canoa individual (C1) 1.000m masculina,Men's Canoe Single 1000m,Canoë monoplace (C1) 1 000 m - hommes,Canoa individual (C1) 1.000m masculina,N
+CF,M,212,6,Men's Canoe Single 200m,Canoë monoplace (C1) 200 m - hommes,Canoa individual (C1) 200m masculina,Men's Canoe Single 200m,Canoë monoplace (C1) 200 m - hommes,Canoa individual (C1) 200m masculina,N
+CF,M,221,8,Men's Canoe Double 1000m,Canoë biplace (C2) 1 000 m - hommes,Canoa dupla (C2) 1.000m masculina,Men's Canoe Double 1000m,Canoë biplace (C2) 1 000 m - hommes,Canoa dupla (C2) 1.000m masculina,
+CF,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CF,W,112,9,Women's Kayak Single 200m,Kayak monoplace (K1) 200 m - femmes,Caiaque individual (K1) 200m feminino,Women's Kayak Single 200m,Kayak monoplace (K1) 200 m - femmes,Caiaque individual (K1) 200m feminino,N
+CF,W,115,10,Women's Kayak Single 500m,Kayak monoplace (K1) 500 m - femmes,Caiaque individual (K1) 500m feminino,Women's Kayak Single 500m,Kayak monoplace (K1) 500 m - femmes,Caiaque individual (K1) 500m feminino,N
+CF,W,125,11,Women's Kayak Double 500m,Kayak biplace (K2) 500 m - femmes,Caiaque duplo (K2) 500m feminino,Women's Kayak Double 500m,Kayak biplace (K2) 500 m - femmes,Caiaque duplo (K2) 500m feminino,
+CF,W,145,12,Women's Kayak Four 500m,Kayak à quatre (K4) 500 m - femmes,Caiaque quádruplo (K4) 500m feminino,Women's Kayak Four 500m,Kayak à quatre (K4) 500 m - femmes,Caiaque quádruplo (K4) 500m feminino,
+CM,0,000,,Cycling Mountain Bike,Cyclisme Mountain Bike,Ciclismo mountain bike,Cycling Mountain Bike,Cyclisme Mountain Bike,Ciclismo mountain bike,
+CM,0,MBT,,Mountain Bike Centre,Centre de Mountain Bike,Centro de Mountain Bike,Mountain Bike Centre,Centre de Mountain Bike,Centro de Mountain Bike,
+CM,M,021,1,Men's Cross-country,Cross-country - hommes,Cross-country masculino,Men's Cross-country,Cross-country - hommes,Cross-country masculino,
+CM,W,021,2,Women's Cross-country,Cross-country - femmes,Cross-country feminino,Women's Cross-country,Cross-country - femmes,Cross-country feminino,
+CR,0,000,,Cycling Road,Cyclisme sur route,Ciclismo de estrada,Cycling Road,Cyclisme sur route,Ciclismo de estrada,
+CR,0,FTC,,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,
+CR,0,PON,,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,
+CR,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CR,M,011,2,Men's Individual Time Trial,Contre-la-montre individuel - hommes,Contrarrelógio individual masculino,Men's Individual Time Trial,Contre-la-montre individuel - hommes,Contrarrelógio individual masculino,N
+CR,M,012,1,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,Men's Road Race,Course sur route - hommes,Prova de estrada masculina,
+CR,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CR,W,011,4,Women's Individual Time Trial,Contre-la-montre individuel - femmes,Contrarrelógio individual feminino,Women's Individual Time Trial,Contre-la-montre individuel - femmes,Contrarrelógio individual feminino,N
+CR,W,012,3,Women's Road Race,Course sur route - femmes,Prova de estrada feminina,Women's Road Race,Course sur route - femmes,Prova de estrada feminina,
+CS,0,000,,Canoe Slalom,"Canoë-kayak, slalom",Canoagem slalom,Canoe Slalom,"Canoë-kayak, slalom",Canoagem slalom,
+CS,0,WWS,,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,
+CS,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CS,M,110,4,Kayak (K1) Men,Kayak monoplace (K1) - hommes,Caiaque individual (K1) masculino,Kayak (K1) Men,Kayak monoplace (K1) - hommes,Caiaque individual (K1) masculino,
+CS,M,210,1,Canoe Single (C1) Men,Canoë monoplace (C1) - hommes,Canoa individual (C1) masculina,Canoe Single (C1) Men,Canoë monoplace (C1) - hommes,Canoa individual (C1) masculina,
+CS,M,220,3,Canoe Double (C2) Men,Canoë biplace (C2) - hommes,Canoa dupla (C2) masculina,Canoe Double (C2) Men,Canoë biplace (C2) - hommes,Canoa dupla (C2) masculina,
+CS,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CS,W,110,2,Kayak (K1) Women,Kayak monoplace (K1) - femmes,Caiaque individual (K1) feminino,Kayak (K1) Women,Kayak monoplace (K1) - femmes,Caiaque individual (K1) feminino,
+CT,0,000,,Cycling Track,Cyclisme sur piste,Ciclismo de pista,Cycling Track,Cyclisme sur piste,Ciclismo de pista,
+CT,0,ROV,,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,
+CT,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+CT,M,001,1,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculino,Men's Sprint,Vitesse individuelle - hommes,Velocidade masculino,
+CT,M,008,5,Men's Keirin,Keirin - hommes,Keirin masculino,Men's Keirin,Keirin - hommes,Keirin masculino,
+CT,M,010,9,Men's Omnium,Omnium - hommes,Omnium masculino,Men's Omnium,Omnium - hommes,Omnium masculino,
+CT,M,401,3,Men's Team Sprint,Vitesse par équipes - hommes,Velocidade por equipes masculino,Men's Team Sprint,Vitesse par équipes - hommes,Velocidade por equipes masculino,Y
+CT,M,402,7,Men's Team Pursuit,Poursuite par équipes - hommes,Perseguição por equipes masculino,Men's Team Pursuit,Poursuite par équipes - hommes,Perseguição por equipes masculino,Y
+CT,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+CT,W,001,2,Women's Sprint,Vitesse individuelle - femmes,Velocidade feminino,Women's Sprint,Vitesse individuelle - femmes,Velocidade feminino,
+CT,W,008,6,Women's Keirin,Keirin - femmes,Keirin feminino,Women's Keirin,Keirin - femmes,Keirin feminino,
+CT,W,010,10,Women's Omnium,Omnium - femmes,Omnium feminino,Women's Omnium,Omnium - femmes,Omnium feminino,
+CT,W,401,4,Women's Team Sprint,Vitesse par équipes - femmes,Velocidade por equipes feminino,Women's Team Sprint,Vitesse par équipes - femmes,Velocidade por equipes feminino,Y
+CT,W,402,8,Women's Team Pursuit,Poursuite par équipes - femmes,Perseguição por equipes feminino,Women's Team Pursuit,Poursuite par équipes - femmes,Perseguição por equipes feminino,Y
+CY,0,000,,Cycling Sport,Cyclisme,Ciclismo,Cycling Sport,Cyclisme,Ciclismo,
+DV,0,000,,Diving,Plongeon,Saltos ornamentais,Diving,Plongeon,Saltos ornamentais,
+DV,0,AQC,,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,
+DV,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+DV,M,003,1,Men's 3m Springboard,Tremplin 3 m - hommes,Trampolim 3m masculino,Men's 3m Springboard,Tremplin 3 m - hommes,Trampolim 3m masculino,
+DV,M,010,3,Men's 10m Platform,Haut-vol 10 m - hommes,Plataforma 10m masculino,Men's 10m Platform,Haut-vol 10 m - hommes,Plataforma 10m masculino,
+DV,M,203,5,Men's Synchronised 3m Springboard,Tremplin 3 m synchronisé - hommes,Trampolim 3m sincronizado masculino,Men's Synchronised 3m Springboard,Tremplin 3 m synchronisé - hommes,Trampolim 3m sincronizado masculino,
+DV,M,210,7,Men's Synchronised 10m Platform,Haut-vol 10 m synchronisé - hommes,Plataforma 10m sincronizada masculino,Men's Synchronised 10m Platform,Haut-vol 10 m synchronisé - hommes,Plataforma 10m sincronizada masculino,
+DV,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+DV,W,003,2,Women's 3m Springboard,Tremplin 3 m - femmes,Trampolim 3m feminino,Women's 3m Springboard,Tremplin 3 m - femmes,Trampolim 3m feminino,
+DV,W,010,4,Women's 10m Platform,Haut-vol 10 m - femmes,Plataforma 10m feminino,Women's 10m Platform,Haut-vol 10 m - femmes,Plataforma 10m feminino,
+DV,W,203,6,Women's Synchronised 3m Springboard,Tremplin 3 m synchronisé - femmes,Trampolim 3m sincronizado feminino,Women's Synchronised 3m Springboard,Tremplin 3 m synchronisé - femmes,Trampolim 3m sincronizado feminino,
+DV,W,210,8,Women's Synchronised 10m Platform,Haut-vol 10 m synchronisé - femmes,Plataforma 10m sincronizada feminino,Women's Synchronised 10m Platform,Haut-vol 10 m synchronisé - femmes,Plataforma 10m sincronizada feminino,
+EQ,0,000,,Equestrian,Sports équestres,Hipismo,Equestrian,Sports équestres,Hipismo,
+EQ,0,EQC,,Olympic Equestrian Centre,Centre Olympique d'Équitation,Centro Olímpico de Hipismo,Olympic Equestrian Centre,Centre Olympique d'Équitation,Centro Olímpico de Hipismo,
+EQ,X,001,3,Dressage Individual,Dressage individuel,Adestramento individual,Dressage Individual,Dressage individuel,Adestramento individual,N
+EQ,X,002,5,Jumping Individual,Saut d'obstacles individuel,Saltos individual ,Jumping Individual,Saut d'obstacles individuel,Saltos individual ,N
+EQ,X,003,1,Eventing Individual,Concours complet individuel,Concurso Completo Equitação individual,Eventing Individual,Concours complet individuel,Concurso Completo Equitação individual,N
+EQ,X,401,4,Dressage Team,Dressage par équipes,Adestramento por equipes,Dressage Team,Dressage par équipes,Adestramento por equipes,Y
+EQ,X,402,6,Jumping Team,Saut d'obstacles par équipes,Saltos por equipes,Jumping Team,Saut d'obstacles par équipes,Saltos por equipes,Y
+EQ,X,403,2,Eventing Team,Concours complet par équipes,Concurso Completo Equitação por equipes,Eventing Team,Concours complet par équipes,Concurso Completo Equitação por equipes,Y
+FB,0,000,,Football,Football,Futebol,Football,Football,Futebol,
+FB,0,AMZ,,Amazônia Arena,Amazônia Arena,Arena da Amazônia,Amazônia Arena,Amazônia Arena,Arena da Amazônia,
+FB,0,FNA,,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,
+FB,0,MGA,,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,
+FB,0,MIN,,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,
+FB,0,MRC,,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,
+FB,0,OLS,,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,
+FB,0,SPA,,Corinthians Arena,Corinthians Arena,Arena Corinthians,Corinthians Arena,Corinthians Arena,Arena Corinthians,
+FB,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+FB,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+FB,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+FB,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+FE,0,000,,Fencing,Escrime,Esgrima,Fencing,Escrime,Esgrima,
+FE,0,100,,Fencing Individual,Escrime individuelle,Esgrima - competição individual,Fencing Individual,Escrime individuelle,Esgrima - competição individual,N
+FE,0,400,,Fencing Team,Escrime par équipes,Esgrima - competição por equipes,Fencing Team,Escrime par équipes,Esgrima - competição por equipes,N
+FE,0,CA3,,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,
+FE,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+FE,M,001,1,Men's Foil Individual,Fleuret individuel - hommes,Florete individual masculino,Men's Foil Individual,Fleuret individuel - hommes,Florete individual masculino,
+FE,M,002,3,Men's Épée Individual,Épée individuelle - hommes,Espada individual masculina,Men's Épée Individual,Épée individuelle - hommes,Espada individual masculina,
+FE,M,003,5,Men's Sabre Individual,Sabre individuel - hommes,Sabre individual masculino,Men's Sabre Individual,Sabre individuel - hommes,Sabre individual masculino,
+FE,M,401,7,Men's Foil Team,Fleuret par équipes - hommes,Florete por equipes masculino,Men's Foil Team,Fleuret par équipes - hommes,Florete por equipes masculino,Y
+FE,M,402,8,Men's Épée Team,Épée par équipes - hommes,Espada por equipes masculina,Men's Épée Team,Épée par équipes - hommes,Espada por equipes masculina,Y
+FE,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+FE,W,001,2,Women's Foil Individual,Fleuret individuel - femmes,Florete individual feminino,Women's Foil Individual,Fleuret individuel - femmes,Florete individual feminino,
+FE,W,002,4,Women's Épée Individual,Épée individuelle - femmes,Espada individual feminina,Women's Épée Individual,Épée individuelle - femmes,Espada individual feminina,
+FE,W,003,6,Women's Sabre Individual,Sabre individuel - femmes,Sabre individual feminino,Women's Sabre Individual,Sabre individuel - femmes,Sabre individual feminino,
+FE,W,402,9,Women's Épée Team,Épée par équipes - femmes,Espada por equipes feminina,Women's Épée Team,Épée par équipes - femmes,Espada por equipes feminina,Y
+FE,W,403,10,Women's Sabre Team,Sabre par équipes - femmes,Sabre por equipes feminino,Women's Sabre Team,Sabre par équipes - femmes,Sabre por equipes feminino,Y
+GA,0,000,,Artistic Gymnastics,Gymnastique artistique,Ginástica artística,Artistic Gymnastics,Gymnastique artistique,Ginástica artística,
+GA,0,ROA,,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,
+GA,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+GA,M,001,2,Men's Floor Exercise,Exercices au sol - hommes,Solo masculino,Men's Floor Exercise,Exercices au sol - hommes,Solo masculino,
+GA,M,002,5,Men's Vault,Saut de cheval - hommes,Salto masculino,Men's Vault,Saut de cheval - hommes,Salto masculino,
+GA,M,003,6,Men's Parallel Bars,Barres parallèles - hommes,Barras paralelas masculinas,Men's Parallel Bars,Barres parallèles - hommes,Barras paralelas masculinas,
+GA,M,004,7,Men's Horizontal Bar,Barre fixe - hommes,Barra fixa masculina,Men's Horizontal Bar,Barre fixe - hommes,Barra fixa masculina,
+GA,M,005,4,Men's Rings,Anneaux - hommes,Argolas masculinas,Men's Rings,Anneaux - hommes,Argolas masculinas,
+GA,M,006,3,Men's Pommel Horse,Cheval d'arçons - hommes,Cavalo com alças masculino,Men's Pommel Horse,Cheval d'arçons - hommes,Cavalo com alças masculino,
+GA,M,024,1,Men's Individual All-Around,Concours multiple individuel - hommes,Competição individual geral masculina,Men's Individual All-Around,Concours multiple individuel - hommes,Competição individual geral masculina,
+GA,M,400,8,Men's Team,Compétition par équipes - hommes,Competição por equipes masculina,Men's Team,Compétition par équipes - hommes,Competição por equipes masculina,Y
+GA,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+GA,W,001,13,Women's Floor Exercise,Exercices au sol - femmes,Solo feminino,Women's Floor Exercise,Exercices au sol - femmes,Solo feminino,
+GA,W,002,10,Women's Vault,Saut de cheval - femmes,Salto feminino,Women's Vault,Saut de cheval - femmes,Salto feminino,
+GA,W,007,11,Women's Uneven Bars,Barres asymétriques - femmes,Barras assimétricas femininas,Women's Uneven Bars,Barres asymétriques - femmes,Barras assimétricas femininas,
+GA,W,008,12,Women's Balance Beam,Poutre d'équilibre - femmes,Barra de equilíbrio feminina,Women's Balance Beam,Poutre d'équilibre - femmes,Barra de equilíbrio feminina,
+GA,W,024,9,Women's Individual All-Around,Concours multiple individuel - femmes,Competição individual geral feminina,Women's Individual All-Around,Concours multiple individuel - femmes,Competição individual geral feminina,N
+GA,W,400,14,Women's Team,Compétition par équipes - femmes,Competição por equipes feminina,Women's Team,Compétition par équipes - femmes,Competição por equipes feminina,Y
+GL,0,000,,General,Général,Geral,General,Général,Geral,
+GL,0,AMZ,,Amazônia Arena,Amazônia Arena,Arena da Amazônia,Amazônia Arena,Amazônia Arena,Arena da Amazônia,
+GL,0,AQC,,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,
+GL,0,BAT,,BAT Place Conditions / Weather Alerts,BAT Conditions/Alertes météorologiques,BAT Condições / Alertas meteorológicos,BAT Place Conditions / Weather Alerts,BAT Conditions/Alertes météorologiques,BAT Condições / Alertas meteorológicos,
+GL,0,BHZ,,BHZ Place Conditions / Weather Alerts,BHZ Conditions/Alertes météorologiques,BHZ Condições / Alertas meteorológicos,BHZ Place Conditions / Weather Alerts,BHZ Conditions/Alertes météorologiques,BHZ Condições / Alertas meteorológicos,
+GL,0,BMX,,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,Olympic BMX Centre,Centre olympique de BMX,Centro Olímpico de BMX,
+GL,0,BRS,,BRS Place Conditions / Weather Alerts,BRS Conditions/Alertes météorologiques,BRS Condições / Alertas meteorológicos,BRS Place Conditions / Weather Alerts,BRS Conditions/Alertes météorologiques,BRS Condições / Alertas meteorológicos,
+GL,0,BVA,,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,Beach Volleyball Arena,Beach Volleyball Arena,Arena de Vôlei de Praia,
+GL,0,CA1,,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,Carioca Arena 1,Carioca Arena 1,Arena Carioca 1,
+GL,0,CA2,,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,
+GL,0,CA3,,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,
+GL,0,COP,,COP Place Conditions / Weather Alerts,COP Conditions/Alertes météorologiques,COP Condições / Alertas meteorológicos,COP Place Conditions / Weather Alerts,COP Conditions/Alertes météorologiques,COP Condições / Alertas meteorológicos,
+GL,0,DAQ,,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,
+GL,0,DEO,,DEO Place Conditions / Weather Alerts,DEO Conditions/Alertes météorologiques,DEO Condições / Alertas meteorológicos,DEO Place Conditions / Weather Alerts,DEO Conditions/Alertes météorologiques,DEO Condições / Alertas meteorológicos,
+GL,0,DES,,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,
+GL,0,EQC,,Olympic Equestrian Centre,Centre Olympique d'Équitation,Centro Olímpico de Hipismo,Olympic Equestrian Centre,Centre Olympique d'Équitation,Centro Olímpico de Hipismo,
+GL,0,FNA,,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,Fonte Nova Arena,Fonte Nova Arena,Arena Fonte Nova,
+GL,0,FTA,,Future Arena,Future Arena,Arena do Futuro,Future Arena,Future Arena,Arena do Futuro,
+GL,0,FTC,,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,
+GL,0,GLO,,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,
+GL,0,LAG,,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,
+GL,0,MBT,,Mountain Bike Centre,Centre de Mountain Bike,Centro de Mountain Bike,Mountain Bike Centre,Centre de Mountain Bike,Centro de Mountain Bike,
+GL,0,MGA,,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,Mané Garrincha Stadium,Stade Mané Garrincha,Estádio Mané Garrincha,
+GL,0,MIN,,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,Mineirão,
+GL,0,MNU,,MNU Place Conditions / Weather Alerts,MNU Conditions/Alertes météorologiques,MNU Condições / Alertas meteorológicos,MNU Place Conditions / Weather Alerts,MNU Conditions/Alertes météorologiques,MNU Condições / Alertas meteorológicos,
+GL,0,MNZ,,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,
+GL,0,MRC,,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,Maracanã,
+GL,0,MRZ,,MRZ Place Conditions / Weather Alerts,MRZ Conditions/Alertes météorologiques,MRZ Condições / Alertas meteorológicos,MRZ Place Conditions / Weather Alerts,MRZ Conditions/Alertes météorologiques,MRZ Condições / Alertas meteorológicos,
+GL,0,OAS,,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,
+GL,0,OGC,,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,
+GL,0,OHK,,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,
+GL,0,OLS,,Olympic Stadium,Stade Olympique,Estádio Olímpico,Olympic Stadium,Stade Olympique,Estádio Olímpico,
+GL,0,OSC,,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,
+GL,0,OTN,,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,
+GL,0,PON,,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,
+GL,0,RC2,,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,
+GL,0,RC3,,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,
+GL,0,RC4,,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,Riocentro - Pavilion 4,Riocentro - Pavillon 4,Riocentro - Pavilhão 4,
+GL,0,RC6,,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,Riocentro - Pavilion 6,Riocentro - Pavillon 6,Riocentro - Pavilhão 6,
+GL,0,ROA,,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,
+GL,0,ROV,,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,Rio Olympic Velodrome,Vélodrome olympique de Rio,Velódromo Olímpico do Rio,
+GL,0,SBD,,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,
+GL,0,SLV,,SLV Place Conditions / Weather Alerts,SLV Conditions/Alertes météorologiques,SLV Condições / Alertas meteorológicos,SLV Place Conditions / Weather Alerts,SLV Conditions/Alertes météorologiques,SLV Condições / Alertas meteorológicos,
+GL,0,SPA,,Corinthians Arena,Corinthians Arena,Arena Corinthians,Corinthians Arena,Corinthians Arena,Arena Corinthians,
+GL,0,SPL,,SPL Place Conditions / Weather Alerts,SPL Conditions/Alertes météorologiques,SPL Condições / Alertas meteorológicos,SPL Place Conditions / Weather Alerts,SPL Conditions/Alertes météorologiques,SPL Condições / Alertas meteorológicos,
+GL,0,WWS,,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,Whitewater Stadium,Stade de Canoë Slalom,Estádio de Canoagem Slalom,
+GL,0,YOA,,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,
+GO,0,000,,Golf,Golf,Golfe,Golf,Golf,Golfe,
+GO,0,OGC,,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,Olympic Golf Course,Parcours Olympique de Golf,Campo Olímpico de Golfe,
+GO,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+GO,M,001,1,Men's Individual Stroke Play,Stroke Play individuel - hommes,Jogo por tacadas individual masculino,Men's Individual Stroke Play,Stroke Play individuel - hommes,Jogo por tacadas individual masculino,
+GO,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+GO,W,001,2,Women's Individual Stroke Play,Stroke Play individuel - femmes,Jogo por tacadas individual feminino,Women's Individual Stroke Play,Stroke Play individuel - femmes,Jogo por tacadas individual feminino,
+GR,0,000,,Rhythmic Gymnastics,Gymnastique rythmique,Ginástica rítmica,Rhythmic Gymnastics,Gymnastique rythmique,Ginástica rítmica,
+GR,0,ROA,,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,
+GR,W,024,1,Individual All-Around,Concours multiple individuel,Competição individual geral,Individual All-Around,Concours multiple individuel,Competição individual geral,N
+GR,W,340,2,Group All-Around,Concours des ensembles,Competição por equipes geral,Group All-Around,Concours des ensembles,Competição por equipes geral,Y
+GT,0,000,,Trampoline Gymnastics,Trampoline,Ginástica de trampolim,Trampoline Gymnastics,Trampoline,Ginástica de trampolim,
+GT,0,ROA,,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,Rio Olympic Arena,Rio Olympic Arena,Arena Olímpica do Rio,
+GT,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+GT,M,001,1,Men,Hommes,Masculino,Men,Hommes,Masculino,
+GT,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+GT,W,001,2,Women,Femmes,Feminino,Women,Femmes,Feminino,
+GY,0,000,,Gymnastic Sport,Gymnastique,Ginástica ,Gymnastic Sport,Gymnastique,Ginástica ,
+HB,0,000,,Handball,Handball,Handebol,Handball,Handball,Handebol,
+HB,0,FTA,,Future Arena,Future Arena,Arena do Futuro,Future Arena,Future Arena,Arena do Futuro,
+HB,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+HB,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+HB,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+HB,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+HO,0,000,,Hockey,Hockey,Hóquei sobre grama,Hockey,Hockey,Hóquei sobre grama,
+HO,0,OHK,,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,Olympic Hockey Centre,Centre olympique de hockey,Centro Olímpico de Hóquei,
+HO,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+HO,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+HO,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+HO,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+IA,0,MET,,IOC Meetings,Réunions du CIO,Reuniões do COI,IOC Meetings,Réunions du CIO,Reuniões do COI,
+JU,0,000,,Judo,Judo,Judô,Judo,Judo,Judô,
+JU,0,CA2,,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,
+JU,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+JU,M,060,8,Men -60 kg,-60 kg - hommes,Até 60kg masculino,Men -60 kg,-60 kg - hommes,Até 60kg masculino,N
+JU,M,066,9,Men -66 kg,-66 kg - hommes,Até 66kg masculino,Men -66 kg,-66 kg - hommes,Até 66kg masculino,N
+JU,M,073,10,Men -73 kg,-73 kg - hommes,Até 73kg masculino,Men -73 kg,-73 kg - hommes,Até 73kg masculino,N
+JU,M,081,11,Men -81 kg,-81 kg - hommes,Até 81kg masculino,Men -81 kg,-81 kg - hommes,Até 81kg masculino,N
+JU,M,090,12,Men -90 kg,-90 kg - hommes,Até 90kg masculino,Men -90 kg,-90 kg - hommes,Até 90kg masculino,N
+JU,M,100,13,Men -100 kg,-100 kg - hommes,Até 100kg masculino,Men -100 kg,-100 kg - hommes,Até 100kg masculino,N
+JU,M,200,14,Men +100 kg,+100 kg - hommes,Acima de 100kg masculino,Men +100 kg,+100 kg - hommes,Acima de 100kg masculino,N
+JU,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+JU,W,048,1,Women -48 kg,-48 kg - femmes,Até 48kg feminino,Women -48 kg,-48 kg - femmes,Até 48kg feminino,N
+JU,W,052,2,Women -52 kg,-52 kg - femmes,Até 52kg feminino,Women -52 kg,-52 kg - femmes,Até 52kg feminino,N
+JU,W,057,3,Women -57 kg,-57 kg - femmes,Até 57kg feminino,Women -57 kg,-57 kg - femmes,Até 57kg feminino,N
+JU,W,063,4,Women -63 kg,-63 kg - femmes,Até 63kg  feminino,Women -63 kg,-63 kg - femmes,Até 63kg  feminino,N
+JU,W,070,5,Women -70 kg,-70 kg - femmes,Até 70kg feminino,Women -70 kg,-70 kg - femmes,Até 70kg feminino,N
+JU,W,078,6,Women -78 kg,-78 kg - femmes,Até 78kg feminino,Women -78 kg,-78 kg - femmes,Até 78kg feminino,N
+JU,W,178,7,Women +78 kg,+78 kg - femmes,Acima de 78kg feminino,Women +78 kg,+78 kg - femmes,Acima de 78kg feminino,N
+MP,0,000,,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,
+MP,0,001,,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,Modern Pentathlon,Pentathlon moderne,Pentatlo moderno,
+MP,0,DAQ,,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,Deodoro Aquatics Centre,Centre Aquatique de Deodoro,Centro Aquático de Deodoro,
+MP,0,DES,,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,
+MP,0,YOA,,Youth Arena,Youth Arena,Arena da Juventude,Youth Arena,Youth Arena,Arena da Juventude,
+MP,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+MP,M,001,1,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,Men's Individual,Épreuve individuelle - hommes,Competição individual masculina,
+MP,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+MP,W,001,2,Women's Individual,Épreuve individuelle - femmes,Competição individual feminina,Women's Individual,Épreuve individuelle - femmes,Competição individual feminina,
+OV,0,CFH,,Coffee House,Café,Café,Coffee House,Café,Café,
+OV,0,CLB,,Club,Club,Clube,Club,Club,Clube,
+OV,0,ENP,,Entertainment Programme,Programme de divertissement,Programa de Entretenimento,Entertainment Programme,Programme de divertissement,Programa de Entretenimento,
+OV,0,IFC,,Interfaith Centre,Centre Ecuménique,Centro inter-religioso,Interfaith Centre,Centre Ecuménique,Centro inter-religioso,
+OV,0,IOC,,IOC Athletes' Commission Election,Élection Commission des Athlètes du CIO,Eleição da comissão de atletas do COI,IOC Athletes' Commission Election,Élection Commission des Athlètes du CIO,Eleição da comissão de atletas do COI,
+OV,0,SPE,,Special Events,Évènements spéciaux,Eventos especiais,Special Events,Évènements spéciaux,Eventos especiais,
+OV,0,TEA,,Team Welcome Ceremonies,Cérémonies d'accueil des équipes,Cerimônias de boas-vindas às equipes,Team Welcome Ceremonies,Cérémonies d'accueil des équipes,Cerimônias de boas-vindas às equipes,
+OV,0,THR,,Theatre,Théâtre,Teatro,Theatre,Théâtre,Teatro,
+OV,0,VTG,,IOC Voting,Vote du CIO,Votação do COI,IOC Voting,Vote du CIO,Votação do COI,
+OW,0,000,,Marathon Swimming,Natation de marathon,Maratonas aquáticas,Marathon Swimming,Natation de marathon,Maratonas aquáticas,
+OW,0,FTC,,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,
+OW,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+OW,M,010,2,Men's 10km,10 km - hommes,10km masculina,Men's 10km,10 km - hommes,10km masculina,N
+OW,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+OW,W,010,1,Women's 10km,10 km - femmes,10km feminina,Women's 10km,10 km - femmes,10km feminina,N
+PC,0,AR0,,Archery Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco,Archery Press Conference,Conférence de presse - tir à l'arc,Coletiva de imprensa - Tiro com arco,
+PC,0,AT0,,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo,Athletics Press Conference,Conférence de presse - athlétisme,Coletiva de imprensa - Atletismo,
+PC,0,BD0,,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton,Badminton Press Conference,Conférence de presse - badminton,Coletiva de imprensa - Badminton,
+PC,0,BK0,,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol,Basketball Press Conference,Conférence de presse - basketball,Coletiva de imprensa - Basquetebol,
+PC,0,BV0,,Beach Volleyball Press Conference,Conférence de presse - volleyball plage,Coletiva de imprensa - Vôlei de praia,Beach Volleyball Press Conference,Conférence de presse - volleyball plage,Coletiva de imprensa - Vôlei de praia,
+PC,0,BX0,,Boxing Press Conference,Conférence de presse - boxe,Coletiva de imprensa - Boxe,Boxing Press Conference,Conférence de presse - boxe,Coletiva de imprensa - Boxe,
+PC,0,CB0,,Cycling BMX Media Conference,Conférence de presse - BMX,Coletiva de imprensa - Ciclismo BMX,Cycling BMX Media Conference,Conférence de presse - BMX,Coletiva de imprensa - Ciclismo BMX,
+PC,0,CF0,,Canoe Sprint Press Conference,"Conf. de presse - canoë-kayak, ligne",Coletiva de imprensa-Canoagem velocidade,Canoe Sprint Press Conference,"Conf. de presse - canoë-kayak, ligne",Coletiva de imprensa-Canoagem velocidade,
+PC,0,CM0,,Cycling Mountain Bike Press Conference,Conférence de presse - mountain bike,Coletiva de imprensa - Mountain bike,Cycling Mountain Bike Press Conference,Conférence de presse - mountain bike,Coletiva de imprensa - Mountain bike,
+PC,0,CR0,,Cycling Road Press Conference,Conférence de presse - cyclisme route,Coletiva de imprensa-Ciclismo de estrada,Cycling Road Press Conference,Conférence de presse - cyclisme route,Coletiva de imprensa-Ciclismo de estrada,
+PC,0,CS0,,Canoe Slalom Press Conference,"Conf. de presse - canoë-kayak, slalom",Coletiva de imprensa - Canoagem slalom,Canoe Slalom Press Conference,"Conf. de presse - canoë-kayak, slalom",Coletiva de imprensa - Canoagem slalom,
+PC,0,CT0,,Cycling Track Press Conference,Conférence de presse - cyclisme piste,Coletiva de imprensa - Ciclismo de pista,Cycling Track Press Conference,Conférence de presse - cyclisme piste,Coletiva de imprensa - Ciclismo de pista,
+PC,0,DV0,,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa- Saltos ornamentais,Diving Press Conference,Conférence de presse - plongeon,Coletiva de imprensa- Saltos ornamentais,
+PC,0,EQ0,,Equestrian Press Conference,Conférence de presse - sports équestres,Coletiva de imprensa - Hipismo,Equestrian Press Conference,Conférence de presse - sports équestres,Coletiva de imprensa - Hipismo,
+PC,0,FB0,,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol,Football Press Conference,Conférence de presse - football,Coletiva de imprensa - Futebol,
+PC,0,FE0,,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima,Fencing Press Conference,Conférence de presse - escrime,Coletiva de imprensa - Esgrima,
+PC,0,GA0,,Artistic Gymnastics Press Conference,Conférence de presse - gym. artistique,Coletiva de imprensa-Ginástica artística,Artistic Gymnastics Press Conference,Conférence de presse - gym. artistique,Coletiva de imprensa-Ginástica artística,
+PC,0,GEN,,General Press Conference,Conférence de presse générale,Coletiva de imprensa - Geral,General Press Conference,Conférence de presse générale,Coletiva de imprensa - Geral,
+PC,0,GO0,,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe,Golf Press Conference,Conférence de presse - Golf,Coletiva de imprensa - Golfe,
+PC,0,GR0,,Rhythmic Gymnastics Press Conference,Conférence de presse - gym. rythmique,Coletiva de imprensa - Ginástica rítmica,Rhythmic Gymnastics Press Conference,Conférence de presse - gym. rythmique,Coletiva de imprensa - Ginástica rítmica,
+PC,0,GT0,,Trampoline Gymnastics Press Conference,Conférence de presse - trampoline,Coletiva de imprensa-Ginástica trampolim,Trampoline Gymnastics Press Conference,Conférence de presse - trampoline,Coletiva de imprensa-Ginástica trampolim,
+PC,0,HB0,,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol,Handball Press Conference,Conférence de presse - handball,Coletiva de imprensa - Handebol,
+PC,0,HO0,,Hockey Press Conference,Conférence de presse - hockey,Coletiva de imprensa -Hóquei sobre grama,Hockey Press Conference,Conférence de presse - hockey,Coletiva de imprensa -Hóquei sobre grama,
+PC,0,IOC,,IOC/Rio2016 Press Conference,Conférence de presse - CIO/Rio2016,Coletiva de imprensa - COI/Rio2016,IOC/Rio2016 Press Conference,Conférence de presse - CIO/Rio2016,Coletiva de imprensa - COI/Rio2016,
+PC,0,JU0,,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô,Judo Press Conference,Conférence de presse - judo,Coletiva de imprensa - Judô,
+PC,0,LOC,,Rio2016 Press Conference,Conférence de presse - Rio2016,Coletiva de imprensa - Rio2016,Rio2016 Press Conference,Conférence de presse - Rio2016,Coletiva de imprensa - Rio2016,
+PC,0,MP0,,Modern Pentathlon Press Conference,Conf. de presse - pentathlon moderne,Coletiva de imprensa - Pentatlo moderno,Modern Pentathlon Press Conference,Conf. de presse - pentathlon moderne,Coletiva de imprensa - Pentatlo moderno,
+PC,0,RO0,,Rowing Press Conference,Conférence de presse - aviron,Coletiva de imprensa - Remo,Rowing Press Conference,Conférence de presse - aviron,Coletiva de imprensa - Remo,
+PC,0,RU0,,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby,Rugby Press Conference,Conférence de presse - Rugby,Coletiva de imprensa - Rugby,
+PC,0,SA0,,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela,Sailing Press Conference,Conférence de presse - voile,Coletiva de imprensa - Vela,
+PC,0,SH0,,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo,Shooting Press Conference,Conférence de presse - tir,Coletiva de imprensa - Tiro esportivo,
+PC,0,SPO,,Sponsor Press Conferences,Conférence de presse des partenaires,Coletiva de imprensa - Patrocinadores,Sponsor Press Conferences,Conférence de presse des partenaires,Coletiva de imprensa - Patrocinadores,
+PC,0,SW0,,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação,Swimming Press Conference,Conférence de presse - natation,Coletiva de imprensa - Natação,
+PC,0,SY0,,Synchronised Swimming Press Conference,Conf. de presse - natation synchronisée,Coletiva de imprensa - Nado sincronizado,Synchronised Swimming Press Conference,Conf. de presse - natation synchronisée,Coletiva de imprensa - Nado sincronizado,
+PC,0,TE0,,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis,Tennis Press Conference,Conférence de presse - tennis,Coletiva de imprensa - Tênis,
+PC,0,TK0,,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo,Taekwondo Press Conference,Conférence de presse - taekwondo,Coletiva de imprensa - Taekwondo,
+PC,0,TR0,,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo,Triathlon Press Conference,Conférence de presse - triathlon,Coletiva de imprensa - Triatlo,
+PC,0,TT0,,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa,Table Tennis Press Conference,Conférence de presse - tennis de table,Coletiva de imprensa - Tênis de mesa,
+PC,0,VO0,,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol,Volleyball Press Conference,Conférence de presse - volleyball,Coletiva de imprensa - Voleibol,
+PC,0,WL0,,Weightlifting Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa - Levantamento peso,Weightlifting Press Conference,Conférence de presse - haltérophilie,Coletiva de imprensa - Levantamento peso,
+PC,0,WP0,,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático,Water Polo Press Conference,Conférence de presse - water-polo,Coletiva de imprensa - Polo aquático,
+PC,0,WR0,,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica,Wrestling Press Conference,Conférence de presse - lutte,Coletiva de imprensa - Luta olímpica,
+RO,0,000,,Rowing,Aviron,Remo,Rowing,Aviron,Remo,
+RO,0,LAG,,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,Lagoa Stadium,Stade de Lagoa,Estádio da Lagoa,
+RO,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+RO,M,012,7,Men's Single Sculls,Skiff Homme,Single-skiff masculino,Men's Single Sculls,Skiff Homme,Single-skiff masculino,
+RO,M,021,2,Men's Pair,Deux de Pointe Homme,Dois sem masculino,Men's Pair,Deux de Pointe Sans Barreur Homme,Dois sem masculino,
+RO,M,022,4,Men's Double Sculls,Deux de Couple Homme,Double-skiff masculino,Men's Double Sculls,Deux de Couple Homme,Double-skiff masculino,
+RO,M,041,5,Men's Four,Quatre de Pointe Homme,Quatro sem masculino,Men's Four,Quatre de Pointe Sans Barreur Homme,Quatro sem masculino,
+RO,M,042,12,Men's Quadruple Sculls,Quatre de Couple Homme,Four-skiff masculino,Men's Quadruple Sculls,Quatre de Couple Homme,Four-skiff masculino,
+RO,M,083,14,Men's Eight,Huit de Pointe Homme,Oito com masculino,Men's Eight,Huit de Pointe avec Barreur Homme,Oito com masculino,
+RO,M,122,9,Lightweight Men's Double Sculls,Deux de Couple Homme Poids Léger,Double-skiff peso leve masculino,Lightweight Men's Double Sculls,Deux de Couple Homme Poids Léger,Double-skiff peso leve masculino,
+RO,M,141,10,Lightweight Men's Four,Quatre de Pointe Homme Poids Léger,Quatro sem peso leve masculino,Lightweight Men's Four,Quatre de Pointe Homme Poids Léger,Quatro sem peso leve masculino,
+RO,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+RO,W,012,6,Women's Single Sculls,Skiff Femme,Single-skiff feminino,Women's Single Sculls,Skiff Femme,Single-skiff feminino,
+RO,W,021,1,Women's Pair,Deux de Pointe Femme,Dois sem feminino,Women's Pair,Deux de Pointe Sans Barreur Femme,Dois sem feminino,
+RO,W,022,3,Women's Double Sculls,Deux de Couple Femme,Double-skiff feminino,Women's Double Sculls,Deux de Couple Femme,Double-skiff feminino,
+RO,W,042,11,Women's Quadruple Sculls,Quatre de Couple Femme,Four-skiff feminino,Women's Quadruple Sculls,Quatre de Couple Femme,Four-skiff feminino,
+RO,W,083,13,Women's Eight,Huit de Pointe Femme,Oito com feminino,Women's Eight,Huit de Pointe avec Barreur Femme,Oito com feminino,
+RO,W,122,8,Lightweight Women's Double Sculls,Deux de Couple Femme Poids Léger,Double-skiff peso leve feminino,Lightweight Women's Double Sculls,Deux de Couple Femme Poids Léger,Double-skiff peso leve feminino,
+RU,0,000,,Rugby Sevens,Rugby à 7,Rugby de 7,Rugby Sevens,Rugby à 7,Rugby de 7,
+RU,0,DES,,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,Deodoro Stadium,Stade de Deodoro,Estádio de Deodoro,
+RU,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+RU,M,407,1,Men's Rugby Sevens,Rugby à 7 - hommes,Rugby de 7 masculino,Men's Rugby Sevens,Rugby à 7 - hommes,Rugby de 7 masculino,Y
+RU,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+RU,W,407,2,Women's Rugby Sevens,Rugby à 7 - femmes,Rugby de 7 feminino,Women's Rugby Sevens,Rugby à 7 - femmes,Rugby de 7 feminino,Y
+SA,0,000,,Sailing,Voile,Vela,Sailing,Voile,Vela,
+SA,0,GLO,,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,
+SA,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+SA,M,002,5,Finn Men,Finn - hommes,Finn masculino,Finn Men,Finn - hommes,Finn masculino,
+SA,M,004,3,Laser Men,Laser - hommes,Laser masculino,Laser Men,Laser - hommes,Laser masculino,
+SA,M,005,6,470 Men,470 - hommes,470 masculino,470 Men,470 - hommes,470 masculino,
+SA,M,009,8,49er Men,49er - hommes,49er masculino,49er Men,49er - hommes,49er masculino,
+SA,M,102,1,RS:X Men,RS:X - hommes,RS:X masculino,RS:X Men,RS:X - hommes,RS:X masculino,
+SA,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+SA,W,005,7,470 Women,470 - femmes,470 feminino,470 Women,470 - femmes,470 feminino,
+SA,W,019,9,49er FX Women,49er FX - femmes,49er FX feminino,49er FX Women,49er FX - femmes,49er FX feminino,
+SA,W,102,2,RS:X Women,RS:X - femmes,RS:X feminino,RS:X Women,RS:X - femmes,RS:X feminino,
+SA,W,103,4,Laser Radial Women,Laser radial - femmes,Laser Radial feminino,Laser Radial Women,Laser radial - femmes,Laser Radial feminino,
+SA,X,016,10,Nacra 17 Mixed,Nacra 17 - mixte,Nacra 17 misto,Nacra 17 Mixed,Nacra 17 - mixte,Nacra 17 misto,
+SH,0,000,,Shooting,Tir,Tiro esportivo,Shooting,Tir,Tiro esportivo,
+SH,0,OSC,,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,Olympic Shooting Centre,Centre Olympique de Tir,Centro Olímpico de Tiro,
+SH,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+SH,M,101,3,10m Air Rifle Men,10 m rifle à air - hommes,Carabina de ar 10m masculino,10m Air Rifle Men,10 m rifle à air - hommes,Carabina de ar 10m masculino,N
+SH,M,103,2,50m Rifle Prone Men,50 m rifle couché - hommes,Carabina deitado 50m masculino,50m Rifle Prone Men,50 m rifle couché - hommes,Carabina deitado 50m masculino,N
+SH,M,104,1,50m Rifle 3 Positions Men,50 m rifle 3 positions - hommes,Carabina três posições 50m masculino,50m Rifle 3 Positions Men,50 m rifle 3 positions - hommes,Carabina três posições 50m masculino,N
+SH,M,201,4,50m Pistol Men,50 m pistolet - hommes,Pistola 50m masculino,50m Pistol Men,50 m pistolet - hommes,Pistola 50m masculino,N
+SH,M,202,5,25m Rapid Fire Pistol Men,25 m pistolet feu rapide - hommes,Pistola de tiro rápido 25m masculino,25m Rapid Fire Pistol Men,25 m pistolet feu rapide - hommes,Pistola de tiro rápido 25m masculino,N
+SH,M,203,6,10m Air Pistol Men,10 m pistolet à air - hommes,Pistola de ar 10m masculino,10m Air Pistol Men,10 m pistolet à air - hommes,Pistola de ar 10m masculino,N
+SH,M,401,7,Trap Men,Fosse olympique - hommes,Fossa olímpica masculino,Trap Men,Fosse olympique - hommes,Fossa olímpica masculino,N
+SH,M,402,8,Double Trap Men,Double trap - hommes,Fossa double masculino,Double Trap Men,Double trap - hommes,Fossa double masculino,N
+SH,M,403,9,Skeet Men,Skeet - hommes,Skeet masculino,Skeet Men,Skeet - hommes,Skeet masculino,N
+SH,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+SH,W,101,11,10m Air Rifle Women,10 m rifle à air - femmes,Carabina de ar 10m feminino,10m Air Rifle Women,10 m rifle à air - femmes,Carabina de ar 10m feminino,N
+SH,W,104,10,50m Rifle 3 Positions Women,50 m rifle 3 positions - femmes,Carabina três posições 50m feminino,50m Rifle 3 Positions Women,50 m rifle 3 positions - femmes,Carabina três posições 50m feminino,N
+SH,W,203,13,10m Air Pistol Women,10 m pistolet à air - femmes,Pistola de ar 10m feminino,10m Air Pistol Women,10 m pistolet à air - femmes,Pistola de ar 10m feminino,N
+SH,W,204,12,25m Pistol Women,25 m pistolet - femmes,Pistola 25m feminino,25m Pistol Women,25 m pistolet - femmes,Pistola 25m feminino,N
+SH,W,401,14,Trap Women,Fosse olympique - femmes,Fossa olímpica feminino,Trap Women,Fosse olympique - femmes,Fossa olímpica feminino,N
+SH,W,403,15,Skeet Women,Skeet - femmes,Skeet feminino,Skeet Women,Skeet - femmes,Skeet feminino,N
+SW,0,000,,Swimming,Natation,Natação,Swimming,Natation,Natação,
+SW,0,OAS,,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,
+SW,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+SW,M,010,18,Men's 50m Freestyle,50 m nage libre - hommes,50m livre masculino ,Men's 50m Freestyle,50 m nage libre - hommes,50m livre masculino ,N
+SW,M,011,19,Men's 100m Freestyle,100 m nage libre - hommes,100m livre masculino,Men's 100m Freestyle,100 m nage libre - hommes,100m livre masculino,N
+SW,M,012,20,Men's 200m Freestyle,200 m nage libre - hommes,200m livre masculino,Men's 200m Freestyle,200 m nage libre - hommes,200m livre masculino,N
+SW,M,014,21,Men's 400m Freestyle,400 m nage libre - hommes,400m livre masculino,Men's 400m Freestyle,400 m nage libre - hommes,400m livre masculino,N
+SW,M,015,22,Men's 1500m Freestyle,1 500 m nage libre - hommes,1.500m livre masculino,Men's 1500m Freestyle,1 500 m nage libre - hommes,1.500m livre masculino,N
+SW,M,021,27,Men's 100m Butterfly,100 m papillon - hommes,100m borboleta masculino,Men's 100m Butterfly,100 m papillon - hommes,100m borboleta masculino,N
+SW,M,022,28,Men's 200m Butterfly,200 m papillon - hommes,200m borboleta masculino,Men's 200m Butterfly,200 m papillon - hommes,200m borboleta masculino,N
+SW,M,031,25,Men's 100m Breaststroke,100 m brasse - hommes,100m peito masculino,Men's 100m Breaststroke,100 m brasse - hommes,100m peito masculino,N
+SW,M,032,26,Men's 200m Breaststroke,200 m brasse - hommes,200m peito masculino,Men's 200m Breaststroke,200 m brasse - hommes,200m peito masculino,N
+SW,M,041,23,Men's 100m Backstroke,100 m dos - hommes,100m costas masculino,Men's 100m Backstroke,100 m dos - hommes,100m costas masculino,N
+SW,M,042,24,Men's 200m Backstroke,200 m dos - hommes,200m costas masculino,Men's 200m Backstroke,200 m dos - hommes,200m costas masculino,N
+SW,M,052,29,Men's 200m Individual Medley,200 m 4 nages individuel - hommes,200m medley masculino,Men's 200m Individual Medley,200 m 4 nages individuel - hommes,200m medley masculino,N
+SW,M,054,30,Men's 400m Individual Medley,400 m 4 nages individuel - hommes,400m medley masculino,Men's 400m Individual Medley,400 m 4 nages individuel - hommes,400m medley masculino,N
+SW,M,411,31,Men's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - hommes,Revezamento 4x100m livre masculino,Men's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - hommes,Revezamento 4x100m livre masculino,Y
+SW,M,412,32,Men's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - hommes,Revezamento 4x200m livre masculino,Men's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - hommes,Revezamento 4x200m livre masculino,Y
+SW,M,451,33,Men's 4 x 100m Medley Relay,Relais 4x100 m 4 nages - hommes,Revezamento 4x100m medley masculino,Men's 4 x 100m Medley Relay,Relais 4x100 m 4 nages - hommes,Revezamento 4x100m medley masculino,Y
+SW,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+SW,W,010,1,Women's 50m Freestyle,50 m nage libre - femmes,50m livre feminino,Women's 50m Freestyle,50 m nage libre - femmes,50m livre feminino,N
+SW,W,011,2,Women's 100m Freestyle,100 m nage libre - femmes,100m livre feminino,Women's 100m Freestyle,100 m nage libre - femmes,100m livre feminino,N
+SW,W,012,3,Women's 200m Freestyle,200 m nage libre - femmes,200m livre feminino,Women's 200m Freestyle,200 m nage libre - femmes,200m livre feminino,N
+SW,W,014,4,Women's 400m Freestyle,400 m nage libre - femmes,400m livre feminino,Women's 400m Freestyle,400 m nage libre - femmes,400m livre feminino,N
+SW,W,018,5,Women's 800m Freestyle,800 m nage libre - femmes,800m livre feminino,Women's 800m Freestyle,800 m nage libre - femmes,800m livre feminino,N
+SW,W,021,10,Women's 100m Butterfly,100 m papillon - femmes,100m borboleta feminino,Women's 100m Butterfly,100 m papillon - femmes,100m borboleta feminino,N
+SW,W,022,11,Women's 200m Butterfly,200 m papillon - femmes,200m borboleta feminino,Women's 200m Butterfly,200 m papillon - femmes,200m borboleta feminino,N
+SW,W,031,8,Women's 100m Breaststroke,100 m brasse - femmes,100m peito feminino,Women's 100m Breaststroke,100 m brasse - femmes,100m peito feminino,N
+SW,W,032,9,Women's 200m Breaststroke,200 m brasse - femmes,200m peito feminino,Women's 200m Breaststroke,200 m brasse - femmes,200m peito feminino,N
+SW,W,041,6,Women's 100m Backstroke,100 m dos - femmes,100m costas feminino,Women's 100m Backstroke,100 m dos - femmes,100m costas feminino,N
+SW,W,042,7,Women's 200m Backstroke,200 m dos - femmes,200m costas feminino,Women's 200m Backstroke,200 m dos - femmes,200m costas feminino,N
+SW,W,052,12,Women's 200m Individual Medley,200 m 4 nages individuel - femmes,200m medley feminino,Women's 200m Individual Medley,200 m 4 nages individuel - femmes,200m medley feminino,N
+SW,W,054,13,Women's 400m Individual Medley,400 m 4 nages individuel - femmes,400m medley feminino,Women's 400m Individual Medley,400 m 4 nages individuel - femmes,400m medley feminino,N
+SW,W,411,14,Women's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - femmes,Revezamento 4x100m livre feminino,Women's 4 x 100m Freestyle Relay,Relais 4x100 m nage libre - femmes,Revezamento 4x100m livre feminino,Y
+SW,W,412,15,Women's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - femmes,Revezamento 4x200m livre feminino,Women's 4 x 200m Freestyle Relay,Relais 4x200 m nage libre - femmes,Revezamento 4x200m livre feminino,Y
+SW,W,451,16,Women's 4 x 100m Medley Relay,Relais 4x100 m 4 nages - femmes,Revezamento 4x100m medley feminino,Women's 4 x 100m Medley Relay,Relais 4x100 m 4 nages - femmes,Revezamento 4x100m medley feminino,Y
+SY,0,000,,Synchronised Swimming,Natation synchronisée,Nado sincronizado,Synchronised Swimming,Natation synchronisée,Nado sincronizado,
+SY,0,AQC,,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,
+SY,W,201,1,Duets,Duos,Duetos,Duets,Duos,Duetos,Y
+SY,W,401,2,Teams,Épreuve par équipes,Equipes,Teams,Épreuve par équipes,Equipes,Y
+TE,0,000,,Tennis,Tennis,Tênis,Tennis,Tennis,Tênis,
+TE,0,OTN,,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,Olympic Tennis Centre,Centre olympique de tennis,Centro Olímpico de Tênis,
+TE,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+TE,M,001,1,Men's Singles,Simple hommes,Simples masculino,Men's Singles,Simple hommes,Simples masculino,
+TE,M,002,3,Men's Doubles,Double hommes,Duplas masculinas,Men's Doubles,Double hommes,Duplas masculinas,
+TE,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+TE,W,001,2,Women's Singles,Simple femmes,Simples feminino,Women's Singles,Simple femmes,Simples feminino,
+TE,W,002,4,Women's Doubles,Double femmes,Duplas femininas,Women's Doubles,Double femmes,Duplas femininas,
+TE,X,002,5,Mixed Doubles,Double mixte,Duplas mistas,Mixed Doubles,Double mixte,Duplas mistas,
+TK,0,000,,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo,Taekwondo,
+TK,0,CA3,,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,Carioca Arena 3,Carioca Arena 3,Arena Carioca 3,
+TK,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+TK,M,058,1,Men -58kg,-58 kg - hommes,Até 58kg masculino,Men -58kg,-58 kg - hommes,Até 58kg masculino,N
+TK,M,068,2,Men -68kg,-68 kg - hommes,Até 68kg masculino,Men -68kg,-68 kg - hommes,Até 68kg masculino,N
+TK,M,080,3,Men -80kg,-80 kg - hommes,Até 80kg masculino,Men -80kg,-80 kg - hommes,Até 80kg masculino,N
+TK,M,180,4,Men +80kg,+80 kg - hommes,Acima de 80kg masculino,Men +80kg,+80 kg - hommes,Acima de 80kg masculino,N
+TK,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+TK,W,049,5,Women -49kg,-49 kg - femmes,Até 49kg feminino,Women -49kg,-49 kg - femmes,Até 49kg feminino,N
+TK,W,057,6,Women -57kg,-57 kg - femmes,Até 57kg feminino,Women -57kg,-57 kg - femmes,Até 57kg feminino,N
+TK,W,067,7,Women -67kg,-67 kg - femmes,Até 67kg feminino,Women -67kg,-67 kg - femmes,Até 67kg feminino,N
+TK,W,167,8,Women +67kg,+67 kg - femmes,Acima de 67kg feminino,Women +67kg,+67 kg - femmes,Acima de 67kg feminino,N
+TR,0,000,,Triathlon,Triathlon,Triatlo,Triathlon,Triathlon,Triatlo,
+TR,0,FTC,,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,Fort Copacabana,Fort de Copacabana,Forte de Copacabana,
+TR,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+TR,M,001,1,Men,Hommes,Masculino,Men,Hommes,Masculino,N
+TR,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+TR,W,001,2,Women,Femmes,Feminino,Women,Femmes,Feminino,N
+TT,0,000,,Table Tennis,Tennis de table,Tênis de mesa,Table Tennis,Tennis de table,Tênis de mesa,
+TT,0,001,,Table Tennis Singles,Tennis de table simple,Tênis de mesa - individual,Table Tennis Singles,Tennis de table simple,Tênis de mesa - individual,
+TT,0,400,,Table Tennis Teams,Tennis de table par équipes,Tênis de mesa - equipes,Table Tennis Teams,Tennis de table par équipes,Tênis de mesa - equipes,N
+TT,0,RC3,,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,Riocentro - Pavilion 3,Riocentro - Pavillon 3,Riocentro - Pavilhão 3,
+TT,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+TT,M,001,4,Men's Singles,Simple hommes,Individual masculino,Men's Singles,Simple hommes,Individual masculino,N
+TT,M,400,2,Men's Team,Par équipes hommes,"Competição por equipes, masculino",Men's Team,Par équipes hommes,"Competição por equipes, masculino",Y
+TT,M,A00,,Men's Team Match 1,Par équipes hommes - match 1,Equipes masculinas - jogo 1,Men's Team Match 1,Par équipes hommes - match 1,Equipes masculinas - jogo 1,N
+TT,M,B00,,Men's Team Match 2,Par équipes hommes - match 2,Equipes masculinas - jogo 2,Men's Team Match 2,Par équipes hommes - match 2,Equipes masculinas - jogo 2,N
+TT,M,C00,,Men's Team Match 3,Par équipes hommes - match 3,Equipes masculinas - jogo 3,Men's Team Match 3,Par équipes hommes - match 3,Equipes masculinas - jogo 3,N
+TT,M,D00,,Men's Team Match 4,Par équipes hommes - match 4,Equipes masculinas - jogo 4,Men's Team Match 4,Par équipes hommes - match 4,Equipes masculinas - jogo 4,N
+TT,M,E00,,Men's Team Match 5,Par équipes hommes - match 5,Equipes masculinas - jogo 5,Men's Team Match 5,Par équipes hommes - match 5,Equipes masculinas - jogo 5,N
+TT,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+TT,W,001,3,Women's Singles,Simple femmes,Individual feminino,Women's Singles,Simple femmes,Individual feminino,N
+TT,W,400,1,Women's Team,Par équipes femmes,"Competição por equipes, feminino",Women's Team,Par équipes femmes,"Competição por equipes, feminino",Y
+TT,W,A00,,Women's Team Match 1,Par équipes femmes - match 1,Equipes femininas - jogo 1,Women's Team Match 1,Par équipes femmes - match 1,Equipes femininas - jogo 1,N
+TT,W,B00,,Women's Team Match 2,Par équipes femmes - match 2,Equipes femininas - jogo 2,Women's Team Match 2,Par équipes femmes - match 2,Equipes femininas - jogo 2,N
+TT,W,C00,,Women's Team Match 3,Par équipes femmes - match 3,Equipes femininas - jogo 3,Women's Team Match 3,Par équipes femmes - match 3,Equipes femininas - jogo 3,N
+TT,W,D00,,Women's Team Match 4,Par équipes femmes - match 4,Equipes femininas - jogo 4,Women's Team Match 4,Par équipes femmes - match 4,Equipes femininas - jogo 4,N
+TT,W,E00,,Women's Team Match 5,Par équipes femmes - match 5,Equipes femininas - jogo 5,Women's Team Match 5,Par équipes femmes - match 5,Equipes femininas - jogo 5,N
+UT,0,ART,,Archery Training,Entraînement de tir à l'arc,Treinamento de tiro com arco,Archery Training,Entraînement de tir à l'arc,Treinamento de tiro com arco,
+UT,0,ATT,,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo,Athletics Training,Entraînement d'athlétisme,Treinamento de atletismo,
+UT,0,BDT,,Badminton Training,Entraînement de badminton,Treinamento de badminton,Badminton Training,Entraînement de badminton,Treinamento de badminton,
+UT,0,BKT,,Basketball Training,Entraînement de basketball,Treinamento de basquetebol,Basketball Training,Entraînement de basketball,Treinamento de basquetebol,
+UT,0,BVT,,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia,Beach Volleyball Training,Entraînement de volleyball de plage,Treinamento de vôlei de praia,
+UT,0,BXT,,Boxing Training,Entraînement de boxe,Treinamento de boxe,Boxing Training,Entraînement de boxe,Treinamento de boxe,
+UT,0,CBT,,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX,Cycling BMX Training,Entraînement de BMX,Treinamento de BMX,
+UT,0,CFT,,Canoe Sprint Racing Training,"Entraînement de canoë-kayak, ligne",Treinamento de canoagem velocidade,Canoe Sprint Racing Training,"Entraînement de canoë-kayak, ligne",Treinamento de canoagem velocidade,
+UT,0,CMT,,Cycling Mountain Bike Training,Entraînement de cyclisme mountain bike,Treinamento de ciclismo mountain bike,Cycling Mountain Bike Training,Entraînement de cyclisme mountain bike,Treinamento de ciclismo mountain bike,
+UT,0,CRT,,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada,Cycling Road Training,Entraînement de cyclisme sur route,Treinamento de ciclismo de estrada,
+UT,0,CST,,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom,Canoe Slalom Racing Training,"Entraînement de canoë-kayak, slalom",Treinamento de canoagem slalom,
+UT,0,CTT,,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista,Cycling Track Training,Entraînement de cyclisme sur piste,Treinamento de ciclismo de pista,
+UT,0,DVT,,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais,Diving Training,Entraînement de plongeon,Treinamento de saltos ornamentais,
+UT,0,EQT,,Equestrian Training,Entraînement de sports équestres,Treinamento de hipismo,Equestrian Training,Entraînement de sports équestres,Treinamento de hipismo,
+UT,0,FBT,,Football Training,Entraînement de football,Treinamento de futebol ,Football Training,Entraînement de football,Treinamento de futebol ,
+UT,0,FET,,Fencing Training,Entraînement d'escrime,Treinamento de esgrima,Fencing Training,Entraînement d'escrime,Treinamento de esgrima,
+UT,0,GAT,,Artistic Gymnastics Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística,Artistic Gymnastics Training,Entraînement de gymnastique artistique,Treinamento de ginástica artística,
+UT,0,GOT,,Golf Training,Entraînement de golf,Treinamento de golfe,Golf Training,Entraînement de golf,Treinamento de golfe,
+UT,0,GRT,,Rhythmic Gymnastics Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica,Rhythmic Gymnastics Training,Entraînement de gymnastique rythmique,Treinamento de ginástica rítmica,
+UT,0,GTT,,Trampoline Gymnastics Training,Entraînement de trampoline,Treinamento de ginástica de trampolim,Trampoline Gymnastics Training,Entraînement de trampoline,Treinamento de ginástica de trampolim,
+UT,0,HBT,,Handball Training,Entraînement de handball,Treinamento de handebol,Handball Training,Entraînement de handball,Treinamento de handebol,
+UT,0,HOT,,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama,Hockey Training,Entraînement de hockey,Treinamento de hóquei sobre grama,
+UT,0,JUT,,Judo Training,Entraînement de judo,Treinamento de judô,Judo Training,Entraînement de judo,Treinamento de judô,
+UT,0,MPT,,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno,Modern Pentathlon Training,Entraînement de pentathlon moderne,Treinamento de pentatlo moderno,
+UT,0,ROT,,Rowing Training,Entraînement d'aviron,Treinamento de remo,Rowing Training,Entraînement d'aviron,Treinamento de remo,
+UT,0,RUT,,Rugby Training,Entraînement de rugby,Treinamento de Rugby,Rugby Training,Entraînement de rugby,Treinamento de Rugby,
+UT,0,SAT,,Sailing Training,Entraînement de voile,Treinamento de vela ,Sailing Training,Entraînement de voile,Treinamento de vela ,
+UT,0,SHT,,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo,Shooting Training,Entraînement de tir,Treinamento de tiro esportivo,
+UT,0,SWT,,Swimming Training,Entraînement de natation,Treinamento de natação,Swimming Training,Entraînement de natation,Treinamento de natação,
+UT,0,SYT,,Synchronised Swimming Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado,Synchronised Swimming Training,Entraînement de natation synchronisée,Treinamento de nado sincronizado,
+UT,0,TET,,Tennis Training,Entraînement de tennis,Treinamento de tênis,Tennis Training,Entraînement de tennis,Treinamento de tênis,
+UT,0,TKT,,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo,Taekwondo Training,Entraînement de taekwondo,Treinamento de taekwondo,
+UT,0,TRT,,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo,Triathlon Training,Entraînement de triathlon,Treinamento de triatlo,
+UT,0,TTT,,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa,Table Tennis Training,Entraînement de tennis de table,Treinamento de tênis de mesa,
+UT,0,VOT,,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol,Volleyball Training,Entraînement de volleyball,Treinamento de voleibol,
+UT,0,WLT,,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso,Weightlifting Training,Entraînement d'haltérophilie,Treinamento de levantamento de peso,
+UT,0,WPT,,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático,Water Polo Training,Entraînement de water-polo,Treinamento de polo aquático,
+UT,0,WRT,,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica ,Wrestling Training,Entraînement de lutte,Treinamento de luta olímpica ,
+VB,0,000,,Volleyball Sport,Volleyball,Voleibol,Volleyball Sport,Volleyball,Voleibol,
+VO,0,000,,Volleyball,Volleyball,Voleibol,Volleyball,Volleyball,Voleibol,
+VO,0,MNZ,,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,Maracanãzinho,
+VO,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+VO,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+VO,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+VO,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+WL,0,000,,Weightlifting,Haltérophilie,Levantamento de peso,Weightlifting,Haltérophilie,Levantamento de peso,
+WL,0,RC2,,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,Riocentro - Pavilion 2,Riocentro - Pavillon 2,Riocentro - Pavilhão 2,
+WL,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+WL,M,005,7,Men's 105kg,105 kg - hommes,Até 105kg masculino,Men's 105kg,105 kg - hommes,Até 105kg masculino,N
+WL,M,025,8,Men's +105kg,+105 kg - hommes,Acima de 105kg masculino,Men's +105kg,+105 kg - hommes,Acima de 105kg masculino,N
+WL,M,056,1,Men's 56kg,56 kg - hommes,Até 56kg masculino,Men's 56kg,56 kg - hommes,Até 56kg masculino,N
+WL,M,062,2,Men's 62kg,62 kg - hommes,Até 62kg masculino,Men's 62kg,62 kg - hommes,Até 62kg masculino,N
+WL,M,069,3,Men's 69kg,69 kg - hommes,Até 69kg masculino,Men's 69kg,69 kg - hommes,Até 69kg masculino,N
+WL,M,077,4,Men's 77kg,77 kg - hommes,Até 77kg masculino,Men's 77kg,77 kg - hommes,Até 77kg masculino,N
+WL,M,085,5,Men's 85kg,85 kg - hommes,Até 85kg masculino,Men's 85kg,85 kg - hommes,Até 85kg masculino,N
+WL,M,094,6,Men's 94kg,94 kg - hommes,Até 94kg masculino,Men's 94kg,94 kg - hommes,Até 94kg masculino,N
+WL,M,105,,Men's 105kg - Snatch,"105 kg - hommes, arraché","Até 105kg masculino, arranco",Men's 105kg - Snatch,"105 kg - hommes, arraché","Até 105kg masculino, arranco",
+WL,M,125,,Men's +105kg - Snatch,"+105 kg - hommes, arraché","Acima de 105kg masculino, arranco",Men's +105kg - Snatch,"+105 kg - hommes, arraché","Acima de 105kg masculino, arranco",
+WL,M,156,,Men's 56kg - Snatch,"56 kg - hommes, arraché","Até 56kg masculino, arranco",Men's 56kg - Snatch,"56 kg - hommes, arraché","Até 56kg masculino, arranco",
+WL,M,162,,Men's 62kg - Snatch,"62 kg - hommes, arraché","Até 62kg masculino, arranco",Men's 62kg - Snatch,"62 kg - hommes, arraché","Até 62kg masculino, arranco",
+WL,M,169,,Men's 69kg - Snatch,"69 kg - hommes, arraché","Até 69kg masculino, arranco",Men's 69kg - Snatch,"69 kg - hommes, arraché","Até 69kg masculino, arranco",
+WL,M,177,,Men's 77kg - Snatch,"77 kg - hommes, arraché","Até 77kg masculino, arranco",Men's 77kg - Snatch,"77 kg - hommes, arraché","Até 77kg masculino, arranco",
+WL,M,185,,Men's 85kg - Snatch,"85 kg - hommes, arraché","Até 85kg masculino, arranco",Men's 85kg - Snatch,"85 kg - hommes, arraché","Até 85kg masculino, arranco",
+WL,M,194,,Men's 94kg - Snatch,"94 kg - hommes, arraché","Até 94kg masculino, arranco",Men's 94kg - Snatch,"94 kg - hommes, arraché","Até 94kg masculino, arranco",
+WL,M,205,,Men's 105kg - Clean & Jerk,"105 kg - hommes, épaulé-jeté","Até 105kg masculino, arremesso",Men's 105kg - Clean & Jerk,"105 kg - hommes, épaulé-jeté","Até 105kg masculino, arremesso",
+WL,M,225,,Men's +105kg - Clean & Jerk,"+105 kg - hommes, épaulé-jeté","Acima de 105kg masculino, arremesso",Men's +105kg - Clean & Jerk,"+105 kg - hommes, épaulé-jeté","Acima de 105kg masculino, arremesso",
+WL,M,256,,Men's 56kg - Clean & Jerk,"56 kg - hommes, épaulé-jeté","Até 56kg masculino, arremesso",Men's 56kg - Clean & Jerk,"56 kg - hommes, épaulé-jeté","Até 56kg masculino, arremesso",
+WL,M,262,,Men's 62kg - Clean & Jerk,"62 kg - hommes, épaulé-jeté","Até 62kg masculino, arremesso",Men's 62kg - Clean & Jerk,"62 kg - hommes, épaulé-jeté","Até 62kg masculino, arremesso",
+WL,M,269,,Men's 69kg - Clean & Jerk,"69 kg - hommes, épaulé-jeté","Até 69kg masculino, arremesso",Men's 69kg - Clean & Jerk,"69 kg - hommes, épaulé-jeté","Até 69kg masculino, arremesso",
+WL,M,277,,Men's 77kg - Clean & Jerk,"77 kg - hommes, épaulé-jeté","Até 77kg masculino, arremesso",Men's 77kg - Clean & Jerk,"77 kg - hommes, épaulé-jeté","Até 77kg masculino, arremesso",
+WL,M,285,,Men's 85kg - Clean & Jerk,"85 kg - hommes, épaulé-jeté","Até 85kg masculino, arremesso",Men's 85kg - Clean & Jerk,"85 kg - hommes, épaulé-jeté","Até 85kg masculino, arremesso",
+WL,M,294,,Men's 94kg - Clean & Jerk,"94 kg - hommes, épaulé-jeté","Até 94kg masculino, arremesso",Men's 94kg - Clean & Jerk,"94 kg - hommes, épaulé-jeté","Até 94kg masculino, arremesso",
+WL,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+WL,W,026,15,Women's +75kg,+75 kg - femmes,Acima de 75kg feminino,Women's +75kg,+75 kg - femmes,Acima de 75kg feminino,N
+WL,W,048,9,Women's 48kg,48 kg - femmes,Até 48kg feminino,Women's 48kg,48 kg - femmes,Até 48kg feminino,N
+WL,W,053,10,Women's 53kg,53 kg - femmes,Até 53kg feminino,Women's 53kg,53 kg - femmes,Até 53kg feminino,N
+WL,W,058,11,Women's 58kg,58 kg - femmes,Até 58kg feminino,Women's 58kg,58 kg - femmes,Até 58kg feminino,N
+WL,W,063,12,Women's 63kg,63 kg - femmes,Até 63kg feminino,Women's 63kg,63 kg - femmes,Até 63kg feminino,N
+WL,W,069,13,Women's 69kg,69 kg - femmes,Até 69kg feminino,Women's 69kg,69 kg - femmes,Até 69kg feminino,N
+WL,W,075,14,Women's 75kg,75 kg - femmes,Até 75kg feminino,Women's 75kg,75 kg - femmes,Até 75kg feminino,N
+WL,W,126,,Women's +75kg - Snatch,"+75 kg - femmes, arraché","Acima de 75kg feminino, arranco",Women's +75kg - Snatch,"+75 kg - femmes, arraché","Acima de 75kg feminino, arranco",
+WL,W,148,,Women's 48kg - Snatch,"48 kg - femmes, arraché","Até 48kg feminino, arranco",Women's 48kg - Snatch,"48 kg - femmes, arraché","Até 48kg feminino, arranco",
+WL,W,153,,Women's 53kg - Snatch,"53 kg - femmes, arraché","Até 53kg feminino, arranco",Women's 53kg - Snatch,"53 kg - femmes, arraché","Até 53kg feminino, arranco",
+WL,W,158,,Women's 58kg - Snatch,"58 kg - femmes, arraché","Até 58kg feminino, arranco",Women's 58kg - Snatch,"58 kg - femmes, arraché","Até 58kg feminino, arranco",
+WL,W,163,,Women's 63kg - Snatch,"63 kg - femmes, arraché","Até 63kg feminino, arranco",Women's 63kg - Snatch,"63 kg - femmes, arraché","Até 63kg feminino, arranco",
+WL,W,169,,Women's 69kg - Snatch,"69 kg - femmes, arraché","Até 69kg feminino, arranco",Women's 69kg - Snatch,"69 kg - femmes, arraché","Até 69kg feminino, arranco",
+WL,W,175,,Women's 75kg - Snatch,"75 kg - femmes, arraché","Até 75kg feminino, arranco",Women's 75kg - Snatch,"75 kg - femmes, arraché","Até 75kg feminino, arranco",
+WL,W,226,,Women's +75kg - Clean & Jerk,"+75 kg - femmes, épaulé-jeté","Acima de 75kg feminino, arremesso",Women's +75kg - Clean & Jerk,"+75 kg - femmes, épaulé-jeté","Acima de 75kg feminino, arremesso",
+WL,W,248,,Women's 48kg - Clean & Jerk,"48 kg - femmes, épaulé-jeté","Até 48kg feminino, arremesso",Women's 48kg - Clean & Jerk,"48 kg - femmes, épaulé-jeté","Até 48kg feminino, arremesso",
+WL,W,253,,Women's 53kg - Clean & Jerk,"53 kg - femmes, épaulé-jeté","Até 53kg feminino, arremesso",Women's 53kg - Clean & Jerk,"53 kg - femmes, épaulé-jeté","Até 53kg feminino, arremesso",
+WL,W,258,,Women's 58kg - Clean & Jerk,"58 kg - femmes, épaulé-jeté","Até 58kg feminino, arremesso",Women's 58kg - Clean & Jerk,"58 kg - femmes, épaulé-jeté","Até 58kg feminino, arremesso",
+WL,W,263,,Women's 63kg - Clean & Jerk,"63 kg - femmes, épaulé-jeté","Até 63kg feminino, arremesso",Women's 63kg - Clean & Jerk,"63 kg - femmes, épaulé-jeté","Até 63kg feminino, arremesso",
+WL,W,269,,Women's 69kg - Clean & Jerk,"69 kg - femmes, épaulé-jeté","Até 69kg feminino, arremesso",Women's 69kg - Clean & Jerk,"69 kg - femmes, épaulé-jeté","Até 69kg feminino, arremesso",
+WL,W,275,,Women's 75kg - Clean & Jerk,"75 kg - femmes, épaulé-jeté","Até 75kg feminino, arremesso",Women's 75kg - Clean & Jerk,"75 kg - femmes, épaulé-jeté","Até 75kg feminino, arremesso",
+WP,0,000,,Water Polo,Water-polo,Polo aquático,Water Polo,Water-polo,Polo aquático,
+WP,0,AQC,,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,Maria Lenk Aquatic Centre,Centre aquatique Maria Lenk,Centro Aquático Maria Lenk,
+WP,0,OAS,,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,Olympic Aquatics Stadium,Stade olympique de sports aquatiques,Estádio Aquático Olímpico,
+WP,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+WP,M,400,1,Men,Hommes,Masculino,Men,Hommes,Masculino,Y
+WP,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+WP,W,400,2,Women,Femmes,Feminino,Women,Femmes,Feminino,Y
+WR,0,000,,Wrestling,Lutte,Luta Olímpica,Wrestling,Lutte,Luta Olímpica,
+WR,0,CA2,,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,Carioca Arena 2,Carioca Arena 2,Arena Carioca 2,
+WR,M,000,,Men,Hommes,Masculino,Men,Hommes,Masculino,
+WR,M,100,,Men's Greco-Roman,Gréco-romaine - hommes,Luta Greco-Romana masculina,Men's Greco-Roman,Gréco-romaine - hommes,Luta Greco-Romana masculina,N
+WR,M,159,1,Men's Greco-Roman 59 kg,"Gréco-romaine, 59 kg - hommes","Luta Greco-Romana, 59kg masculino",Men's Greco-Roman 59 kg,"Gréco-romaine, 59 kg - hommes","Luta Greco-Romana, 59kg masculino",N
+WR,M,166,2,Men's Greco-Roman 66 kg,"Gréco-romaine, 66 kg - hommes","Luta Greco-Romana, 66kg masculino",Men's Greco-Roman 66 kg,"Gréco-romaine, 66 kg - hommes","Luta Greco-Romana, 66kg masculino",N
+WR,M,175,3,Men's Greco-Roman 75 kg,"Gréco-romaine, 75 kg - hommes","Luta Greco-Romana, 75kg masculino",Men's Greco-Roman 75 kg,"Gréco-romaine, 75 kg - hommes","Luta Greco-Romana, 75kg masculino",N
+WR,M,185,4,Men's Greco-Roman 85 kg,"Gréco-romaine, 85 kg - hommes","Luta Greco-Romana, 85kg masculino",Men's Greco-Roman 85 kg,"Gréco-romaine, 85 kg - hommes","Luta Greco-Romana, 85kg masculino",N
+WR,M,198,5,Men's Greco-Roman 98 kg,"Gréco-romaine, 98 kg - hommes","Luta Greco-Romana, 98kg masculino",Men's Greco-Roman 98 kg,"Gréco-romaine, 98 kg - hommes","Luta Greco-Romana, 98kg masculino",N
+WR,M,200,,Men's Freestyle,Lutte libre - hommes,Luta livre masculina,Men's Freestyle,Lutte libre - hommes,Luta livre masculina,N
+WR,M,257,7,Men's Freestyle 57 kg,"Libre, 57 kg - hommes","Luta livre, 57 masculino",Men's Freestyle 57 kg,"Libre, 57 kg - hommes","Luta livre, 57 masculino",N
+WR,M,265,8,Men's Freestyle 65 kg,"Libre, 65 kg - hommes","Luta livre, 65kg masculino",Men's Freestyle 65 kg,"Libre, 65 kg - hommes","Luta livre, 65kg masculino",N
+WR,M,274,9,Men's Freestyle 74 kg,"Libre, 74 kg - hommes","Luta livre, 74kg masculino",Men's Freestyle 74 kg,"Libre, 74 kg - hommes","Luta livre, 74kg masculino",N
+WR,M,286,10,Men's Freestyle 86 kg,"Libre, 86 kg - hommes","Luta livre, 86kg masculino",Men's Freestyle 86 kg,"Libre, 86 kg - hommes","Luta livre, 86kg masculino",N
+WR,M,297,11,Men's Freestyle 97 kg,"Libre, 97 kg - hommes","Luta livre, 97kg masculino",Men's Freestyle 97 kg,"Libre, 97 kg - hommes","Luta livre, 97kg masculino",N
+WR,M,330,6,Men's Greco-Roman 130 kg,"Gréco-romaine, 130 kg - hommes","Luta Greco-Romana, 130kg masculino",Men's Greco-Roman 130 kg,"Gréco-romaine, 130 kg - hommes","Luta Greco-Romana, 130kg masculino",N
+WR,M,425,12,Men's Freestyle 125 kg,"Libre, 125 kg - hommes","Luta livre, 125kg masculino",Men's Freestyle 125 kg,"Libre, 125 kg - hommes","Luta livre, 125kg masculino",N
+WR,W,000,,Women,Femmes,Feminino,Women,Femmes,Feminino,
+WR,W,200,,Women's Freestyle,Lutte libre - femmes,Luta livre feminina,Women's Freestyle,Lutte libre - femmes,Luta livre feminina,N
+WR,W,248,13,Women's Freestyle 48 kg,"Libre, 48 kg - femmes","Luta livre, 48kg feminino",Women's Freestyle 48 kg,"Libre, 48 kg - femmes","Luta livre, 48kg feminino",N
+WR,W,253,14,Women's Freestyle 53 kg,"Libre, 53 kg - femmes","Luta livre, 53kg feminino",Women's Freestyle 53 kg,"Libre, 53 kg - femmes","Luta livre, 53kg feminino",N
+WR,W,258,15,Women's Freestyle 58 kg,"Libre, 58 kg - femmes","Luta livre, 58kg feminino",Women's Freestyle 58 kg,"Libre, 58 kg - femmes","Luta livre, 58kg feminino",N
+WR,W,263,16,Women's Freestyle 63 kg,"Libre, 63 kg - femmes","Luta livre, 63kg feminino",Women's Freestyle 63 kg,"Libre, 63 kg - femmes","Luta livre, 63kg feminino",N
+WR,W,269,17,Women's Freestyle 69 kg,"Libre, 69 kg - femmes","Luta livre, 69kg feminino",Women's Freestyle 69 kg,"Libre, 69 kg - femmes","Luta livre, 69kg feminino",N
+WR,W,275,18,Women's Freestyle 75 kg,"Libre, 75 kg - femmes","Luta livre, 75kg feminino",Women's Freestyle 75 kg,"Libre, 75 kg - femmes","Luta livre, 75kg feminino",N

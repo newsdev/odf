@@ -1,0 +1,12 @@
+Id,ENG Description,FRA Description,POR Description,Comment
+CANCELLED,Cancelled,Annulé,Cancelado,Competition unit was schedule and will not now take place
+DELAYED,Delayed,Retardé,Atrasado,Competition has not started and start is late (no new time)
+FINISHED,Finished,Terminé,Concluído,All play is complete in the unit
+GETTING_READY,Getting Ready,Prêt,Em preparação,"Start of competition is iminent, athletes usually on FOP"
+INTERRUPTED,Interrupted,Interrompu,Interrompido,Competition has started but is now stopped temporarily.
+POSTPONED,Postponed,Reporté,Adiado,Competition has stopped and will take place at a new time (to be determined)
+RESCHEDULED,Rescheduled,Reprogrammé,Replanejado,The start (or re-start) of the competition has changed to a new time (new time is known)
+RUNNING,Running,En cours,Em andamento,Competition in progress
+SCHEDULED,Scheduled,Programmé,Planejado,Unit to be conducted
+SCHEDULED_BREAK,Scheduled Break,Interruption programmée,Planejamento interrompido,Planned break in competition (e.g. end of period)
+UNSCHEDULED,Unscheduled,Non programmé,Não planejado,"A possible unit to be scheduled, not displayed (e.g. swim-off)"

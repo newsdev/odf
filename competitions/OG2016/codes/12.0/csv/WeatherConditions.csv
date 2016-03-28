@@ -1,0 +1,37 @@
+Id,ENG Description,FRA Description,POR Description
+clr,Clear sky,Ciel clair,Céu claro
+drz,Drizzle,Bruine,Garoa
+dust,Dust,Poussière,Poeira
+fewcld,Few clouds,,
+fog,Fog,Brouillard,Nevoeiro
+hail,Hail,Grêle,Granizo
+haze,Haze,Brume légère,Neblina
+hlshrd,Hail shower,Averses de grêle,Tempestade de granizo
+hlshrn,Hail shower,Averses de grêle,Tempestade de granizo
+hrain,Heavy rain,Pluie forte,Chuva forte
+hrshrd,Heavy rain shower,Averses,Tempestade forte
+hrshrn,Heavy rain shower,Averses,Tempestade forte
+hsnow,Heavy snow,Neige forte,Nevasca
+hsshrd,Heavy snow shower,Averses de neige forte,Nevasca rápida
+hsshrn,Heavy snow shower,Averses de neige forte,Nevasca rápida
+lowcld,Low-level cloud,Couvert - nuages bas,Nuvens baixas
+lrain,Light rain,Pluie faible,Chuva fraca
+lrshrd,Light rain shower,Rares averses,Chuva fraca e rápida
+lrshrn,Light rain shower,Rares averses,Chuva fraca e rápida
+lsnow,Light snow,Neige fine,Neve Fraca
+lsshrd,Light snow shower,Rares averses de neige,Neve Fraca e rápida
+lsshrn,Light snow shower,Rares averses de neige,Neve Fraca e rápida
+medcld,Medium-level cloud,Nuages moyenne altitude,Nuvens de média altitude
+mist,Mist,Brume,Névoa
+nocond,No condition,No condition,Nenhuma condição
+ovc,Overcast,,
+prtcld,Partly cloudy,Soleil voilé,Parcialmente nublado
+slshrd,Sleet shower,Averses de grésil,Granizo
+slshrn,Sleet shower,Averses de grésil,Granizo
+slt,Sleet,Grésil,Chuva com neve
+sun,Sunny,Soleil,Ensolarado
+sunint,Sunny intervals,Intervalles ensoleillés,Intervalos ensolarados
+thshrd,Thundery shower,Risques d'orages,Trovoadas
+thshrn,Thundery shower,Risques d'orages,Trovoadas
+thstrm,Thunder storm,Orages,Temporal
+trpstm,Tropical storm,Orages tropicaux,Tempestade tropical

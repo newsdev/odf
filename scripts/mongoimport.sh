@@ -2,13 +2,34 @@
 # usage: `cd scripts;bash mongoimport.sh`
 # version number to import codes from, https://github.com/newsdev/odf/tree/master/competitions/OG2016/codes/
 _version="12.0"
-_dfiles="../competitions/OG2016/codes/${_version}/csv/*.csv"
+
+# file will be downloaded into this folder from s3 bucket
+_root="/tmp"
+
+# download file into specified $_root folder
+_tar_file="${_version}.common_codes.tar.gz"
+
+# aws path s3://nyt-oly/OG2016/dev/12.0.common_codes.tar.gz
+# aws bucket_host/path http://nyt-oly.s3.amazonaws.com/OG2016/dev/12.0.common_codes.tar.gz
+# aws public http path http://s3.amazonaws.com/nyt-oly/OG2016/dev/12.0.common_codes.tar.gz
+_s3_location="http://s3.amazonaws.com/nyt-oly/OG2016/dev/${_tar_file}"
+
+_full_path="${_root}/${_tar_file}"
+
+echo "Downloading ${_s3_location} into ${_full_path}"
+curl -o "${_full_path}" "${_s3_location}"
+
+echo "Extracting csv files from tar into ${_root}"
+tar zxf "${_full_path}" -C "${_root}/"
+
+echo "Starting to read ${_root}/*.csv"
+_dfiles="${_root}/*.csv"
 
 for f in $_dfiles
 do
 	# find `Id,` and replace it with `id,`
 	sed -i '' 's/Id,/id,/g' "${f}"
-	echo `basename "$f"`
+	echo "Reading `basename "$f"`"
 	# initialize both to empty
 	_collection=""
 	_file=""
@@ -196,4 +217,11 @@ do
 	if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
 		`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
 	fi
+
+	echo "deleting ${_file}"
+	rm "${_file}"
 done
+
+# cleaning up $_root directory
+echo "deleting ${_full_path}"
+rm "${_full_path}"

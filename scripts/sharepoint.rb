@@ -238,6 +238,7 @@ class SharePoint
   end
 
   def get_xml(path, destination)
+    "Looking for files in '#{path}' and saving to '#{destination}'..."
     destination = File.expand_path(destination)
 
     # loop over zip files
@@ -248,10 +249,10 @@ class SharePoint
     # loop over xml files
     Dir.glob(File.join(@local_directory, path, '**', '*.xml')).each do |filepath|
       name = get_name(File.read(filepath))
+      next if name.nil?
       fpath = File.join(destination, name)
       FileUtils.mkdir_p(File.dirname(fpath))
       FileUtils.cp(filepath, fpath) unless File.exist?(fpath)
-      puts " - #{fpath}"
     end
   end
 

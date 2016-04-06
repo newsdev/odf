@@ -238,7 +238,7 @@ class SharePoint
   end
 
   def get_xml(path, destination)
-    "Looking for files in '#{path}' and saving to '#{destination}'..."
+    puts "Looking for files in '#{path}' and saving to '#{destination}'..."
     destination = File.expand_path(destination)
 
     # loop over zip files

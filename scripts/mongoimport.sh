@@ -27,8 +27,6 @@ _dfiles="${_root}/*.csv"
 
 for f in $_dfiles
 do
-	# find `Id,` and replace it with `id,`
-	sed -i '' 's/Id,/id,/g' "${f}"
 	echo "Reading `basename "$f"`"
 	# initialize both to empty
 	_collection=""

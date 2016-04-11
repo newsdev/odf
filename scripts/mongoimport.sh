@@ -215,8 +215,8 @@ do
 	esac
 
 	if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
-		if [ ! -z "$mongo_host" ]; then
-			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${mongo_host}:${mongo_port} --username olympics --password ${mongo_password}`
+		if [ ! -z "$MONGO_HOST" ]; then
+			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${MONGO_HOST}:${MONGO_PORT} --username worker --password ${MONGO_PASSWORD}`
 		else
 			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
 		fi

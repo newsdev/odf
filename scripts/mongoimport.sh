@@ -215,7 +215,11 @@ do
 	esac
 
 	if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
-		`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
+		if [ ! -z "$mongo_host" ]; then
+			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${mongo_host}:${mongo_port} --username olympics --password ${mongo_password}`
+		else
+			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
+		fi
 	fi
 
 	echo "deleting ${_file}"

@@ -1,0 +1,221 @@
+Id,country,ENG Description,FRA Description,POR Description,SPA Description,ENG longdescription,FRA longdescription,POR longdescription,SPA longdescription,continent,participation,OMDOrder,ENG IOC shortname,FRA IOC shortname,ENG IOC name,FRA IOC name,ENG IOC longname,FRA IOC longname
+AFG,AFG,Afghanistan,Afghanistan,Afeganistão,Afganistán,Afghanistan,Afghanistan,Afeganistão,Afganistán,ASI,P,1,Afghanstan,Afghanist.,Afghanistan,Afghanistan,Afghanistan,Afghanistan
+AHO,AHO,Netherlands Antilles,Ant. Néerlandaises,Antilhas Holandesas,Ant. Neerlandesas,Netherlands Antilles,Antilles néerlandaises,Antilhas Holandesas,Antillas Neerlandesas,AME,NP,2,,,,,,
+ALB,ALB,Albania,Albanie,Albânia,Albania,Albania,Albanie,Albânia,Albania,EUR,P,3,Albania,Albanie,Albania,Albanie,Albania,Albanie
+ALG,ALG,Algeria,Algérie,Argélia,Argelia,Algeria,Algérie,Argélia,Argelia,AFR,P,4,Algeria,Algérie,Algeria,Algérie,Algeria,Algérie
+AND,AND,Andorra,Andorre,Andorra,Andorra,Andorra,Andorre,Andorra,Andorra,EUR,P,5,Andorra,Andorre,Andorra,Andorre,Andorra,Andorre
+ANG,ANG,Angola,Angola,Angola,Angola,Angola,Angola,Angola,Angola,AFR,P,6,Angola,Angola,Angola,Angola,Angola,Angola
+ANT,ANT,Antigua and Barbuda,Antigua-et-Barbuda,Antígua e Barbuda,Antigua y Barbuda,Antigua and Barbuda,Antigua-et-Barbuda,Antígua e Barbuda,Antigua y Barbuda,AME,P,7,Ant&Barbud,Ant.&Barb.,Antigua&Barbuda,Antigua&Barbuda,Antigua and Barbuda,Antigua-et-Barbuda
+ANZ,ANZ,AUS/NZL,AUS/NZL,AUS/NZL,AUS/NZL,Australia/New Zealand,Australie/Nouvelle-Zélande,Austrália/Nova Zelândia,Australia/Nueva Zelanda,OCE,H,,,,,,,
+ARG,ARG,Argentina,Argentine,Argentina,Argentina,Argentina,Argentine,Argentina,Argentina,AME,P,8,Argentina,Argentine,Argentina,Argentine,Argentina,Argentine
+ARM,ARM,Armenia,Arménie,Armênia,Armenia,Armenia,Arménie,Armênia,Armenia,EUR,P,9,Armenia,Arménie,Armenia,Arménie,Armenia,Arménie
+ARU,ARU,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,AME,P,10,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba
+ASA,ASA,American Samoa,Samoa Américaines,Samoa Americana,Samoa Americana,American Samoa,Samoa Américaines,Samoa Americana,Samoa Americana,OCE,P,11,Amer Samoa,Samoa US,American Samoa,Samoa amér.,American Samoa,Samoa américaines
+AUS,AUS,Australia,Australie,Austrália,Australia,Australia,Australie,Austrália,Australia,OCE,P,12,Australia,Australie,Australia,Australie,Australia,Australie
+AUT,AUT,Austria,Autriche,Áustria,Austria,Austria,Autriche,Áustria,Austria,EUR,P,13,Austria,Autriche,Austria,Autriche,Austria,Autriche
+AZE,AZE,Azerbaijan,Azerbaïdjan,Azerbaijão,Azerbaiyán,Azerbaijan,Azerbaïdjan,Azerbaijão,Azerbaiyán,EUR,P,14,Azerbaijan,Azerbaïdj.,Azerbaijan,Azerbaïdjan,Azerbaijan,Azerbaïdjan
+BAH,BAH,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,AME,P,15,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas
+BAN,BAN,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,ASI,P,16,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh
+BAR,BAR,Barbados,Barbade,Barbados,Barbados,Barbados,Barbade,Barbados,Barbados,AME,P,17,Barbados,Barbade,Barbados,Barbade,Barbados,Barbade
+BDI,BDI,Burundi,Burundi,Burundi,Burundi,Burundi,Burundi,Burundi,Burundi,AFR,P,18,Burundi,Burundi,Burundi,Burundi,Burundi,Burundi
+BEL,BEL,Belgium,Belgique,Bélgica,Bélgica,Belgium,Belgique,Bélgica,Bélgica,EUR,P,19,Belgium,Belgique,Belgium,Belgique,Belgium,Belgique
+BEN,BEN,Benin,Bénin,Benin,Benín,Benin,Bénin,Benin,Benín,AFR,P,20,Benin,Bénin,Benin,Bénin,Benin,Bénin
+BER,BER,Bermuda,Bermudes,Bermudas,Bermudas,Bermuda,Bermudes,Bermudas,Bermudas,AME,P,21,Bermuda,Bermudes,Bermuda,Bermudes,Bermuda,Bermudes
+BHU,BHU,Bhutan,Bhoutan,Butão,Bhután,Bhutan,Bhoutan,Butão,Bhután,ASI,P,22,Bhutan,Bhoutan,Bhutan,Bhoutan,Bhutan,Bhoutan
+BIH,BIH,Bosnia & Herzegovina,Bosnie-Herzégovine,Bósnia-Herzegovina,Bosnia y Herzegovina,Bosnia and Herzegovina,Bosnie-Herzégovine,Bósnia-Herzegovina,Bosnia y Herzegovina,EUR,P,23,Bos&Herzeg,Bosn.Herz.,Bosnia&Herzegov,Bosnie-Herzég.,Bosnia and Herzegovina,Bosnie-Herzégovine
+BIZ,BIZ,Belize,Belize,Belize,Belice,Belize,Belize,Belize,Belice,AME,P,24,Belize,Belize,Belize,Belize,Belize,Belize
+BLR,BLR,Belarus,Bélarus,Belarus,Bielorrusia,Belarus,Bélarus,Belarus,Bielorrusia,EUR,P,25,Belarus,Bélarus,Belarus,Bélarus,Belarus,Bélarus
+BOL,BOL,Bolivia,Bolivie,Bolívia,Bolivia,Bolivia,Bolivie,Bolívia,Bolivia,AME,P,26,Bolivia,Bolivie,Bolivia,Bolivie,Bolivia,Bolivie
+BOT,BOT,Botswana,Botswana,Botsuana,Botsuana,Botswana,Botswana,Botsuana,Botsuana,AFR,P,27,Botswana,Botswana,Botswana,Botswana,Botswana,Botswana
+BRA,BRA,Brazil,Brésil,Brasil,Brasil,Brazil,Brésil,Brasil,Brasil,AME,P,28,Brazil,Brésil,Brazil,Brésil,Brazil,Brésil
+BRN,BRN,Bahrain,Bahreïn,Bareine,Bahréin,Bahrain,Bahreïn,Bareine,Bahréin,ASI,P,29,Bahrain,Bahreïn,Bahrain,Bahreïn,Bahrain,Bahreïn
+BRU,BRU,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Brunéi,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Brunéi,ASI,P,30,Brunei D.,Brunéi D.,Brunei Daruss.,Brunéi Daruss.,Brunei Darussalam,Brunéi Darussalam
+BUL,BUL,Bulgaria,Bulgarie,Bulgária,Bulgaria,Bulgaria,Bulgarie,Bulgária,Bulgaria,EUR,P,31,Bulgaria,Bulgarie,Bulgaria,Bulgarie,Bulgaria,Bulgarie
+BUR,BUR,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,AFR,P,32,Burk. Faso,Burk. Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso
+CAF,CAF,Central African Rep.,Rép. Centrafricaine,Rep. Centroafricana,Rep. Centroafricana,Central African Republic,République Centrafricaine,República Centroafricana,República Centroafricana,AFR,P,33,C.Afr.Rep,Rép. CAF,Centr Afric Rep,Rép. centraf.,Central African Republic,République centrafricaine
+CAM,CAM,Cambodia,Cambodge,Camboja,Camboya,Cambodia,Cambodge,Camboja,Camboya,ASI,P,34,Cambodia,Cambodge,Cambodia,Cambodge,Cambodia,Cambodge
+CAN,CAN,Canada,Canada,Canadá,Canadá,Canada,Canada,Canadá,Canadá,AME,P,35,Canada,Canada,Canada,Canada,Canada,Canada
+CAY,CAY,Cayman Islands,Îles Caïmans,Ilhas Cayman,Islas Caimán,Cayman Islands,Îles Caïmans,Ilhas Cayman,Islas Caimán,AME,P,36,Cayman Is,î. Caïmans,Cayman Islands,Îles Caïmans,Cayman Islands,Îles Caïmans
+CGO,CGO,Congo,Congo,Congo,Congo,Congo,Congo,Congo,Congo,AFR,P,37,Congo,Congo,Congo,Congo,Congo,Congo
+CHA,CHA,Chad,Tchad,Chade,Chad,Chad,Tchad,Chade,Chad,AFR,P,38,Chad,Tchad,Chad,Tchad,Chad,Tchad
+CHI,CHI,Chile,Chili,Chile,Chile,Chile,Chili,Chile,Chile,AME,P,39,Chile,Chili,Chile,Chili,Chile,Chili
+CHN,CHN,China,Chine,China,China,People's Republic of China,République populaire de Chine,República Popular da China,República Popular de China,ASI,P,40,China,Chine,China,Chine,People's Republic of China,République populaire de Chine
+CIS,CIS,CIS,CIS,CEI,CEI,Commonwealth of Independent States,FRA Commonwealth of Independent States,Comunidade dos Estados Independentes,Comunidad de Estados Independientes,EUR,H,,,,,,,
+CIV,CIV,Côte d'Ivoire,Côte d'Ivoire,Costa do Marfim,Costa de Marfil,Côte d'Ivoire,Côte d'Ivoire,Costa do Marfim,Costa de Marfil,AFR,P,41,C.d'Ivoire,C.d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire
+CMR,CMR,Cameroon,Cameroun,Camarões,Camerún,Cameroon,Cameroun,Camarões,Camerún,AFR,P,42,Cameroon,Cameroun,Cameroon,Cameroun,Cameroon,Cameroun
+COD,COD,DR Congo,RD Congo,"Congo, Rep. Dem.",RD Congo,Democratic Republic of the Congo,République démocratique du Congo,República Democrática do Congo,República Democrática del Congo,AFR,P,43,DR Congo,RD Congo,DR Congo,RD Congo,Democratic Rep. of the Congo,Rép. démocratique du Congo
+COK,COK,Cook Islands,Îles Cook,Ilhas Cook,Islas Cook,Cook Islands,Îles Cook,Ilhas Cook,Islas Cook,OCE,P,44,Cook Is,Îles Cook,Cook Islands,Îles Cook,Cook Islands,Îles Cook
+COL,COL,Colombia,Colombie,Colômbia,Colombia,Colombia,Colombie,Colômbia,Colombia,AME,P,45,Colombia,Colombie,Colombia,Colombie,Colombia,Colombie
+COM,COM,Comoros,Comores,Comores,Comoras,Comoros,Comores,Comores,Comoras,AFR,P,46,Comoros,Comores,Comoros,Comores,Comoros,Comores
+CPV,CPV,Cape Verde,Cap-Vert,Cabo Verde,Cabo Verde,Cape Verde,Cap-Vert,Cabo Verde,Cabo Verde,AFR,P,47,Cape Verde,Cap-Vert,Cape Verde,Cap-Vert,Cape Verde,Cap-Vert
+CRC,CRC,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,AME,P,48,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica
+CRO,CRO,Croatia,Croatie,Croácia,Croacia,Croatia,Croatie,Croácia,Croacia,EUR,P,49,Croatia,Croatie,Croatia,Croatie,Croatia,Croatie
+CUB,CUB,Cuba,Cuba,Cuba,Cuba,Cuba,Cuba,Cuba,Cuba,AME,P,50,Cuba,Cuba,Cuba,Cuba,Cuba,Cuba
+CYP,CYP,Cyprus,Chypre,Chipre,Chipre,Cyprus,Chypre,Chipre,Chipre,EUR,P,51,Cyprus,Chypre,Cyprus,Chypre,Cyprus,Chypre
+CZE,CZE,Czech Republic,République tchèque,República Tcheca,República Checa,Czech Republic,République tchèque,República Tcheca,República Checa,EUR,P,52,Czech. Rep,R. tchèque,Czech Republic,Rép. tchèque,Czech Republic,République tchèque
+DEN,DEN,Denmark,Danemark,Dinamarca,Dinamarca,Denmark,Danemark,Dinamarca,Dinamarca,EUR,P,53,Denmark,Danemark,Denmark,Danemark,Denmark,Danemark
+DJI,DJI,Djibouti,Djibouti,Djibuti,Djibouti,Djibouti,Djibouti,Djibuti,Djibouti,AFR,P,54,Djibouti,Djibouti,Djibouti,Djibouti,Djibouti,Djibouti
+DMA,DMA,Dominica,Dominique,Dominica,Dominica,Dominica,Dominique,Dominica,Dominica,AME,P,55,Dominica,Dominique,Dominica,Dominique,Dominica,Dominique
+DOM,DOM,Dominican Republic,Rép. dominicaine,República Dominicana,República Dominicana,Dominican Republic,République dominicaine,República Dominicana,República Dominicana,AME,P,56,Domin Rep,Rép. dom.,Dominican Rep.,Rép.dominicaine,Dominican Republic,République dominicaine
+ECU,ECU,Ecuador,Équateur,Equador,Ecuador,Ecuador,Équateur,Equador,Ecuador,AME,P,57,Ecuador,Équateur,Ecuador,Équateur,Ecuador,Équateur
+EGY,EGY,Egypt,Égypte,Egito,Egipto,Egypt,Égypte,Egito,Egipto,AFR,P,58,Egypt,Égypte,Egypt,Égypte,Egypt,Égypte
+ERI,ERI,Eritrea,Érythrée,Eritreia,Eritrea,Eritrea,Érythrée,Eritreia,Eritrea,AFR,P,59,Eritrea,Érythrée,Eritrea,Érythrée,Eritrea,Érythrée
+ESA,ESA,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,AME,P,60,El Salvad.,El Salvad.,El Salvador,El Salvador,El Salvador,El Salvador
+ESP,ESP,Spain,Espagne,Espanha,España,Spain,Espagne,Espanha,España,EUR,P,61,Spain,Espagne,Spain,Espagne,Spain,Espagne
+EST,EST,Estonia,Estonie,Estônia,Estonia,Estonia,Estonie,Estônia,Estonia,EUR,P,62,Estonia,Estonie,Estonia,Estonie,Estonia,Estonie
+ETH,ETH,Ethiopia,Éthiopie,Etiópia,Etiopía,Ethiopia,Éthiopie,Etiópia,Etiopía,AFR,P,63,Ethiopia,Éthiopie,Ethiopia,Éthiopie,Ethiopia,Éthiopie
+EUN,EUN,Unified Team,Équipe unifiée,Equipe Unificada,Equipo Unificado,Unified Team,Équipe unifiée,Equipe Unificada,Equipo Unificado,EUR,H,,,,,,,
+FIJ,FIJ,Fiji,Fidji,Fiji,Fiyi,Fiji,Fidji,Fiji,Fiyi,OCE,P,64,Fiji,Fidji,Fiji,Fidji,Fiji,Fidji
+FIN,FIN,Finland,Finlande,Finlândia,Finlandia,Finland,Finlande,Finlândia,Finlandia,EUR,P,65,Finland,Finlande,Finland,Finlande,Finland,Finlande
+FRA,FRA,France,France,França,Francia,France,France,França,Francia,EUR,P,66,France,France,France,France,France,France
+FRG,FRG,FRG,FRG,Alemanha Ocidental,FRG,Federal Republic of Germany,République Fédérale d'Allemagne,República Federal da Alemanha,República Federal de Alemania,EUR,H,,,,,,,
+FSM,FSM,Micronesia,Micronésie,Micronésia,Micronesia,Federated States of Micronesia,États fédérés de Micronésie,Estados Federados da Micronésia,Estados Federados de Micronesia,OCE,P,67,Micronesia,Micronésie,Micronesia,Micronésie,Federated States of Micronesia,États fédérés de Micronésie
+GAB,GAB,Gabon,Gabon,Gabão,Gabón,Gabon,Gabon,Gabão,Gabón,AFR,P,68,Gabon,Gabon,Gabon,Gabon,Gabon,Gabon
+GAM,GAM,Gambia,Gambie,Gâmbia,Gambia,Gambia,Gambie,Gâmbia,Gambia,AFR,P,69,Gambia,Gambie,Gambia,Gambie,Gambia,Gambie
+GBR,GBR,Great Britain,Grande-Bretagne,Grã-Bretanha,Gran Bretaña,Great Britain,Grande-Bretagne,Grã-Bretanha,Gran Bretaña,EUR,P,70,GR Britain,Gde-Bret.,Great Britain,Grande-Bretagne,Great Britain,Grande-Bretagne
+GBS,GBS,Guinea-Bissau,Guinée-Bissau,Guiné-Bissau,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Guiné-Bissau,Guinea-Bissau,AFR,P,71,Gui-Bissau,Guinée-B.,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,Guinée-Bissau
+GDR,GDR,GDR,RDA,Alemanha Oriental,RDA,GDR,RDA,República Democrática Alemã,RDA,EUR,H,,,,,,,
+GEO,GEO,Georgia,Géorgie,Geórgia,Georgia,Georgia,Géorgie,Geórgia,Georgia,EUR,P,72,Georgia,Géorgie,Georgia,Géorgie,Georgia,Géorgie
+GEQ,GEQ,Equatorial Guinea,Guinée équatoriale,Guiné Equatorial,Guinea Ecuatorial,Equatorial Guinea,Guinée équatoriale,Guiné Equatorial,Guinea Ecuatorial,AFR,P,73,Equ Guinea,Guinée éq.,Equator. Guinea,Guinée équator.,Equatorial Guinea,Guinée équatoriale
+GER,GER,Germany,Allemagne,Alemanha,Alemania,Germany,Allemagne,Alemanha,Alemania,EUR,P,74,Germany,Allemagne,Germany,Allemagne,Germany,Allemagne
+GHA,GHA,Ghana,Ghana,Gana,Ghana,Ghana,Ghana,Gana,Ghana,AFR,P,75,Ghana,Ghana,Ghana,Ghana,Ghana,Ghana
+GRE,GRE,Greece,Grèce,Grécia,Grecia,Greece,Grèce,Grécia,Grecia,EUR,P,76,Greece,Grèce,Greece,Grèce,Greece,Grèce
+GRN,GRN,Grenada,Grenade,Granada,Granada,Grenada,Grenade,Granada,Granada,AME,P,77,Grenada,Grenade,Grenada,Grenade,Grenada,Grenade
+GUA,GUA,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,AME,P,78,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala
+GUI,GUI,Guinea,Guinée,Guiné,Guinea,Guinea,Guinée,Guiné,Guinea,AFR,P,79,Guinea,Guinée,Guinea,Guinée,Guinea,Guinée
+GUM,GUM,Guam,Guam,Guam,Guam,Guam,Guam,Guam,Guam,OCE,P,80,Guam,Guam,Guam,Guam,Guam,Guam
+GUY,GUY,Guyana,Guyana,Guiana,Guyana,Guyana,Guyana,Guiana,Guyana,AME,P,81,Guyana,Guyana,Guyana,Guyana,Guyana,Guyana
+HAI,HAI,Haiti,Haïti,Haiti,Haití,Haiti,Haïti,Haiti,Haití,AME,P,82,Haiti,Haïti,Haiti,Haïti,Haiti,Haïti
+HKG,HKG,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China","Hong Kong, China","Hong Kong, China","Hong Kong, Chine","Hong Kong, China","Hong Kong, China",ASI,P,83,Hong Kong,Hong Kong,"Hong Kong, CHN","Hong Kong, CHN","Hong Kong, China","Hong Kong, Chine"
+HON,HON,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,AME,P,84,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras
+HUN,HUN,Hungary,Hongrie,Hungria,Hungría,Hungary,Hongrie,Hungria,Hungría,EUR,P,85,Hungary,Hongrie,Hungary,Hongrie,Hungary,Hongrie
+INA,INA,Indonesia,Indonésie,Indonésia,Indonesia,Indonesia,Indonésie,Indonésia,Indonesia,ASI,P,86,Indonesia,Indonésie,Indonesia,Indonésie,Indonesia,Indonésie
+IND,IND,India,Inde,Índia,India,India,Inde,Índia,India,ASI,P,87,India,Inde,India,Inde,India,Inde
+IOA,IOA,IOA,AOI,AOI,AOI,Independent Olympic Athlete,Athlète Olympique Indépendant,Atleta Olímpico Independente,Atleta Olímpico Independiente,EUR,P,88,IOA,IOA,IOA,IOA,Independent Olympic Athlete,Athlète olympique indépendant
+IOP,IOP,IOP,POI,POI,POI,Independent Olympic Participant,Participant Olympique Indépendant,Participante Olímpico Independente,Participante Olímpico Independiente,EUR,H,,IOP,IOP,IOP,IOP,Indep.  Olympic Participant,Participant olympique indép.
+IRI,IRI,Iran,Iran,Irã,Irán,Islamic Republic of Iran,République islamique d'Iran,República Islâmica do Irã,República Islámica de Irán,ASI,P,89,IR Iran,RI Iran,IR Iran,RI Iran,Islamic Republic of Iran,République islamique d'Iran
+IRL,IRL,Ireland,Irlande,Irlanda,Irlanda,Ireland,Irlande,Irlanda,Irlanda,EUR,P,90,Ireland,Irlande,Ireland,Irlande,Ireland,Irlande
+IRQ,IRQ,Iraq,Iraq,Iraque,Iraq,Iraq,Iraq,Iraque,Iraq,ASI,P,91,Iraq,Iraq,Iraq,Iraq,Iraq,Iraq
+ISL,ISL,Iceland,Islande,Islândia,Islandia,Iceland,Islande,Islândia,Islandia,EUR,P,92,Iceland,Islande,Iceland,Islande,Iceland,Islande
+ISR,ISR,Israel,Israël,Israel,Israel,Israel,Israël,Israel,Israel,EUR,P,93,Israel,Israël,Israel,Israël,Israel,Israël
+ISV,ISV,"Virgin Islands, US",Îles Vierges EU,"Ilhas Virgens, EU","Islas Vírgenes, EEUU","Virgin Islands, US",Îles Vierges des États-Unis,Ilhas Virgens Americanas,Islas Vírgenes de los Estados Unidos,AME,P,94,Virgin Is,Î. Vierges,"Virgin Isl, US",Îles Vierges US,"Virgin Islands, US",Îles Vierges des États-Unis
+ITA,ITA,Italy,Italie,Itália,Italia,Italy,Italie,Itália,Italia,EUR,P,95,Italy,Italie,Italy,Italie,Italy,Italie
+IVB,IVB,"Virgin Islands, GB",Îles Vierges RU,Ilhas V. Britânicas,"Islas Vírgenes, GB","Virgin Islands, British",Îles Vierges britanniques,Ilhas Virgens Britânicas,Islas Vírgenes Británicas,AME,P,96,Virgin I B,Î.ViergesB,"Virgin Isl, B",Î.Vierges brit.,"Virgin Islands, British",Îles Vierges britanniques
+JAM,JAM,Jamaica,Jamaïque,Jamaica,Jamaica,Jamaica,Jamaïque,Jamaica,Jamaica,AME,P,97,Jamaica,Jamaïque,Jamaica,Jamaïque,Jamaica,Jamaïque
+JOR,JOR,Jordan,Jordanie,Jordânia,Jordania,Jordan,Jordanie,Jordânia,Jordania,ASI,P,98,Jordan,Jordanie,Jordan,Jordanie,Jordan,Jordanie
+JPN,JPN,Japan,Japon,Japão,Japón,Japan,Japon,Japão,Japón,ASI,P,99,Japan,Japon,Japan,Japon,Japan,Japon
+KAZ,KAZ,Kazakhstan,Kazakhstan,Cazaquistão,Kazajstán,Kazakhstan,Kazakhstan,Cazaquistão,Kazajstán,ASI,P,100,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan
+KEN,KEN,Kenya,Kenya,Quênia,Kenia,Kenya,Kenya,Quênia,Kenia,AFR,P,101,Kenya,Kenya,Kenya,Kenya,Kenya,Kenya
+KGZ,KGZ,Kyrgyzstan,Kirghizistan,Quirguistão,Kirguistán,Kyrgyzstan,Kirghizistan,Quirguistão,Kirguistán,ASI,P,102,Kyrgyzstan,Kirghiz.,Kyrgyzstan,Kirghizistan,Kyrgyzstan,Kirghizistan
+KIR,KIR,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,OCE,P,103,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati
+KOR,KOR,Republic of Korea,République de Corée,República da Coréia,República de Corea,Republic of Korea,République de Corée,República da Coréia,República de Corea,ASI,P,104,Korea,Corée,Korea,Corée,Republic of Korea,République de Corée
+KOS,KOS,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,EUR,P,105,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo
+KSA,KSA,Saudi Arabia,Arabie saoudite,Arábia Saudita,Arabia Saudí,Saudi Arabia,Arabie saoudite,Arábia Saudita,Arabia Saudí,ASI,P,106,S. Arabia,Arabie s.,Saudi Arabia,Arabie saoudite,Saudi Arabia,Arabie saoudite
+KUW,KUW,Kuwait,Koweït,Kuaite,Kuwait,Kuwait,Koweït,Kuaite,Kuwait,ASI,P,107,Kuwait,Koweït,Kuwait,Koweït,Kuwait,Koweït
+LAO,LAO,Lao PDR,RDP lao,Laos,Laos,Lao People's Democratic Republic,République démocratique populaire lao,República Democrática Popular do Laos,República Democrática Popular Lao,ASI,P,108,Lao PDR,RDP lao,Lao PDR,RDP lao,Lao People's Democratic Rep.,Rép démocratique populaire lao
+LAT,LAT,Latvia,Lettonie,Letônia,Letonia,Latvia,Lettonie,Letônia,Letonia,EUR,P,109,Latvia,Lettonie,Latvia,Lettonie,Latvia,Lettonie
+LBA,LBA,Libya,Libye,Líbia,Libia,Libya,Libye,Líbia,Libia,AFR,P,110,Libya,Libye,Libya,Libye,Libya, Libye
+LBR,LBR,Liberia,Libéria,Libéria,Liberia,Liberia,Libéria,Libéria,Liberia,AFR,P,111,Liberia,Libéria,Liberia,Libéria,Liberia,Libéria
+LCA,LCA,Saint Lucia,Sainte-Lucie,Santa Lúcia,Santa Lucia,Saint Lucia,Sainte-Lucie,Santa Lúcia,Santa Lucia,AME,P,112,St Lucia,Ste-Lucie,Saint Lucia,Sainte-Lucie,Saint Lucia,Sainte-Lucie
+LES,LES,Lesotho,Lesotho,Lesoto,Lesotho,Lesotho,Lesotho,Lesoto,Lesotho,AFR,P,113,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho
+LIB,LIB,Lebanon,Liban,Líbano,Líbano,Lebanon,Liban,Líbano,Líbano,ASI,P,114,Lebanon,Liban,Lebanon,Liban,Lebanon,Liban
+LIE,LIE,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,EUR,P,115,Liechten,Liechten.,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein
+LTU,LTU,Lithuania,Lituanie,Lituânia,Lituania,Lithuania,Lituanie,Lituânia,Lituania,EUR,P,116,Lithuania,Lituanie,Lithuania,Lituanie,Lithuania,Lituanie
+LUX,LUX,Luxembourg,Luxembourg,Luxemburgo,Luxemburgo,Luxembourg,Luxembourg,Luxemburgo,Luxemburgo,EUR,P,117,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg
+MAD,MAD,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,AFR,P,118,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar
+MAR,MAR,Morocco,Maroc,Marrocos,Marruecos,Morocco,Maroc,Marrocos,Marruecos,AFR,P,119,Morocco,Maroc,Morocco,Maroc,Morocco,Maroc
+MAS,MAS,Malaysia,Malaisie,Malásia,Malasia,Malaysia,Malaisie,Malásia,Malasia,ASI,P,120,Malaysia,Malaisie,Malaysia,Malaisie,Malaysia,Malaisie
+MAW,MAW,Malawi,Malawi,Maláui,Malawi,Malawi,Malawi,Maláui,Malawi,AFR,P,121,Malawi,Malawi,Malawi,Malawi,Malawi,Malawi
+MDA,MDA,Republic of Moldova,Rép. de Moldova,República da Moldova,Rep. de Moldavia,Republic of Moldova,République de Moldova,República da Moldova,República de Moldavia,EUR,P,122,R. Moldova,R. Moldova,Rep. of Moldova,Rép. de Moldova,Republic of Moldova,République de Moldova
+MDV,MDV,Maldives,Maldives,Maldivas,Maldivas,Maldives,Maldives,Maldivas,Maldivas,ASI,P,123,Maldives,Maldives,Maldives,Maldives,Maldives,Maldives
+MEX,MEX,Mexico,Mexique,México,México,Mexico,Mexique,México,México,AME,P,124,Mexico,Mexique,Mexico,Mexique,Mexico,Mexique
+MGL,MGL,Mongolia,Mongolie,Mongólia,Mongolia,Mongolia,Mongolie,Mongólia,Mongolia,ASI,P,125,Mongolia,Mongolie,Mongolia,Mongolie,Mongolia,Mongolie
+MHL,MHL,Marshall Islands,Îles Marshall,Ilhas Marshall,Islas Marshall,Marshall Islands,Îles Marshall,Ilhas Marshall,Islas Marshall,OCE,P,126,Marshal Is,Î.Marshall,Marshall Is ,Îles Marshall,Marshall Islands,Îles Marshall
+MKD,MKD,MKD,MKD,Macedônia,Macedonia,The Former Yugoslav Republic of Macedonia,Ex-République Yougoslave de Macédoine,Ex-República Iugoslava da Macedônia,Ex República Yugoslava de Macedonia,EUR,P,127,MKD,MKD,MKD,MKD,F. Yugoslav Rep. of Macedonia,ex-Rép.yougoslave de Macédoine
+MLI,MLI,Mali,Mali,Mali,Mali,Mali,Mali,Mali,Mali,AFR,P,128,Mali,Mali,Mali,Mali,Mali,Mali
+MLT,MLT,Malta,Malte,Malta,Malta,Malta,Malte,Malta,Malta,EUR,P,129,Malta,Malte,Malta,Malte,Malta,Malte
+MNE,MNE,Montenegro,Monténégro,Montenegro,Montenegro,Montenegro,Monténégro,Montenegro,Montenegro,EUR,P,130,Montenegro,Monténégro,Montenegro,Monténégro,Montenegro,Monténégro
+MON,MON,Monaco,Monaco,Mônaco,Mónaco,Monaco,Monaco,Mônaco,Mónaco,EUR,P,131,Monaco,Monaco,Monaco,Monaco,Monaco,Monaco
+MOZ,MOZ,Mozambique,Mozambique,Moçambique,Mozambique,Mozambique,Mozambique,Moçambique,Mozambique,AFR,P,132,Mozambique,Mozambique,Mozambique,Mozambique,Mozambique,Mozambique
+MRI,MRI,Mauritius,Maurice,Maurício,Mauricio,Mauritius,Maurice,Maurício,Mauricio,AFR,P,133,Mauritius,Maurice,Mauritius,Maurice,Mauritius,Maurice
+MTN,MTN,Mauritania,Mauritanie,Mauritânia,Mauritania,Mauritania,Mauritanie,Mauritânia,Mauritania,AFR,P,134,Mauritania,Mauritanie,Mauritania,Mauritanie,Mauritania,Mauritanie
+MYA,MYA,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,ASI,P,135,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar
+NAM,NAM,Namibia,Namibie,Namíbia,Namibia,Namibia,Namibie,Namíbia,Namibia,AFR,P,136,Namibia,Namibie,Namibia,Namibie,Namibia,Namibie
+NCA,NCA,Nicaragua,Nicaragua,Nicarágua,Nicaragua,Nicaragua,Nicaragua,Nicarágua,Nicaragua,AME,P,137,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua
+NED,NED,Netherlands,Pays-Bas,Países Baixos,Países Bajos,Netherlands,Pays-Bas,Países Baixos,Países Bajos,EUR,P,138,Neth'lands,Pays-Bas,Netherlands,Pays-Bas,Netherlands,Pays-Bas
+NEP,NEP,Nepal,Népal,Nepal,Nepal,Nepal,Népal,Nepal,Nepal,ASI,P,139,Nepal,Népal,Nepal,Népal,Nepal,Népal
+NGR,NGR,Nigeria,Nigéria,Nigéria,Nigeria,Nigeria,Nigéria,Nigéria,Nigeria,AFR,P,140,Nigeria,Nigéria,Nigeria,Nigéria,Nigeria,Nigéria
+NIG,NIG,Niger,Niger,Níger,Níger,Niger,Niger,Níger,Níger,AFR,P,141,Niger ,Niger,Niger,Niger,Niger,Niger
+NOR,NOR,Norway,Norvège,Noruega,Noruega,Norway,Norvège,Noruega,Noruega,EUR,P,142,Norway,Norvège,Norway,Norvège,Norway,Norvège
+NRU,NRU,Nauru,Nauru,Nauru,Nauru,Nauru,Nauru,Nauru,Nauru,OCE,P,143,Nauru,Nauru,Nauru,Nauru,Nauru,Nauru
+NZL,NZL,New Zealand,Nouvelle-Zélande,Nova Zelândia,Nueva Zelanda,New Zealand,Nouvelle-Zélande,Nova Zelândia,Nueva Zelanda,OCE,P,144,NewZealand,N-Zélande,New Zealand,Nle-Zélande,New Zealand,Nouvelle-Zélande
+OMA,OMA,Oman,Oman,Omã,Omán,Oman,Oman,Omã,Omán,ASI,P,145,Oman,Oman,Oman,Oman,Oman,Oman
+PAK,PAK,Pakistan,Pakistan,Paquistão,Pakistán,Pakistan,Pakistan,Paquistão,Pakistán,ASI,P,146,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan
+PAN,PAN,Panama,Panama,Panamá,Panamá,Panama,Panama,Panamá,Panamá,AME,P,147,Panama,Panama,Panama,Panama,Panama,Panama
+PAR,PAR,Paraguay,Paraguay,Paraguai,Paraguay,Paraguay,Paraguay,Paraguai,Paraguay,AME,P,148,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay
+PER,PER,Peru,Pérou,Peru,Perú,Peru,Pérou,Peru,Perú,AME,P,149,Peru,Pérou,Peru,Pérou,Peru,Pérou
+PHI,PHI,Philippines,Philippines,Filipinas,Filipinas,Philippines,Philippines,Filipinas,Filipinas,ASI,P,150,Philipines,Philipines,Philippines,Philippines,Philippines,Philippines
+PLE,PLE,Palestine,Palestine,Palestina,Palestina,Palestine,Palestine,Palestina,Palestina,ASI,P,151,Palestine,Palestine,Palestine,Palestine,Palestine,Palestine
+PLW,PLW,Palau,Palaos,Palau,Palaos,Palau,Palaos,Palau,Palaos,OCE,P,152,Palau,Palaos,Palau,Palaos,Palau,Palaos
+PNG,PNG,Papua New Guinea,Papouasie-N.-Guinée,Papua Nova Guiné,Papúa-Nueva Guinea,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nova Guiné,Papúa-Nueva Guinea,OCE,P,153,P.N.Guinea,P-N-Guinée,Papua N Guinea,Pap.-N.-Guinée,Papua New Guinea,Papouasie-Nouvelle-Guinée
+POL,POL,Poland,Pologne,Polônia,Polonia,Poland,Pologne,Polônia,Polonia,EUR,P,154,Poland,Pologne,Poland,Pologne,Poland,Pologne
+POR,POR,Portugal,Portugal,Portugal,Portugal,Portugal,Portugal,Portugal,Portugal,EUR,P,155,Portugal,Portugal,Portugal,Portugal,Portugal,Portugal
+PRK,PRK,DPR Korea,RPD de Corée,RPD da Coréia,RPD de Corea,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática da Coréia,República Popular Democrática de Corea,ASI,P,156,DPR Korea,RPD Corée,DPR Korea,RPD de Corée,DPR Korea,RPD Corée
+PUR,PUR,Puerto Rico,Porto Rico,Porto Rico,Puerto Rico,Puerto Rico,Porto Rico,Porto Rico,Puerto Rico,AME,P,157,Puert Rico,Porto Rico,Puerto Rico,Porto Rico,Puerto Rico,Porto Rico
+QAT,QAT,Qatar,Qatar,Catar,Qatar,Qatar,Qatar,Catar,Qatar,ASI,P,158,Qatar,Qatar,Qatar,Qatar,Qatar,Qatar
+ROA,ROA,ROA,AOR,AOR,AOR,Refugee Olympic Athletes,Athlètes Olympiques Réfugiés,Atletas Olímpicos Refugiados,Atletas Olímpicos Refugiados,EUR,P,159,,,,,,
+ROU,ROU,Romania,Roumanie,Romênia,Rumanía,Romania,Roumanie,Romênia,Rumanía,EUR,P,160,Romania,Roumanie,Romania,Roumanie,Romania,Roumanie
+RSA,RSA,South Africa,Afrique du Sud,África do Sul,Sudáfrica,South Africa,Afrique du Sud,África do Sul,Sudáfrica,AFR,P,161,S. Africa,Afrique S.,South Africa,Afrique du Sud,South Africa,Afrique du Sud
+RUS,RUS,Russian Federation,Fédération de Russie,Federação da Rússia,Federación de Rusia,Russian Federation,Fédération de Russie,Federação da Rússia,Federación de Rusia,EUR,P,162,Russia ,Russie,Russian Fed.,Féd. de Russie,Russian Federation,Fédération de Russie
+RWA,RWA,Rwanda,Rwanda,Ruanda,Ruanda,Rwanda,Rwanda,Ruanda,Ruanda,AFR,P,163,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda
+SAM,SAM,Samoa,Samoa,Samoa,Samoa,Samoa,Samoa,Samoa,Samoa,OCE,P,164,Samoa,Samoa,Samoa,Samoa,Samoa,Samoa
+SCG,SCG,Serbia & Montenegro,Serbie-et-Monténégro,Sérvia e Montenegro,Serbia y Montenegro,Serbia and Montenegro,Serbie-et-Monténégro,Estado da Sérvia e Montenegro,Serbia y Montenegro,EUR,H,,,,,,,
+SEN,SEN,Senegal,Sénégal,Senegal,Senegal,Senegal,Sénégal,Senegal,Senegal,AFR,P,165,Senegal,Sénégal,Senegal,Sénégal,Senegal,Sénégal
+SEY,SEY,Seychelles,Seychelles,Seicheles,Seychelles,Seychelles,Seychelles,Seicheles,Seychelles,AFR,P,166,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles
+SIN,SIN,Singapore,Singapour,Cingapura,Singapur,Singapore,Singapour,Cingapura,Singapur,ASI,P,167,Singapore,Singapour,Singapore,Singapour,Singapore,Singapour
+SKN,SKN,Saint Kitts & Nevis,Saint-Kitts-et-Nevis,São Cristóvão-Névis,San Cristóbal-Nieves,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,São Cristóvão e Névis,San Cristóbal y Nieves,AME,P,168,St Kit&Nev,St Kit&Nev,StKitts&Nevis,St-Kitts&Nevis,Saint Kitts and Nevis,Saint-Kitts-et-Nevis
+SLE,SLE,Sierra Leone,Sierra Leone,Serra Leoa,Sierra Leona,Sierra Leone,Sierra Leone,Serra Leoa,Sierra Leona,AFR,P,169,S. Leone,S. Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone
+SLO,SLO,Slovenia,Slovénie,Eslovênia,Eslovenia,Slovenia,Slovénie,Eslovênia,Eslovenia,EUR,P,170,Slovenia,Slovénie,Slovenia,Slovénie,Slovenia,Slovénie
+SMR,SMR,San Marino,Saint-Marin,San Marino,San Marino,San Marino,Saint-Marin,San Marino,San Marino,EUR,P,171,San Marino,St-Marin,San Marino,Saint-Marin,San Marino,Saint-Marin
+SOL,SOL,Solomon Islands,Îles Salomon,Ilhas Salomão,Islas Salomón,Solomon Islands,Îles Salomon,Ilhas Salomão,Islas Salomón,OCE,P,172,Solomon Is,Î.Salomon,Solomon Islands,Îles Salomon,Solomon Islands,Îles Salomon
+SOM,SOM,Somalia,Somalie,Somália,Somalia,Somalia,Somalie,Somália,Somalia,AFR,P,173,Somalia,Somalie,Somalia,Somalie,Somalia,Somalie
+SRB,SRB,Serbia,Serbie,Sérvia,Serbia,Serbia,Serbie,Sérvia,Serbia,EUR,P,174,Serbia,Serbie,Serbia,Serbie,Serbia,Serbie
+SRI,SRI,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,ASI,P,175,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka
+SSD,SSD,South Sudan,Soudan du Sud,Sudão do Sul,Sudán del Sur,South Sudan,Soudan du Sud,Sudão do Sul,Sudán del Sur,AFR,P,176,Sth Sudan,Soudan Sud,South Sudan,Soudan du Sud,South Sudan,Soudan du Sud
+STP,STP,Sao Tome & Principe,Sao Tomé-et-Principe,São Tomé e Príncipe,Sto. Tomé y Príncipe,Sao Tome and Principe,Sao Tomé-et-Principe,São Tomé e Príncipe,Santo Tomé y Príncipe,AFR,P,177,S.Tome&P,S.Tomé-P,S.Tome&Principe,S.Tomé-Principe,Sao Tome and Principe,Sao Tomé-et-Principe
+SUD,SUD,Sudan,Soudan,Sudão,Sudán,Sudan,Soudan,Sudão,Sudán,AFR,P,178,Sudan,Soudan,Sudan,Soudan,Sudan,Soudan
+SUI,SUI,Switzerland,Suisse,Suíça,Suiza,Switzerland,Suisse,Suíça,Suiza,EUR,P,179,Switzerl'd,Suisse,Switzerland,Suisse,Switzerland,Suisse
+SUR,SUR,Suriname,Suriname,Suriname,Surinam,Suriname,Suriname,Suriname,Surinam,AME,P,180,Suriname,Suriname,Suriname,Suriname,Suriname,Suriname
+SVK,SVK,Slovakia,Slovaquie,Eslováquia,Eslovaquia,Slovakia,Slovaquie,Eslováquia,Eslovaquia,EUR,P,181,Slovakia,Slovaquie,Slovakia,Slovaquie,Slovakia,Slovaquie
+SWE,SWE,Sweden,Suède,Suécia,Suecia,Sweden,Suède,Suécia,Suecia,EUR,P,182,Sweden,Suède,Sweden,Suède,Sweden,Suède
+SWZ,SWZ,Swaziland,Swaziland,Suazilândia,Suazilandia,Swaziland,Swaziland,Suazilândia,Suazilandia,AFR,P,183,Swaziland,Swaziland,Swaziland,Swaziland,Swaziland,Swaziland
+SYR,SYR,Syria,Syrie,Síria,Siria,Syrian Arab Republic,République arabe syrienne,República Árabe da Síria,República Árabe Siria,ASI,P,184,Syria,Syrie,Syria,Syrie,Syrian Arab Republic,République arabe syrienne
+TAH,TAH,Tahiti,Tahiti,Taiti,Tahití,Tahiti,Tahiti,Taiti,Tahití,OCE,H,,,,,,,
+TAN,TAN,Tanzania,Tanzanie,Tanzânia,Tanzania,United Republic of Tanzania,République unie de Tanzanie,República Unida da Tanzânia,República Unida de Tanzania,AFR,P,185,Tanzania,Tanzanie,Tanzania,Tanzanie,United Republic of Tanzania,République-Unie de Tanzanie
+TCH,TCH,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,Checoslovaquia,Czechoslovakia,Tchécoslovaquie,Tchecoslováquia,Checoslovaquia,EUR,H,,,,,,,
+TGA,TGA,Tonga,Tonga,Tonga,Tonga,Tonga,Tonga,Tonga,Tonga,OCE,P,186,Tonga,Tonga,Tonga,Tonga,Tonga,Tonga
+THA,THA,Thailand,Thaïlande,Tailândia,Tailandia,Thailand,Thaïlande,Tailândia,Tailandia,ASI,P,187,Thailand,Thaïlande,Thailand,Thaïlande,Thailand,Thaïlande
+TJK,TJK,Tajikistan,Tadjikistan,Tadjiquistão,Tayikistán,Tajikistan,Tadjikistan,Tadjiquistão,Tayikistán,ASI,P,188,Tajikistan,Tadjikist.,Tajikistan,Tadjikistan,Tajikistan,Tadjikistan
+TKM,TKM,Turkmenistan,Turkménistan,Turcomenistão,Turkmenistán,Turkmenistan,Turkménistan,Turcomenistão,Turkmenistán,ASI,P,189,Turkm'stan,Turkmén.,Turkmenistan,Turkménistan,Turkmenistan,Turkménistan
+TLS,TLS,Timor-Leste,Timor-Leste,Timor-Leste,Timor Oriental,Democratic Republic of Timor-Leste,République démocratique du Timor-Leste,República Democrática de Timor-Leste,República Democrática de Timor Oriental,ASI,P,190,TimorLeste,TimorLeste,Timor-Leste,Timor-Leste,Democratic Rep. of Timor-Leste,Rép. démocratique Timor-Leste
+TOG,TOG,Togo,Togo,Togo,Togo,Togo,Togo,Togo,Togo,AFR,P,191,Togo,Togo,Togo,Togo,Togo,Togo
+TPE,TPE,Chinese Taipei,Chinese Taipei,Taipé Chinesa,China Taipéi,Chinese Taipei,Chinese Taipei,Taipé Chinesa,China Taipéi,ASI,P,192,CN Taipei,CN Taipei,Chinese Taipei,Chinese Taipei,Chinese Taipei,Chinese Taipei
+TTO,TTO,Trinidad and Tobago,Trinité-et-Tobago,Trinidad e Tobago,Trinidad y Tobago,Trinidad and Tobago,Trinité-et-Tobago,Trinidad e Tobago,Trinidad y Tobago,AME,P,193,Tri&Tobago,Tri&Tobago,Trinidad&Tobago,Trinité&Tobago,Trinidad and Tobago,Trinité-et-Tobago
+TUN,TUN,Tunisia,Tunisie,Tunísia,Túnez,Tunisia,Tunisie,Tunísia,Túnez,AFR,P,194,Tunisia,Tunisie,Tunisia,Tunisie,Tunisia,Tunisie
+TUR,TUR,Turkey,Turquie,Turquia,Turquía,Turkey,Turquie,Turquia,Turquía,EUR,P,195,Turkey,Turquie,Turkey,Turquie,Turkey,Turquie
+TUV,TUV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,OCE,P,196,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu
+UAE,UAE,United Arab Emirates,Émirats arabes unis,Emirados Árab Unidos,Emiratos Árabes Un.,United Arab Emirates,Émirats arabes unis,Emirados Árabes Unidos,Emiratos Árabes Unidos,ASI,P,197,UAEmirates,Émirats AU,UA Emirates,Émirats AU,United Arab Emirates,Émirats arabes unis
+UGA,UGA,Uganda,Ouganda,Uganda,Uganda,Uganda,Ouganda,Uganda,Uganda,AFR,P,198,Uganda,Ouganda,Uganda,Ouganda,Uganda,Ouganda
+UKR,UKR,Ukraine,Ukraine,Ucrânia,Ucrania,Ukraine,Ukraine,Ucrânia,Ucrania,EUR,P,199,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine
+URS,URS,USSR,U.R.S.S.,U.R.S.S.,URSS,USSR,U.R.S.S.,União das Repúblicas Socialistas Soviéticas,URSS,EUR,H,,,,,,,
+URU,URU,Uruguay,Uruguay,Uruguai,Uruguay,Uruguay,Uruguay,Uruguai,Uruguay,AME,P,200,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay
+USA,USA,United States,États-Unis,Estados Unidos,Estados Unidos,United States of America,États-Unis d'Amérique,Estados Unidos da América,Estados Unidos de América,AME,P,201,USA,États-Unis,United States,États-Unis,United States of America,États-Unis d'Amérique
+UZB,UZB,Uzbekistan,Ouzbékistan,Uzbequistão,Uzbekistán,Uzbekistan,Ouzbékistan,Uzbequistão,Uzbekistán,ASI,P,202,Uzbekistan,Ouzbékist.,Uzbekistan,Ouzbékistan,Uzbekistan,Ouzbékistan
+VAN,VAN,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,OCE,P,203,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu
+VEN,VEN,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,AME,P,204,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela
+VIE,VIE,Vietnam,Vietnam,Vietnã,Vietnam,Vietnam,Vietnam,Vietnã,Vietnam,ASI,P,205,Vietnam,Viet Nam,Vietnam,Viet Nam,Vietnam,Viet Nam
+VIN,VIN,St Vinc & Grenadines,St Vinc & Grenadines,São Vicente e Granad,S. Vicente y Gran.,St Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,São Vicente e Granadinas,San Vicente y las Granadinas,AME,P,206,S.Vin&Gren,S.Vin&Gren,StV&Grenadines,StV&Grenadines,St Vincent and the Grenadines,St-Vincent-et-les-Grenadines
+YEM,YEM,Yemen,Yémen,Iêmen,Yemen,Yemen,Yémen,Iêmen,Yemen,ASI,P,207,Yemen,Yémen,Yemen,Yémen,Yemen,Yémen
+YUG,YUG,Yugoslavia,Yougoslavie,Iugoslávia,Yugoslavia,The Federal Republic of Yugoslavia,Yougoslavie,República Socialista Federativa da Iugoslávia,República Federativa de Yugoslavia,EUR,H,,,,,,,
+ZAM,ZAM,Zambia,Zambie,Zâmbia,Zambia,Zambia,Zambie,Zâmbia,Zambia,AFR,P,208,Zambia,Zambie,Zambia,Zambie,Zambia,Zambie
+ZIM,ZIM,Zimbabwe,Zimbabwe,Zimbábue,Zimbabue,Zimbabwe,Zimbabwe,Zimbábue,Zimbabue,AFR,P,209,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe

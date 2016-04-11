@@ -1,0 +1,64 @@
+Discipline,recordgroup,recordtype,ENG Description,FRA Description,POR Description,SPA Description,Order
+AR,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,2
+AR,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+AT,AF,AF,African Record,Record d'Afrique,Recorde africano,Récord africano,10
+AT,ALL,ALL,Top 10 All Time,Meilleurs performeurs de tous les temps,Melhores performances de todos os tempos,10 mejores de todos los tiempos,17
+AT,AR,AR,Area Record,Record de la région,Recorde regional,Récord regional,20
+AT,AS,AS,Asian Record,Record d'Asie,Recorde asiático,Récord asiático,11
+AT,BOP,BOP,Best Olympic Performances (Top 10),Meilleures performances olympiques,Melhores performances Olímpicas (top 10),Mejores desempeños Olímpicos (Top 10),18
+AT,ER,ER,European Record,Record d'Europe,Recorde europeu,Récord europeo,12
+AT,NA,NA,North American Record,Record d'Amérique du Nord,Recorde norte-americano,Récord norteamericano,13
+AT,NR,NR,National Record,Record national,Recorde nacional,Récord nacional,16
+AT,OC,OC,Oceania Record,Record d'Océanie,Recorde da Oceania,Récord de Oceanía,14
+AT,ODB,ODB,Olympic Decathlon Best,Meilleures performances olympiques au dé,Melhor performance Olímpica no decatlo,Mejor marca Olímpica en Decatlón,5
+AT,OHB,OHB,Olympic Heptathlon Best,Meilleures performances olympiques au he,Melhor performance Olímpica no heptatlo,Mejor marca Olímpica en Heptatlón,6
+AT,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,2
+AT,PB,PB,Personal Best,Meilleure perf. Personnelle,Melhor marca pessoal,Mejor marca personal,21
+AT,SA,SA,South American Record,Record d'Amérique du Sud,Recorde sul-americano,Récord sudamericano,15
+AT,SB,SB,Seasonal Best,Meilleure perf. de la saison,Melhor marca da temporada,Mejor marca de la temporada,22
+AT,SBP,SBP,Top 10-2016 Results by July 23,Meilleurs performeurs de 2016,Melhores performances de 2016 (atletas t,Top 10 - Resultados 2016 hasta 23 julio,19
+AT,WDB,WDB,World Decathlon Best,Meilleures performances mondiale au déca,Melhor performance mundial no decatlo,Mejor marca mundial en Decatlón,3
+AT,WDJB,WDJB,World Decathlon Junior Best,Meilleures performances mondiale junior,Melhor performance do decatlo,Mejor marca mundial juvenil en Decatlón,8
+AT,WHB,WHB,World Heptathlon Best,Meilleures performances mondiale au hept,Melhor performance mundial no heptatlo,Mejor marca mundial en Heptatlón,4
+AT,WHJB,WHJB,World Heptathlon Junior Best,Meilleures performances mondiale junior,Melhor performance do heptatlo,Mejor marca mundial juvenil en Heptatlón,9
+AT,WJR,WJR,World Junior Record,Record du monde junior,Recorde mundial júnior,Récord mundial juvenil,7
+AT,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+CF,OB,OB,Olympic Best Time,Olympic Best Time,Melhor marca Olímpica,Mejor marca Olímpica,1
+CT,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,2
+CT,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+FE,TOT,TOT,World Ranking,Classement mondial,Ranking mundial,Ranking mundial,1
+MP,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,3
+MP,OR,EOR,Equalled Olympic Record,Record olympique égalé,Recorde Olímpico igualado,Récord Olímpico igualado,4
+MP,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+MP,WR,EWR,Equalled World Record,Record du monde égalé,Recorde mundial igualado,Récord mundial igualado,2
+RO,OB,OB,Olympic Best,Meilleure performance olympique,Melhor marca Olímpica,Mejor marca Olímpica,2
+RO,WB,WB,World Best,Meilleure performance mondiale,Melhor marca mundial,Mejor marca mundial,1
+SH,FOR,FOR,Finals Olympic Record,Record olympique des finales,Recorde da final Olímpica,Récord Olímpico de las finales,7
+SH,FOR,EFOR,Equalled Finals Olympic Record,Record olympique égalé des finales,Recorde da final Olímpica igualado,Récord Olímpico de las finales igualado,8
+SH,FWR,FWR,Finals World Record,Record du monde des finales,Recorde da final mundial,Récord mundial de las finales,3
+SH,FWR,EFWR,Equalled Finals World Record,Record du monde égalé des finales,Recorde da final mundial igualado,Récord mundial de las finales igualado,4
+SH,FWRJ,FWRJ,Finals World Record Junior,Record du monde junior des finales,Recorde da final mundial júnior,Récord mundial juvenil de las finales,11
+SH,FWRJ,EFWRJ,Equalled Finals World Record Junior,Record du monde junior égalé des finales,Recorde da final mundial júnior igualado ,Récord mundial juvenil finales igualado,12
+SH,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,5
+SH,OR,EOR,Equalled Olympic Record,Record olympique égalé,Recorde Olímpico igualado,Récord Olímpico igualado,6
+SH,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+SH,WR,EWR,Equalled World Record,Record du monde égalé,Recorde mundial igualado,Récord mundial igualado,2
+SH,WRJ,WRJ,World Record Junior,Record du monde junior,Recorde mundial júnior,Récord mundial juvenil,9
+SH,WRJ,EWRJ,Equalled World Record Junior,Record du monde junior égalé,Recorde mundial júnior igualado,Récord mundial juvenil igualado,10
+SW,AF,AF,African Record,Record d'Afrique,Recorde africano,Récord africano,3
+SW,ALL,ALL,Top 10 All Time,Meilleurs performeurs de tous les temps,Melhores performances de todos os tempos,10 mejores de todos los tiempos,9
+SW,AM,AM,Americas Record,Record des Amériques,Recorde das Américas,Récord de américa,4
+SW,AS,AS,Asian Record,Record d'Asie,Recorde asiático,Récord asiático,5
+SW,ER,ER,European Record,Record d'Europe,Recorde europeu,Récord europeo,6
+SW,J,J,WJ record at intermediate distance,RJ à distance intermédiaire,RJ de distância intermediária,RMJ de distancia intermediaria,14
+SW,O,O,Olympic record at intermediate distance,RO à distance intermédiaire,RO de distância intermediária,RO de distancia intermediaria,13
+SW,OC,OC,Oceania Record,Record d'Océanie,Recorde da Oceania,Récord de Oceanía,7
+SW,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,2
+SW,SBP,SBP,2016 Best Performers (Top 10 athletes),Meilleurs performeurs de 2016,Melhores performances de 2016 (atletas t,Mejores desempeños 2016 (Top 10 atletas),10
+SW,W,W,World record at intermediate distance,RM à distance intermédiaire,RM de distância intermediária,RM de distancia intermediaria,12
+SW,WJ,WJ,World Junior Record,Record du monde junior,Recorde mundial júnior,Récord mundial juvenil,8
+SW,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1
+SW,WRC,WRC,World Record Chronology (Last 10 WR),Chronologie des records du monde,Cronologia dos recordes mundiais (dez úl,Cronología récords mundiales-10 últimos,11
+WL,JWR,JWR,World Junior Record,Record du monde junior,Recorde mundial júnior,Récord mundial juvenil,3
+WL,OR,OR,Olympic Record,Record olympique,Recorde Olímpico,Récord Olímpico,2
+WL,WR,WR,World Record,Record du monde,Recorde mundial,Récord mundial,1

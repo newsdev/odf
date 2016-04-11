@@ -18,6 +18,9 @@ require 'zip'
 require 'tempfile'
 require 'io/console'
 
+Encoding.default_internal = Encoding::UTF_8
+Encoding.default_external = Encoding::UTF_8
+
 class SharePoint
 
   def initialize(*args)

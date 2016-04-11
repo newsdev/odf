@@ -1,7 +1,7 @@
 #!/bin/bash
 # usage: `cd scripts;bash mongoimport.sh`
 # version number to import codes from, https://github.com/newsdev/odf/tree/master/competitions/OG2016/codes/
-_version="12.0"
+_version="12.1"
 
 # file will be downloaded into this folder from s3 bucket
 _root="/tmp"

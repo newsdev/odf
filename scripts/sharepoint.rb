@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# encoding utf-8
 
 # ./scripts/sharepoint.rb sync_documents
 # Download relevant documents from the RIO 2016 Sharepoint, namely test XML
@@ -320,7 +321,7 @@ class SharePoint
 
     if resp.code == "200"
       File.open(local_path(path), 'w') do |file|
-        file.write(resp.body)
+        file.write(resp.body.force_encoding('utf-8'))
       end
       print `ls -lh #{local_path(path).shellescape} | awk '{print $5}'`.strip
     end

@@ -260,6 +260,37 @@ class SharePoint
     end
   end
 
+  def upload_xml(label, location)
+    files = Dir.glob(File.expand_path(File.join(location, "**/*.xml"), __FILE__)).map do |file|
+      File.basename(file).split('.').first.split('-')
+    end
+
+    File.open(File.expand_path(File.join(location, "metadata.txt"), __FILE__), "w") do |f|
+      files.sort_by { |f| [f[0], f[1]] }.each do |parts|
+        f.puts(parts.join(','))
+      end
+    end
+
+    remote = `gsutil ls -L gs://nytint-oly/OG2016/xml/#{label}.txt | grep 'Hash (crc32c)' | awk '{print $3}'`
+    local  = `gsutil hash -c #{File.join(location, "metadata.txt")} | grep 'Hash (crc32c)' | awk '{print $3}'`
+
+    return puts "File not updated." if remote == local
+
+    puts "File changed, uploading..."
+
+    tarfile = File.expand_path(File.join(location, "#{label}.tar.gz"), __FILE__)
+    FileUtils.rm(tarfile) rescue nil
+    puts cmd = "cd #{location} && tar zcvf #{tarfile} ."
+    puts `#{cmd}`
+
+    puts cmd = "gsutil cp -a public-read #{tarfile} gs://nytint-oly/OG2016/xml/#{label}.tar.gz"
+    puts `#{cmd}`
+    puts cmd = "gsutil cp -a public-read #{location}/metadata.txt gs://nytint-oly/OG2016/xml/#{label}.txt"
+    puts `#{cmd}`
+  end
+
+  ###
+
   def extract_zip(path, destination, filepath)
     return if File.extname(filepath).match(/\.(txt|pdf)$/)
     return if !File.exist?(filepath) || File.size(filepath) == 0

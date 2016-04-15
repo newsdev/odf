@@ -24,7 +24,7 @@ the `scripts/codes.rb` file is provided to generate new codes based on later rel
 
 `./scripts/codes.rb [PATH TO .xlsx FILE] [COMPETITION] [VERSION]`
 
-e.g., `./scripts/codes.rb Rio\ 2016\ OLY\ Sport\ Codes.zip OG2016 7.0`
+e.g., `./scripts/codes.rb Rio\ 2016\ OLY\ Sport\ Codes.xlsx OG2016 7.0`
 
 You can also specify only the path to the `.xlsx` if the source filename fits the following pattern: `[COMPETITION]_[CC|SC]_[VERSION].xlsx`.
 

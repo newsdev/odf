@@ -1,0 +1,100 @@
+Id,Venue,LocationOrder,competition,ENG Description,POR Description,SPA Description,ENG longdescription,POR longdescription,SPA longdescription,Source
+A01,OLS,1,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A02,OLS,2,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A03,OLS,3,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A04,OLS,4,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A05,OLS,5,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A06,OLS,6,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A07,OLS,7,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A08,OLS,8,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A09,OLS,9,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A10,OLS,10,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A11,OLS,11,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A12,OLS,12,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A13,FTC,13,Y,Fort Copacabana - Marathon,Forte de Copacabana - Maratona,Fuerte de Copacabana - Maratón,Fort Copacabana - Marathon,Forte de Copacabana - Maratona,Fuerte de Copacabana - Maratón,FTCAT1
+AR1,SBD,1,Y,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,SBDAR1
+BO1,CA2,1,Y,Carioca Arena 2 - Court 1,Arena Carioca 2 - Quadra 1,Arena Carioca 2- Cancha 1,Carioca Arena 2 - Court 1,Arena Carioca 2 - Quadra 1,Arena Carioca 2- Cancha 1,CA2BO1
+BO2,CA2,2,Y,Carioca Arena 2 - Court 2,Arena Carioca 2 - Quadra 2,Arena Carioca 2- Cancha 2,Carioca Arena 2 - Court 2,Arena Carioca 2 - Quadra 2,Arena Carioca 2- Cancha 2,CA2BO1
+BO3,CA2,3,Y,Carioca Arena 2 - Court 3,Arena Carioca 2 - Quadra 3,Arena Carioca 2- Cancha 3,Carioca Arena 2 - Court 3,Arena Carioca 2 - Quadra 3,Arena Carioca 2- Cancha 3,CA2BO1
+BO4,CA2,4,Y,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,Arena Carioca 2- Cancha 4,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,Arena Carioca 2- Cancha 4,CA2BO1
+BO5,CA2,5,Y,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,Arena Carioca 2- Cancha 5,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,Arena Carioca 2- Cancha 5,CA2BO1
+BO6,CA2,6,Y,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,Arena Carioca 2- Cancha 6,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,Arena Carioca 2- Cancha 6,CA2BO1
+CA1,CA1,,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,
+CA2,CA2,,Y,Carioca Arena 2,Arena Carioca 2,Arena Carioca 2,Carioca Arena 2,Arena Carioca 2,Arena Carioca 2,CA2BO1
+CA3,CA3,,Y,Carioca Arena 3,Arena Carioca 3,Arena Carioca 3,Carioca Arena 3,Arena Carioca 3,Arena Carioca 3,CA3JU1
+CF1,LAG,1,Y,Lagoa Stadium - Canoe Sprint,Estádio da Lagoa - CS,Estadio de Lagoa - CF,Lagoa Stadium - Canoe Sprint,Estádio da Lagoa - Canoagem Velocidade,Estadio de Lagoa - CF,LAGCF1
+CR1,PON,1,Y,Pontal - Cycling Road,Pontal - Ciclismo de Estrada,Pontal - Ciclismo de ruta,Pontal - Cycling Road,Pontal - Ciclismo de Estrada,Pontal - Ciclismo de ruta,PONCR1
+CT1,ROV,1,Y,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,ROVCT1
+DES,DES,,Y,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,DESFT1
+EQ1,EQC,1,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQ2,EQC,2,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQ3,EQC,3,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQC,EQC,,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+FB1,OTN,1,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,OTNFB1
+FT1,DES,1,Y,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,DESFT1
+FTA,FTA,,Y,Future Arena,Arena do Futuro,Arena del Futuro,Future Arena,Arena do Futuro,Arena del Futuro,FTAGB1
+FTC,FTC,,Y,Fort Copacabana,Forte de Copacabana,Fuerte de Copacabana,Fort Copacabana,Forte de Copacabana,Fuerte de Copacabana,FTCTR1
+GB1,FTA,1,Y,Future Arena,Arena do Futuro,Arena del Futuro,Future Arena,Arena do Futuro,Arena del Futuro,FTAGB1
+GLO,GLO,,Y,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,GLOSA1
+JU1,CA3,1,Y,Carioca Arena 3 - Mat 1,Arena Carioca 3 - Tatame 1,Arena Carioca 3- Tatami 1,Carioca Arena 3 - Mat 1,Arena Carioca 3 - Tatame 1,Arena Carioca 3- Tatami 1,CA3JU1
+JU2,CA3,2,Y,Carioca Arena 3 - Mat 2,Arena Carioca 3 - Tatame 2,Arena Carioca 3- Tatami 2,Carioca Arena 3 - Mat 2,Arena Carioca 3 - Tatame 2,Arena Carioca 3- Tatami 2,CA3JU1
+LAG,LAG,,Y,Lagoa Stadium,Estádio da Lagoa,Estadio de Lagoa,Lagoa Stadium,Estádio da Lagoa,Estadio de Lagoa,LAGRO1
+OAS,OAS,,Y,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,OASSW1
+OLS,OLS,,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+OSC,OSC,,Y,Olympic Shooting Centre,Centro Olímpico de Tiro,Centro Olímpico de Tiro,Olympic Shooting Centre,Centro Olímpico de Tiro,Centro Olímpico de Tiro,OSCSH1
+OTN,OTN,,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,
+PO1,RC2,1,Y,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,RC2PO1
+PON,PON,,Y,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,
+RC2,RC2,,Y,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,RC2PO1
+RC3,RC3,,Y,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,Riocentro - Pabellón 3,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,Riocentro - Pabellón 3,RC3TT1
+RC6,RC6,,Y,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,RC6VS1
+RO1,LAG,1,Y,Lagoa Stadium - Rowing,Estádio da Lagoa - Remo,Estadio de Lagoa - Remo,Lagoa Stadium - Rowing,Estádio da Lagoa - Remo,Estadio de Lagoa - Remo,LAGRO1
+ROA,ROA,,Y,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,ROAWB1
+ROV,ROV,,Y,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,ROVCT1
+SA1,GLO,1,Y,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,GLOSA1
+SA2,GLO,2,Y,Ponte,Ponte,Ponte,Ponte,Ponte,Ponte,GLOSA1
+SA3,GLO,3,Y,Escola Naval,Escola Naval,Escola Naval,Escola Naval,Escola Naval,Escola Naval,GLOSA1
+SA4,GLO,4,Y,Copacabana,Copacabana,Copacabana,Copacabana,Copacabana,Copacabana,GLOSA1
+SA5,GLO,5,Y,Niterói,Niterói,Niterói,Niterói,Niterói,Niterói,GLOSA1
+SA6,GLO,6,Y,Pai,Pai,Pai,Pai,Pai,Pai,GLOSA1
+SA7,GLO,7,Y,Aeroporto,Aeroporto,Aeroporto,Aeroporto,Aeroporto,Aeroporto,GLOSA1
+SBD,SBD,,Y,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,SBDAR1
+SH1,OSC,1,Y,Olympic Shooting - Final Range,Centro Olímpico de Tiro-Finais,Centro Olímpico de Tiro-Final,Olympic Shooting Centre-Pistol & Rifle Final Range,Centro Olímpico de Tiro - Estande de Finais,Centro Olímpico de Tiro-Pistola/Rifle Campo Final,OSCSH1
+SH2,OSC,2,Y,Olympic Shooting - 10m Range,Centro Olímpico de Tiro - 10m,Centro Olímpico de Tiro-10m,Olympic Shooting Centre - Pistol & Rifle 10m Range,Centro Olímpico de Tiro - Estande de 10m,Centro Olímpico de Tiro - Pistola/Rifle Campo 10m,OSCSH1
+SH3,OSC,3,Y,Olympic Shooting - 25m Range,Centro Olímpico de Tiro - 25m,Centro Olímpico de Tiro-25m,Olympic Shooting Centre - Pistol & Rifle 25m Range,Centro Olímpico de Tiro - Estande de 25m,Centro Olímpico de Tiro - Pistola/Rifle Campo 25m,OSCSH1
+SH4,OSC,4,Y,Olympic Shooting - 50m Range,Centro Olímpico de Tiro - 50m,Centro Olímpico de Tiro-50m,Olympic Shooting Centre - Pistol & Rifle 50m Range,Centro Olímpico de Tiro - Estande de 50m,Centro Olímpico de Tiro - Pistola/Rifle Campo 50m,OSCSH1
+SW1,OAS,1,Y,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,OASSW1
+TR1,FTC,1,Y,Fort Copacabana - Triathlon,Forte de Copacabana - Triatlo,Fuerte de Copacabana-Triatlón,Fort Copacabana - Triathlon,Forte de Copacabana - Triatlo,Fuerte de Copacabana -Triatlón,FTCTR1
+TT1,RC3,1,Y,Riocentro - Pavilion 3-TT Tbl1,Riocentro - Pavilhão 3 - TT M1,Riocentro-Pabellón 3-TT Mesa 1,Riocentro - Pavilion 3 - Table Tennis - Table 1,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 1,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 1,RC3TT1
+TT2,RC3,2,Y,Riocentro - Pavilion 3-TT Tbl2,Riocentro - Pavilhão 3 - TT M2,Riocentro-Pabellón 3-TT Mesa 2,Riocentro - Pavilion 3 - Table Tennis - Table 2,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 2,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 2,RC3TT1
+TT3,RC3,3,Y,Riocentro - Pavilion 3-TT Tbl3,Riocentro - Pavilhão 3 - TT M3,Riocentro-Pabellón 3-TT Mesa 3,Riocentro - Pavilion 3 - Table Tennis - Table 3,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 3,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 3,RC3TT1
+TT4,RC3,4,Y,Riocentro - Pavilion 3-TT Tbl4,Riocentro - Pavilhão 3 - TT M4,Riocentro-Pabellón 3-TT Mesa 4,Riocentro - Pavilion 3 - Table Tennis - Table 4,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 4,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 4,RC3TT1
+TT5,RC3,5,Y,Riocentro - Pavilion 3-TT Tbl5,Riocentro - Pavilhão 3 - TT M5,Riocentro-Pabellón 3-TT Mesa 5,Riocentro - Pavilion 3 - Table Tennis - Table 5,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 5,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 5,RC3TT1
+TT6,RC3,6,Y,Riocentro - Pavilion 3-TT Tbl6,Riocentro - Pavilhão 3 - TT M6,Riocentro-Pabellón 3-TT Mesa 6,Riocentro - Pavilion 3 - Table Tennis - Table 6,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 6,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 6,RC3TT1
+TT7,RC3,7,Y,Riocentro - Pavilion 3-TT Tbl7,Riocentro - Pavilhão 3 - TT M7,Riocentro-Pabellón 3-TT Mesa 7,Riocentro - Pavilion 3 - Table Tennis - Table 7,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 7,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 7,RC3TT1
+TT8,RC3,8,Y,Riocentro - Pavilion 3-TT Tbl8,Riocentro - Pavilhão 3 - TT M8,Riocentro-Pabellón 3-TT Mesa 8,Riocentro - Pavilion 3 - Table Tennis - Table 8,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 8,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 8,RC3TT1
+VS1,RC6,1,Y,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,RC6VS1
+WB1,CA1,1,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,CA1WB1
+WB2,ROA,2,Y,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,ROAWB1
+WF0,YOA,1,Y,Youth Arena-WF Blue Piste 1,ArenaJuventude-WF Pista Azul 1,Ar. Juventud - WF pista azul 1,Youth Arena - Wheelchair Fencing Blue Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Azul 1,Ar. Juventud-Esgrima silla de ruedas pista azul 1,YOAWF1
+WF1,YOA,2,Y,Youth Arena-WF Blue Piste 2,ArenaJuventude-WF Pista Azul 2,Ar. Juventud - WF pista azul 2,Youth Arena - Wheelchair Fencing Blue Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Azul 2,Ar. Juventud-Esgrima silla de ruedas pista azul 2,YOAWF1
+WF2,YOA,3,Y,Youth Arena-WF Yellow Piste 1,ArenaJuventude-WF Pista Amar 1,Ar. Juventud -WF pista amar. 1,Youth Arena - Wheelchair Fencing Yellow Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Amar 1,Ar. Juventud-Esgrima silla de ruedas pista amar. 1,YOAWF1
+WF3,YOA,4,Y,Youth Arena-WF Yellow Piste 2,ArenaJuventude-WF Pista Amar 2,Ar. Juventud -WF pista amar. 2,Youth Arena - Wheelchair Fencing Yellow Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Amar 2,Ar. Juventud-Esgrima silla de ruedas pista amar. 2,YOAWF1
+WF4,YOA,5,Y,Youth Arena-WF Green Piste 1,ArenaJuventude-WF Pista Verd 1,Ar. Juventud -WF pista verde 1,Youth Arena - Wheelchair Fencing Green Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Verd 1,Ar. Juventud-Esgrima silla de ruedas pista verde 1,YOAWF1
+WF5,YOA,6,Y,Youth Arena-WF Green Piste 2,ArenaJuventude-WF Pista Verd 2,Ar. Juventud -WF pista verde 2,Youth Arena - Wheelchair Fencing Green Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Verd 2,Ar. Juventud-Esgrima silla de ruedas pista verde 2,YOAWF1
+WF6,YOA,7,Y,Youth Arena-WF Red Piste 1,ArenaJuventude-WF Pista Verm 1,Ar. Juventud - WF pista roja 1,Youth Arena - Wheelchair Fencing Red Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Verm 1,Ar. Juventud-Esgrima silla de ruedas pista roja 1,YOAWF1
+WF7,YOA,8,Y,Youth Arena-WF Red Piste 2,ArenaJuventude-WF Pista Verm 2,Ar. Juventud - WF pista roja 2,Youth Arena - Wheelchair Fencing Red Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Verm 2,Ar. Juventud-Esgrima silla de ruedas pista roja 2,YOAWF1
+WF8,YOA,9,Y,Youth Arena-WF Finals Piste 1,ArenaJuventude-WF Pista Final1,Ar. Juventud - Fin. WF pista 1,Youth Arena - Wheelchair Fencing Finals Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Final 1,Ar. Juventud-Finales esgrima silla ruedas pista 1,YOAWF1
+WF9,YOA,10,Y,Youth Arena-WF Finals Piste 2,ArenaJuventude-WF Pista Final2,Ar. Juventud - Fin. WF pista 2,Youth Arena - Wheelchair Fencing Finals Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Final 2,Ar. Juventud-Finales esgrima silla ruedas pista 2,YOAWF1
+WR1,CA1,1,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,CA1WR1
+WT0,OTN,1,Y,Olympic Tennis Centre - CC,Ctr. Olímpico de Tênis-Qdr Ctr,Ctro Olímpico de Tenis-Central,Olympic Tennis Centre - Centre Court,Centro Olímpico de Tênis - Quadra Central,Centro Olímpico de Tenis - Cancha central,OTNWT1
+WT1,OTN,2,Y,Olympic Tennis Centre-Court 1,Centro Olímpico de Tênis-Qdr 1,Ctro Olímpico de Tenis-Canc. 1,Olympic Tennis Centre - Court 1,Centro Olímpico de Tênis - Quadra 1,Centro Olímpico de Tenis - Cancha 1,OTNWT1
+WT2,OTN,3,Y,Olympic Tennis Centre-Court 2,Centro Olímpico de Tênis-Qdr 2,Ctro Olímpico de Tenis-Canc. 2,Olympic Tennis Centre - Court 2,Centro Olímpico de Tênis - Quadra 2,Centro Olímpico de Tenis - Cancha 2,OTNWT1
+WT3,OTN,4,Y,Olympic Tennis Centre-Court 3,Centro Olímpico de Tênis-Qdr 3,Ctro Olímpico de Tenis-Canc. 3,Olympic Tennis Centre - Court 3,Centro Olímpico de Tênis - Quadra 3,Centro Olímpico de Tenis - Cancha 3,OTNWT1
+WT4,OTN,5,Y,Olympic Tennis Centre-Court 4,Centro Olímpico de Tênis-Qdr 4,Ctro Olímpico de Tenis-Canc. 4,Olympic Tennis Centre - Court 4,Centro Olímpico de Tênis - Quadra 4,Centro Olímpico de Tenis - Cancha 4,OTNWT1
+WT5,OTN,6,Y,Olympic Tennis Centre-Court 5,Centro Olímpico de Tênis-Qdr 5,Ctro Olímpico de Tenis-Canc. 5,Olympic Tennis Centre - Court 5,Centro Olímpico de Tênis - Quadra 5,Centro Olímpico de Tenis - Cancha 5,OTNWT1
+WT6,OTN,7,Y,Olympic Tennis Centre-Court 6,Centro Olímpico de Tênis-Qdr 6,Ctro Olímpico de Tenis-Canc. 6,Olympic Tennis Centre - Court 6,Centro Olímpico de Tênis - Quadra 6,Centro Olímpico de Tenis - Cancha 6,OTNWT1
+WT7,OTN,8,Y,Olympic Tennis Centre-Court 7,Centro Olímpico de Tênis-Qdr 7,Ctro Olímpico de Tenis-Canc. 7,Olympic Tennis Centre - Court 7,Centro Olímpico de Tênis - Quadra 7,Centro Olímpico de Tenis - Cancha 7,OTNWT1
+WT8,OTN,9,Y,Olympic Tennis Centre-Court 8,Centro Olímpico de Tênis-Qdr 8,Ctro Olímpico de Tenis-Canc. 8,Olympic Tennis Centre - Court 8,Centro Olímpico de Tênis - Quadra 8,Centro Olímpico de Tenis - Cancha 8,OTNWT1
+WT9,OTN,10,Y,Olympic Tennis Centre-Court 9,Centro Olímpico de Tênis-Qdr 9,Ctro Olímpico de Tenis-Canc. 9,Olympic Tennis Centre - Court 9,Centro Olímpico de Tênis - Quadra 9,Centro Olímpico de Tenis - Cancha 9,OTNWT1
+YOA,YOA,,Y,Youth Arena,Arena da Juventude,Arena de la Juventud,Youth Arena,Arena da Juventude,Arena de la Juventud,YOAWF1

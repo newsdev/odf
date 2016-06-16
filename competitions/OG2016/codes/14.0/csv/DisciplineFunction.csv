@@ -1,0 +1,99 @@
+Function,Discipline,Order,Category,ENG Description,POR Description,SPA Description,Partic,Results
+AA01,AR,0,A,Athlete,Atleta,Atleta,Y,Y
+COACH,AR,1,C,Coach,Treinador,Entrenador,Y,Y
+AA01,AT,0,A,Athlete,Atleta,Atleta,Y,Y
+AB01,AT,1,G,Guide,Guia,Guía,Y,Y
+AA01,BO,0,A,Athlete,Atleta,Atleta,Y,Y
+RE,BO,1,J,Referee,Árbitro,Árbitro,Y,Y
+AA01,CF,0,A,Athlete,Atleta,Atleta,Y,Y
+COMP_MGR,CF,,S,ICF Competition Manager,Gerente de Competição ICF,Director de la competencia ICF,Y,Y
+JU,CF,,J,Chief Judge,Juiz principal,Director general,Y,Y
+OFFIC,CF,,S,Chief Official,Diretor de prova,Director de árbitros,Y,Y
+OFFIC_AST,CF,,S,Deputy Chief Official,Diretor de prova adjunto,Subdirector de árbitros,Y,Y
+STR,CF,,J,Starter,Juiz de largada,Juez de partida,Y,Y
+UM,CF,,J,Course Umpire,Árbitro da prova,Árbitro de pista o recorrido,Y,Y
+AA01,CR,0,A,Athlete,Atleta,Atleta,Y,Y
+AB01,CR,1,G,Pilot,Piloto,Piloto,Y,Y
+AA01,CT,0,A,Athlete,Atleta,Atleta,Y,Y
+AB01,CT,1,G,Pilot,Piloto,Piloto,Y,Y
+AA01,EQ,0,A,Athlete,Atleta,Atleta,Y,Y
+COACH,EQ,,C,Coach,Treinador,Entrenador,Y,N
+DOCTOR,EQ,,T,Doctor,Médico,Médico,Y,N
+GROOM,EQ,,T,Groom,Tratador,Palafrenero,Y,N
+JUR_ME,EQ,2,J,Jury Member,Membro do júri,Miembro del jurado,Y,Y
+JUR_PR,EQ,1,J,Jury President,Presidente do júri,Presidente del jurado,Y,Y
+OWNER,EQ,,T,Owner,Proprietário,Propietario,Y,N
+PHYSIO,EQ,,T,Physiotherapist,Fisioterapeuta,Fisioterapeuta,Y,N
+TM_MGR,EQ,,T,Manager,Técnico,Entrenador,Y,N
+TM_OFFIC,EQ,,T,Team Official,Oficial de equipe,Oficial del equipo,Y,N
+VET,EQ,,S,Veterinarian,Veterinário,Veterinario,Y,N
+AA01,FB,0,A,Athlete,Atleta,Atleta,Y,Y
+AB01,FB,1,G,Guide,Guia,Guía,Y,Y
+COACH,FB,2,C,Coach,Treinador,Entrenador,Y,Y
+R2,FB,4,J,2nd Referee,Segundo árbitro,Segundo árbitro,Y,Y
+R3,FB,5,J,3rd Referee,Terceiro árbitro,Tercero árbitro,Y,Y
+RE,FB,3,J,Referee,Árbitro,Árbitro,Y,Y
+SPK,FB,7,S,Speaker,Locutor,Locutor,Y,Y
+TK,FB,6,S,Timekeeper,Cronometrista,Cronometrista,Y,Y
+4O,FT,2,S,4th Official,Quarto árbitro,Cuarto árbitro,Y,Y
+AA01,FT,0,A,Athlete,Atleta,Atleta,Y,Y
+AR1,FT,4,J,Assistant Referee 1,Árbitro assistente 1,Árbitro asistente 1,Y,Y
+AR2,FT,5,J,Assistant Referee 2,Árbitro assistente 2,Árbitro asistente 2,Y,Y
+COACH,FT,1,C,Coach,Treinador,Entrenador,Y,Y
+RE,FT,3,J,Referee,Árbitro,Árbitro,Y,Y
+AA01,GB,0,A,Athlete,Atleta,Atleta,Y,Y
+AST_COA,GB,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
+COACH,GB,1,C,Coach,Treinador,Entrenador,Y,Y
+ESC,GB,3,T,Escort,Substituto,Suplente,Y,Y
+OFFIC,GB,5,S,Official,Oficial,Oficial,Y,N
+RE,GB,4,J,Referee,Árbitro,Árbitro,Y,Y
+AA01,JU,0,A,Athlete,Atleta,Atleta,Y,Y
+JU,JU,2,J,Judge,Juiz,Juez,Y,Y
+RE,JU,1,J,Referee,Árbitro,Árbitro,Y,Y
+AA01,PO,0,A,Athlete,Atleta,Atleta,Y,Y
+CHF_RE,PO,2,J,Chief Referee,Árbitro chefe,Juez central,Y,Y
+RE,PO,,J,Referee,Árbitro,Juez,Y,N
+RE_SI1,PO,3,J,Side Referee 1,Árbitro secundário 1,Juez lateral 1,Y,Y
+RE_SI2,PO,4,J,Side Referee 2,Árbitro secundário 2,Juez lateral 2,Y,Y
+TCH_DEL,PO,1,S,Technical Delegate,Delegado técnico,Delegado técnico,Y,Y
+AA01,RO,0,A,Athlete,Atleta,Atleta,Y,Y
+AA01,SA,0,A,Athlete,Atleta,Atleta,Y,Y
+AA01,SH,0,A,Athlete,Atleta,Atleta,Y,Y
+AA01,SW,0,A,Athlete,Atleta,Atleta,Y,Y
+AA01,TR,0,A,Athlete,Atleta,Atleta,Y,Y
+AB01,TR,1,G,Guide,Guia,Guía,Y,Y
+AA01,TT,0,A,Athlete,Atleta,Atleta,Y,Y
+COACH,TT,1,C,Coach,Treinador,Entrenador,Y,N
+UM,TT,2,S,Umpire,Árbitro,Árbitro,Y,Y
+AA01,VS,0,A,Athlete,Atleta,Atleta,Y,Y
+AST_COA,VS,3,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
+COACH,VS,2,C,Coach,Treinador,Entrenador,Y,Y
+DOCTOR,VS,4,T,Doctor,Médico,Médico,Y,Y
+OFFIC,VS,9,S,Official,Oficial,Oficial,Y,N
+R1,VS,7,J,First Referee,Primeiro árbitro,Primer árbitro,Y,Y
+R2,VS,8,J,Second Referee,Segundo árbitro,Segundo árbitro,Y,Y
+RE,VS,6,J,Referee,Árbitro,Árbitro,Y,N
+THERAP,VS,5,T,Therapist,Preparador físico,Preparador físico,Y,Y
+TM_MGR,VS,1,T,Team Manager,Chefe de equipe,Jefe de equipo,Y,Y
+AA01,WB,0,A,Athlete,Atleta,Atleta,Y,Y
+AST_COA,WB,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
+CMM,WB,4,S,Commissioner,Comissário,Comisario,Y,Y
+COACH,WB,1,C,Coach,Treinador,Entrenador,Y,Y
+JUR_ME,WB,3,J,Jury Member,Membro do júri,Miembro del jurado,Y,N
+RE,WB,5,J,Referee,Árbitro,Árbitro,Y,Y
+UM,WB,6,S,Umpire,Árbitro,Árbitro,Y,Y
+AA01,WF,0,A,Athlete,Atleta,Atleta,Y,Y
+AR,WF,4,J,Assistant Referee,Árbitro assistente,Árbitro asistente,Y,Y
+COACH,WF,1,C,Coach,Treinador,Entrenador,Y,Y
+RE,WF,2,J,Referee,Árbitro,Árbitro,Y,Y
+VR,WF,3,S,Video Referee,Árbitro de vídeo,Árbitro de vídeo,Y,Y
+AA01,WR,0,A,Athlete,Atleta,Atleta,Y,Y
+AST_COA,WR,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
+COACH,WR,1,C,Coach,Treinador,Entrenador,Y,Y
+EM,WR,4,T,Equipment Manager,Mecânico,Mecánico,Y,Y
+PHYSIO,WR,5,T,Medical Staff,Equipe médica,Personal médico,Y,Y
+RE,WR,6,J,Referee,Árbitro,Árbitro,Y,Y
+TCH_COM,WR,7,S,Technical Commissioner,Comissário técnico,Comisario técnico,Y,Y
+TM_MGR,WR,3,T,Team Manager,Chefe de equipe,Jefe de equipo,Y,Y
+AA01,WT,0,A,Athlete,Atleta,Atleta,Y,Y
+UR,WT,1,S,Chair Umpire,Árbitro de cadeira,Juez de silla,Y,Y

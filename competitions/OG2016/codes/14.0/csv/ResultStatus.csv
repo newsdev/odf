@@ -1,0 +1,9 @@
+Code,Order,Description
+INTERMEDIATE,3,"When competition is stopped, usued at pre-defined points"
+LIVE,2,For live updates during competition
+OFFICIAL,6,"Results of the competition released as soon as the event is officially confirmed taking into account the resolution of the protests, etc."
+PARTIAL,7,"Incomplete list, Final Ranking. Used in PDF"
+PROTESTED,8,After the competition is no longer LIVE and a protest has been lodged
+START_LIST,1,"Before competition, Start List"
+UNCONFIRMED,4,When the unit is over but not yet unofficial or official
+UNOFFICIAL,5,"Results of the competition released as soon as the event is over, not waiting any official decision of the International Federation. The correctness of data must be assured"

@@ -214,9 +214,9 @@ do
 
 	if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
 		if [ ! -z "$MONGO_HOST" ]; then
-			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${MONGO_HOST}:${MONGO_PORT} --username worker --password ${MONGO_PASSWORD}`
+			`mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${MONGO_HOST}:${MONGO_PORT} --username ${MONGO_USER} --password ${MONGO_PASSWORD}`
 		else
-			`mongoimport --db olympics --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
+			`mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
 		fi
 	fi
 

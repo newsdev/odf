@@ -1,26 +1,10 @@
 #!/bin/bash
 # usage: `cd scripts;bash mongoimport.sh`
 # version number to import codes from, https://github.com/newsdev/odf/tree/master/competitions/OG2016/codes/
-_version="12.1"
+_version="14.0"
 
-# file will be downloaded into this folder from s3 bucket
-_root="/tmp"
-
-# download file into specified $_root folder
-_tar_file="${_version}.common_codes.tar.gz"
-
-# aws path s3://nyt-oly/OG2016/dev/12.0.common_codes.tar.gz
-# aws bucket_host/path http://nyt-oly.s3.amazonaws.com/OG2016/dev/12.0.common_codes.tar.gz
-# aws public http path http://s3.amazonaws.com/nyt-oly/OG2016/dev/12.0.common_codes.tar.gz
-_s3_location="http://s3.amazonaws.com/nyt-oly/OG2016/dev/${_tar_file}"
-
-_full_path="${_root}/${_tar_file}"
-
-echo "Downloading ${_s3_location} into ${_full_path}"
-curl -o "${_full_path}" "${_s3_location}"
-
-echo "Extracting csv files from tar into ${_root}"
-tar zxf "${_full_path}" -C "${_root}/"
+# files are downloaded into this folder from s3 bucket
+_root="/tmp/${_version}"
 
 echo "Starting to read ${_root}/*.csv"
 _dfiles="${_root}/*.csv"
@@ -212,18 +196,11 @@ do
 		;;
 	esac
 
-	if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
-		if [ ! -z "$MONGO_HOST" ]; then
-			`mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${MONGO_HOST}:${MONGO_PORT} --username ${MONGO_USER} --password ${MONGO_PASSWORD}`
-		else
-			`mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
-		fi
-	fi
-
-	echo "deleting ${_file}"
-	rm "${_file}"
+  if [ ! -z "$_collection" ] && [ ! -z "$_file" ]; then
+    if [ ! -z "$MONGO_HOST" ]; then
+      `mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}" --host ${MONGO_HOST}:${MONGO_PORT} --username ${MONGO_USER} --password ${MONGO_PASSWORD}`
+    else
+      `mongoimport --db ${MONGO_DB} --collection codes_"${_collection}" --drop --type csv --headerline --file "${_file}"`
+    fi
+  fi
 done
-
-# cleaning up $_root directory
-echo "deleting ${_full_path}"
-rm "${_full_path}"

@@ -75,7 +75,7 @@ func main() {
 	uri := os.Getenv("MONGODB_URI")
 
 	// Validate provided uri.
-	_, err = mgo.ParseURL(uri)
+	info, err := mgo.ParseURL(uri)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -90,7 +90,7 @@ func main() {
 	// Optional. Switch the session to a monotonic behavior.
 	session.SetMode(mgo.Monotonic, true)
 
-	c := session.DB("olympics").C("codes_event")
+	c := session.DB(info.Database).C("codes_event")
 	for _, event := range Events {
 		// Update
 		log.Println(event.Discipline, event.Gender, event.Event)

@@ -1,99 +1,298 @@
-Function,Discipline,Order,Category,ENG Description,POR Description,SPA Description,Partic,Results
-AA01,AR,0,A,Athlete,Atleta,Atleta,Y,Y
-COACH,AR,1,C,Coach,Treinador,Entrenador,Y,Y
-AA01,AT,0,A,Athlete,Atleta,Atleta,Y,Y
-AB01,AT,1,G,Guide,Guia,Guía,Y,Y
-AA01,BO,0,A,Athlete,Atleta,Atleta,Y,Y
-RE,BO,1,J,Referee,Árbitro,Árbitro,Y,Y
-AA01,CF,0,A,Athlete,Atleta,Atleta,Y,Y
-COMP_MGR,CF,,S,ICF Competition Manager,Gerente de Competição ICF,Director de la competencia ICF,Y,Y
-JU,CF,,J,Chief Judge,Juiz principal,Director general,Y,Y
-OFFIC,CF,,S,Chief Official,Diretor de prova,Director de árbitros,Y,Y
-OFFIC_AST,CF,,S,Deputy Chief Official,Diretor de prova adjunto,Subdirector de árbitros,Y,Y
-STR,CF,,J,Starter,Juiz de largada,Juez de partida,Y,Y
-UM,CF,,J,Course Umpire,Árbitro da prova,Árbitro de pista o recorrido,Y,Y
-AA01,CR,0,A,Athlete,Atleta,Atleta,Y,Y
-AB01,CR,1,G,Pilot,Piloto,Piloto,Y,Y
-AA01,CT,0,A,Athlete,Atleta,Atleta,Y,Y
-AB01,CT,1,G,Pilot,Piloto,Piloto,Y,Y
-AA01,EQ,0,A,Athlete,Atleta,Atleta,Y,Y
-COACH,EQ,,C,Coach,Treinador,Entrenador,Y,N
-DOCTOR,EQ,,T,Doctor,Médico,Médico,Y,N
-GROOM,EQ,,T,Groom,Tratador,Palafrenero,Y,N
-JUR_ME,EQ,2,J,Jury Member,Membro do júri,Miembro del jurado,Y,Y
-JUR_PR,EQ,1,J,Jury President,Presidente do júri,Presidente del jurado,Y,Y
-OWNER,EQ,,T,Owner,Proprietário,Propietario,Y,N
-PHYSIO,EQ,,T,Physiotherapist,Fisioterapeuta,Fisioterapeuta,Y,N
-TM_MGR,EQ,,T,Manager,Técnico,Entrenador,Y,N
-TM_OFFIC,EQ,,T,Team Official,Oficial de equipe,Oficial del equipo,Y,N
-VET,EQ,,S,Veterinarian,Veterinário,Veterinario,Y,N
-AA01,FB,0,A,Athlete,Atleta,Atleta,Y,Y
-AB01,FB,1,G,Guide,Guia,Guía,Y,Y
-COACH,FB,2,C,Coach,Treinador,Entrenador,Y,Y
-R2,FB,4,J,2nd Referee,Segundo árbitro,Segundo árbitro,Y,Y
-R3,FB,5,J,3rd Referee,Terceiro árbitro,Tercero árbitro,Y,Y
-RE,FB,3,J,Referee,Árbitro,Árbitro,Y,Y
-SPK,FB,7,S,Speaker,Locutor,Locutor,Y,Y
-TK,FB,6,S,Timekeeper,Cronometrista,Cronometrista,Y,Y
-4O,FT,2,S,4th Official,Quarto árbitro,Cuarto árbitro,Y,Y
-AA01,FT,0,A,Athlete,Atleta,Atleta,Y,Y
-AR1,FT,4,J,Assistant Referee 1,Árbitro assistente 1,Árbitro asistente 1,Y,Y
-AR2,FT,5,J,Assistant Referee 2,Árbitro assistente 2,Árbitro asistente 2,Y,Y
-COACH,FT,1,C,Coach,Treinador,Entrenador,Y,Y
-RE,FT,3,J,Referee,Árbitro,Árbitro,Y,Y
-AA01,GB,0,A,Athlete,Atleta,Atleta,Y,Y
-AST_COA,GB,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
-COACH,GB,1,C,Coach,Treinador,Entrenador,Y,Y
-ESC,GB,3,T,Escort,Substituto,Suplente,Y,Y
-OFFIC,GB,5,S,Official,Oficial,Oficial,Y,N
-RE,GB,4,J,Referee,Árbitro,Árbitro,Y,Y
-AA01,JU,0,A,Athlete,Atleta,Atleta,Y,Y
-JU,JU,2,J,Judge,Juiz,Juez,Y,Y
-RE,JU,1,J,Referee,Árbitro,Árbitro,Y,Y
-AA01,PO,0,A,Athlete,Atleta,Atleta,Y,Y
-CHF_RE,PO,2,J,Chief Referee,Árbitro chefe,Juez central,Y,Y
-RE,PO,,J,Referee,Árbitro,Juez,Y,N
-RE_SI1,PO,3,J,Side Referee 1,Árbitro secundário 1,Juez lateral 1,Y,Y
-RE_SI2,PO,4,J,Side Referee 2,Árbitro secundário 2,Juez lateral 2,Y,Y
-TCH_DEL,PO,1,S,Technical Delegate,Delegado técnico,Delegado técnico,Y,Y
-AA01,RO,0,A,Athlete,Atleta,Atleta,Y,Y
-AA01,SA,0,A,Athlete,Atleta,Atleta,Y,Y
-AA01,SH,0,A,Athlete,Atleta,Atleta,Y,Y
-AA01,SW,0,A,Athlete,Atleta,Atleta,Y,Y
-AA01,TR,0,A,Athlete,Atleta,Atleta,Y,Y
-AB01,TR,1,G,Guide,Guia,Guía,Y,Y
-AA01,TT,0,A,Athlete,Atleta,Atleta,Y,Y
-COACH,TT,1,C,Coach,Treinador,Entrenador,Y,N
-UM,TT,2,S,Umpire,Árbitro,Árbitro,Y,Y
-AA01,VS,0,A,Athlete,Atleta,Atleta,Y,Y
-AST_COA,VS,3,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
-COACH,VS,2,C,Coach,Treinador,Entrenador,Y,Y
-DOCTOR,VS,4,T,Doctor,Médico,Médico,Y,Y
-OFFIC,VS,9,S,Official,Oficial,Oficial,Y,N
-R1,VS,7,J,First Referee,Primeiro árbitro,Primer árbitro,Y,Y
-R2,VS,8,J,Second Referee,Segundo árbitro,Segundo árbitro,Y,Y
-RE,VS,6,J,Referee,Árbitro,Árbitro,Y,N
-THERAP,VS,5,T,Therapist,Preparador físico,Preparador físico,Y,Y
-TM_MGR,VS,1,T,Team Manager,Chefe de equipe,Jefe de equipo,Y,Y
-AA01,WB,0,A,Athlete,Atleta,Atleta,Y,Y
-AST_COA,WB,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
-CMM,WB,4,S,Commissioner,Comissário,Comisario,Y,Y
-COACH,WB,1,C,Coach,Treinador,Entrenador,Y,Y
-JUR_ME,WB,3,J,Jury Member,Membro do júri,Miembro del jurado,Y,N
-RE,WB,5,J,Referee,Árbitro,Árbitro,Y,Y
-UM,WB,6,S,Umpire,Árbitro,Árbitro,Y,Y
-AA01,WF,0,A,Athlete,Atleta,Atleta,Y,Y
-AR,WF,4,J,Assistant Referee,Árbitro assistente,Árbitro asistente,Y,Y
-COACH,WF,1,C,Coach,Treinador,Entrenador,Y,Y
-RE,WF,2,J,Referee,Árbitro,Árbitro,Y,Y
-VR,WF,3,S,Video Referee,Árbitro de vídeo,Árbitro de vídeo,Y,Y
-AA01,WR,0,A,Athlete,Atleta,Atleta,Y,Y
-AST_COA,WR,2,C,Assistant Coach,Assistente técnico,Entrenador asistente,Y,Y
-COACH,WR,1,C,Coach,Treinador,Entrenador,Y,Y
-EM,WR,4,T,Equipment Manager,Mecânico,Mecánico,Y,Y
-PHYSIO,WR,5,T,Medical Staff,Equipe médica,Personal médico,Y,Y
-RE,WR,6,J,Referee,Árbitro,Árbitro,Y,Y
-TCH_COM,WR,7,S,Technical Commissioner,Comissário técnico,Comisario técnico,Y,Y
-TM_MGR,WR,3,T,Team Manager,Chefe de equipe,Jefe de equipo,Y,Y
-AA01,WT,0,A,Athlete,Atleta,Atleta,Y,Y
-UR,WT,1,S,Chair Umpire,Árbitro de cadeira,Juez de silla,Y,Y
+Function,Discipline,Order,Category,ENG Description,FRA Description,POR Description,SPA Description,Partic,Results
+AA01,AR,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+COACH,AR,1,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+AA01,AT,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+P01,AT,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+AA01,BD,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+SJ,BD,2,J,Service Judge,Juge de service,Juiz de serviço,Juez de servicio,Y,Y
+UM,BD,1,S,Umpire,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,BK,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AST_COA,BK,2,C,Assistant Coach,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,Y
+CMM,BK,4,S,Commissioner,Commissaire,Comissário,Comisario,Y,Y
+COACH,BK,1,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+JUR_ME,BK,3,J,Jury Member,Membre du jury,Membro do júri,Miembro del jurado,Y,N
+RE,BK,5,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+UM,BK,6,S,Umpire,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,BV,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+Line_Judge,BV,5,J,Line Judge,Juge de ligne,Árbitro de linha,Juez de línea,Y,N
+OFFIC,BV,4,S,Official,Officiel,Oficial,Oficial,Y,N
+R1,BV,2,J,1st Referee,Premier arbitre,Primeiro árbitro,Primer árbitro,Y,Y
+R2,BV,3,J,2nd Referee,Second arbitre,Segundo árbitro,Segundo árbitro,Y,Y
+RE,BV,1,J,Referee,Arbitre,Árbitro ,Árbitro,Y,N
+SK,BV,6,S,Scorer,Marqueur,Anotador,Anotador,y,N
+AA01,BX,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+J1,BX,4,J,Judge 1,Juge 1,Juiz 1,Juez 1,Y,Y
+J2,BX,5,J,Judge 2,Juge 2,Juiz 2,Juez 2,Y,Y
+J3,BX,6,J,Judge 3,Juge 3,Juiz 3,Juez 3,Y,Y
+J4,BX,7,J,Judge 4,Juge 4,Juiz 4,Juez 4,Y,Y
+J5,BX,8,J,Judge 5,Juge 5,Juiz 5,Juez 5,Y,Y
+JU,BX,3,J,Judge,Juge,Juiz,Juez,Y,N
+P03,BX,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+RE,BX,2,J,Referee,Arbitre,Árbitro ,Árbitro,Y,Y
+AA01,CB,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+P01,CB,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+AA01,CF,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+COMP_MGR,CF,,S,ICF Competition Manager,Directeur de Compétition ICF,Gerente de Competição ICF,Director de la competencia ICF,Y,Y
+JU,CF,,J,Chief Judge,Juge arbitre,Juiz principal,Director general,Y,Y
+OFFIC,CF,,S,Chief Official,Officiel en chef,Diretor de prova,Director de árbitros,Y,Y
+OFFIC_AST,CF,,S,Deputy Chief Official,Officiel en chef assistant,Diretor de prova adjunto,Subdirector de árbitros,Y,Y
+P03,CF,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+STR,CF,,J,Starter,Juge de départ,Juiz de largada,Juez de partida,Y,Y
+UM,CF,,J,Course Umpire,Juge de parcours,Árbitro da prova,Árbitro de pista o recorrido,Y,Y
+AA01,CM,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,CR,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,CS,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,CT,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+P01,CT,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+A1,DV,,J,Judge 1 of the Panel A,Juge 1 du panel A,Juiz 1 do painel A,Juez 1 del panel A,Y,Y
+A2,DV,,J,Judge 2 of the Panel A,Juge 2 du panel A,Juiz 2 do painel A,Juez 2 del panel A,Y,Y
+A3,DV,,J,Judge 3 of the Panel A,Juge 3 du panel A,Juiz 3 do painel A,Juez 3 del panel A,Y,Y
+A4,DV,,J,Judge 4 of the Panel A,Juge 4 du panel A,Juiz 4 do painel A,Juez 4 del panel A,Y,Y
+A5,DV,,J,Judge 5 of the Panel A,Juge 5 du panel A,Juiz 5 do painel A,Juez 5 del panel A,Y,Y
+A6,DV,,J,Judge 6 of the Panel A,Juge 6 du panel A,Juiz 6 do painel A,Juez 6 del panel A,Y,Y
+A7,DV,,J,Judge 7 of the Panel A,Juge 7 du panel A,Juiz 7 do painel A,Juez 7 del panel A,Y,Y
+AA01,DV,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+ALT_JDG,DV,,J,Alternate Judge,Juge remplaçant,Juiz reserva,Juez suplente,Y,Y
+AR,DV,,J,Assistant Referee,Arbitre assistant,Árbitro assistente,Árbitro asistente,Y,Y
+B1,DV,,J,Judge 1 of the Panel B,Juge 1 du panel B,Juiz 1 do painel B,Juez 1 del panel B,Y,Y
+B2,DV,,J,Judge 2 of the Panel B,Juge 2 du panel B,Juiz 2 do painel B,Juez 2 del panel B,Y,Y
+B3,DV,,J,Judge 3 of the Panel B,Juge 3 du panel B,Juiz 3 do painel B,Juez 3 del panel B,Y,Y
+B4,DV,,J,Judge 4 of the Panel B,Juge 4 du panel B,Juiz 4 do painel B,Juez 4 del panel B,Y,Y
+B5,DV,,J,Judge 5 of the Panel B,Juge 5 du panel B,Juiz 5 do painel B,Juez 5 del panel B,Y,Y
+B6,DV,,J,Judge 6 of the Panel B,Juge 6 du panel B,Juiz 6 do painel B,Juez 6 del panel B,Y,Y
+B7,DV,,J,Judge 7 of the Panel B,Juge 7 du panel B,Juiz 7 do painel B,Juez 7 del panel B,Y,Y
+E1,DV,,J,Execution Judge 1,Juge d'exécution 1,Juiz de execução 1,Juez de ejecución 1,Y,Y
+E2,DV,,J,Execution Judge 2,Juge d'exécution 2,Juiz de execução 2,Juez de ejecución 2,Y,Y
+E3,DV,,J,Execution Judge 3,Juge d'exécution 3,Juiz de execução 3,Juez de ejecución 3,Y,Y
+E4,DV,,J,Execution Judge 4,Juge d'exécution 4,Juiz de execução 4,Juez de ejecución 4,Y,Y
+E5,DV,,J,Execution Judge 5,Juge d'exécution 5,Juiz de execução 5,Juez de ejecución 5,Y,Y
+E6,DV,,J,Execution Judge 6,Juge d'exécution 6,Juiz de execução 6,Juez de ejecución 6,Y,Y
+J1,DV,,J,Judge 1,Juge 1,Juiz 1,Juez 1,Y,Y
+J2,DV,,J,Judge 2,Juge 2,Juiz 2,Juez 2,Y,Y
+J3,DV,,J,Judge 3,Juge 3,Juiz 3,Juez 3,Y,Y
+J4,DV,,J,Judge 4,Juge 4,Juiz 4,Juez 4,Y,Y
+J5,DV,,J,Judge 5,Juge 5,Juiz 5,Juez 5,Y,Y
+J6,DV,,J,Judge 6,Juge 6,Juiz 6,Juez 6,Y,Y
+J7,DV,,J,Judge 7,Juge 7,Juiz 7,Juez 7,Y,Y
+JU,DV,,J,Judge,Juge,Juiz,Juez,Y,N
+RE,DV,,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+S1,DV,,J,Synchronisation judge 1,Juge de synchronisation 1,Juiz de sincronização 1,Juez de sincronización 1,Y,Y
+S2,DV,,J,Synchronisation judge 2,Juge de synchronisation 2,Juiz de sincronização 2,Juez de sincronización 2,Y,Y
+S3,DV,,J,Synchronisation judge 3,Juge de synchronisation 3,Juiz de sincronização 3,Juez de sincronización 3,Y,Y
+S4,DV,,J,Synchronisation judge 4,Juge de synchronisation 4,Juiz de sincronização 4,Juez de sincronización 4,Y,Y
+S5,DV,,J,Synchronisation judge 5,Juge de synchronisation 5,Juiz de sincronização 5,Juez de sincronización 5,Y,Y
+AA01,EQ,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+COACH,EQ,,C,Coach,Entraîneur,Treinador,Entrenador,Y,N
+DOCTOR,EQ,,T,Doctor,Médecin,Médico,Médico,Y,N
+GROOM,EQ,,T,Groom,Palefrenier,Tratador,Palafrenero,Y,N
+JUR_ME,EQ,3,J,Jury Member,Membre du jury,Membro do júri,Miembro del jurado,Y,Y
+JUR_PR,EQ,2,J,Jury President,Président du jury,Presidente do júri,Presidente del jurado,Y,Y
+OWNER,EQ,,T,Owner,Propriétaire,Proprietário,Propietario,Y,N
+P01,EQ,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+PHYSIO,EQ,,T,Physiotherapist,Physiothérapeute,Fisioterapeuta,Fisioterapeuta,Y,N
+TM_MGR,EQ,,T,Manager,Entraîneur,Técnico,Entrenador,Y,N
+TM_OFFIC,EQ,,T,Team Official,Officiel d'équipe,Oficial de equipe,Oficial del equipo,Y,N
+VET,EQ,,S,Veterinarian,Vétérinaire,Veterinário,Veterinario,Y,N
+4O,FB,3,S,4th Official,Quatrième officiel,Quarto árbitro,Cuarto árbitro,Y,Y
+AA01,FB,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AR1,FB,5,J,Assistant Referee 1,Arbitre assistant 1,Árbitro assistente 1,Árbitro asistente 1,Y,Y
+AR2,FB,6,J,Assistant Referee 2,Arbitre assistant 2,Árbitro assistente 2,Árbitro asistente 2,Y,Y
+COACH,FB,2,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+GC,FB,9,S,General Coordinator,Coordinateur général,Coordenador geral,Coordinador general,Y,Y
+MCS,FB,8,S,Match Commissioner,Commissaire de match,Comissário do jogo,Comisario de partido,Y,Y
+P01,FB,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+RAR,FB,7,J,Reserve Assistant Referee,Arbitre assistant de réserve,Árbitro assistente reserva,Árbitro asistente suplente,Y,Y
+RE,FB,4,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,FE,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AR,FE,5,J,Assistant Referee,Arbitre assistant,Árbitro assistente,Árbitro asistente,Y,Y
+COACH,FE,2,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+P01,FE,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+RE,FE,3,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+VR,FE,4,S,Video Referee,Arbitre vidéo,Árbitro de vídeo,Árbitro de vídeo,Y,Y
+AA01,GA,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AST_COA,GA,2,C,Assistant Coach,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,N
+COACH,GA,1,C,Coach,Entraîneur,Treinador,Entrenador,Y,N
+D1,GA,,J,Difficulty Judge 1,Juge de difficulté 1,Árbitro de dificuldade 1 (JD1),Juez de dificultad 1,Y,Y
+D2,GA,,J,Difficulty Judge 2,Juge de difficulté 2,Árbitro de dificuldade 2 (JD2),Juez de dificultad 2,Y,Y
+E1,GA,,J,Execution Judge 1,Juge d'exécution 1,Árbitro de execução 1,Juez de ejecución 1,Y,Y
+E2,GA,,J,Execution Judge 2,Juge d'exécution 2,Árbitro de execução 2,Juez de ejecución 2,Y,Y
+E3,GA,,J,Execution Judge 3,Juge d'exécution 3,Árbitro de execução 3,Juez de ejecución 3,Y,Y
+E4,GA,,J,Execution Judge 4,Juge d'exécution 4,Árbitro de execução 4,Juez de ejecución 4,Y,Y
+E5,GA,,J,Execution Judge 5,Juge d'exécution 5,Árbitro de execução 5,Juez de ejecución 5,Y,Y
+ER1,GA,,J,Execution Reference Judge 1,Juge de référence d'exécution 1,Árbitro de referência de execução 1,Juez de referencia de ejecución 1,Y,Y
+ER2,GA,,J,Execution Reference Judge 2,Juge de référence d'exécution 2,Árbitro de referência de execução 2,Juez de referencia de ejecución 2,Y,Y
+JU,GA,,J,Judge,Juge,Árbitro,Juez,Y,N
+Line_Judge,GA,,J,Line Judge,Juge de ligne,Árbitro de linha,Juez de línea,Y,Y
+Line_Judge_1,GA,,J,Line Judge 1,Juge de ligne 1,Árbitro de linha 1,Juez de línea 1,Y,Y
+Line_Judge_2,GA,,J,Line Judge 2,Juge de ligne 2,Árbitro de linha 2,Juez de línea 2,Y,Y
+ME,GA,,S,Member,Membre,Membro,Miembro,Y,Y
+PR,GA,,S,President,Président,Presidente,Presidente,Y,Y
+SUP_BB,GA,,J,Beam Supervisor,Superviseur poutre,Supervisor de barra de equilíbrio,Supervisor de viga de equilibrio,Y,Y
+SUP_F,GA,,J,Floor Supervisor,Superviseur sol,Supervisor de solo,Supervisor de suelo,Y,Y
+SUP_HB,GA,,J,Horizontal Bar Supervisor,Superviseur barre fixe,Supervisor de barra fixa,Supervisor de barra fija,Y,Y
+SUP_PB,GA,,J,Parallel Bars Supervisor,Superviseur barres parallèles,Supervisor de barras paralelas,Supervisor de barras paralelas,Y,Y
+SUP_PH,GA,,J,Pommel Horse Supervisor,Superviseur cheval d'arçons,Supervisor de cavalo com alças,Supervisor de caballo con arzones,Y,Y
+SUP_SR,GA,,J,Rings Supervisor,Superviseur anneaux,Supervisor de argolas,Supervisor de anillas,Y,Y
+SUP_UB,GA,,J,Uneven Bars Supervisor,Superviseur barres asymétriques,Supervisor de barras assimétricas,Supervisor de barras asimétricas,Y,Y
+SUP_V,GA,,J,Vault Supervisor,Superviseur saut de cheval,Supervisor de salto,Supervisor de salto,Y,Y
+Time_Judge,GA,,J,Time Judge,Juge chronométreur,Árbitro cronometrista,Juez de tiempo,Y,Y
+Time_Judge_1,GA,,J,Time Judge 1,Juge chronométreur 1,Árbitro cronometrista 1,Juez de tiempo 1,Y,Y
+Time_Judge_2,GA,,J,Time Judge 2,Juge chronométreur 2,Árbitro cronometrista 2,Juez de tiempo 2,Y,Y
+AA01,GO,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+CADDY,GO,,T,Caddy,Caddy,Caddy,Caddie,Y,N
+AA01,GR,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+CHOR,GR,2,T,Choreographer,Chorégraphe,Coreógrafo,Coreógrafo,Y,N
+COACH,GR,1,C,Coach,Entraîneur,Treinador,Entrenador,Y,N
+D1,GR,,J,Difficulty Judge 1,Juge de difficulté 1,Árbitro de dificuldade 1 (JD1),Juez de dificultad 1,Y,Y
+D2,GR,,J,Difficulty Judge 2,Juge de difficulté 2,Árbitro de dificuldade 2 (JD2),Juez de dificultad 2,Y,Y
+D3,GR,,J,Difficulty Judge 3,Juge de difficulté 3,Árbitro de dificuldade 3 (JD3),Juez de dificultad 3,Y,Y
+D4,GR,,J,Difficulty Judge 4,Juge de difficulté 4,Árbitro de dificuldade 4 (JD4),Juez de dificultad 4,Y,Y
+DR1,GR,,J,Difficulty Reference Judge 1,Juge de référence à la difficulté 1,Árbitro de referência de dificuldade 1,Juez de referencia de dificultad 1,Y,Y
+DR2,GR,,J,Difficulty Reference Judge 2,Juge de référence à la difficulté 2,Árbitro de referência de dificuldade 2,Juez de referencia de dificultad 2,Y,Y
+E1,GR,,J,Execution Judge 1,Juge d'exécution 1,Árbitro de execução 1,Juez de ejecución 1,Y,Y
+E2,GR,,J,Execution Judge 2,Juge d'exécution 2,Árbitro de execução 2,Juez de ejecución 2,Y,Y
+E3,GR,,J,Execution Judge 3,Juge d'exécution 3,Árbitro de execução 3,Juez de ejecución 3,Y,Y
+E4,GR,,J,Execution Judge 4,Juge d'exécution 4,Árbitro de execução 4,Juez de ejecución 4,Y,Y
+E5,GR,,J,Execution Judge 5,Juge d'exécution 5,Árbitro de execução 5,Juez de ejecución 5,Y,Y
+ER1,GR,,J,Execution Reference Judge 1,Juge de référence d'exécution 1,Árbitro de referência de execução 1,Juez de referencia de ejecución 1,Y,Y
+ER2,GR,,J,Execution Reference Judge 2,Juge de référence d'exécution 2,Árbitro de referência de execução 2,Juez de referencia de ejecución 2,Y,Y
+JU,GR,,J,Judge,Juge,Árbitro,Juez,Y,N
+Line_Judge_1,GR,,J,Line Judge 1,Juge de ligne 1,Árbitro de linha 1,Juez de línea 1,Y,Y
+Line_Judge_2,GR,,J,Line Judge 2,Juge de ligne 2,Árbitro de linha 2,Juez de línea 2,Y,Y
+ME,GR,,S,Member,Membre,Membro,Miembro,Y,Y
+PR,GR,,S,President,Président,Presidente,Presidente,Y,Y
+SUP_3C2H,GR,,J,Difficulty 3 Pairs of Clubs + 2 Hoops Supervisor,Superviseur de difficulté 3 paires de massues + 2 cerceaux,Supervisor de dificuldade de 3 pares de maças + 2 arcos,Supervisor de dificultad de 3 pares de mazas + 2 aros,Y,Y
+SUP_5R,GR,,J,Difficulty 5 Ribbons Supervisor,Superviseur de difficulté de 5 rubans,Supervisor de dificuldade de 5 fitas,Supervisor de dificultad de 5 cintas,Y,Y
+SUP_B,GR,,J,Ball Supervisor,Superviseur ballon,Supervisor de bola,Supervisor de pelota,Y,Y
+SUP_BH,GR,,J,Difficulty Ball & Hoop Supervisor,Superviseur de difficulté de ballon et cerceau,Supervisor de dificuldade de bolas e arco,Supervisor de dificultad de pelota y aro,Y,Y
+SUP_BR,GR,,J,Difficulty Ball & Ribbon Supervisor,Superviseur de difficulté de ballon et ruban,Supervisor de dificuldade de bolas e fita,Supervisor de dificultad de pelota y cinta,Y,Y
+SUP_C,GR,,J,Clubs Supervisor,Superviseur massues,Supervisor de maças,Supervisor de mazas,Y,Y
+SUP_CH,GR,,J,Difficulty Clubs & Hoop Supervisor,Superviseur de difficulté de massues et cerceau,Supervisor de dificuldade de maças e arco,Supervisor de dificultad de mazas y aro,Y,Y
+SUP_CR,GR,,J,Difficulty Clubs & Ribbon Supervisor,Superviseur de difficulté de massues et ruban,Supervisor de dificuldade de maças e fita,Supervisor de dificultad de mazas y cinta,Y,Y
+SUP_ES,GR,,J,Execution Supervisor,Superviseur d'exécution,Supervisor de execução,Supervisor de ejecución,Y,Y
+SUP_H,GR,,J,Hoop Supervisor,Superviseur cerceau,Supervisor de arco,Supervisor de aro,Y,Y
+SUP_HB,GR,,J,Difficulty Hoop & Ball Supervisor,Superviseur de difficulté de cerceau et ballon,Supervisor de dificuldade de arco e bolas,Supervisor de dificultad de aro y pelota,Y,Y
+SUP_HC,GR,,J,Difficulty Hoop & Clubs Supervisor,Superviseur de difficulté de cerceau et massues,Supervisor de dificuldade de arco e maças,Supervisor de dificultad de aro y mazas,Y,Y
+SUP_R,GR,,J,Ribbon Supervisor,Superviseur ruban,Supervisor de fita,Supervisor de cinta,Y,Y
+SUP_RB,GR,,J,Difficulty Ribbon & Ball Supervisor,Superviseur de difficulté de ruban et ballon,Supervisor de dificuldade de fita e bolas,Supervisor de dificultad de cinta y pelotas,Y,Y
+SUP_RC,GR,,J,Difficulty Ribbon & Clubs Supervisor,Superviseur de difficulté de ruban et massues,Supervisor de dificuldade de fita e maças,Supervisor de dificultad de cinta y mazas,Y,Y
+Time_Judge,GR,,J,Time Judge,Juge chronométreur,Árbitro cronometrista,Juez de cronometraje,Y,Y
+AA01,GT,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+CJP,GT,,J,Chair of Judges' Panel,Juge arbitre,Presidente do painel de juízes,Juez coordinador,Y,Y
+D1,GT,,J,Difficulty Judge 1,Juge de difficulté 1,Árbitro de dificuldade 1 (JD1),Juez de dificultad 1,Y,Y
+D2,GT,,J,Difficulty Judge 2,Juge de difficulté 2,Árbitro de dificuldade 2 (JD2),Juez de dificultad 2,Y,Y
+E1,GT,,J,Execution Judge 1,Juge d'exécution 1,Juiz de execução 1,Juez de ejecución 1,Y,Y
+E2,GT,,J,Execution Judge 2,Juge d'exécution 2,Juiz de execução 2,Juez de ejecución 2,Y,Y
+E3,GT,,J,Execution Judge 3,Juge d'exécution 3,Juiz de execução 3,Juez de ejecución 3,Y,Y
+E4,GT,,J,Execution Judge 4,Juge d'exécution 4,Juiz de execução 4,Juez de ejecución 4,Y,Y
+E5,GT,,J,Execution Judge 5,Juge d'exécution 5,Juiz de execução 5,Juez de ejecución 5,Y,Y
+JU,GT,,J,Judge,Juge,Juiz,Juez,Y,N
+ME,GT,,S,Member,Membre,Membro,Miembro,Y,Y
+PR,GT,,S,President,Président,Presidente,Presidente,Y,Y
+T,GT,,J,Time of Flight Judge,Juge au temps de vol,Árbitro de tempo de voo,Juez de tiempo de vuelo,Y,Y
+AA01,HB,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AST_COA,HB,3,C,Assistant Coach,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,Y
+COACH,HB,2,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+DOCTOR,HB,5,T,Doctor,Médecin,Médico,Médico,Y,Y
+OFFIC,HB,7,S,Official,Officiel,Oficial,Oficial,Y,Y
+P01,HB,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+PHYSIO,HB,6,T,Physiotherapist,Physiothérapeute,Fisioterapeuta,Fisioterapeuta,Y,Y
+RE,HB,8,J,Referee,Arbitre,Árbitro ,Árbitro,Y,Y
+RR,HB,9,J,Reserve Referee,Arbitre de réserve,Árbitro reserva,Árbitro suplente,Y,Y
+SK,HB,11,S,Scorekeeper,Marqueur,Anotador,Anotador,Y,Y
+TK,HB,10,S,Timekeeper,Chronométreur,Cronometrista,Cronometrador,Y,Y
+TM_OFFIC,HB,4,T,Team Official,Officiel d'équipe,Oficial de equipe,Oficial del equipo,Y,Y
+AA01,HO,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AST_COA,HO,4,C,Assistant Coach,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,Y
+ATD,HO,13,S,Assistant Technical Delegate,Délégué technique assistant,Delegado técnico assistente,Delegado técnico asistente,Y,Y
+COACH,HO,3,C,Head Coach,Entraîneur chef,Treinador principal,Entrenador principal,Y,Y
+DOCTOR,HO,6,T,Doctor,Médecin,Médico,Médico,Y,Y
+JU,HO,11,J,Judge,Juge,Juiz,Juez,Y,Y
+P01,HO,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+PHYSIO,HO,7,T,Physiotherapist,Physiothérapeute,Fisioterapeuta,Fisioterapeuta,Y,Y
+RU,HO,10,S,Reserve Umpire,Arbitre de réserve,Árbitro reserva,Árbitro suplente,Y,Y
+SI_MGR,HO,5,T,Stand-in Manager,Entraîneur remplaçant,Técnico interino,Entrenador suplente,Y,Y
+TCH_DEL,HO,12,S,Technical Delegate,Délégué technique,Delegado técnico,Delegado técnico,Y,Y
+TM_MGR,HO,2,T,Manager,Entraîneur,Técnico,Entrenador,Y,Y
+UM,HO,8,S,Umpire,Arbitre,Árbitro,Árbitro,Y,Y
+VU,HO,9,S,Video Umpire,Arbitre vidéo,Árbitro de vídeo,Árbitro de vídeo,Y,Y
+AA01,JU,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+JU,JU,3,J,Judge,Juge,Juiz,Juez,Y,Y
+P03,JU,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+RE,JU,2,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,MP,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,OW,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,RO,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+P01,RO,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+AA01,RU,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AR,RU,6,J,Assistant Referee,Arbitre assistant,Árbitro assistente,Árbitro asistente,Y,Y
+COACH,RU,2,C,Head Coach,Entraîneur chef,Treinador principal,Entrenador principal,Y,Y
+GOAL_J,RU,7,J,In-goal Judge,Juge d'en-but,Juiz de In-goal,Juez de in-goal,Y,Y
+PHYSIO,RU,3,T,Physiotherapist,Physiothérapeute,Fisioterapeuta,Fisioterapeuta,Y,Y
+RE,RU,5,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+TM_MGR,RU,1,T,Manager,Entraîneur,Gerente de Equipe,Entrenador,Y,Y
+TM_MGR_A,RU,4,T,Management Assistant,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,Y
+AA01,SA,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,SH,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,SW,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,SY,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AR,SY,4,J,Assistant Referee,Arbitre assistant,Árbitro assistente,Árbitro asistente,Y,Y
+CHOR,SY,2,T,Choreographer,Chorégraphe,Coreógrafo,Coreógrafo,Y,N
+COACH,SY,1,C,Coach,Entraîneur,Treinador,Entrenador,Y,N
+J1,SY,6,J,Judge 1,Juge 1,Juiz 1,Juez 1,Y,Y
+J2,SY,7,J,Judge 2,Juge 2,Juiz 2,Juez 2,Y,Y
+J3,SY,8,J,Judge 3,Juge 3,Juiz 3,Juez 3,Y,Y
+J4,SY,9,J,Judge 4,Juge 4,Juiz 4,Juez 4,Y,Y
+J5,SY,10,J,Judge 5,Juge 5,Juiz 5,Juez 5,Y,Y
+JU,SY,5,J,Judge,Juge,Juiz,Juez,Y,N
+RE,SY,3,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,TE,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+P03,TE,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+UR,TE,2,S,Chair Umpire,Arbitre de chaise,Árbitro de cadeira,Juez de silla,Y,Y
+AA01,TK,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+JU,TK,3,J,Judge,Juge,Juiz,Juez,Y,Y
+P03,TK,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+RE,TK,2,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+REV_JDG,TK,4,J,Review Jury,Jury de revue,Júri de revisão,Jurado de revisión,Y,Y
+AA01,TR,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AA01,TT,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+COACH,TT,2,C,Coach,Entraîneur,Treinador,Entrenador,Y,N
+P01,TT,1,A,Alternate Athlete,Athlète Remplaçant,Atleta reserva,Atleta suplente,Y,N
+UM,TT,3,S,Umpire,Arbitre,Árbitro,Árbitro,Y,Y
+AA01,VO,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+AST_COA,VO,3,C,Assistant Coach,Entraîneur assistant,Assistente técnico,Entrenador asistente,Y,Y
+COACH,VO,2,C,Coach,Entraîneur,Treinador,Entrenador,Y,Y
+DOCTOR,VO,4,T,Doctor,Médecin,Médico,Médico,Y,Y
+OFFIC,VO,9,S,Official,Officiel,Oficial,Oficial,Y,N
+R1,VO,7,J,First Referee,Premier arbitre,Primeiro árbitro,Primer árbitro,Y,Y
+R2,VO,8,J,Second Referee,Second arbitre,Segundo árbitro,Segundo árbitro,Y,Y
+RE,VO,6,J,Referee,Arbitre,Árbitro,Árbitro,Y,N
+THERAP,VO,5,T,Therapist/Trainer,Thérapeute / coach,Preparador físico,Preparador físico,Y,Y
+TM_MGR,VO,1,T,Team Manager,Directeur d'équipe,Chefe de equipe,Jefe de equipo,Y,Y
+AA01,WL,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+CHF_MAR,WL,7,S,Chief Marshal,Chief Marshal,Marshal principal,Jefe marshal,Y,Y
+DOC_DTY,WL,11,S,Doctor on duty,Médecin de service,Médico escalado,Médico de guardia,Y,Y
+JUR_ME,WL,3,J,Jury Member,Membre du jury,Membro do júri,Miembro del jurado,Y,Y
+JUR_PR,WL,2,J,Jury President,Président du jury,Presidente do júri,Presidente del jurado,Y,Y
+RE,WL,5,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+RE_CEN,WL,4,J,Centre Referee,Arbitre central,Árbitro central,Árbitro central,Y,Y
+RR,WL,6,J,Reserve Referee,Arbitre de réserve,Árbitro reserva,Árbitro suplente,Y,Y
+SCT_OFF,WL,10,S,Competition Secretary,Secrétaire de compétition,Secretário de competição,Secretario de la competencia,Y,Y
+TCH_CTR,WL,9,S,Technical Controller,Contrôleur technique,Controlador técnico,Controlador técnico,Y,Y
+TCH_DEL,WL,1,S,Technical Delegate,Délégué technique,Delegado técnico,Delegado técnico,Y,Y
+TK,WL,8,S,Timekeeper,Chronométreur,Cronometrista,Cronometrista,Y,Y
+AA01,WP,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+COACH,WP,1,C,Head Coach,Entraîneur chef,Treinador principal,Entrenador principal,Y,Y
+GOAL_J,WP,4,J,Goal Judge,Juge de but,Juiz de gol,Juez de in-goal,Y,Y
+JU,WP,3,J,Judge,Juge,Juiz,Juez,Y,N
+RE,WP,9,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y
+SEC,WP,8,S,Secretary,Secrétaire,Secretário,Secretario,Y,Y
+TK,WP,5,S,Timekeeper,Chronométreur,Cronometrista,Cronometrista,Y,Y
+TM_OFFIC,WP,2,T,Official,Officiel,Oficial,Oficial,Y,Y
+TO_J,WP,7,J,TO Judge,Juge TM,Juiz de TO,Juez TF,Y,Y
+TWPC,WP,6,S,TWPC Delegate,Membre CTWP,Delegado do Comitê Técnico de Polo Aquático,Delegado TWPC,Y,Y
+AA01,WR,0,A,Athlete,Athlète,Atleta,Atleta,Y,Y
+JU,WR,4,J,Judge,Juge,Juiz,Juez,Y,Y
+MC,WR,2,S,Mat Chairman,Chef de tapis,Mediador,Presidente de colchón,Y,Y
+P03,WR,1,C,Training Partner,Partenaire d'entraînement,Parceiro de treino,Compañero de entrenamiento,Y,N
+RE,WR,3,J,Referee,Arbitre,Árbitro,Árbitro,Y,Y

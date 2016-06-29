@@ -1,25 +1,30 @@
-Id,ENG Description,POR Description,SPA Description
-AR,Archery,Tiro com Arco,Tiro con arco
-AT,Athletics,Atletismo,Atletismo
-BO,Boccia,Bocha,Bocha
-CA,Canoe,Canoagem,Canotaje
-CE,Ceremonies,Cerimônias,Ceremonias
-CY,Cycling,Ciclismo,Ciclismo
-EQ,Equestrian,Hipismo,Ecuestre
-FB,Football 5-a-side,Futebol de 5,Fútbol a 5
-FT,Football 7-a-side,Futebol de 7,Fútbol a 7
-GB,Goalball,Goalball,Goalball
-JU,Judo,Judô,Judo
-PO,Powerlifting,Halterofilismo,Levantamiento de pesas
-RO,Rowing,Remo,Remo
-SA,Sailing,Vela,Vela
-SH,Shooting,Tiro Esportivo,Tiro
-SW,Swimming,Natação,Natación
-TR,Triathlon,Triatlo,Triatlón
-TT,Table Tennis,Tênis de Mesa,Tenis de mesa
-VS,Sitting Volleyball,Voleibol Sentado,Voleibol sentado
-WB,Wheelchair Basketball,Basquetebol em Cadeira de Roda,Baloncesto en silla de ruedas
-WF,Wheelchair Fencing,Esgrima em Cadeira de Rodas,Esgrima en silla de ruedas
-WR,Wheelchair Rugby,Rugby em Cadeira de Rodas,Rugby en silla de ruedas
-WT,Wheelchair Tennis,Tênis em Cadeira de Rodas,Tenis en silla de ruedas
-XX,More than one Sport,Multi-esporte,Más de un deporte
+Id,ENG Description,FRA Description,POR Description,SPA Description
+AQ,Aquatics,Natation,Desportos Aquáticos,Deportes acuáticos
+AR,Archery,Tir à l'arc,Tiro com Arco,Tiro con arco
+AT,Athletics,Athlétisme,Atletismo,Atletismo
+BD,Badminton,Badminton,Badminton,Bádminton
+BK,Basketball,Basketball,Basquetebol,Baloncesto
+BX,Boxing,Boxe,Boxe,Boxeo
+CA,Canoe,Canoë-kayak,Canoagem,Canotaje
+CY,Cycling,Cyclisme,Ciclismo,Ciclismo
+EQ,Equestrian,Sports équestres,Hipismo,Ecuestre
+FB,Football,Football,Futebol,Fútbol
+FE,Fencing,Escrime,Esgrima,Esgrima
+GO,Golf,Golf,Golfe,Golf
+GY,Gymnastics,Gymnastique,Ginástica,Gimnasia
+HB,Handball,Handball,Handebol,Balonmano
+HO,Hockey,Hockey,Hóquei sobre Grama,Hockey sobre césped
+JU,Judo,Judo,Judô,Judo
+MP,Modern Pentathlon,Pentathlon moderne,Pentatlo Moderno,Pentatlón moderno
+RO,Rowing,Aviron,Remo,Remo
+RU,Rugby Sevens,Rugby à 7,Rugby de 7,Rugby a siete
+SA,Sailing,Voile,Vela,Vela
+SH,Shooting,Tir,Tiro Esportivo,Tiro
+TE,Tennis,Tennis,Tênis,Tenis
+TK,Taekwondo,Taekwondo,Taekwondo,Taekwondo
+TR,Triathlon,Triathlon,Triatlo,Triatlón
+TT,Table Tennis,Tennis de table,Tênis de Mesa,Tenis de mesa
+VB,Volleyball,Volleyball,Voleibol,Voleibol
+WL,Weightlifting,Haltérophilie,Levantamento de Peso,Levantamiento de pesas
+WR,Wrestling,Lutte,Luta Olímpica,Lucha
+XX,More than one Sport,Multisport,Multi-esporte,Más de un deporte

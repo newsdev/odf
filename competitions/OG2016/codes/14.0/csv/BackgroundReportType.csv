@@ -1,5 +1,6 @@
-Id,ENG Description,POR Description,SPA Description,ENG longdescription,POR longdescription,SPA longdescription
-CER,Ceremonies Facts,Fatos das Cerimônias,Hechos de las Ceremonias,Ceremonies Facts,Fatos das Cerimônias,Hechos de las Ceremonias
-FCT,Facts,Fatos,Hechos,Facts,Fatos,Hechos
-MDL,Past Medallists,Medalhistas Históricos,Medallistas anteriores,Past Medallists,Medalhistas Históricos,Medallistas anteriores
-PRE,Past Results,Resultados Históricos,Resultados anteriores,Past Results,Resultados Históricos,Resultados anteriores
+Id,ENG Description,FRA Description,POR Description,SPA Description,ENG longdescription,FRA longdescription,POR longdescription,SPA longdescription
+CER,Ceremonies Facts,Faits des cérémonies,Fatos das Cerimônias,Hechos de las Ceremonias,Ceremonies Facts,Faits des cérémonies,Fatos das Cerimônias,Hechos de las Ceremonias
+FCT,Facts,Faits,Fatos,Hechos,Facts,Faits,Fatos,Hechos
+MDL,Past Medallists,Médaillés historiques,Medalhistas Históricos,Medallistas anteriores,Past Medallists,Médaillés historiques,Medalhistas Históricos,Medallistas anteriores
+OLM,Olympic Movement Facts,Faits du Mouvement Olympique,Fatos do Movimento Olímpico,Hechos del Movimiento Olímpico,Olympic Movement Facts,Faits du Mouvement Olympique,Fatos do Movimento Olímpico,Hechos del Movimiento Olímpico
+PRE,Past Results,Résultats historiques,Resultados Históricos,Resultados anteriores,Past Results,Résultats historiques,Resultados Históricos,Resultados anteriores

@@ -1,0 +1,11 @@
+Id,ENG Description,FRA Description,POR Description,SPA Description,Schedule Type
+0,Opening/Closing Ceremonies,Cérémonie Ouverture/Fermeture,Cerimônias de Abertura/Encerramento,Ceremonias de inauguración/clausura,G
+1,Official Training,Entraînement officiel,Treinamento oficial,Entrenamiento oficial,G
+2,Unofficial Training,Entraînement non officiel,Treinamento não-oficial,Entrenamiento no oficial,N
+3,Competition,Compétition,Competição,Competencia,G
+4,Technical Meeting,Réunion technique,Reunião técnica,Reunión técnica,N
+5,Press Conference,Conférence de presse,Conferência de imprensa,Conferencia de Prensa,N
+6,Medal/Flower Ceremony,Cérémonie de remise des médailles / bouquets,Cerimônia de medalhas,Ceremonia de las medalla/flores,N
+7,Draw,Tirage au sort,Empate,Sorteo,N
+8,Others,Autres,Outros,Otros,N
+9,Team Leaders Meeting,Réunion des chefs d'équipe,Reunião de chefes de equipe,Reunión de jefes de equipo,N

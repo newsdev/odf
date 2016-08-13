@@ -1,0 +1,182 @@
+Id,Venue,LocationOrder,competition,ENG Description,POR Description,SPA Description,ENG longdescription,POR longdescription,SPA longdescription,Source
+A01,OLS,1,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A02,OLS,2,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A03,OLS,3,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A04,OLS,4,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A05,OLS,5,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A06,OLS,6,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A07,OLS,7,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A08,OLS,8,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A09,OLS,9,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A10,OLS,10,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A11,OLS,11,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A12,OLS,12,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+A13,FTC,13,Y,Fort Copacabana - Marathon,Forte de Copacabana - Maratona,Fuerte de Copacabana - Maratón,Fort Copacabana - Marathon,Forte de Copacabana - Maratona,Fuerte de Copacabana - Maratón,FTCAT1
+A20,OLS,,N,Olympic Stadium Warm-Up Track,Olympic Stadium Warm-Up Track,Olympic Stadium Warm-Up Track,Olympic Stadium Warm - Up Track,Olympic Stadium Warm - Up Track,Olympic Stadium Warm - Up Track,
+A21,AFU,,N,Air Force Univ. -Track & Jumps,Air Force Univ. -Track & Jumps,Air Force Univ. -Track & Jumps,Air Force University - Track & Jumps,Air Force University - Track & Jumps,Air Force University - Track & Jumps,
+A22,AFU,,N,Air Force Univ. - Throws,Air Force Univ. - Throws,Air Force Univ. - Throws,Air Force University - Throws,Air Force University - Throws,Air Force University - Throws,
+A23,AFU,,N,Air Force Univ. - Marathon,Air Force Univ. - Marathon,Air Force Univ. - Marathon,Air Force University - Marathon,Air Force University - Marathon,Air Force University - Marathon,
+A24,AFU,,N,Air Force Univ. - Race Walk,Air Force Univ. - Race Walk,Air Force Univ. - Race Walk,Air Force University - Race Walk,Air Force University - Race Walk,Air Force University - Race Walk,
+A25,AFC,,N,Air Force Club - Track & Jumps,Air Force Club - Track & Jumps,Air Force Club - Track & Jumps,Air Force Club - Track & Jumps,Air Force Club - Track & Jumps,Air Force Club - Track & Jumps,
+AB3,AB3,,N,Army Barracks 3,31º GAC,Cuarteles Militares 3,Army Barracks 3,31º GAC,Cuarteles Militares 3,
+AFC,AFC,,N,Air Force Club,Clube de Aeronáutica,Club de Aeronáutica,Air Force Club,Clube de Aeronáutica,Club de Aeronáutica,
+AFU,AFU,,N,Air Force University,Universid. da Força Aérea,Universidad Fuerza Aérea,Air Force University (UNIFA),Universidade da Força Aérea(UNIFA),Universidad de la Fuerza Aérea (UNIFA),
+AMC,AMC,,N,Alt Main Operation Centre,Ctr Principal de Ops Alt,Ctro Principal de Op. Alt,Alternative Main Operation Centre,Centro Principal de Operações Alternativo,Centro Principal de Operaciones Alternativo,
+AR1,SBD,1,Y,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,SBDAR1
+BAS,BAS,,N,Barradão Stadium,Estádio Barradão,Estadio Barradão,Barradão Stadium (Salvador),Estádio Barradão (Salvador),Estadio Barradão,
+BO1,CA2,1,Y,Carioca Arena 2 - Court 1,Arena Carioca 2 - Quadra 1,Arena Carioca 2- Cancha 1,Carioca Arena 2 - Court 1,Arena Carioca 2 - Quadra 1,Arena Carioca 2- Cancha 1,CA2BO1
+BO2,CA2,2,Y,Carioca Arena 2 - Court 2,Arena Carioca 2 - Quadra 2,Arena Carioca 2- Cancha 2,Carioca Arena 2 - Court 2,Arena Carioca 2 - Quadra 2,Arena Carioca 2- Cancha 2,CA2BO1
+BO3,CA2,3,Y,Carioca Arena 2 - Court 3,Arena Carioca 2 - Quadra 3,Arena Carioca 2- Cancha 3,Carioca Arena 2 - Court 3,Arena Carioca 2 - Quadra 3,Arena Carioca 2- Cancha 3,CA2BO1
+BO4,CA2,4,Y,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,Arena Carioca 2- Cancha 4,Carioca Arena 2 - Court 4,Arena Carioca 2 - Quadra 4,Arena Carioca 2- Cancha 4,CA2BO1
+BO5,CA2,5,Y,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,Arena Carioca 2- Cancha 5,Carioca Arena 2 - Court 5,Arena Carioca 2 - Quadra 5,Arena Carioca 2- Cancha 5,CA2BO1
+BO6,CA2,6,Y,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,Arena Carioca 2- Cancha 6,Carioca Arena 2 - Court 6,Arena Carioca 2 - Quadra 6,Arena Carioca 2- Cancha 6,CA2BO1
+BO7,CA2,,N,Carioca Arena 2 - Warm Up,Carioca Arena 2 - Warm Up,Carioca Arena 2 - Warm Up,Carioca Arena 2 - Warm Up,Carioca Arena 2 - Warm Up,Carioca Arena 2 - Warm Up,
+BSB,BSB,,N,Brasília Intl Airport,Aeroporto Int de Brasília,Aeropuerto Int. Brasília,Brasília International Airport,Aeroporto Internacional de Brasília,Aeropuerto Internacional de Brasília,
+BV1,BV1,,N,Barra ACM Village 1,Vila de ACM da Barra 1,Villa de Acom. Barra 1,Barra Accommodation Village 1,Vila de Acomodações da Barra 1,Villa de Acomodaciones de Barra 1,
+BV2,BV2,,N,Barra ACM Village 2,Vila de ACM da Barra 2,Villa de Acom. Barra 2,Barra Accommodation Village 2,Vila de Acomodações da Barra 2,Villa de Acomodaciones de Barra 2,
+BV3,BV3,,N,Barra ACM Village 3,Vila de ACM da Barra 3,Villa de Acom. Barra 3,Barra Accommodation Village 3,Vila de Acomodações da Barra 3,Villa de Acomodaciones de Barra 3,
+BZS,BZS,,N,Bezerrão Stadium,Estádio Bezerrão,Estadio Bezerrão,Bezerrão Stadium (Brasília),Estádio Bezerrão (Brasília),Estadio Bezerrão (Brasília),
+CA1,CA1,,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,
+CA2,CA2,,Y,Carioca Arena 2,Arena Carioca 2,Arena Carioca 2,Carioca Arena 2,Arena Carioca 2,Arena Carioca 2,CA2BO1
+CA3,CA3,,Y,Carioca Arena 3,Arena Carioca 3,Arena Carioca 3,Carioca Arena 3,Arena Carioca 3,Arena Carioca 3,CA3JU1
+CAS,CAS,,N,Cidade das Artes,Cidade das Artes,Ciudad de las Artes,Cidade das Artes,Cidade das Artes,Ciudad de las Artes,
+CF1,LAG,1,Y,Lagoa Stadium - Canoe Sprint,Estádio da Lagoa - CS,Estadio de Lagoa - CF,Lagoa Stadium - Canoe Sprint,Estádio da Lagoa - Canoagem Velocidade,Estadio de Lagoa - CF,LAGCF1
+CF2,LAG,,N,Lagoa Stadium - Warm Up,Lagoa Stadium - Warm Up,Lagoa Stadium - Warm Up,Lagoa Stadium - Warm Up,Lagoa Stadium - Warm Up,Lagoa Stadium - Warm Up,
+CF3,LAG,,N,Lagoa Stadium-Canoe Trn Course,Lagoa Stadium-Canoe Trn Course,Lagoa Stadium-Canoe Trn Course,Lagoa Stadium - Canoe Trn Course,Lagoa Stadium - Canoe Trn Course,Lagoa Stadium - Canoe Trn Course,
+CIG,CIG,,N,Gericinó Instruction Camp,Campo Instrução Gericinó,Campo de Instr. Gericinó,Gericinó Instruction Camp Headquarter,Sede do Campo de Instrução de Gericinó,Sede del Campo de Instrucción de Gericinó,
+CNF,CNF,,N,Confins Intl Airport,Aeroporto Intl de Confins,Aeropuerto Int. Confins,Confins International Airport,Aeroporto Internacional de Confins,Aeropuerto Internacional de Confins,
+COR,COR,,N,Rio Operational Centre,Centro De Operações Rio,Centro de Operaciones Río,Rio Operational Centre,Centro De Operações Rio,Centro de Operaciones de Río,
+CR1,PON,1,Y,Pontal - Cycling Road,Pontal - Ciclismo de Estrada,Pontal - Ciclismo de ruta,Pontal - Cycling Road,Pontal - Ciclismo de Estrada,Pontal - Ciclismo de ruta,PONCR1
+CT1,ROV,1,Y,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,ROVCT1
+DAV,DAV,,N,Deodoro ACM Village,Vila de ACM de Deodoro,Villa de Acom. Deodoro,Deodoro Accommodation Village,Vila de Acomodações de Deodoro,Villa de Acomodaciones de Deodoro,
+DCD,DCD,,N,Deodoro Common Domain,Área Comum de Deodoro,Espacio Común de Deodoro,Deodoro Common Domain,Área Comum de Deodoro,Espacio Común de Deodoro,
+DES,DES,,Y,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,DESFT1
+DUD,DUD,,N,Deodoro Urban Domain,Área Urbana de Deodoro,Espacio Urbano de Deodoro,Deodoro Urban Domain,Área Urbana de Deodoro,Espacio Urbano de Deodoro,
+EQ1,EQC,1,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQ2,EQC,2,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQ3,EQC,3,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+EQC,EQC,,Y,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,Olympic Equestrian Centre,Centro Olímpico de Hipismo,Centro Olímpico Ecuestre,EQCEQ1
+F30,OTN,,N,Olympic Tennis Ctr - Training,Olympic Tennis Ctr - Training,Olympic Tennis Ctr - Training,Olympic Tennis Ctr - Training,Olympic Tennis Ctr - Training,Olympic Tennis Ctr - Training,
+FB1,OTN,1,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,OTNFB1
+FH1,FH1,,N,Hotel FB - Belo Horizonte,Hotel FB - Belo Horizonte,Hotel FB - Belo Horizonte,Football City Hotel - Belo Horizonte,Hotel da Cidade do Futebol - Belo Horizonte,Hotel de la Ciudad del Fútbol - Belo Horizonte,
+FH2,FH2,,N,Hotel FB - Brasília,Hotel FB - Brasília,Hotel FB - Brasília,Football City Hotel - Brasília,Hotel da Cidade do Futebol - Brasília,Hotel de la Ciudad del Fútbol - Brasília,
+FH3,FH3,,N,Hotel FB - Salvador,Hotel FB - Salvador,Hotel FB - Salvador,Football City Hotel - Salvador,Hotel da Cidade do Futebol - Salvador,Hotel de la Ciudad del Fútbol - Salvador,
+FH4,FH4,,N,Hotel FB - São Paulo,Hotel FB - São Paulo,Hotel FB - São Paulo,Football City Hotel - São Paulo,Hotel da Cidade do Futebol - São Paulo,Hotel de la Ciudad del Fútbol - São Paulo,
+FH5,FH5,,N,Hotel FB - Manaus,Hotel FB - Manaus,Hotel FB - Manaus,Football City Hotel - Manaus,Hotel da Cidade do Futebol - Manaus,Hotel de la Ciudad del Fútbol - Manaus,
+FPT,FPT,,N,Physical Trn Ctr Brasilia,Ctr. Cap. Física Brasília,Ctro Entr Físico Brasília,Fireman Physical Training Centre (Brasília),Centro Capacitação Física dos Bombeiros (Brasília),Centro Entrenamiento Físico de Bomberos (Brasília),
+FT1,DES,1,Y,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,Deodoro Stadium,Estádio de Deodoro,Estadio de Deodoro,DESFT1
+FTA,FTA,,Y,Future Arena,Arena do Futuro,Arena del Futuro,Future Arena,Arena do Futuro,Arena del Futuro,FTAGB1
+FTC,FTC,,Y,Fort Copacabana,Forte de Copacabana,Fuerte de Copacabana,Fort Copacabana,Forte de Copacabana,Fuerte de Copacabana,FTCTR1
+FUR,FUR,,N,Federal University of Rio,Universidade Federal Rio,Univ. Federal de Río,Federal University of Rio de Janeiro,Universidade Federal do Rio de Janeiro (UFRJ),Universidad Federal de Río de Janeiro (UFRJ),
+GB1,FTA,1,Y,Future Arena,Arena do Futuro,Arena del Futuro,Future Arena,Arena do Futuro,Arena del Futuro,FTAGB1
+GB2,OVP,,N,Athletes' Park 1 - Goalball,Athletes' Park 1 - Goalball,Athletes' Park 1 - Goalball,Athletes' Park 1 - Goalball,Athletes' Park 1 - Goalball,Athletes' Park 1 - Goalball,
+GB3,OVP,,N,Athletes' Park 2 - Goalball,Athletes' Park 2 - Goalball,Athletes' Park 2 - Goalball,Athletes' Park 2 - Goalball,Athletes' Park 2 - Goalball,Athletes' Park 2 - Goalball,
+GIG,GIG,,N,Tom Jobim Intl Airport,Aeroporto Intl Tom Jobim,Aeropuerto Int. Tom Jobim,Tom Jobim International Airport,Aeroporto Internacional Tom Jobim,Aeropuerto Internacional Tom Jobim,
+GLO,GLO,,Y,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,Marina da Glória,GLOSA1
+GRA,GRA,,N,Grooms Accommodation,Acomodação dos Tratadores,Acomodación palafreneros,Grooms Accommodation,Acomodação dos Tratadores,Acomodación de los palafreneros,
+GRU,GRU,,N,Guarulhos Intl Airport,Aeroporto Intl Guarulhos,Aeropuerto Int. Guarulhos,Guarulhos International Airport,Aeroporto Internacional de Guarulhos,Aeropuerto Internacional de Guarulhos,
+IBC,IBC,,N,Intl Broadcast Centre,Centro Intl Radiodifusão,Ctro Int. Radiodifusión,International Broadcast Centre (IBC),Centro Internacional de Radiodifusão (IBC),Centro Internacional de Radiodifusión (IBC),
+INS,INS,,N,Independência Stadium-BH,Estádio Independência-BH,Estadio Independência-BH,Independência Stadium (Belo Horizonte),Estádio Independência (Belo Horizonte),Estadio Independência (Belo Horizonte),
+JU1,CA3,1,Y,Carioca Arena 3 - Mat 1,Arena Carioca 3 - Tatame 1,Arena Carioca 3- Tatami 1,Carioca Arena 3 - Mat 1,Arena Carioca 3 - Tatame 1,Arena Carioca 3- Tatami 1,CA3JU1
+JU2,CA3,2,Y,Carioca Arena 3 - Mat 2,Arena Carioca 3 - Tatame 2,Arena Carioca 3- Tatami 2,Carioca Arena 3 - Mat 2,Arena Carioca 3 - Tatame 2,Arena Carioca 3- Tatami 2,CA3JU1
+JU3,OVP,,N,Athletes' Park - JU,Athletes' Park - JU,Athletes' Park - JU,Athletes' Park - Judo,Athletes' Park - Judo,Athletes' Park - Judo,
+LAG,LAG,,Y,Lagoa Stadium,Estádio da Lagoa,Estadio de Lagoa,Lagoa Stadium,Estádio da Lagoa,Estadio de Lagoa,LAGRO1
+MAO,MAO,,N,Manaus Intl Airport,Aeroporto Intl Manaus,Aeropuerto Int. de Manaus,Manaus International Airport,Aeroporto Internacional de Manaus,Aeropuerto Internacional de Manaus,
+MCD,MCD,,N,Maracanã Common Domain,Área Comum do Maracanã,Espacio Común Maracanã,Maracanã Common Domain,Área Comum do Maracanã,Espacio Común del Maracanã,
+MOC,MOC,,N,Main Operations Centre,Ctr. Principal Operações,Ctro Principal de Op.,Main Operations Centre,Centro Principal de Operações,Centro Principal de Operaciones,
+MPC,MPC,,N,Main Press Centre (MPC),Ctr Principal de Imprensa,Ctro Princ. Prensa (MPC),Main Press Centre (MPC),Centro Principal de Imprensa (MPC),Centro Principal de Prensa (MPC),
+MUL,MUL,,N,Multiple Venues,Multiple Venues,Multiple Venues,Multiple Venues,Multiple Venues,Multiple Venues,
+OAS,OAS,,Y,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,OASSW1
+OF2,OF2,,N,Olympic Family Hotel 2,Hotel Família Olímpica 2,Hotel Familia Olímpica 2,Olympic Family Hotel 2 - Windsor Barra & Oceânico,Hotel Fam Olímp 2 - Windsor Barra&Windsor Oceânico,Hotel Fam. Olímpica 2 - Windsor Barra & Oceânico,
+OF3,OF3,,N,IOC Staff Hotel,Hotel Funcionários do COI,Hotel del Personal COI,IOC Staff Hotel - Novotel Barra,Hotel dos Funcionários do COI - Novotel Barra,Hotel del Personal del COI - Novotel Barra,
+OFH,OFH,,N,Main Olympic Family Hotel,Hotel Princ Família Olímp,Hotel Princ Fam. Olímpica,Main Olympic Family Hotel - Windsor Marapendi,Hotel Princ. Família Olímpica - Windsor Marapendi,Hotel Princ. Familia Olímpica - Windsor Marapendi,
+OH1,OH1,,N,Olym. Designated Hospital,Hosp. Olím. de Referência,Olímp. Hospital Designado,Olympic Designated Hospital,Hospital Olímpico de Referência,Olímpico Hospital Designado,
+OH2,OH2,,N,Olympic Hospital 2,Hospital Olímpico 2,Olímpico Hospital 2,Olympic Hospital 2,Hospital Olímpico 2,Olímpico Hospital 2,
+OH3,OH3,,N,Olympic Hospital 3,Hospital Olímpico 3,Olímpico Hospital 3,Olympic Hospital 3,Hospital Olímpico 3,Olímpico Hospital 3,
+OLS,OLS,,Y,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,Olympic Stadium,Estádio Olímpico,Estadio Olímpico,OLSAT1
+OLV,OLV,,N,Olympic&Paralympic Vill,Vila Olímpica&Paralímpica,Villa Olímp./Paralímpica,Olympic and Paralympic Village,Vila Olímpica e Paralímpica,Villa Olímpica y Paralímpica,
+OSC,OSC,,Y,Olympic Shooting Centre,Centro Olímpico de Tiro,Centro Olímpico de Tiro,Olympic Shooting Centre,Centro Olímpico de Tiro,Centro Olímpico de Tiro,OSCSH1
+OTN,OTN,,Y,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,Olympic Tennis Centre,Centro Olímpico de Tênis,Centro Olímpico de Tenis,
+OVP,OVP,,N,Athletes' Park,Parque dos Atletas,Parque de los atletas,Athletes' Park,Parque dos Atletas,Parque de los atletas,
+PBS,PBS,,N,Pacaembu Stadium-SP,Estádio Pacaembu-SP,Estadio Pacaembu-SP,Pacaembu Stadium (São Paulo),Estádio Pacaembu (São Paulo),Estadio Pacaembu (São Paulo),
+PEC,PEC,,N,Physical Ed. Centre CEFAN,Ctr Educação Física CEFAN,Ctro Ed. Física (CEFAN),Navy Physical Education Centre (CEFAN),Centro de Educação Físicas (CEFAN),Centro de Educación Física (CEFAN),
+PF2,PF2,,N,Paralympic Family Hotel,Hotel Família Paralímpica,Hotel Familia Paralímpica,Paralympic Family Hotel - Windsor Barra,Hotel da Família Paralímpica - Windsor Barra,Hotel de la Familia Paralímpica - Windsor Barra,
+PFH,PFH,,N,Windsor Oceânico,Windsor Oceânico,Windsor Oceânico,Main Paralympic Family Hotel - Windsor Oceânico,Hotel Oficial Família Paralímpica-Windsor Oceânico,Hotel Princ. Fam. Paralímpica - Windsor Oceânico,
+PIS,PIS,,N,Pituaçu Stadium-SA,Estádio Pituaçu-SA,Estadio Pituaçu-SA,Pituaçu Stadium (Salvador),Estádio Pituaçu (Salvador),Estadio Pituaçu (Salvador),
+PMC,PMC,,N,Cruise Accommodations,Acomodação de Navios ,Acomodaciones de Navíos,Pier Mauá Cruise Accommodations,Acomodação de Navios do Pier Mauá,Acomodaciones de Navíos Pier Mauá,
+PO1,RC2,1,Y,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,RC2PO1
+PO2,RC5,,N,Riocentro - Pavilion 5,Riocentro - Pavilion 5,Riocentro - Pavilion 5,Riocentro - Pavilion 5,Riocentro - Pavilion 5,Riocentro - Pavilion 5,
+PON,PON,,Y,Pontal,Pontal,Pontal,Pontal,Pontal,Pontal,
+RC2,RC2,,Y,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,Riocentro - Pavilion 2,Riocentro - Pavilhão 2,Riocentro - Pabellón 2,RC2PO1
+RC3,RC3,,Y,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,Riocentro - Pabellón 3,Riocentro - Pavilion 3,Riocentro - Pavilhão 3,Riocentro - Pabellón 3,RC3TT1
+RC5,RC5,,N,Riocentro - Pavilion 5,Riocentro - Pavilhão 5,Riocentro - Pabellón 5,Riocentro - Pavilion 5,Riocentro - Pavilhão 5,Riocentro - Pabellón 5,
+RC6,RC6,,Y,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,RC6VS1
+RCD,RCD,,N,BPK Common Domain,Área Comum BPK,Espacio Común BPK,Barra Olympic Park Common Domain,Área Comum do Parque Olímpico da Barra,Espacio Común del Parque Olímpico de Barra,
+RHQ,RHQ,,N,Rio 2016 Office,Escritório Rio 2016,Oficina Rio 2016,Rio 2016 Office,Escritório Rio 2016,Oficina Rio 2016,
+RID,RID,,N,Riocentro Common Domain,Área Comum do Riocentro,Espacio Común Riocentro,Riocentro Common Domain,Área Comum do Riocentro,Espacio Común de Riocentro,
+RO1,LAG,1,Y,Lagoa Stadium - Rowing,Estádio da Lagoa - Remo,Estadio de Lagoa - Remo,Lagoa Stadium - Rowing,Estádio da Lagoa - Remo,Estadio de Lagoa - Remo,LAGRO1
+ROA,ROA,,Y,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,ROAWB1
+ROV,ROV,,Y,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,Rio Olympic Velodrome,Velódromo Olímpico do Rio,Velódromo Olímpico de Río,ROVCT1
+SA1,GLO,1,Y,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,Pão de Açúcar,GLOSA1
+SA2,GLO,2,Y,Ponte,Ponte,Ponte,Ponte,Ponte,Ponte,GLOSA1
+SA3,GLO,3,Y,Escola Naval,Escola Naval,Escola Naval,Escola Naval,Escola Naval,Escola Naval,GLOSA1
+SA4,GLO,4,Y,Copacabana,Copacabana,Copacabana,Copacabana,Copacabana,Copacabana,GLOSA1
+SA5,GLO,5,Y,Niterói,Niterói,Niterói,Niterói,Niterói,Niterói,GLOSA1
+SA6,GLO,6,Y,Pai,Pai,Pai,Pai,Pai,Pai,GLOSA1
+SA7,GLO,7,Y,Aeroporto,Aeroporto,Aeroporto,Aeroporto,Aeroporto,Aeroporto,GLOSA1
+SBD,SBD,,Y,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,Sambódromo,SBDAR1
+SDU,SDU,,N,Santos Dumont Airport,Aeroporto Santos Dumont,Aeropuerto Santos Dumont,Santos Dumont Domestic Airport,Aeroporto Doméstico Santos Dumont,Aeropuerto Doméstico Santos Dumont,
+SH1,OSC,1,Y,Olympic Shooting - Final Range,Centro Olímpico de Tiro-Finais,Centro Olímpico de Tiro-Final,Olympic Shooting Centre-Pistol & Rifle Final Range,Centro Olímpico de Tiro - Estande de Finais,Centro Olímpico de Tiro-Pistola/Rifle Campo Final,OSCSH1
+SH2,OSC,2,Y,Olympic Shooting - 10m Range,Centro Olímpico de Tiro - 10m,Centro Olímpico de Tiro-10m,Olympic Shooting Centre - Pistol & Rifle 10m Range,Centro Olímpico de Tiro - Estande de 10m,Centro Olímpico de Tiro - Pistola/Rifle Campo 10m,OSCSH1
+SH3,OSC,3,Y,Olympic Shooting - 25m Range,Centro Olímpico de Tiro - 25m,Centro Olímpico de Tiro-25m,Olympic Shooting Centre - Pistol & Rifle 25m Range,Centro Olímpico de Tiro - Estande de 25m,Centro Olímpico de Tiro - Pistola/Rifle Campo 25m,OSCSH1
+SH4,OSC,4,Y,Olympic Shooting - 50m Range,Centro Olímpico de Tiro - 50m,Centro Olímpico de Tiro-50m,Olympic Shooting Centre - Pistol & Rifle 50m Range,Centro Olímpico de Tiro - Estande de 50m,Centro Olímpico de Tiro - Pistola/Rifle Campo 50m,OSCSH1
+SSA,SSA,,N,Salvador Intl Airport,Aeroporto Intl Salvador,Aeropuerto Int. Salvador,Salvador International Airport,Aeroporto Internacional de Salvador,Aeropuerto Internacional de Salvador,
+SVN,SVN,,N,SESC Venda Nova-BH,SESC Venda Nova-BH,SESC Venda Nova-BH,SESC Venda Nova (Belo Horizonte),SESC Venda Nova (Belo Horizonte),SESC Venda Nova (Belo Horizonte),
+SW1,OAS,1,Y,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,Olympic Aquatics Stadium,Estádio Aquático Olímpico,Estadio Acuático Olímpico,OASSW1
+SW2,OVP,,N,Athletes' Park - Swimming,Athletes' Park - Swimming,Athletes' Park - Swimming,Athletes' Park - Swimming,Athletes' Park - Swimming,Athletes' Park - Swimming,
+TOC,TOC,,N,Technology Ops Centre,Centro de Ope Tecnologia,Ctro de Op. de Tecnología,Technology Operations Centre,Centro de Operações de Tecnologia,Centro de Operaciones de Tecnología,
+TR1,FTC,1,Y,Fort Copacabana - Triathlon,Forte de Copacabana - Triatlo,Fuerte de Copacabana-Triatlón,Fort Copacabana - Triathlon,Forte de Copacabana - Triatlo,Fuerte de Copacabana -Triatlón,FTCTR1
+TR4,OVP,,N,Athletes' Park - Triathlon,Athletes' Park - Triathlon,Athletes' Park - Triathlon,Athletes' Park - Triathlon,Athletes' Park - Triathlon,Athletes' Park - Triathlon,
+TR5,AFU,,N,Air Force Univ. - Triathlon,Air Force Univ. - Triathlon,Air Force Univ. - Triathlon,Air Force University - Triathlon,Air Force University - Triathlon,Air Force University - Triathlon,
+TT1,RC3,1,Y,Riocentro - Pavilion 3-TT Tbl1,Riocentro - Pavilhão 3 - TT M1,Riocentro-Pabellón 3-TT Mesa 1,Riocentro - Pavilion 3 - Table Tennis - Table 1,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 1,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 1,RC3TT1
+TT2,RC3,2,Y,Riocentro - Pavilion 3-TT Tbl2,Riocentro - Pavilhão 3 - TT M2,Riocentro-Pabellón 3-TT Mesa 2,Riocentro - Pavilion 3 - Table Tennis - Table 2,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 2,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 2,RC3TT1
+TT3,RC3,3,Y,Riocentro - Pavilion 3-TT Tbl3,Riocentro - Pavilhão 3 - TT M3,Riocentro-Pabellón 3-TT Mesa 3,Riocentro - Pavilion 3 - Table Tennis - Table 3,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 3,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 3,RC3TT1
+TT4,RC3,4,Y,Riocentro - Pavilion 3-TT Tbl4,Riocentro - Pavilhão 3 - TT M4,Riocentro-Pabellón 3-TT Mesa 4,Riocentro - Pavilion 3 - Table Tennis - Table 4,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 4,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 4,RC3TT1
+TT5,RC3,5,Y,Riocentro - Pavilion 3-TT Tbl5,Riocentro - Pavilhão 3 - TT M5,Riocentro-Pabellón 3-TT Mesa 5,Riocentro - Pavilion 3 - Table Tennis - Table 5,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 5,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 5,RC3TT1
+TT6,RC3,6,Y,Riocentro - Pavilion 3-TT Tbl6,Riocentro - Pavilhão 3 - TT M6,Riocentro-Pabellón 3-TT Mesa 6,Riocentro - Pavilion 3 - Table Tennis - Table 6,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 6,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 6,RC3TT1
+TT7,RC3,7,Y,Riocentro - Pavilion 3-TT Tbl7,Riocentro - Pavilhão 3 - TT M7,Riocentro-Pabellón 3-TT Mesa 7,Riocentro - Pavilion 3 - Table Tennis - Table 7,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 7,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 7,RC3TT1
+TT8,RC3,8,Y,Riocentro - Pavilion 3-TT Tbl8,Riocentro - Pavilhão 3 - TT M8,Riocentro-Pabellón 3-TT Mesa 8,Riocentro - Pavilion 3 - Table Tennis - Table 8,Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 8,Riocentro - Pabellón 3 - Tenis de mesa - Mesa 8,RC3TT1
+UAC,UAC,,N,Uniform and ACR Ctr.,Ctr. de Uniformes e ACR,Ctro Uniformes y ACR,Uniform and Accreditation Centre,Centro de Uniformes e Credenciamento,Centro de Uniformes y Acreditación,
+VS1,RC6,1,Y,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,Riocentro - Pavilion 6,Riocentro - Pavilhão 6,Riocentro - Pabellón 6,RC6VS1
+VS2,AFC,,N,Air Force Club - Volleyball,Air Force Club - Volleyball,Air Force Club - Volleyball,Air Force Club - Volleyball,Air Force Club - Volleyball,Air Force Club - Volleyball,
+VS3,AFU,,N,Air Force Univ - Volleyball,Air Force Univ - Volleyball,Air Force Univ - Volleyball,Air Force Univ - Volleyball,Air Force Univ - Volleyball,Air Force Univ - Volleyball,
+W10,OTN,11,Y,Olympic Tennis Centre-TBA,Centro Olímpico de Tênis-TBA,Ctro Olímpico de Tenis-TBA,Olympic Tennis Centre - TBA,Centro Olímpico de Tênis - TBA,Centro Olímpico de Tenis - TBA,OTNWT1
+WB1,CA1,1,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,CA1WB1
+WB2,ROA,2,Y,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,Rio Olympic Arena,Arena Olímpica do Rio,Arena Olímpica de Río,ROAWB1
+WB3,OVP,,N,Athletes' Park-Training Court,Athletes' Park-Training Court,Athletes' Park-Training Court,Athletes' Park-Training Court,Athletes' Park-Training Court,Athletes' Park-Training Court,
+WB4,CA1,,N,Carioca Arena 1-Training Court,Carioca Arena 1-Training Court,Carioca Arena 1-Training Court,Carioca Arena 1-Training Court,Carioca Arena 1-Training Court,Carioca Arena 1-Training Court,
+WB5,ROA,,N,Rio Oympic Arena - Trng Court,Rio Oympic Arena - Trng Court,Rio Oympic Arena - Trng Court,Rio Oympic Arena - Trng Court,Rio Oympic Arena - Trng Court,Rio Oympic Arena - Trng Court,
+WF0,YOA,1,Y,Youth Arena-WF Blue Piste 1,ArenaJuventude-WF Pista Azul 1,Ar. Juventud - WF pista azul 1,Youth Arena - Wheelchair Fencing Blue Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Azul 1,Ar. Juventud-Esgrima silla de ruedas pista azul 1,YOAWF1
+WF1,YOA,2,Y,Youth Arena-WF Blue Piste 2,ArenaJuventude-WF Pista Azul 2,Ar. Juventud - WF pista azul 2,Youth Arena - Wheelchair Fencing Blue Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Azul 2,Ar. Juventud-Esgrima silla de ruedas pista azul 2,YOAWF1
+WF2,YOA,3,Y,Youth Arena-WF Yellow Piste 1,ArenaJuventude-WF Pista Amar 1,Ar. Juventud -WF pista amar. 1,Youth Arena - Wheelchair Fencing Yellow Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Amar 1,Ar. Juventud-Esgrima silla de ruedas pista amar. 1,YOAWF1
+WF3,YOA,4,Y,Youth Arena-WF Yellow Piste 2,ArenaJuventude-WF Pista Amar 2,Ar. Juventud -WF pista amar. 2,Youth Arena - Wheelchair Fencing Yellow Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Amar 2,Ar. Juventud-Esgrima silla de ruedas pista amar. 2,YOAWF1
+WF4,YOA,5,Y,Youth Arena-WF Green Piste 1,ArenaJuventude-WF Pista Verd 1,Ar. Juventud -WF pista verde 1,Youth Arena - Wheelchair Fencing Green Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Verd 1,Ar. Juventud-Esgrima silla de ruedas pista verde 1,YOAWF1
+WF5,YOA,6,Y,Youth Arena-WF Green Piste 2,ArenaJuventude-WF Pista Verd 2,Ar. Juventud -WF pista verde 2,Youth Arena - Wheelchair Fencing Green Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Verd 2,Ar. Juventud-Esgrima silla de ruedas pista verde 2,YOAWF1
+WF6,YOA,7,Y,Youth Arena-WF Red Piste 1,ArenaJuventude-WF Pista Verm 1,Ar. Juventud - WF pista roja 1,Youth Arena - Wheelchair Fencing Red Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Verm 1,Ar. Juventud-Esgrima silla de ruedas pista roja 1,YOAWF1
+WF7,YOA,8,Y,Youth Arena-WF Red Piste 2,ArenaJuventude-WF Pista Verm 2,Ar. Juventud - WF pista roja 2,Youth Arena - Wheelchair Fencing Red Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Verm 2,Ar. Juventud-Esgrima silla de ruedas pista roja 2,YOAWF1
+WF8,YOA,9,Y,Youth Arena-WF Finals Piste 1,ArenaJuventude-WF Pista Final1,Ar. Juventud - Fin. WF pista 1,Youth Arena - Wheelchair Fencing Finals Piste 1,ArenaJuventude-Esgrima cadeira rodas Pista Final 1,Ar. Juventud-Finales esgrima silla ruedas pista 1,YOAWF1
+WF9,YOA,10,Y,Youth Arena-WF Finals Piste 2,ArenaJuventude-WF Pista Final2,Ar. Juventud - Fin. WF pista 2,Youth Arena - Wheelchair Fencing Finals Piste 2,ArenaJuventude-Esgrima cadeira rodas Pista Final 2,Ar. Juventud-Finales esgrima silla ruedas pista 2,YOAWF1
+WR1,CA1,1,Y,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,Carioca Arena 1,Arena Carioca 1,Arena Carioca 1,CA1WR1
+WR2,OVP,,N,Athletes' Park - WR,Athletes' Park - WR,Athletes' Park - WR,Athletes' Park - WR,Athletes' Park - WR,Athletes' Park - WR,
+WT0,OTN,1,Y,Olympic Tennis Centre - CC,Ctr. Olímpico de Tênis-Qdr Ctr,Ctro Olímpico de Tenis-Central,Olympic Tennis Centre - Centre Court,Centro Olímpico de Tênis - Quadra Central,Centro Olímpico de Tenis - Cancha central,OTNWT1
+WT1,OTN,2,Y,Olympic Tennis Centre-Court 1,Centro Olímpico de Tênis-Qdr 1,Ctro Olímpico de Tenis-Canc. 1,Olympic Tennis Centre - Court 1,Centro Olímpico de Tênis - Quadra 1,Centro Olímpico de Tenis - Cancha 1,OTNWT1
+WT2,OTN,3,Y,Olympic Tennis Centre-Court 2,Centro Olímpico de Tênis-Qdr 2,Ctro Olímpico de Tenis-Canc. 2,Olympic Tennis Centre - Court 2,Centro Olímpico de Tênis - Quadra 2,Centro Olímpico de Tenis - Cancha 2,OTNWT1
+WT3,OTN,4,Y,Olympic Tennis Centre-Court 3,Centro Olímpico de Tênis-Qdr 3,Ctro Olímpico de Tenis-Canc. 3,Olympic Tennis Centre - Court 3,Centro Olímpico de Tênis - Quadra 3,Centro Olímpico de Tenis - Cancha 3,OTNWT1
+WT4,OTN,5,Y,Olympic Tennis Centre-Court 4,Centro Olímpico de Tênis-Qdr 4,Ctro Olímpico de Tenis-Canc. 4,Olympic Tennis Centre - Court 4,Centro Olímpico de Tênis - Quadra 4,Centro Olímpico de Tenis - Cancha 4,OTNWT1
+WT5,OTN,6,Y,Olympic Tennis Centre-Court 5,Centro Olímpico de Tênis-Qdr 5,Ctro Olímpico de Tenis-Canc. 5,Olympic Tennis Centre - Court 5,Centro Olímpico de Tênis - Quadra 5,Centro Olímpico de Tenis - Cancha 5,OTNWT1
+WT6,OTN,7,Y,Olympic Tennis Centre-Court 6,Centro Olímpico de Tênis-Qdr 6,Ctro Olímpico de Tenis-Canc. 6,Olympic Tennis Centre - Court 6,Centro Olímpico de Tênis - Quadra 6,Centro Olímpico de Tenis - Cancha 6,OTNWT1
+WT7,OTN,8,Y,Olympic Tennis Centre-Court 7,Centro Olímpico de Tênis-Qdr 7,Ctro Olímpico de Tenis-Canc. 7,Olympic Tennis Centre - Court 7,Centro Olímpico de Tênis - Quadra 7,Centro Olímpico de Tenis - Cancha 7,OTNWT1
+WT8,OTN,9,Y,Olympic Tennis Centre-Court 8,Centro Olímpico de Tênis-Qdr 8,Ctro Olímpico de Tenis-Canc. 8,Olympic Tennis Centre - Court 8,Centro Olímpico de Tênis - Quadra 8,Centro Olímpico de Tenis - Cancha 8,OTNWT1
+WT9,OTN,10,Y,Olympic Tennis Centre-Court 9,Centro Olímpico de Tênis-Qdr 9,Ctro Olímpico de Tenis-Canc. 9,Olympic Tennis Centre - Court 9,Centro Olímpico de Tênis - Quadra 9,Centro Olímpico de Tenis - Cancha 9,OTNWT1
+XCD,XCD,,N,X-Park Common Domain,Área Comum do X-Park ,Espacio Común del X-Park,X-Park Common Domain,Área Comum do Parque Radical,Espacio Común del Parque Radical,
+YOA,YOA,,Y,Youth Arena,Arena da Juventude,Arena de la Juventud,Youth Arena,Arena da Juventude,Arena de la Juventud,YOAWF1

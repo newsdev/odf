@@ -1,0 +1,37 @@
+Discipline,Id,PositionOrder,ENG Description,POR Description,SPA Description
+FB,DF,,Defender,Defensor,Defensor
+FB,FP,,Field Player,Jogador em campo,Jugador
+FB,FW,,Forward,Atacante,Delantero
+FB,GK,,Goalkeeper,Goleiro,Portero
+FB,MF,,Midfield,Meio-campo,Mediocampista
+FT,DF,,Defender,Defensor,Defensor
+FT,FP,,Field Player,Jogador em campo,Jugador
+FT,FW,,Forward,Atacante,Delantero
+FT,GK,,Goalkeeper,Goleiro,Portero
+FT,MF,,Midfield,Meio-campo,Mediocampista
+RO,2,2,Rower 2,Remador 2,Remero 2
+RO,3,3,Rower 3,Remador 3,Remero 3
+RO,4,4,Rower 4,Remador 4,Remero 4
+RO,5,5,Rower 5,Remador 5,Remero 5
+RO,6,6,Rower 6,Remador 6,Remero 6
+RO,7,7,Rower 7,Remador 7,Remero 7
+RO,b,1,Bow,Proa,Proa
+RO,c,9,Coxswain,Timoneiro,Timonel
+RO,s,8,Stroke,Voga,Popa
+SA,C,,Crew,Tripulação,Tripulación
+SA,C1,1,Crew 1,Tripulação 1,Tripulación 1
+SA,C2,2,Crew 2,Tripulação 2,Tripulación 2
+SA,H,,Helm,Timoneiro,Timonel
+VS,FP,,Field Player,Jogador em campo,Jugador
+VS,L,,Libero,Líbero,Líbero
+VS,MB,,Middle Blocker,Meio-de-rede,Central
+VS,OH,,Outside Hitter,,
+VS,OS,,Opposite Spiker,Oposto,Opuesto
+VS,S,,Setter,Levantador,Armador
+WB,C,,Centre,Pivô,Pivot
+WB,C/F,,Centre/Forward,Pivô/Ala,Pivot/Alero
+WB,F,,Forward,Ala,Alero
+WB,F/C,,Forward/Centre,Ala/Pivô,Alero/Pivot
+WB,F/G,,Forward/Guard,Ala/Armador,Alero/Base
+WB,G,,Guard,Armador,Base
+WB,G/F,,Guard/Forward,Armador/Ala,Base/Alero

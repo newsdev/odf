@@ -1,0 +1,37 @@
+Id,ENG Description,FRA Description,POR Description,SPA Description
+clr,Clear sky,Ciel clair,Céu claro,Cielo despejado
+drz,Drizzle,Bruine,Garoa,Llovizna
+dust,Dust,Poussière,Poeira,Polvo
+fewcld,Few clouds,,,
+fog,Fog,Brouillard,Nevoeiro,Niebla
+hail,Hail,Grêle,Granizo,Granizo
+haze,Haze,Brume légère,Neblina,Neblina
+hlshrd,Hail shower,Averses de grêle,Tempestade de granizo,Granizada
+hlshrn,Hail shower,Averses de grêle,Tempestade de granizo,Granizada
+hrain,Heavy rain,Pluie forte,Chuva forte,Lluvia fuerte
+hrshrd,Heavy rain shower,Averses,Tempestade forte,Chubasco fuerte de lluvia
+hrshrn,Heavy rain shower,Averses,Tempestade forte,Chubasco fuerte de lluvia
+hsnow,Heavy snow,Neige forte,Nevasca,Nevada fuerte
+hsshrd,Heavy snow shower,Averses de neige forte,Nevasca rápida,Chubasco fuerte de nieve
+hsshrn,Heavy snow shower,Averses de neige forte,Nevasca rápida,Chubasco fuerte de nieve
+lowcld,Low-level cloud,Couvert - nuages bas,Nuvens baixas,Nubes bajas
+lrain,Light rain,Pluie faible,Chuva fraca,Lluvia fina
+lrshrd,Light rain shower,Rares averses,Chuva fraca e rápida,Chubasco ligero de lluvia
+lrshrn,Light rain shower,Rares averses,Chuva fraca e rápida,Chubasco ligero de lluvia
+lsnow,Light snow,Neige fine,Neve Fraca,Nevada ligera
+lsshrd,Light snow shower,Rares averses de neige,Neve Fraca e rápida,Chubasco ligero de nieve
+lsshrn,Light snow shower,Rares averses de neige,Neve Fraca e rápida,Chubasco ligero de nieve
+medcld,Medium-level cloud,Nuages moyenne altitude,Nuvens de média altitude,Nubes de media altitud
+mist,Mist,Brume,Névoa,Bruma
+nocond,No condition,No condition,Nenhuma condição,Sin condición
+ovc,Overcast,,,Nublado
+prtcld,Partly cloudy,Soleil voilé,Parcialmente nublado,Parcialmente nublado
+slshrd,Sleet shower,Averses de grésil,Granizo,Chubasco de aguanieve
+slshrn,Sleet shower,Averses de grésil,Granizo,Chubasco de aguanieve
+slt,Sleet,Grésil,Chuva com neve,Aguanieve
+sun,Sunny,Soleil,Ensolarado,Soleado
+sunint,Sunny intervals,Intervalles ensoleillés,Intervalos ensolarados,Intervalos soleados
+thshrd,Thundery shower,Risques d'orages,Trovoadas,Tronada
+thshrn,Thundery shower,Risques d'orages,Trovoadas,Tronada
+thstrm,Thunder storm,Orages,Temporal,Tormenta
+trpstm,Tropical storm,Orages tropicaux,Tempestade tropical,Tempestad tropical

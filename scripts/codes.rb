@@ -12,7 +12,7 @@ class CodesLoader
   def initialize(file, games = nil, version = nil)
     @file = file
 
-    if file.match(/\/(\w+)_(\w{2})_(\d+\.\d+)\.xlsx$/)
+    if file.match(/\/(\w+)_(\w{2})_(\d+\.\d+)\.xls/)
       @games = $1
       @version = $3
     end
@@ -31,7 +31,14 @@ class CodesLoader
     sheets = workbook.worksheets
 
     sheets[0..-1].each do |sheet|
-      next if ["Cover", "Document Control", "Change Log Detail", "Contents"].include? sheet.sheet_name
+      if sheet.sheet_name == "Document Control"
+        version_column = sheet.sheet_data[0..-1].map { |r| r.cells.map(&:value).index("Version") }.compact.first
+        version = sheet.sheet_data[0..-1].map { |r| r.cells[version_column].value }.compact.select { |v| v.match(/^(\d+\.?)*$/) }.sort_by { |v| v.to_f }.last
+        if version != @version
+          raise "Source file is tagged at v#{version}, but loader is set to v#{@version}"
+        end
+      end
+      next if ["SCH-Import", "Cover", "Document Control", "Change Log Detail", "Contents"].include? sheet.sheet_name
 
       name = sheet.sheet_name.gsub(' ', '_').sub(/^ODF_/, '').sub(/(GL|OG|PG)_/, '').gsub(/[-_]/, '')
 
@@ -79,10 +86,6 @@ class CodesLoader
       end
 
       puts " Loaded #{@data[name].length} rows."
-    end
-
-    if @data['Version']
-      puts "Source file is tagged at v#{@data['Version']}, but loader is set to v#{@version}"
     end
   end
 

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="38" Time="061248103" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="15" DocumentSubtype="BCK_SPORT">
+  <Competition Code="OG2016">
+    <CodeSet Code="AR">
+      <Language Description="Archery" LongDescription="Archery" Language="ENG"/>
+      <Language Description="Tir à l'arc" LongDescription="Tir à l'arc" Language="FRA"/>
+      <Language Description="Tiro com Arco" LongDescription="Tiro com Arco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AT">
+      <Language Description="Athletics" LongDescription="Athletics" Language="ENG"/>
+      <Language Description="Athlétisme" LongDescription="Athlétisme" Language="FRA"/>
+      <Language Description="Atletismo" LongDescription="Atletismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BD">
+      <Language Description="Badminton" LongDescription="Badminton" Language="ENG"/>
+      <Language Description="Badminton" LongDescription="Badminton" Language="FRA"/>
+      <Language Description="Badminton" LongDescription="Badminton" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BK">
+      <Language Description="Basketball" LongDescription="Basketball" Language="ENG"/>
+      <Language Description="Basketball" LongDescription="Basketball" Language="FRA"/>
+      <Language Description="Basquetebol" LongDescription="Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BV">
+      <Language Description="Beach Volleyball" LongDescription="Beach Volleyball" Language="ENG"/>
+      <Language Description="Volleyball de plage" LongDescription="Volleyball de plage" Language="FRA"/>
+      <Language Description="Vôlei de Praia" LongDescription="Vôlei de Praia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BX">
+      <Language Description="Boxing" LongDescription="Boxing" Language="ENG"/>
+      <Language Description="Boxe" LongDescription="Boxe" Language="FRA"/>
+      <Language Description="Boxe" LongDescription="Boxe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CB">
+      <Language Description="Cycling BMX" LongDescription="Cycling BMX" Language="ENG"/>
+      <Language Description="BMX" LongDescription="BMX" Language="FRA"/>
+      <Language Description="Ciclismo BMX" LongDescription="Ciclismo BMX" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CE">
+      <Language Description="Ceremonies" LongDescription="Ceremonies" Language="ENG"/>
+      <Language Description="Cérémonies" LongDescription="Cérémonies" Language="FRA"/>
+      <Language Description="Cerimônias" LongDescription="Cerimônias" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CF">
+      <Language Description="Canoe Sprint" LongDescription="Canoe Sprint" Language="ENG"/>
+      <Language Description="Canoë-kayak, course en ligne" LongDescription="Canoë-kayak, course en ligne" Language="FRA"/>
+      <Language Description="Canoagem Velocidade" LongDescription="Canoagem Velocidade" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CM">
+      <Language Description="Cycling Mountain Bike" LongDescription="Cycling Mountain Bike" Language="ENG"/>
+      <Language Description="Cyclisme Mountain Bike" LongDescription="Cyclisme Mountain Bike" Language="FRA"/>
+      <Language Description="Ciclismo Mountain Bike" LongDescription="Ciclismo Mountain Bike" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CR">
+      <Language Description="Cycling Road" LongDescription="Cycling Road" Language="ENG"/>
+      <Language Description="Cyclisme sur route" LongDescription="Cyclisme sur route" Language="FRA"/>
+      <Language Description="Ciclismo de Estrada" LongDescription="Ciclismo de Estrada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CS">
+      <Language Description="Canoe Slalom" LongDescription="Canoe Slalom" Language="ENG"/>
+      <Language Description="Canoë-kayak, slalom" LongDescription="Canoë-kayak, slalom" Language="FRA"/>
+      <Language Description="Canoagem Slalom" LongDescription="Canoagem Slalom" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CT">
+      <Language Description="Cycling Track" LongDescription="Cycling Track" Language="ENG"/>
+      <Language Description="Cyclisme sur piste" LongDescription="Cyclisme sur piste" Language="FRA"/>
+      <Language Description="Ciclismo de Pista" LongDescription="Ciclismo de Pista" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DV">
+      <Language Description="Diving" LongDescription="Diving" Language="ENG"/>
+      <Language Description="Plongeon" LongDescription="Plongeon" Language="FRA"/>
+      <Language Description="Saltos Ornamentais" LongDescription="Saltos Ornamentais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="EQ">
+      <Language Description="Equestrian" LongDescription="Equestrian" Language="ENG"/>
+      <Language Description="Sports équestres" LongDescription="Sports équestres" Language="FRA"/>
+      <Language Description="Hipismo" LongDescription="Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FB">
+      <Language Description="Football" LongDescription="Football" Language="ENG"/>
+      <Language Description="Football" LongDescription="Football" Language="FRA"/>
+      <Language Description="Futebol" LongDescription="Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FE">
+      <Language Description="Fencing" LongDescription="Fencing" Language="ENG"/>
+      <Language Description="Escrime" LongDescription="Escrime" Language="FRA"/>
+      <Language Description="Esgrima" LongDescription="Esgrima" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GA">
+      <Language Description="Artistic Gymnastics" LongDescription="Artistic Gymnastics" Language="ENG"/>
+      <Language Description="Gymnastique artistique" LongDescription="Gymnastique artistique" Language="FRA"/>
+      <Language Description="Ginástica Artística" LongDescription="Ginástica Artística" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GL">
+      <Language Description="General" LongDescription="General" Language="ENG"/>
+      <Language Description="Général" LongDescription="Général" Language="FRA"/>
+      <Language Description="Geral" LongDescription="Geral" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GO">
+      <Language Description="Golf" LongDescription="Golf" Language="ENG"/>
+      <Language Description="Golf" LongDescription="Golf" Language="FRA"/>
+      <Language Description="Golfe" LongDescription="Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GR">
+      <Language Description="Rhythmic Gymnastics" LongDescription="Rhythmic Gymnastics" Language="ENG"/>
+      <Language Description="Gymnastique rythmique" LongDescription="Gymnastique rythmique" Language="FRA"/>
+      <Language Description="Ginástica Rítmica" LongDescription="Ginástica Rítmica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GT">
+      <Language Description="Trampoline Gymnastics" LongDescription="Trampoline Gymnastics" Language="ENG"/>
+      <Language Description="Trampoline" LongDescription="Trampoline" Language="FRA"/>
+      <Language Description="Ginástica de Trampolim" LongDescription="Ginástica de Trampolim" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HB">
+      <Language Description="Handball" LongDescription="Handball" Language="ENG"/>
+      <Language Description="Handball" LongDescription="Handball" Language="FRA"/>
+      <Language Description="Handebol" LongDescription="Handebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HO">
+      <Language Description="Hockey" LongDescription="Hockey" Language="ENG"/>
+      <Language Description="Hockey" LongDescription="Hockey" Language="FRA"/>
+      <Language Description="Hóquei sobre grama" LongDescription="Hóquei sobre grama" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="JU">
+      <Language Description="Judo" LongDescription="Judo" Language="ENG"/>
+      <Language Description="Judo" LongDescription="Judo" Language="FRA"/>
+      <Language Description="Judô" LongDescription="Judô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MP">
+      <Language Description="Modern Pentathlon" LongDescription="Modern Pentathlon" Language="ENG"/>
+      <Language Description="Pentathlon moderne" LongDescription="Pentathlon moderne" Language="FRA"/>
+      <Language Description="Pentatlo Moderno" LongDescription="Pentatlo Moderno" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="OM">
+      <Language Description="Olympic Movement" LongDescription="Olympic Movement" Language="ENG"/>
+      <Language Description="Mouvement Olympique" LongDescription="Mouvement Olympique" Language="FRA"/>
+      <Language Description="Movimento Olímpico" LongDescription="Movimento Olímpico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="OW">
+      <Language Description="Marathon Swimming" LongDescription="Marathon Swimming" Language="ENG"/>
+      <Language Description="Natation de marathon" LongDescription="Natation de marathon" Language="FRA"/>
+      <Language Description="Maratonas Aquáticas" LongDescription="Maratonas Aquáticas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RO">
+      <Language Description="Rowing" LongDescription="Rowing" Language="ENG"/>
+      <Language Description="Aviron" LongDescription="Aviron" Language="FRA"/>
+      <Language Description="Remo" LongDescription="Remo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RU">
+      <Language Description="Rugby Sevens" LongDescription="Rugby Sevens" Language="ENG"/>
+      <Language Description="Rugby à 7" LongDescription="Rugby à 7" Language="FRA"/>
+      <Language Description="Rugby de 7" LongDescription="Rugby de 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SA">
+      <Language Description="Sailing" LongDescription="Sailing" Language="ENG"/>
+      <Language Description="Voile" LongDescription="Voile" Language="FRA"/>
+      <Language Description="Vela" LongDescription="Vela" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SH">
+      <Language Description="Shooting" LongDescription="Shooting" Language="ENG"/>
+      <Language Description="Tir" LongDescription="Tir" Language="FRA"/>
+      <Language Description="Tiro Esportivo" LongDescription="Tiro Esportivo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SW">
+      <Language Description="Swimming" LongDescription="Swimming" Language="ENG"/>
+      <Language Description="Natation" LongDescription="Natation" Language="FRA"/>
+      <Language Description="Natação" LongDescription="Natação" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SY">
+      <Language Description="Synchronised Swimming" LongDescription="Synchronised Swimming" Language="ENG"/>
+      <Language Description="Natation synchronisée" LongDescription="Natation synchronisée" Language="FRA"/>
+      <Language Description="Nado Sincronizado" LongDescription="Nado Sincronizado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TE">
+      <Language Description="Tennis" LongDescription="Tennis" Language="ENG"/>
+      <Language Description="Tennis" LongDescription="Tennis" Language="FRA"/>
+      <Language Description="Tênis" LongDescription="Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TK">
+      <Language Description="Taekwondo" LongDescription="Taekwondo" Language="ENG"/>
+      <Language Description="Taekwondo" LongDescription="Taekwondo" Language="FRA"/>
+      <Language Description="Taekwondo" LongDescription="Taekwondo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TR">
+      <Language Description="Triathlon" LongDescription="Triathlon" Language="ENG"/>
+      <Language Description="Triathlon" LongDescription="Triathlon" Language="FRA"/>
+      <Language Description="Triatlo" LongDescription="Triatlo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TT">
+      <Language Description="Table Tennis" LongDescription="Table Tennis" Language="ENG"/>
+      <Language Description="Tennis de table" LongDescription="Tennis de table" Language="FRA"/>
+      <Language Description="Tênis de Mesa" LongDescription="Tênis de Mesa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="VO">
+      <Language Description="Volleyball" LongDescription="Volleyball" Language="ENG"/>
+      <Language Description="Volleyball" LongDescription="Volleyball" Language="FRA"/>
+      <Language Description="Voleibol" LongDescription="Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WL">
+      <Language Description="Weightlifting" LongDescription="Weightlifting" Language="ENG"/>
+      <Language Description="Haltérophilie" LongDescription="Haltérophilie" Language="FRA"/>
+      <Language Description="Levantamento de Peso" LongDescription="Levantamento de Peso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WP">
+      <Language Description="Water Polo" LongDescription="Water Polo" Language="ENG"/>
+      <Language Description="Water-polo" LongDescription="Water-polo" Language="FRA"/>
+      <Language Description="Polo Aquático" LongDescription="Polo Aquático" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WR">
+      <Language Description="Wrestling" LongDescription="Wrestling" Language="ENG"/>
+      <Language Description="Lutte" LongDescription="Lutte" Language="FRA"/>
+      <Language Description="Luta Olímpica" LongDescription="Luta Olímpica" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

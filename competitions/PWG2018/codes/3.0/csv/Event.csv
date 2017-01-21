@@ -1,0 +1,147 @@
+Discipline,Gender,Event,order,ENG Description,KOR Description,ENG longdescription,KOR longdescription,Team Event,Old DDGEEE
+ALP,W,DH------09110-----,1,"Women's Downhill, Standing",KOR,"Women's Downhill, Standing",KOR,N,ASW110
+ALP,W,DH------12050-----,2,"Women's Downhill, Sitting",KOR,"Women's Downhill, Sitting",KOR,N,ASW210
+ALP,W,DH------03030-----,3,"Women's Downhill, Visually Impaired",KOR,"Women's Downhill, Visually Impaired",KOR,N,ASW310
+ALP,W,SL------09110-----,4,"Women's Slalom, Standing",KOR,"Women's Slalom, Standing",KOR,N,ASW120
+ALP,W,SL------12050-----,5,"Women's Slalom, Sitting",KOR,"Women's Slalom, Sitting",KOR,N,ASW220
+ALP,W,SL------03030-----,6,"Women's Slalom, Visually Impaired",KOR,"Women's Slalom, Visually Impaired",KOR,N,ASW320
+ALP,W,GS------09110-----,7,"Women's Giant Slalom, Standing",KOR,"Women's Giant Slalom, Standing",KOR,N,ASW130
+ALP,W,GS------12050-----,8,"Women's Giant Slalom, Sitting",KOR,"Women's Giant Slalom, Sitting",KOR,N,ASW230
+ALP,W,GS------03030-----,9,"Women's Giant Slalom, Visually Impaired",KOR,"Women's Giant Slalom, Visually Impaired",KOR,N,ASW330
+ALP,W,SG------09110-----,10,"Women's Super-G, Standing",KOR,"Women's Super-G, Standing",KOR,N,ASW140
+ALP,W,SG------12050-----,11,"Women's Super-G, Sitting",KOR,"Women's Super-G, Sitting",KOR,N,ASW240
+ALP,W,SG------03030-----,12,"Women's Super-G, Visually Impaired",KOR,"Women's Super-G, Visually Impaired",KOR,N,ASW340
+ALP,W,AC------09110-----,13,"Women's Combined, Standing",KOR,"Women's Combined, Standing",KOR,N,ASW160
+ALP,W,AC------12050-----,14,"Women's Combined, Sitting",KOR,"Women's Combined, Sitting",KOR,N,ASW260
+ALP,W,AC------03030-----,15,"Women's Combined, Visually Imp",KOR,"Women's Combined, Visually Imp",KOR,N,ASW360
+ALP,M,DH------09110-----,16,"Men's Downhill, Standing",KOR,"Men's Downhill, Standing",KOR,N,ASM110
+ALP,M,DH------12050-----,17,"Men's Downhill, Sitting",KOR,"Men's Downhill, Sitting",KOR,N,ASM210
+ALP,M,DH------03030-----,18,"Men's Downhill, Visually Impaired",KOR,"Men's Downhill, Visually Impaired",KOR,N,ASM310
+ALP,M,SL------09110-----,19,"Men's Slalom, Standing",KOR,"Men's Slalom, Standing",KOR,N,ASM120
+ALP,M,SL------12050-----,20,"Men's Slalom, Sitting",KOR,"Men's Slalom, Sitting",KOR,N,ASM220
+ALP,M,SL------03030-----,21,"Men's Slalom, Visually Impaired",KOR,"Men's Slalom, Visually Impaired",KOR,N,ASM320
+ALP,M,GS------09110-----,22,"Men's Giant Slalom, Standing",KOR,"Men's Giant Slalom, Standing",KOR,N,ASM130
+ALP,M,GS------12050-----,23,"Men's Giant Slalom, Sitting",KOR,"Men's Giant Slalom, Sitting",KOR,N,ASM230
+ALP,M,GS------03030-----,24,"Men's Giant Slalom, Visually Impaired",KOR,"Men's Giant Slalom, Visually Impaired",KOR,N,ASM330
+ALP,M,SG------09110-----,25,"Men's Super-G, Standing",KOR,"Men's Super-G, Standing",KOR,N,ASM140
+ALP,M,SG------12050-----,26,"Men's Super-G, Sitting",KOR,"Men's Super-G, Sitting",KOR,N,ASM240
+ALP,M,SG------03030-----,27,"Men's Super-G, Visually Impaired",KOR,"Men's Super-G, Visually Impaired",KOR,N,ASM340
+ALP,M,AC------09110-----,28,"Men's Combined, Standing",KOR,"Men's Combined, Standing",KOR,N,ASM160
+ALP,M,AC------12050-----,29,"Men's Combined, Sitting",KOR,"Men's Combined, Sitting",KOR,N,ASM260
+ALP,M,AC------03030-----,30,"Men's Combined, Visually Impaired",KOR,"Men's Combined, Visually Impaired",KOR,N,ASM360
+ALP,-,------------------,,Alpine Skiing,알파인 스키,Alpine Skiing,알파인 스키,,AS0000
+ALP,M,------------------,,Men's Alpine Skiing,KOR,Men's Alpine Skiing,KOR,,ASM000
+ALP,M,AC----------------,,Men's Combined,KOR,Men's Combined,KOR,N,ASM060
+ALP,M,DH----------------,,Men's Downhill,남자 활강,Men's Downhill,남자 활강,N,ASM010
+ALP,M,GS----------------,,Men's Giant Slalom,남자 대회전,Men's Giant Slalom,남자 대회전,N,ASM030
+ALP,M,SG----------------,,Men's Super-G,남자 슈퍼대회전,Men's Super-G,남자 슈퍼대회전,N,ASM040
+ALP,M,SL----------------,,Men's Slalom,남자 회전,Men's Slalom,남자 회전,N,ASM020
+ALP,W,------------------,,Women's Alpine Skiing,KOR,Women's Alpine Skiing,KOR,,ASW000
+ALP,W,AC----------------,,Women's Combined,KOR,Women's Combined,KOR,N,ASW060
+ALP,W,DH----------------,,Women's Downhill,여자 활강,Women's Downhill,여자 활강,N,ASW010
+ALP,W,GS----------------,,Women's Giant Slalom,여자 대회전,Women's Giant Slalom,여자 대회전,N,ASW030
+ALP,W,SG----------------,,Women's Super-G,여자 슈퍼대회전,Women's Super-G,여자 슈퍼대회전,N,ASW040
+ALP,W,SL----------------,,Women's Slalom,여자 회전,Women's Slalom,여자 회전,N,ASW020
+ART,-,CIRCUS------------,,Circus / Street Arts,KOR,Circus / Street Arts,KOR,N,AF0CRC
+ART,-,COMEDY------------,,Comedy,KOR,Comedy,KOR,N,AF0CMD
+ART,-,CULTURAL----------,,Cultural Activities,KOR,Cultural Activities,KOR,,AF0CUL
+ART,-,DANCE-------------,,Dance,KOR,Dance,KOR,N,AF0DNC
+ART,-,DIGITAL-----------,,Digital / Film / Video,KOR,Digital / Film / Video,KOR,N,AF0DGT
+ART,-,LITERARY----------,,Literary Arts,KOR,Literary Arts,KOR,N,AF0LTR
+ART,-,MUSIC-------------,,Music,KOR,Music,KOR,N,AF0MSC
+ART,-,SPONSOR-----------,,Sponsor Activities,KOR,Sponsor Activities,KOR,,AF0SPO
+ART,-,THEATRE-----------,,Theatre,KOR,Theatre,KOR,N,AF0THT
+ART,-,VISUAL------------,,Visual Arts,KOR,Visual Arts,KOR,N,AF0VSL
+BTH,W,6KM-----09070-----,1,"Women's 6km, Standing",KOR,"Women's 6km, Standing",KOR,N,BTW110
+BTH,W,6KM-----12050-----,2,"Women's 6km, Sitting",KOR,"Women's 6km, Sitting",KOR,N,BTW210
+BTH,W,6KM-----03030-----,3,"Women's 6km, Visually Impaired",KOR,"Women's 6km, Visually Impaired",KOR,N,BTW310
+BTH,W,10KM----09070-----,4,"Women's 10km, Standing",KOR,"Women's 10km, Standing",KOR,N,BTW120
+BTH,W,10KM----12050-----,5,"Women's 10km, Sitting",KOR,"Women's 10km, Sitting",KOR,N,BTW220
+BTH,W,10KM----03030-----,6,"Women's 10km, Visually Impaired",KOR,"Women's 10km, Visually Impaired",KOR,N,BTW320
+BTH,W,12.5KM--09070-----,7,"Women's 12.5km, Standing",KOR,"Women's 12.5km, Standing",KOR,N,BTW130
+BTH,W,12.5KM--12050-----,8,"Women's 12.5km, Sitting",KOR,"Women's 12.5km, Sitting",KOR,N,BTW230
+BTH,W,12.5KM--03030-----,9,"Women's 12.5km, Visually Impaired",KOR,"Women's 12.5km, Visually Impaired",KOR,N,BTW330
+BTH,M,7.5KM---09070-----,10,"Men's 7.5km, Standing",KOR,"Men's 7.5km, Standing",KOR,N,BTM110
+BTH,M,7.5KM---12050-----,11,"Men's 7.5km, Sitting",KOR,"Men's 7.5km, Sitting",KOR,N,BTM210
+BTH,M,12.5KM--12050-----,12,"Men's 12.5km, Sitting",KOR,"Men's 12.5km, Sitting",KOR,N,BTM220
+BTH,M,7.5KM---03030-----,12,"Men's 7.5km, Visually Impaired",KOR,"Men's 7.5km, Visually Impaired",KOR,N,BTM310
+BTH,M,12.5KM--09070-----,13,"Men's 12.5km, Standing",KOR,"Men's 12.5km, Standing",KOR,N,BTM120
+BTH,M,12.5KM--03030-----,15,"Men's 12.5km, Visually Impaired",KOR,"Men's 12.5km, Visually Impaired",KOR,N,BTM320
+BTH,M,15KM----09070-----,16,"Men's 15km, Standing",KOR,"Men's 15km, Standing",KOR,N,BTM130
+BTH,M,15KM----12050-----,17,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,N,BTM230
+BTH,M,15KM----03030-----,18,"Men's 15km, Visually Impaired",KOR,"Men's 15km, Visually Impaired",KOR,N,BTM330
+BTH,-,------------------,,Biathlon,바이애슬론,Biathlon,바이애슬론,,BT0000
+BTH,M,------------------,,Men's Biathlon,KOR,Men's Biathlon,KOR,,BTM000
+BTH,W,------------------,,Women's Biathlon,KOR,Women's Biathlon,KOR,,BTW000
+CCS,W,SPRINT--12050-----,1,"Women's 1km Sprint, Standing",KOR,"Women's 1km Sprint, Standing",KOR,N,CCW102
+CCS,W,SPRINT--09070-----,2,"Women's 1km Sprint, Sitting",KOR,"Women's 1km Sprint, Sitting",KOR,N,CCW202
+CCS,W,SPRINT--03030-----,3,"Women's 1km Sprint, Visually Imp",KOR,"Women's 1km Sprint, Visually Imp",KOR,N,CCW302
+CCS,W,5KM-----12050-----,4,"Women's 5km, Standing",KOR,"Women's 5km, Standing",KOR,N,CCW105
+CCS,W,5KM-----09070-----,5,"Women's 5km, Sitting",KOR,"Women's 5km, Sitting",KOR,N,CCW205
+CCS,W,5KM-----03030-----,6,"Women's 5km, Visually Imp",KOR,"Women's 5km, Visually Imp",KOR,N,CCW305
+CCS,W,15KM----12050-----,7,"Women's 15km, Standing",KOR,"Women's 15km, Standing",KOR,N,CCW115
+CCS,W,12KM----09070-----,8,"Women's 12km, Sitting",KOR,"Women's 12km, Sitting",KOR,N,CCW215
+CCS,W,15KM----03030-----,9,"Women's 15km, Visually Imp",KOR,"Women's 15km, Visually Imp",KOR,N,CCW315
+CCS,M,SPRINT--12050-----,10,"Men's 1km Sprint, Standing",KOR,"Men's 1km Sprint, Standing",KOR,N,CCM102
+CCS,M,SPRINT--09070-----,11,"Men's 1km Sprint, Sitting",KOR,"Men's 1km Sprint, Sitting",KOR,N,CCM202
+CCS,M,SPRINT--03030-----,12,"Men's 1km Sprint, Visually Impaired",KOR,"Men's 1km Sprint, Visually Impaired",KOR,N,CCM302
+CCS,M,10KM----12050-----,13,"Men's 10km, Standing",KOR,"Men's 10km, Standing",KOR,N,CCM110
+CCS,M,10KM----09070-----,14,"Men's 10km, Sitting",KOR,"Men's 10km, Sitting",KOR,N,CCM210
+CCS,M,10KM----03030-----,15,"Men's 10km, Visually Impaired",KOR,"Men's 10km, Visually Impaired",KOR,N,CCM310
+CCS,M,20KM----12050-----,16,"Men's 20km, Standing",KOR,"Men's 20km, Standing",KOR,N,CCM120
+CCS,M,15KM----09070-----,17,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,N,CCM220
+CCS,M,20KM----03030-----,18,"Men's 20km, Visually Impaired",KOR,"Men's 20km, Visually Impaired",KOR,N,CCM320
+CCS,X,4X2.5KM-12150-----,19,4 x 2.5km Mixed Relay,KOR,4 x 2.5km Mixed Relay,KOR,Y,CCX401
+CCS,O,4X2.5KM-12150-----,20,4 x 2.5km Open Relay,KOR,4 x 2.5km Open Relay,KOR,Y,CCX402
+CCS,-,------------------,,Cross-Country Skiing,크로스컨트리 스키,Cross-Country Skiing,크로스컨트리 스키,,CC0000
+CCS,M,------------------,,Men Cross-Country Skiing,KOR,Men Cross-Country Skiing,KOR,,CCM000
+CCS,W,------------------,,Women Cross-Country Skiing,KOR,Women Cross-Country Skiing,KOR,,CCW000
+CER,-,CLOSING-----------,,Closing Ceremony,KOR,Closing Ceremony,KOR,,CE0CLO
+CER,-,OPENING-----------,,Opening Ceremony,KOR,Opening Ceremony,KOR,,CE0OPN
+GEN,-,------------------,,General,KOR,General,KOR,,GL0000
+IOC,-,MEETINGS----------,,IPC Meetings,KOR,IPC Meetings,KOR,,IA0MET
+ISH,O,TEAM6---00000-----,1,Mixed,KOR,Mixed,KOR,Y,IHX400
+ISH,-,------------------,,Ice Sledge Hockey,아이스슬레지하키,Ice Sledge Hockey,아이스슬레지하키,,IH0000
+ISH,O,------------------,,Ice Sledge Hockey,아이스슬레지하키,Ice Sledge Hockey,아이스슬레지하키,,IHX000
+NSK,-,------------------,,Nordic Skiing,KOR,Nordic Skiing,KOR,,NS0000
+OLV,-,ELECTION----------,,IPC Athletes' Commission Election,KOR,IPC Athletes' Commission Election,KOR,,OV0IOC
+OLV,-,ENTERTAN----------,,Entertainment Program,KOR,Entertainment Program,KOR,,OV0ENP
+OLV,-,FAITH-------------,,Interfaith Centre,KOR,Interfaith Centre,KOR,,OV0IFC
+OLV,-,WELCOME-----------,,Team Welcome Ceremonies,KOR,Team Welcome Ceremonies,KOR,,OV0TEA
+PCO,-,ALP---------------,,Alpine Skiing,KOR,Alpine Skiing,KOR,,PC0AS0
+PCO,-,BTH---------------,,Biathlon,KOR,Biathlon,KOR,,PC0BT0
+PCO,-,CCS---------------,,Cross-Country Skiing,KOR,Cross-Country Skiing,KOR,,PC0CC0
+PCO,-,GEN---------------,,General,KOR,General,KOR,,PC0GEN
+PCO,-,IOC---------------,,IPC Press Conferences,KOR,IPC Press Conferences,KOR,,PC0IOC
+PCO,-,ISH---------------,,Ice Sledge Hockey,KOR,Ice Sledge Hockey,KOR,,PC0IH0
+PCO,-,LOC---------------,,PeongChang 2018,KOR,PeongChang 2018,KOR,,PC0LOC
+PCO,-,NCB---------------,,Nordic Combined,KOR,Nordic Combined,KOR,,PC0NC0
+PCO,-,SBD---------------,,Snowboard,KOR,Snowboard,KOR,,PC0SB0
+PCO,-,WCU---------------,,Wheelchair Curling,KOR,Wheelchair Curling,KOR,,PC0CU0
+SBD,W,SBX-----01010-----,1,Women's Snowboard Cross SB-UL ,KOR,Women's Snowboard Cross SB-UL ,KOR,,
+SBD,W,SBX-----10010-----,2,Women's Snowboard Cross SB-LL1 ,KOR,Women's Snowboard Cross SB-LL1 ,KOR,,
+SBD,W,SBX-----20010-----,3,Women's Snowboard Cross SB-LL2 ,KOR,Women's Snowboard Cross SB-LL2 ,KOR,,
+SBD,W,BSL-----01010-----,4,Women's Banked Slalom SB-UL ,KOR,Women's Banked Slalom SB-UL ,KOR,,
+SBD,W,BSL-----10010-----,5,Women's Banked Slalom SB-LL1 ,KOR,Women's Banked Slalom SB-LL1 ,KOR,,
+SBD,W,BSL-----20010-----,6,Women's Banked Slalom SB-LL2 ,KOR,Women's Banked Slalom SB-LL2 ,KOR,,
+SBD,M,SBX-----01010-----,7,Men's Snowboard Cross SB-UL ,KOR,Men's Snowboard Cross SB-UL ,KOR,,
+SBD,M,SBX-----10010-----,8,Men's Snowboard Cross SB-LL1 ,KOR,Men's Snowboard Cross SB-LL1 ,KOR,,
+SBD,M,SBX-----20010-----,9,Men's Snowboard Cross SB-LL2 ,KOR,Men's Snowboard Cross SB-LL2 ,KOR,,
+SBD,M,BSL-----01010-----,10,Men's Banked Slalom SB-UL ,KOR,Men's Banked Slalom SB-UL ,KOR,,
+SBD,M,BSL-----10010-----,11,Men's Banked Slalom SB-LL1 ,KOR,Men's Banked Slalom SB-LL1 ,KOR,,
+SBD,M,BSL-----20010-----,12,Men's Banked Slalom SB-LL2 ,KOR,Men's Banked Slalom SB-LL2 ,KOR,,
+SBD,-,------------------,,Snowboard,스노보드,Snowboard,스노보드,,
+SBD,M,------------------,,Men's Snowboard,KOR,Men's Snowboard,KOR,,
+SBD,M,BSL---------------,,Men's Banked Slalom,남자 뱅크드 슬라롬,Men's Banked Slalom,남자 뱅크드 슬라롬,,
+SBD,M,SBX---------------,,Men's Snowboard Cross,남자 스노보드 크로스,Men's Snowboard Cross,남자 스노보드 크로스,N,ASM190
+SBD,W,------------------,,Women's Snowboard,KOR,Women's Snowboard,KOR,,
+SBD,W,BSL---------------,,Women's Banked Slalom ,여자 뱅크드 슬라롬,Women's Banked Slalom ,여자 뱅크드 슬라롬,,
+SBD,W,SBX---------------,,Women's Snowboard Cross ,여자 스노보드 크로스,Women's Snowboard Cross ,여자 스노보드 크로스,N,ASW190
+TRU,-,ALP---------------,,Alpine Skiing,KOR,Alpine Skiing,KOR,,UT0AST
+TRU,-,BTH---------------,,Biathlon,KOR,Biathlon,KOR,,UT0BTT
+TRU,-,CCS---------------,,Cross-Country Skiing,KOR,Cross-Country Skiing,KOR,,UT0CCT
+TRU,-,ISH---------------,,Ice Sledge Hockey,KOR,Ice Sledge Hockey,KOR,,UT0IHT
+TRU,-,SBD---------------,,Snowboard,KOR,Snowboard,KOR,,UT0SBT
+TRU,-,WCU---------------,,Wheelchair Curling,KOR,Wheelchair Curling,KOR,,UT0CUT
+WCU,X,TEAM4---00000-----,1,Mixed,KOR,Mixed,KOR,Y,CUX400
+WCU,-,------------------,,Wheelchair Curling,휠체어컬링,Wheelchair Curling,휠체어컬링,,CU0000

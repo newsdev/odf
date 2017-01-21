@@ -1,0 +1,12 @@
+Id,ENG Description,FRA Description,KOR Description,Comment
+CANCELLED,Cancelled,Annulé,취소,Competition unit was schedule and will not now take place
+DELAYED,Delayed,Retardé,지연,Competition has not started and start is late (no new time)
+FINISHED,Finished,Terminé,완료,All play is complete in the unit
+GETTING_READY,Getting Ready,Prêt,준비,"Start of competition is iminent, athletes usually on FOP"
+INTERRUPTED,Interrupted,Interrompu,중단,Competition has started but is now stopped temporarily.
+POSTPONED,Postponed,Reporté,연기,Competition has stopped and will take place at a new time (to be determined)
+RESCHEDULED,Rescheduled,Reprogrammé,일정변경,The start (or re-start) of the competition has changed to a new time (new time is known)
+RUNNING,Running,En cours,운영,Competition in progress
+SCHEDULED,Scheduled,Programmé,예정,Unit to be conducted
+SCHEDULED_BREAK,Scheduled Break,Interruption programmée,휴식,Planned break in competition (e.g. end of period)
+UNSCHEDULED,Unscheduled,Non programmé,일정 없음,"A possible unit to be scheduled, not displayed (e.g. swim-off)"

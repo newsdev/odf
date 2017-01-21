@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="49" Time="061252781" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="LOCATION">
+  <Competition Code="OG2016">
+    <CodeSet Order="1" VenueCode="OLS" Competition="Y" Code="A01">
+      <Language Description="Olympic Stadium - Road Events" LongDescription="Olympic Stadium - Road Events" Language="ENG"/>
+      <Language Description="Stade Olympique - Route" LongDescription="Stade Olympique - Évènement sur route" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Eventos rua" LongDescription="Estádio Olímpico - Eventos de rua" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="OLS" Competition="Y" Code="A02">
+      <Language Description="Olympic Stadium - Track Events" LongDescription="Olympic Stadium - Track Events" Language="ENG"/>
+      <Language Description="Stade Olympique - Piste" LongDescription="Stade Olympique - Évènement sur piste" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Eventos pista" LongDescription="Estádio Olímpico - Eventos de pista" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="OLS" Competition="Y" Code="A03">
+      <Language Description="Olympic Stadium - High Jump 1" LongDescription="Olympic Stadium - High Jump 1" Language="ENG"/>
+      <Language Description="Stade Olympique-Saut hauteur 1" LongDescription="Stade Olympique - Saut en hauteur 1" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Altura 1" LongDescription="Estádio Olímpico - Salto em altura 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="OLS" Competition="Y" Code="A04">
+      <Language Description="Olympic Stadium - High Jump 2" LongDescription="Olympic Stadium - High Jump 2" Language="ENG"/>
+      <Language Description="Stade Olympique-Saut hauteur 2" LongDescription="Stade Olympique - Saut en hauteur 2" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Altura 2" LongDescription="Estádio Olímpico - Salto em altura 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="OLS" Competition="Y" Code="A05">
+      <Language Description="Olympic Stadium - Horiz Jump 1" LongDescription="Olympic Stadium - Horizontal Jumps 1" Language="ENG"/>
+      <Language Description="Stade Olympique - Longueur 1" LongDescription="Stade Olympique - Saut en longueur 1" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Horizontais 1" LongDescription="Estádio Olímpico - Saltos horizontais 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="OLS" Competition="Y" Code="A06">
+      <Language Description="Olympic Stadium - Horiz Jump 2" LongDescription="Olympic Stadium - Horizontal Jumps 2" Language="ENG"/>
+      <Language Description="Stade Olympique - Longueur 2" LongDescription="Stade Olympique - Saut en longueur 2" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Horizontais 2" LongDescription="Estádio Olímpico - Saltos horizontais 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="7" VenueCode="OLS" Competition="Y" Code="A07">
+      <Language Description="Olympic Stadium - Pole Vault 1" LongDescription="Olympic Stadium - Pole Vault 1" Language="ENG"/>
+      <Language Description="Stade Olympique - Perche 1" LongDescription="Stade Olympique - Perche 1" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Salto vara 1" LongDescription="Estádio Olímpico - Salto com vara 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="8" VenueCode="OLS" Competition="Y" Code="A08">
+      <Language Description="Olympic Stadium - Pole Vault 2" LongDescription="Olympic Stadium - Pole Vault 2" Language="ENG"/>
+      <Language Description="Stade Olympique - Perche 2" LongDescription="Stade Olympique - Perche 2" Language="FRA"/>
+      <Language Description="Estádio Olímpico-Salto vara 2" LongDescription="Estádio Olímpico - Salto com vara 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="9" VenueCode="OLS" Competition="Y" Code="A09">
+      <Language Description="Olympic Stadium - Shot Put 1" LongDescription="Olympic Stadium - Shot Put 1" Language="ENG"/>
+      <Language Description="Stade Olympique-Lancer poids 1" LongDescription="Stade Olympique - Lancer de poids 1" Language="FRA"/>
+      <Language Description="Estádio Olímpico - Peso 1" LongDescription="Estádio Olímpico - Arremesso do peso 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="10" VenueCode="OLS" Competition="Y" Code="A10">
+      <Language Description="Olympic Stadium - Shot Put 2" LongDescription="Olympic Stadium - Shot Put 2" Language="ENG"/>
+      <Language Description="Stade Olympique-Lancer poids 2" LongDescription="Stade Olympique - Lancer de poids 2" Language="FRA"/>
+      <Language Description="Estádio Olímpico - Peso 2" LongDescription="Estádio Olímpico - Arremesso do peso 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="11" VenueCode="OLS" Competition="Y" Code="A11">
+      <Language Description="Olympic Stadium - Long Throws" LongDescription="Olympic Stadium - Long Throws" Language="ENG"/>
+      <Language Description="Stade Olympique - Lancer" LongDescription="Stade Olympique - Lancer" Language="FRA"/>
+      <Language Description="Estádio Olímpico - Arremessos" LongDescription="Estádio Olímpico - Arremessos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="12" VenueCode="PON" Competition="Y" Code="A12">
+      <Language Description="Pontal - Race walk" LongDescription="Pontal - Race walk" Language="ENG"/>
+      <Language Description="Pontal - Marche" LongDescription="Pontal - Marche" Language="FRA"/>
+      <Language Description="Pontal - Marcha atlética" LongDescription="Pontal - Marcha atlética" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="13" VenueCode="SBD" Competition="Y" Code="A13">
+      <Language Description="Sambódromo - Marathon" LongDescription="Sambódromo - Marathon" Language="ENG"/>
+      <Language Description="Sambódromo - Marathon" LongDescription="Sambódromo - Marathon" Language="FRA"/>
+      <Language Description="Sambódromo - Maratona" LongDescription="Sambódromo - Maratona" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="AMZ" Competition="Y" Code="AMZ">
+      <Language Description="Amazônia Arena" LongDescription="Amazônia Arena" Language="ENG"/>
+      <Language Description="Arena da Amazônia" LongDescription="Arena da Amazônia" Language="FRA"/>
+      <Language Description="Arena da Amazônia" LongDescription="Arena da Amazônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="AQC" Competition="Y" Code="AQC">
+      <Language Description="Maria Lenk Aquatics Centre" LongDescription="Maria Lenk Aquatics Centre" Language="ENG"/>
+      <Language Description="Centre Aquatique Maria Lenk" LongDescription="Centre Aquatique Maria Lenk" Language="FRA"/>
+      <Language Description="Centro Aquático Maria Lenk" LongDescription="Centro Aquático Maria Lenk" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="SBD" Competition="Y" Code="AR1">
+      <Language Description="Sambódromo - AR Ranking Range" LongDescription="Sambódromo - AR Ranking Range Field" Language="ENG"/>
+      <Language Description="Sambódromo - AR classement" LongDescription="Sambódromo - AR stand du tour de classement" Language="FRA"/>
+      <Language Description="Sambódromo-AR Classificatória" LongDescription="Sambódromo - AR Campo da Rodada Classificatória" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="SBD" Competition="Y" Code="AR2">
+      <Language Description="Sambódromo - AR Elimination" LongDescription="Sambódromo - AR Elimination Range" Language="ENG"/>
+      <Language Description="Sambódromo - AR élimination" LongDescription="Sambódromo - AR stand d'élimination" Language="FRA"/>
+      <Language Description="Sambódromo - AR Eliminatórias" LongDescription="Sambódromo - AR Campo das Rodadas Eliminatórias" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="BVA" Competition="Y" Code="B00">
+      <Language Description="Beach Volleyball Arena-Centre" LongDescription="Beach Volleyball Arena - Centre Court" Language="ENG"/>
+      <Language Description="A. de Volleyball de Plage -Ctr" LongDescription="Arène de Volleyball de Plage - Court central" Language="FRA"/>
+      <Language Description="A. de Vôlei de Praia - Qdr Ctr" LongDescription="Arena de Vôlei de Praia - Quadra Central" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="BVA" Competition="Y" Code="B01">
+      <Language Description="Beach Volleyball Arena - Crt 1" LongDescription="Beach Volleyball Arena - Court 1" Language="ENG"/>
+      <Language Description="A. de Volleyball de Plage-Crt1" LongDescription="Arène de Volleyball de Plage - Court nº1" Language="FRA"/>
+      <Language Description="Arena de Vôlei de Praia - Qdr1" LongDescription="Arena de Vôlei de Praia - Quadra 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="BVA" Competition="Y" Code="B02">
+      <Language Description="Beach Volleyball Arena - Crt 2" LongDescription="Beach Volleyball Arena - Court 2" Language="ENG"/>
+      <Language Description="A. de Volleyball de Plage-Crt2" LongDescription="Arène de Volleyball de Plage - Court nº2" Language="FRA"/>
+      <Language Description="Arena de Vôlei de Praia - Qdr2" LongDescription="Arena de Vôlei de Praia - Quadra 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="RC4" Competition="Y" Code="BD1">
+      <Language Description="Riocentro -Pavilion 4-BD Crt 1" LongDescription="Riocentro - Pavilion 4 - BD Court 1" Language="ENG"/>
+      <Language Description="Riocentro-Pavillion 4-BD Crt 1" LongDescription="Riocentro - Pavillion 4 - BD Court nº1" Language="FRA"/>
+      <Language Description="Riocentro -Pavilhão 4-BD Qdr 1" LongDescription="Riocentro - Pavilhão 4 - BD Quadra 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="RC4" Competition="Y" Code="BD2">
+      <Language Description="Riocentro -Pavilion 4-BD Crt 2" LongDescription="Riocentro - Pavilion 4 - BD Court 2" Language="ENG"/>
+      <Language Description="Riocentro-Pavillion 4-BD Crt 2" LongDescription="Riocentro - Pavillion 4 - BD Court nº2" Language="FRA"/>
+      <Language Description="Riocentro -Pavilhão 4-BD Qdr 2" LongDescription="Riocentro - Pavilhão 4 - BD Quadra 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="RC4" Competition="Y" Code="BD3">
+      <Language Description="Riocentro -Pavilion 4-BD Crt 3" LongDescription="Riocentro - Pavilion 4 - BD Court 3" Language="ENG"/>
+      <Language Description="Riocentro-Pavillion 4-BD Crt 3" LongDescription="Riocentro - Pavillion 4 - BD Court nº3" Language="FRA"/>
+      <Language Description="Riocentro -Pavilhão 4-BD Qdr 3" LongDescription="Riocentro - Pavilhão 4 - BD Quadra 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="CA1" Competition="Y" Code="BK1">
+      <Language Description="Carioca Arena 1 - Basketball" LongDescription="Carioca Arena 1 - Basketball" Language="ENG"/>
+      <Language Description="Aréna Carioca 1 - Basketball" LongDescription="Aréna Carioca 1 - Basketball" Language="FRA"/>
+      <Language Description="Arena Carioca 1 - Basquetebol" LongDescription="Arena Carioca 1 - Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="YOA" Competition="Y" Code="BK2">
+      <Language Description="Youth Arena - Basketball" LongDescription="Youth Arena - Basketball" Language="ENG"/>
+      <Language Description="Arène de la Jeunesse - BK" LongDescription="Arène de la Jeunesse - Basketball" Language="FRA"/>
+      <Language Description="Arena da Juventude-Basquetebol" LongDescription="Arena da Juventude - Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="BMX" Competition="Y" Code="BMX">
+      <Language Description="Olympic BMX Centre" LongDescription="Olympic BMX Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de BMX" LongDescription="Centre Olympique de BMX" Language="FRA"/>
+      <Language Description="Centro Olímpico de BMX" LongDescription="Centro Olímpico de BMX" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="BVA" Competition="Y" Code="BVA">
+      <Language Description="Beach Volleyball Arena" LongDescription="Beach Volleyball Arena" Language="ENG"/>
+      <Language Description="Arène de Volleyball de Plage" LongDescription="Arène de Volleyball de Plage" Language="FRA"/>
+      <Language Description="Arena de Vôlei de Praia" LongDescription="Arena de Vôlei de Praia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="RC6" Competition="Y" Code="BX1">
+      <Language Description="Riocentro - Pavilion 6" LongDescription="Riocentro - Pavilion 6" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 6" LongDescription="Riocentro - Pavillion 6" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 6" LongDescription="Riocentro - Pavilhão 6" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="CA1" Competition="Y" Code="CA1">
+      <Language Description="Carioca Arena 1" LongDescription="Carioca Arena 1" Language="ENG"/>
+      <Language Description="Aréna Carioca 1" LongDescription="Aréna Carioca 1" Language="FRA"/>
+      <Language Description="Arena Carioca 1" LongDescription="Arena Carioca 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="CA2" Competition="Y" Code="CA2">
+      <Language Description="Carioca Arena 2" LongDescription="Carioca Arena 2" Language="ENG"/>
+      <Language Description="Aréna Carioca 2" LongDescription="Aréna Carioca 2" Language="FRA"/>
+      <Language Description="Arena Carioca 2" LongDescription="Arena Carioca 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="CA3" Competition="Y" Code="CA3">
+      <Language Description="Carioca Arena 3" LongDescription="Carioca Arena 3" Language="ENG"/>
+      <Language Description="Aréna Carioca 3" LongDescription="Aréna Carioca 3" Language="FRA"/>
+      <Language Description="Arena Carioca 3" LongDescription="Arena Carioca 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="BMX" Competition="Y" Code="CB1">
+      <Language Description="Olympic BMX Centre" LongDescription="Olympic BMX Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de BMX" LongDescription="Centre Olympique de BMX" Language="FRA"/>
+      <Language Description="Centro Olímpico de BMX" LongDescription="Centro Olímpico de BMX" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="LAG" Competition="Y" Code="CF1">
+      <Language Description="Lagoa Stadium - Canoe Sprint" LongDescription="Lagoa Stadium - Canoe Sprint" Language="ENG"/>
+      <Language Description="Stade de Lagoa - CS" LongDescription="Stade de Lagoa - Canoë-kayak, course en ligne" Language="FRA"/>
+      <Language Description="Estádio da Lagoa - CS" LongDescription="Estádio da Lagoa - Canoagem Velocidade" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="MBT" Competition="Y" Code="CM1">
+      <Language Description="Mountain Bike Centre" LongDescription="Mountain Bike Centre" Language="ENG"/>
+      <Language Description="Centre de Mountain Bike" LongDescription="Centre de Mountain Bike" Language="FRA"/>
+      <Language Description="Centro de Mountain Bike" LongDescription="Centro de Mountain Bike" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="FTC" Competition="Y" Code="CR1">
+      <Language Description="Fort Copacabana - Cycling Road" LongDescription="Fort Copacabana - Cycling Road" Language="ENG"/>
+      <Language Description="Fort de Copacabana - CR" LongDescription="Fort de Copacabana - Cyclisme sur route" Language="FRA"/>
+      <Language Description="Forte de Copacabana - CR" LongDescription="Forte de Copacabana - Ciclismo de Estrada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="PON" Competition="Y" Code="CR2">
+      <Language Description="Pontal - Cycling Road" LongDescription="Pontal - Cycling Road" Language="ENG"/>
+      <Language Description="Pontal - Cyclisme sur route" LongDescription="Pontal - Cyclisme sur route" Language="FRA"/>
+      <Language Description="Pontal - Ciclismo de Estrada" LongDescription="Pontal - Ciclismo de Estrada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="WWS" Competition="Y" Code="CS1">
+      <Language Description="Whitewater Stadium" LongDescription="Whitewater Stadium" Language="ENG"/>
+      <Language Description="Stade de Canoë Slalom" LongDescription="Stade de Canoë Slalom" Language="FRA"/>
+      <Language Description="Estádio de Canoagem Slalom" LongDescription="Estádio de Canoagem Slalom" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="ROV" Competition="Y" Code="CT1">
+      <Language Description="Rio Olympic Velodrome" LongDescription="Rio Olympic Velodrome" Language="ENG"/>
+      <Language Description="Vélodrome Olympique de Rio" LongDescription="Vélodrome Olympique de Rio" Language="FRA"/>
+      <Language Description="Velódromo Olímpico do Rio" LongDescription="Velódromo Olímpico do Rio" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="DAQ" Competition="Y" Code="DAQ">
+      <Language Description="Deodoro Aquatics Centre" LongDescription="Deodoro Aquatics Centre" Language="ENG"/>
+      <Language Description="Centre Aquatique de Deodoro" LongDescription="Centre Aquatique de Deodoro" Language="FRA"/>
+      <Language Description="Centro Aquático de Deodoro" LongDescription="Centro Aquático de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="DES" Competition="Y" Code="DES">
+      <Language Description="Deodoro Stadium" LongDescription="Deodoro Stadium" Language="ENG"/>
+      <Language Description="Stade de Deodoro" LongDescription="Stade de Deodoro" Language="FRA"/>
+      <Language Description="Estádio de Deodoro" LongDescription="Estádio de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="AQC" Competition="Y" Code="DV1">
+      <Language Description="Maria Lenk Aquatics - Diving" LongDescription="Maria Lenk Aquatics Centre - Diving Pool" Language="ENG"/>
+      <Language Description="Centre Aquatique Maria Lenk" LongDescription="Centre Aquatique Maria Lenk" Language="FRA"/>
+      <Language Description="Centro Aquático Maria Lenk" LongDescription="Centro Aquático Maria Lenk - Piscina de Saltos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="EQC" Competition="Y" Code="EQ1">
+      <Language Description="Olympic Equestrian - Dressage" LongDescription="Olympic Equestrian Centre - Dressage Arena" Language="ENG"/>
+      <Language Description="Olympique Équitation -Dressage" LongDescription="Centre Olympique d´Équitation - Dressage" Language="FRA"/>
+      <Language Description="Ctr Olímpico de Hipismo -Ades." LongDescription="Centro Olímpico de Hipismo - Arena de Adestramento" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="EQC" Competition="Y" Code="EQ2">
+      <Language Description="Olympic Equestrian - XC Course" LongDescription="Olympic Equestrian Centre - Cross Country Course" Language="ENG"/>
+      <Language Description="Olympique d´Équitation - CC" LongDescription="Centre Olympique d´Équitation - Cross country" Language="FRA"/>
+      <Language Description="Ctr Olímpico de Hipismo - CCE" LongDescription="Centro Olímpico de Hipismo - CCE" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="EQC" Competition="Y" Code="EQ3">
+      <Language Description="Olympic Equestrian - Jumping" LongDescription="Olympic Equestrian Centre - Jumping Arena" Language="ENG"/>
+      <Language Description="Olympique d´Équitation - Saut" LongDescription="Centre Olympique d´Équitation - Saut" Language="FRA"/>
+      <Language Description="Ctr Olímpico de Hipismo-Saltos" LongDescription="Centro Olímpico de Hipismo - Arena de Saltos" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="EQC" Competition="Y" Code="EQC">
+      <Language Description="Olympic Equestrian Centre" LongDescription="Olympic Equestrian Centre" Language="ENG"/>
+      <Language Description="Centre Olympique d´Équitation" LongDescription="Centre Olympique d´Équitation" Language="FRA"/>
+      <Language Description="Centro Olímpico de Hipismo" LongDescription="Centro Olímpico de Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="MRC" Competition="Y" Code="FB1">
+      <Language Description="Maracanã - FB" LongDescription="Maracanã - Football" Language="ENG"/>
+      <Language Description="Maracanã - FB" LongDescription="Maracanã - Football" Language="FRA"/>
+      <Language Description="Maracanã - FB" LongDescription="Maracanã - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="MGA" Competition="Y" Code="FB2">
+      <Language Description="Mané Garrincha Stadium - FB" LongDescription="Mané Garrincha Stadium - Football" Language="ENG"/>
+      <Language Description="Stade Mané Garrincha - FB" LongDescription="Stade Mané Garrincha - Football" Language="FRA"/>
+      <Language Description="Estádio Mané Garrincha - FB" LongDescription="Estádio Mané Garrincha - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="MIN" Competition="Y" Code="FB3">
+      <Language Description="Mineirão - FB" LongDescription="Mineirão - Football" Language="ENG"/>
+      <Language Description="Mineirão - FB" LongDescription="Mineirão - Football" Language="FRA"/>
+      <Language Description="Mineirão - FB" LongDescription="Mineirão - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="FNA" Competition="Y" Code="FB4">
+      <Language Description="Fonte Nova Arena - FB" LongDescription="Fonte Nova Arena - Football" Language="ENG"/>
+      <Language Description="Arène Fonte Nova - FB" LongDescription="Arène Fonte Nova - Football" Language="FRA"/>
+      <Language Description="Arena Fonte Nova - FB" LongDescription="Arena Fonte Nova - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="SPA" Competition="Y" Code="FB5">
+      <Language Description="Itaquera Arena - FB" LongDescription="Itaquera Arena - Football" Language="ENG"/>
+      <Language Description="Itaquera Arena - FB" LongDescription="Itaquera Arena - Football" Language="FRA"/>
+      <Language Description="Arena Itaquera - FB" LongDescription="Arena Itaquera - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="AMZ" Competition="Y" Code="FB6">
+      <Language Description="Amazônia Arena - FB" LongDescription="Amazônia Arena - Football" Language="ENG"/>
+      <Language Description="Arena da Amazônia - FB" LongDescription="Arena da Amazônia - Football" Language="FRA"/>
+      <Language Description="Arena da Amazônia - FB" LongDescription="Arena da Amazônia - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="7" VenueCode="OLS" Competition="Y" Code="FB7">
+      <Language Description="Olympic Stadium - FB" LongDescription="Olympic Stadium - Football" Language="ENG"/>
+      <Language Description="Stade Olympique - FB" LongDescription="Stade Olympique - Football" Language="FRA"/>
+      <Language Description="Estádio Olímpico - FB" LongDescription="Estádio Olímpico - Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="CA3" Competition="Y" Code="FEA">
+      <Language Description="Carioca Arena 3-FE Finals Pist" LongDescription="Carioca Arena 3 - Fencing Finals Piste" Language="ENG"/>
+      <Language Description="Aréna Carioca 3-FE Piste Final" LongDescription="Aréna Carioca 3 - Escrime Piste Finale" Language="FRA"/>
+      <Language Description="Arena Carioca 3-FE Pista Finai" LongDescription="Arena Carioca 3 - Esgrima Pista das Finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="CA3" Competition="Y" Code="FEB">
+      <Language Description="Carioca Arena 3-FE Blue Piste" LongDescription="Carioca Arena 3 - Fencing Blue Piste" Language="ENG"/>
+      <Language Description="Aréna Carioca 3-FE Piste Bleue" LongDescription="Aréna Carioca 3 - Escrime Piste Bleue" Language="FRA"/>
+      <Language Description="Arena Carioca 3-FE Pista Azul" LongDescription="Arena Carioca 3 - Esgrima Pista Azul" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="CA3" Competition="Y" Code="FEG">
+      <Language Description="Carioca Arena 3-FE Green Piste" LongDescription="Carioca Arena 3 - Fencing Green Piste" Language="ENG"/>
+      <Language Description="Aréna Carioca 3-FE Piste Verte" LongDescription="Aréna Carioca 3 - Escrime Piste Verte" Language="FRA"/>
+      <Language Description="Arena Carioca 3-FE Pista Verde" LongDescription="Arena Carioca 3 - Esgrima Pista Verde" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="CA3" Competition="Y" Code="FER">
+      <Language Description="Carioca Arena 3-FE Red Piste" LongDescription="Carioca Arena 3 - Fencing Red Piste" Language="ENG"/>
+      <Language Description="Aréna Carioca 3-FE Piste Rouge" LongDescription="Aréna Carioca 3 - Escrime Piste Rouge" Language="FRA"/>
+      <Language Description="Arena Carioca 3-FE Pista Verme" LongDescription="Arena Carioca 3 - Esgrima Pista Vermelha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="CA3" Competition="Y" Code="FEY">
+      <Language Description="Carioca Arena 3-FE Yellow Pist" LongDescription="Carioca Arena 3 - Fencing Yellow Piste" Language="ENG"/>
+      <Language Description="Aréna Carioca 3-FE Piste Jaune" LongDescription="Aréna Carioca 3 - Escrime Piste Jaune" Language="FRA"/>
+      <Language Description="Arena Carioca 3-FE Pista Amare" LongDescription="Arena Carioca 3 - Esgrima Pista Amarela" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="FNA" Competition="Y" Code="FNA">
+      <Language Description="Fonte Nova Arena" LongDescription="Fonte Nova Arena" Language="ENG"/>
+      <Language Description="Arène Fonte Nova" LongDescription="Arène Fonte Nova" Language="FRA"/>
+      <Language Description="Arena Fonte Nova" LongDescription="Arena Fonte Nova" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="FTA" Competition="Y" Code="FTA">
+      <Language Description="Future Arena" LongDescription="Future Arena" Language="ENG"/>
+      <Language Description="Arène du Futur" LongDescription="Arène du Futur" Language="FRA"/>
+      <Language Description="Arena do Futuro" LongDescription="Arena do Futuro" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="FTC" Competition="Y" Code="FTC">
+      <Language Description="Fort Copacabana" LongDescription="Fort Copacabana" Language="ENG"/>
+      <Language Description="Fort de Copacabana" LongDescription="Fort de Copacabana" Language="FRA"/>
+      <Language Description="Forte de Copacabana" LongDescription="Forte de Copacabana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="ROA" Competition="Y" Code="GA1">
+      <Language Description="Rio Olympic Arena-GA Floor" LongDescription="Rio Olympic Arena - GA Floor" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Sol" LongDescription="Rio Olympic Arena - GA Exercices au sol" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Solo" LongDescription="Rio Olympic Arena - GA Solo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="ROA" Competition="Y" Code="GA2">
+      <Language Description="Rio Olympic Arena-GA Pommel Ho" LongDescription="Rio Olympic Arena - GA Pommel Horse" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Cheval d" LongDescription="Rio Olympic Arena - GA Cheval d'arçons" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Cavalo" LongDescription="Rio Olympic Arena - GA Cavalo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="ROA" Competition="Y" Code="GA3">
+      <Language Description="Rio Olympic Arena-GA Rings" LongDescription="Rio Olympic Arena - GA Rings" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Anneaux" LongDescription="Rio Olympic Arena - GA Anneaux" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Argolas" LongDescription="Rio Olympic Arena - GA Argolas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="ROA" Competition="Y" Code="GA4">
+      <Language Description="Rio Olympic Arena-GA Balance B" LongDescription="Rio Olympic Arena - GA Balance Beam" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Poutre" LongDescription="Rio Olympic Arena - GA Poutre" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Barra equ" LongDescription="Rio Olympic Arena - GA Barra de equilíbrio" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="ROA" Competition="Y" Code="GA5">
+      <Language Description="Rio Olympic Arena-GA Vault" LongDescription="Rio Olympic Arena - GA Vault" Language="ENG"/>
+      <Language Description="Rio Olympic Arena GA Cheval sa" LongDescription="Rio Olympic Arena - GA Saut de cheval" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Salto" LongDescription="Rio Olympic Arena - GA Salto" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="ROA" Competition="Y" Code="GA6">
+      <Language Description="Rio Olympic Arena-GA Parallel" LongDescription="Rio Olympic Arena - GA Parallel Bar" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Barres pa" LongDescription="Rio Olympic Arena - GA Barres parallèles" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Barras pa" LongDescription="Rio Olympic Arena - GA Barras paralelas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="7" VenueCode="ROA" Competition="Y" Code="GA7">
+      <Language Description="Rio Olympic Arena-GA Uneven Ba" LongDescription="Rio Olympic Arena - GA Uneven Bars" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Barre ass" LongDescription="Rio Olympic Arena - GA Barres asymétriques" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Barra ass" LongDescription="Rio Olympic Arena - GA Barras assimétricas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="8" VenueCode="ROA" Competition="Y" Code="GA8">
+      <Language Description="Rio Olympic Arena-GA Horizonta" LongDescription="Rio Olympic Arena - GA Horizontal Bar" Language="ENG"/>
+      <Language Description="Rio Olympic Arena-GA Barre fix" LongDescription="Rio Olympic Arena - GA Barre fixe" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Barra fix" LongDescription="Rio Olympic Arena - GA Barra fixa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="9" VenueCode="ROA" Competition="Y" Code="GAM">
+      <Language Description="Rio Olympic Arena - GA Men" LongDescription="Rio Olympic Arena - GA Men's competition" Language="ENG"/>
+      <Language Description="Rio Olympic Arena - GA Hommes" LongDescription="Rio Olympic Arena - GA Hommes" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Masculino" LongDescription="Rio Olympic Arena - GA Masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="10" VenueCode="ROA" Competition="Y" Code="GAW">
+      <Language Description="Rio Olympic Arena - GA Women" LongDescription="Rio Olympic Arena - GA Women's competition" Language="ENG"/>
+      <Language Description="Rio Olympic Arena - GA Femmes" LongDescription="Rio Olympic Arena - GA Femmes" Language="FRA"/>
+      <Language Description="Rio Olympic Arena-GA Feminino" LongDescription="Rio Olympic Arena - GA Feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="GLO" Competition="Y" Code="GLO">
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="ENG"/>
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="FRA"/>
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OGC" Competition="Y" Code="GO1">
+      <Language Description="Olympic Golf Course" LongDescription="Olympic Golf Course" Language="ENG"/>
+      <Language Description="Parcours Olympique de Golf" LongDescription="Parcours Olympique de Golf" Language="FRA"/>
+      <Language Description="Campo Olímpico de Golfe" LongDescription="Campo Olímpico de Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="ROA" Competition="Y" Code="GR1">
+      <Language Description="Rio Olympic Arena - GR" LongDescription="Rio Olympic Arena - Rhythmic Gymnastics" Language="ENG"/>
+      <Language Description="Arène Olympique de Rio - GR" LongDescription="Arène Olympique de Rio - Gymnastique rythmique" Language="FRA"/>
+      <Language Description="Arena Olímpica do Rio - GR" LongDescription="Arena Olímpica do Rio - Ginástica Rítmica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="ROA" Competition="Y" Code="GT1">
+      <Language Description="Rio Olympic Arena - GT" LongDescription="Rio Olympic Arena - Trampoline Gymnastics" Language="ENG"/>
+      <Language Description="Arène Olympique de Rio - GT" LongDescription="Arène Olympique de Rio - Trampoline" Language="FRA"/>
+      <Language Description="Arena Olímpica do Rio - GT" LongDescription="Arena Olímpica do Rio - Ginástica de Trampolim" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="FTA" Competition="Y" Code="HB1">
+      <Language Description="Future Arena" LongDescription="Future Arena" Language="ENG"/>
+      <Language Description="Arène du Futur" LongDescription="Arène du Futur" Language="FRA"/>
+      <Language Description="Arena do Futuro" LongDescription="Arena do Futuro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OHK" Competition="Y" Code="HO1">
+      <Language Description="Olympic Hockey Centre-HO Pitc1" LongDescription="Olympic Hockey Centre - Hockey Pitch 1" Language="ENG"/>
+      <Language Description="Centre Olympique Hockey-HO T1" LongDescription="Centre Olympique de Hockey - Hockey Terrain 1" Language="FRA"/>
+      <Language Description="Centro Olímpico Hóquei-HO C1" LongDescription="Centro Olímpico Hóquei-Hóquei sobre Grama Campo 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="OHK" Competition="Y" Code="HO2">
+      <Language Description="Olympic Hockey Centre-HO Pitc2" LongDescription="Olympic Hockey Centre - Hockey Pitch 2" Language="ENG"/>
+      <Language Description="Centre Olympique Hockey-HO T2" LongDescription="Centre Olympique de Hockey - Hockey Terrain 2" Language="FRA"/>
+      <Language Description="Centro Olímpico Hóquei-HO C2" LongDescription="Centro Olímpico Hóquei-Hóquei sobre Grama Campo 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="OHK" Competition="Y" Code="HO3">
+      <Language Description="Olympic Hockey Centre-HO Pitc3" LongDescription="Olympic Hockey Centre - Hockey Pitch 3" Language="ENG"/>
+      <Language Description="Centre Olympique Hockey-HO T3" LongDescription="Centre Olympique de Hockey - Hockey Terrain 3" Language="FRA"/>
+      <Language Description="Centro Olímpico Hóquei-HO C3" LongDescription="Centro Olímpico Hóquei-Hóquei sobre Grama Campo 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="CA2" Competition="Y" Code="JU1">
+      <Language Description="Carioca Arena 2 - Judo Mat 1" LongDescription="Carioca Arena 2 - Judo Mat 1" Language="ENG"/>
+      <Language Description="Aréna Carioca 2 - Judo Tapis 1" LongDescription="Aréna Carioca 2 - Judo Tapis 1" Language="FRA"/>
+      <Language Description="Arena Carioca 2-Judô Tatame 1" LongDescription="Arena Carioca 2 - Judô Tatame 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="CA2" Competition="Y" Code="JU2">
+      <Language Description="Carioca Arena 2 - Judo Mat 2" LongDescription="Carioca Arena 2 - Judo Mat 2" Language="ENG"/>
+      <Language Description="Aréna Carioca 2 - Judo Tapis 2" LongDescription="Aréna Carioca 2 - Judo Tapis 2" Language="FRA"/>
+      <Language Description="Arena Carioca 2-Judô Tatame 2" LongDescription="Arena Carioca 2 - Judô Tatame 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="LAG" Competition="Y" Code="LAG">
+      <Language Description="Lagoa Stadium" LongDescription="Lagoa Stadium" Language="ENG"/>
+      <Language Description="Stade de Lagoa" LongDescription="Stade de Lagoa" Language="FRA"/>
+      <Language Description="Estádio da Lagoa" LongDescription="Estádio da Lagoa" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="MBT" Competition="Y" Code="MBT">
+      <Language Description="Mountain Bike Centre" LongDescription="Mountain Bike Centre" Language="ENG"/>
+      <Language Description="Centre de Mountain Bike" LongDescription="Centre de Mountain Bike" Language="FRA"/>
+      <Language Description="Centro de Mountain Bike" LongDescription="Centro de Mountain Bike" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="MGA" Competition="Y" Code="MGA">
+      <Language Description="Mané Garrincha Stadium" LongDescription="Mané Garrincha Stadium" Language="ENG"/>
+      <Language Description="Stade Mané Garrincha" LongDescription="Stade Mané Garrincha" Language="FRA"/>
+      <Language Description="Estádio Mané Garrincha" LongDescription="Estádio Mané Garrincha" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="MIN" Competition="Y" Code="MIN">
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="ENG"/>
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="FRA"/>
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="MNZ" Competition="Y" Code="MNZ">
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="ENG"/>
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="FRA"/>
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="DAQ" Competition="Y" Code="MP1">
+      <Language Description="Deodoro Aquatics Centre-MP.SW" LongDescription="Deodoro Aquatics Centre - MP. SW" Language="ENG"/>
+      <Language Description="Centre Aquatique Deodoro-MP.SW" LongDescription="Centre Aquatique de Deodoro - MP.SW" Language="FRA"/>
+      <Language Description="Centro Aquático Deodoro-MP.SW" LongDescription="Centro Aquático de Deodoro - MP.SW" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="DES" Competition="Y" Code="MP2">
+      <Language Description="Deodoro Stadium - MP.EQ" LongDescription="Deodoro Stadium - MP.EQ" Language="ENG"/>
+      <Language Description="Stade de Deodoro - MP.EQ" LongDescription="Stade de Deodoro - MP.EQ" Language="FRA"/>
+      <Language Description="Estádio de Deodoro - MP.EQ" LongDescription="Estádio de Deodoro - MP.EQ" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="YOA" Competition="Y" Code="MP3">
+      <Language Description="Youth Arena - MP Fencing" LongDescription="Youth Arena - MP Fencing" Language="ENG"/>
+      <Language Description="Arène de Jeunesse - MP Escrime" LongDescription="Arène de la Jeunesse - MP Escrime" Language="FRA"/>
+      <Language Description="Arena da Juventude-MP Esgrima" LongDescription="Arena da Juventude - MP Esgrima" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="MRC" Competition="Y" Code="MRC">
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="ENG"/>
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="FRA"/>
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OAS" Competition="Y" Code="OAS">
+      <Language Description="Olympic Aquatics Stadium" LongDescription="Olympic Aquatics Stadium" Language="ENG"/>
+      <Language Description="Stade Aquatique Olympique" LongDescription="Stade Aquatique Olympique" Language="FRA"/>
+      <Language Description="Estádio Aquático Olímpico" LongDescription="Estádio Aquático Olímpico" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OGC" Competition="Y" Code="OGC">
+      <Language Description="Olympic Golf Course" LongDescription="Olympic Golf Course" Language="ENG"/>
+      <Language Description="Parcours Olympique de Golf" LongDescription="Parcours Olympique de Golf" Language="FRA"/>
+      <Language Description="Campo Olímpico de Golfe" LongDescription="Campo Olímpico de Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OHK" Competition="Y" Code="OHK">
+      <Language Description="Olympic Hockey Centre" LongDescription="Olympic Hockey Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de Hockey" LongDescription="Centre Olympique de Hockey" Language="FRA"/>
+      <Language Description="Centro Olímpico de Hóquei" LongDescription="Centro Olímpico de Hóquei" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OLS" Competition="Y" Code="OLS">
+      <Language Description="Olympic Stadium" LongDescription="Olympic Stadium" Language="ENG"/>
+      <Language Description="Stade Olympique" LongDescription="Stade Olympique" Language="FRA"/>
+      <Language Description="Estádio Olímpico" LongDescription="Estádio Olímpico" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OSC" Competition="Y" Code="OSC">
+      <Language Description="Olympic Shooting Centre" LongDescription="Olympic Shooting Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir" LongDescription="Centre Olympique de Tir" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro" LongDescription="Centro Olímpico de Tiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="OTN" Competition="Y" Code="OTN">
+      <Language Description="Olympic Tennis Centre" LongDescription="Olympic Tennis Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de Tennis" LongDescription="Centre Olympique de Tennis" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis" LongDescription="Centro Olímpico de Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="FTC" Competition="Y" Code="OW1">
+      <Language Description="Fort Copacabana - OW" LongDescription="Fort Copacabana - Marathon Swimming" Language="ENG"/>
+      <Language Description="Fort de Copacabana - OW" LongDescription="Fort de Copacabana - Natation de marathon" Language="FRA"/>
+      <Language Description="Forte de Copacabana - OW" LongDescription="Forte de Copacabana - Maratonas Aquáticas" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="PON" Competition="Y" Code="PON">
+      <Language Description="Pontal" LongDescription="Pontal" Language="ENG"/>
+      <Language Description="Pontal" LongDescription="Pontal" Language="FRA"/>
+      <Language Description="Pontal" LongDescription="Pontal" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="RC2" Competition="Y" Code="RC2">
+      <Language Description="Riocentro - Pavilion 2" LongDescription="Riocentro - Pavilion 2" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 2" LongDescription="Riocentro - Pavillion 2" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 2" LongDescription="Riocentro - Pavilhão 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="RC3" Competition="Y" Code="RC3">
+      <Language Description="Riocentro - Pavilion 3" LongDescription="Riocentro - Pavilion 3" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 3" LongDescription="Riocentro - Pavillion 3" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3" LongDescription="Riocentro - Pavilhão 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="RC4" Competition="Y" Code="RC4">
+      <Language Description="Riocentro - Pavilion 4" LongDescription="Riocentro - Pavilion 4" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 4" LongDescription="Riocentro - Pavillion 4" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 4" LongDescription="Riocentro - Pavilhão 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="RC6" Competition="Y" Code="RC6">
+      <Language Description="Riocentro - Pavilion 6" LongDescription="Riocentro - Pavilion 6" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 6" LongDescription="Riocentro - Pavillion 6" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 6" LongDescription="Riocentro - Pavilhão 6" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="LAG" Competition="Y" Code="RO1">
+      <Language Description="Lagoa Stadium - Rowing" LongDescription="Lagoa Stadium - Rowing" Language="ENG"/>
+      <Language Description="Stade de Lagoa - Aviron" LongDescription="Stade de Lagoa - Aviron" Language="FRA"/>
+      <Language Description="Estádio da Lagoa - Remo" LongDescription="Estádio da Lagoa - Remo" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="ROA" Competition="Y" Code="ROA">
+      <Language Description="Rio Olympic Arena" LongDescription="Rio Olympic Arena" Language="ENG"/>
+      <Language Description="Arène Olympique de Rio" LongDescription="Arène Olympique de Rio" Language="FRA"/>
+      <Language Description="Arena Olímpica do Rio" LongDescription="Arena Olímpica do Rio" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="ROV" Competition="Y" Code="ROV">
+      <Language Description="Rio Olympic Velodrome" LongDescription="Rio Olympic Velodrome" Language="ENG"/>
+      <Language Description="Vélodrome Olympique de Rio" LongDescription="Vélodrome Olympique de Rio" Language="FRA"/>
+      <Language Description="Velódromo Olímpico do Rio" LongDescription="Velódromo Olímpico do Rio" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="DES" Competition="Y" Code="RU1">
+      <Language Description="Deodoro Stadium - Rugby Sevens" LongDescription="Deodoro Stadium - Rugby Sevens" Language="ENG"/>
+      <Language Description="Stade de Deodoro - Rugby à 7" LongDescription="Stade de Deodoro - Rugby à 7" Language="FRA"/>
+      <Language Description="Estádio de Deodoro-Rugby de 7" LongDescription="Estádio de Deodoro - Rugby de 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="GLO" Competition="Y" Code="SA1">
+      <Language Description="Pão de Açúcar" LongDescription="Pão de Açúcar" Language="ENG"/>
+      <Language Description="Pão de Açúcar" LongDescription="Pão de Açúcar" Language="FRA"/>
+      <Language Description="Pão de Açúcar" LongDescription="Pão de Açúcar" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="GLO" Competition="Y" Code="SA2">
+      <Language Description="Ponte" LongDescription="Ponte" Language="ENG"/>
+      <Language Description="Ponte" LongDescription="Ponte" Language="FRA"/>
+      <Language Description="Ponte" LongDescription="Ponte" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="GLO" Competition="Y" Code="SA3">
+      <Language Description="Escola Naval" LongDescription="Escola Naval" Language="ENG"/>
+      <Language Description="Escola Naval" LongDescription="Escola Naval" Language="FRA"/>
+      <Language Description="Escola Naval" LongDescription="Escola Naval" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="GLO" Competition="Y" Code="SA4">
+      <Language Description="Copacabana" LongDescription="Copacabana" Language="ENG"/>
+      <Language Description="Copacabana" LongDescription="Copacabana" Language="FRA"/>
+      <Language Description="Copacabana" LongDescription="Copacabana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="GLO" Competition="Y" Code="SA5">
+      <Language Description="Niterói" LongDescription="Niterói" Language="ENG"/>
+      <Language Description="Niterói" LongDescription="Niterói" Language="FRA"/>
+      <Language Description="Niterói" LongDescription="Niterói" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="GLO" Competition="Y" Code="SA6">
+      <Language Description="Pai" LongDescription="Pai" Language="ENG"/>
+      <Language Description="Pai" LongDescription="Pai" Language="FRA"/>
+      <Language Description="Pai" LongDescription="Pai" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="SBD" Competition="Y" Code="SBD">
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="ENG"/>
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="FRA"/>
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OSC" Competition="Y" Code="SH1">
+      <Language Description="Olympic Shooting - Final Range" LongDescription="Olympic Shooting Centre-Pistol &amp; Rifle Final Range" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tir - Finales" LongDescription="Ctr. Olympique de Tir - Finales pistolet et rifle" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro-Finais" LongDescription="Centro Olímpico de Tiro - Estande de Finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="OSC" Competition="Y" Code="SH2">
+      <Language Description="Olympic Shooting - 10m Range" LongDescription="Olympic Shooting Centre - Pistol &amp; Rifle 10m Range" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir - 10m" LongDescription="Centre Olympique de Tir - 10m pistolet et rifle" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro - 10m" LongDescription="Centro Olímpico de Tiro - Estande de 10m" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="OSC" Competition="Y" Code="SH3">
+      <Language Description="Olympic Shooting - 25m Range" LongDescription="Olympic Shooting Centre - Pistol &amp; Rifle 25m Range" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir - 25m" LongDescription="Centre Olympique de Tir - 25m pistolet et rifle" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro - 25m" LongDescription="Centro Olímpico de Tiro - Estande de 25m" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="OSC" Competition="Y" Code="SH4">
+      <Language Description="Olympic Shooting - 50m Range" LongDescription="Olympic Shooting Centre - Pistol &amp; Rifle 50m Range" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir - 50m" LongDescription="Centre Olympique de Tir - 50m pistolet et rifle" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro - 50m" LongDescription="Centro Olímpico de Tiro - Estande de 50m" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="OSC" Competition="Y" Code="SH5">
+      <Language Description="Olympic Shooting - Shotgun B" LongDescription="Olympic Shooting Centre-Shotgun Preliminary RangeB" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir - prél" LongDescription="Ctr Olympique de Tir - Stand de tir au fusil prél." Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro - Qual" LongDescription="Centro Olímpico de Tiro - Pedana B" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="OSC" Competition="Y" Code="SH6">
+      <Language Description="Olympic Shooting - Shotgun A" LongDescription="Olympic Shooting Centre - Shotgun Finals Range A" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tir - Finales" LongDescription="Centre Olympique de Tir - Stand finales fusil" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro-Finais" LongDescription="Centro Olímpico de Tiro - Pedana A" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="7" VenueCode="OSC" Competition="Y" Code="SH7">
+      <Language Description="Olympic Shooting - Shotgun C" LongDescription="Olympic Shooting Centre-Shotgun Preliminary RangeC" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir - prél" LongDescription="Ctr Olympique de Tir - Stand de tir au fusil prél." Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro - Qual" LongDescription="Centro Olímpico de Tiro - Pedana C" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="SPA" Competition="Y" Code="SPA">
+      <Language Description="Itaquera Arena" LongDescription="Itaquera Arena" Language="ENG"/>
+      <Language Description="Itaquera Arena" LongDescription="Itaquera Arena" Language="FRA"/>
+      <Language Description="Arena Itaquera" LongDescription="Arena Itaquera" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OAS" Competition="Y" Code="SW1">
+      <Language Description="Olympic Aquatics Stadium - SW" LongDescription="Olympic Aquatics Stadium - Swimming" Language="ENG"/>
+      <Language Description="Stade Aquatique Olympique - SW" LongDescription="Stade Aquatique Olympique - Natation" Language="FRA"/>
+      <Language Description="Estádio Aquático Olímpico - SW" LongDescription="Estádio Aquático Olímpico - Natação" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="AQC" Competition="Y" Code="SY1">
+      <Language Description="Maria Lenk Aquatics - Synchro" LongDescription="Maria Lenk Aquatics Centre - Synchro swimming pool" Language="ENG"/>
+      <Language Description="Ctr Aquatique Maria Lenk -Sync" LongDescription="Centre Aquatique Maria Lenk - Natation synchronisé" Language="FRA"/>
+      <Language Description="Ctr Aquático Maria Lenk-sincro" LongDescription="Centro Aquático Maria Lenk - Nado sincronizado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OTN" Competition="Y" Code="T00">
+      <Language Description="Olympic Tennis Centre-Ctr Crt" LongDescription="Olympic Tennis Centre - Centre Court" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Ctr" LongDescription="Centre Olympique de Tennis - Court central" Language="FRA"/>
+      <Language Description="Ctr. Olímpico de Tênis-Qdr Ctr" LongDescription="Centro Olímpico de Tênis - Quadra Central" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="OTN" Competition="Y" Code="T01">
+      <Language Description="Olympic Tennis Centre - Crt 1" LongDescription="Olympic Tennis Centre - Court 1" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt1" LongDescription="Centre Olympique de Tennis - Court nº1" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 1" LongDescription="Centro Olímpico de Tênis - Quadra 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="OTN" Competition="Y" Code="T02">
+      <Language Description="Olympic Tennis Centre - Crt 2" LongDescription="Olympic Tennis Centre - Court 2" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt2" LongDescription="Centre Olympique de Tennis - Court nº2" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 2" LongDescription="Centro Olímpico de Tênis - Quadra 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="OTN" Competition="Y" Code="T03">
+      <Language Description="Olympic Tennis Centre - Crt 3" LongDescription="Olympic Tennis Centre - Court 3" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt3" LongDescription="Centre Olympique de Tennis - Court nº3" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 3" LongDescription="Centro Olímpico de Tênis - Quadra 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="5" VenueCode="OTN" Competition="Y" Code="T04">
+      <Language Description="Olympic Tennis Centre - Crt 4" LongDescription="Olympic Tennis Centre - Court 4" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt4" LongDescription="Centre Olympique de Tennis - Court nº4" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 4" LongDescription="Centro Olímpico de Tênis - Quadra 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" VenueCode="OTN" Competition="Y" Code="T05">
+      <Language Description="Olympic Tennis Centre - Crt 5" LongDescription="Olympic Tennis Centre - Court 5" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt5" LongDescription="Centre Olympique de Tennis - Court nº5" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 5" LongDescription="Centro Olímpico de Tênis - Quadra 5" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="7" VenueCode="OTN" Competition="Y" Code="T06">
+      <Language Description="Olympic Tennis Centre - Crt 6" LongDescription="Olympic Tennis Centre - Court 6" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt6" LongDescription="Centre Olympique de Tennis - Court nº6" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 6" LongDescription="Centro Olímpico de Tênis - Quadra 6" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="8" VenueCode="OTN" Competition="Y" Code="T07">
+      <Language Description="Olympic Tennis Centre - Crt 7" LongDescription="Olympic Tennis Centre - Court 7" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt7" LongDescription="Centre Olympique de Tennis - Court nº7" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 7" LongDescription="Centro Olímpico de Tênis - Quadra 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="9" VenueCode="OTN" Competition="Y" Code="T08">
+      <Language Description="Olympic Tennis Centre - Crt 8" LongDescription="Olympic Tennis Centre - Court 8" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt8" LongDescription="Centre Olympique de Tennis - Court nº8" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 8" LongDescription="Centro Olímpico de Tênis - Quadra 8" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="10" VenueCode="OTN" Competition="Y" Code="T09">
+      <Language Description="Olympic Tennis Centre - Crt 9" LongDescription="Olympic Tennis Centre - Court 9" Language="ENG"/>
+      <Language Description="Ctr Olympique de Tennis - Crt9" LongDescription="Centre Olympique de Tennis - Court nº9" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis-Qdr 9" LongDescription="Centro Olímpico de Tênis - Quadra 9" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="CA3" Competition="Y" Code="TK1">
+      <Language Description="Carioca Arena 3 - Taekwondo" LongDescription="Carioca Arena 3 - Taekwondo" Language="ENG"/>
+      <Language Description="Aréna Carioca 3 - Taekwondo" LongDescription="Aréna Carioca 3 - Taekwondo" Language="FRA"/>
+      <Language Description="Arena Carioca 3 - Taekwondo" LongDescription="Arena Carioca 3 - Taekwondo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="FTC" Competition="Y" Code="TR1">
+      <Language Description="Fort Copacabana - Triathlon" LongDescription="Fort Copacabana - Triathlon" Language="ENG"/>
+      <Language Description="Fort de Copacabana - Triathlon" LongDescription="Fort de Copacabana - Triathlon" Language="FRA"/>
+      <Language Description="Forte de Copacabana - Triatlo" LongDescription="Forte de Copacabana - Triatlo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="RC3" Competition="Y" Code="TT1">
+      <Language Description="Riocentro - Pavilion 3-TT Tbl1" LongDescription="Riocentro - Pavilion 3 - Table Tennis - Table 1" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 3-TT T1" LongDescription="Riocentro - Pavillion 3 - Tennis de table-Table 1" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3 - TT M1" LongDescription="Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="RC3" Competition="Y" Code="TT2">
+      <Language Description="Riocentro - Pavilion 3-TT Tbl2" LongDescription="Riocentro - Pavilion 3 - Table Tennis - Table 2" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 3-TT T2" LongDescription="Riocentro - Pavillion 3 - Tennis de table-Table 2" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3 - TT M2" LongDescription="Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="RC3" Competition="Y" Code="TT3">
+      <Language Description="Riocentro - Pavilion 3-TT Tbl3" LongDescription="Riocentro - Pavilion 3 - Table Tennis - Table 3" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 3-TT T3" LongDescription="Riocentro - Pavillion 3 - Tennis de table-Table 3" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3 - TT M3" LongDescription="Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="4" VenueCode="RC3" Competition="Y" Code="TT4">
+      <Language Description="Riocentro - Pavilion 3-TT Tbl4" LongDescription="Riocentro - Pavilion 3 - Table Tennis - Table 4" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 3-TT T4" LongDescription="Riocentro - Pavillion 3 - Tennis de table-Table 4" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3 - TT M4" LongDescription="Riocentro - Pavilhão 3 - Tênis de Mesa - Mesa 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="MNZ" Competition="Y" Code="VO1">
+      <Language Description="Maracanãzinho - Volleyball" LongDescription="Maracanãzinho - Volleyball" Language="ENG"/>
+      <Language Description="Maracanãzinho - Volleyball" LongDescription="Maracanãzinho - Volleyball" Language="FRA"/>
+      <Language Description="Maracanãzinho - Voleibol" LongDescription="Maracanãzinho - Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="RC2" Competition="Y" Code="WL1">
+      <Language Description="Riocentro - Pavilion 2 - WL" LongDescription="Riocentro - Pavilion 2 - Weightlifting" Language="ENG"/>
+      <Language Description="Riocentro - Pavillion 2 - WL" LongDescription="Riocentro - Pavillion 2 - Haltérophilie" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 2 - WL" LongDescription="Riocentro - Pavilhão 2 - Levantamento de Peso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="OAS" Competition="Y" Code="WP1">
+      <Language Description="Olympic Aquatics Stadium - WP" LongDescription="Olympic Aquatics Stadium - Water Polo" Language="ENG"/>
+      <Language Description="Stade Aquatique Olympique - WP" LongDescription="Stade Aquatique Olympique - Water-polo" Language="FRA"/>
+      <Language Description="Estádio Aquático Olímpico - WP" LongDescription="Estádio Aquático Olímpico - Pólo Aquático" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="AQC" Competition="Y" Code="WP2">
+      <Language Description="Maria Lenk Aquatics - WP" LongDescription="Maria Lenk Aquatics Centre - Water Polo" Language="ENG"/>
+      <Language Description="Ctr Aquatique Maria Lenk - WP" LongDescription="Centre Aquatique Maria Lenk - Water-polo" Language="FRA"/>
+      <Language Description="Ctr Aquático Maria Lenk - WP" LongDescription="Centro Aquático Maria Lenk - Pólo Aquático" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="1" VenueCode="CA2" Competition="Y" Code="WRA">
+      <Language Description="Carioca Arena 2 - WR Mat A" LongDescription="Carioca Arena 2 - Wrestling Mat A" Language="ENG"/>
+      <Language Description="Aréna Carioca 2 - WR Tapis A" LongDescription="Aréna Carioca 2 - Lutte Tapis A" Language="FRA"/>
+      <Language Description="Arena Carioca 2 - WR Tatame A" LongDescription="Arena Carioca 2 - Luta Olímpica Tatame A" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="2" VenueCode="CA2" Competition="Y" Code="WRB">
+      <Language Description="Carioca Arena 2 - WR Mat B" LongDescription="Carioca Arena 2 - Wrestling Mat B" Language="ENG"/>
+      <Language Description="Aréna Carioca 2 - WR Tapis B" LongDescription="Aréna Carioca 2 - Lutte Tapis B" Language="FRA"/>
+      <Language Description="Arena Carioca 2 - WR Tatame B" LongDescription="Arena Carioca 2 - Luta Olímpica Tatame B" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="3" VenueCode="CA2" Competition="Y" Code="WRC">
+      <Language Description="Carioca Arena 2 - WR Mat C" LongDescription="Carioca Arena 2 - Wrestling Mat C" Language="ENG"/>
+      <Language Description="Aréna Carioca 2 - WR Tapis C" LongDescription="Aréna Carioca 2 - Lutte Tapis C" Language="FRA"/>
+      <Language Description="Arena Carioca 2 - WR Tatame C" LongDescription="Arena Carioca 2 - Luta Olímpica Tatame C" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="WWS" Competition="Y" Code="WWS">
+      <Language Description="Whitewater Stadium" LongDescription="Whitewater Stadium" Language="ENG"/>
+      <Language Description="Stade de Canoë Slalom" LongDescription="Stade de Canoë Slalom" Language="FRA"/>
+      <Language Description="Estádio de Canoagem Slalom" LongDescription="Estádio de Canoagem Slalom" Language="POR"/>
+    </CodeSet>
+    <CodeSet VenueCode="YOA" Competition="Y" Code="YOA">
+      <Language Description="Youth Arena" LongDescription="Youth Arena" Language="ENG"/>
+      <Language Description="Arène de la Jeunesse" LongDescription="Arène de la Jeunesse" Language="FRA"/>
+      <Language Description="Arena da Juventude" LongDescription="Arena da Juventude" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

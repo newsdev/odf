@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="57" Time="061256031" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="POSITION">
+  <Competition Code="OG2016">
+    <CodeSet Discipline="CF" Code="1">
+      <Language Description="Position 1" Language="ENG"/>
+      <Language Description="Position 1" Language="FRA"/>
+      <Language Description="Posição 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="CF" Code="2">
+      <Language Description="Position 2" Language="ENG"/>
+      <Language Description="Position 2" Language="FRA"/>
+      <Language Description="Posição 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="2">
+      <Language Description="Rower 2" Language="ENG"/>
+      <Language Description="Rameur 2" Language="FRA"/>
+      <Language Description="Remador 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="CF" Code="3">
+      <Language Description="Position 3" Language="ENG"/>
+      <Language Description="Position 3" Language="FRA"/>
+      <Language Description="Posição 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="3">
+      <Language Description="Rower 3" Language="ENG"/>
+      <Language Description="Rameur 3" Language="FRA"/>
+      <Language Description="Remador 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="CF" Code="4">
+      <Language Description="Position 4" Language="ENG"/>
+      <Language Description="Position 4" Language="FRA"/>
+      <Language Description="Posição 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="4">
+      <Language Description="Rower 4" Language="ENG"/>
+      <Language Description="Rameur 4" Language="FRA"/>
+      <Language Description="Remador 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="5">
+      <Language Description="Rower 5" Language="ENG"/>
+      <Language Description="Rameur 5" Language="FRA"/>
+      <Language Description="Remador 5" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="6">
+      <Language Description="Rower 6" Language="ENG"/>
+      <Language Description="Rameur 6" Language="FRA"/>
+      <Language Description="Remador 6" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="7">
+      <Language Description="Rower 7" Language="ENG"/>
+      <Language Description="Rameur 7" Language="FRA"/>
+      <Language Description="Remador 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="CS" Code="A">
+      <Language Description="Bow" Language="ENG"/>
+      <Language Description="Proue" Language="FRA"/>
+      <Language Description="Canoísta da proa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="DV" Code="A">
+      <Language Description="Left side diver" Language="ENG"/>
+      <Language Description="Plongeur de gauche" Language="FRA"/>
+      <Language Description="Saltador da esquerda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="CS" Code="B">
+      <Language Description="Stern" Language="ENG"/>
+      <Language Description="Poupe" Language="FRA"/>
+      <Language Description="Canoísta da popa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="DV" Code="B">
+      <Language Description="Right side diver" Language="ENG"/>
+      <Language Description="Plongeur de droite" Language="FRA"/>
+      <Language Description="Saltador da direita" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="B">
+      <Language Description="Bow" Language="ENG"/>
+      <Language Description="Proue" Language="FRA"/>
+      <Language Description="Proa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RU" Code="B">
+      <Language Description="Back" Language="ENG"/>
+      <Language Description="Arrière" Language="FRA"/>
+      <Language Description="Três-quartos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="C">
+      <Language Description="Centre" Language="ENG"/>
+      <Language Description="Centre" Language="FRA"/>
+      <Language Description="Pivô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="C">
+      <Language Description="Coxswain" Language="ENG"/>
+      <Language Description="Barreur" Language="FRA"/>
+      <Language Description="Timoneiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="SA" Code="C">
+      <Language Description="Crew" Language="ENG"/>
+      <Language Description="Équipage" Language="FRA"/>
+      <Language Description="Tripulação" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="C/F">
+      <Language Description="Centre/Forward" Language="ENG"/>
+      <Language Description="Centre/Ailier" Language="FRA"/>
+      <Language Description="Pivô/Ala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="CB">
+      <Language Description="Centre Back" Language="ENG"/>
+      <Language Description="Demi-centre" Language="FRA"/>
+      <Language Description="Armador central" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="WP" Code="CB">
+      <Language Description="Centre Back" Language="ENG"/>
+      <Language Description="Centre en retrait" Language="FRA"/>
+      <Language Description="Jogador de centro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="CB/LB">
+      <Language Description="Centre Back/Left Back" Language="ENG"/>
+      <Language Description="Demi-centre/Arrière gauch" Language="FRA"/>
+      <Language Description="Armador central/Armador e" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="CB/LW">
+      <Language Description="Centre Back/Left Wing" Language="ENG"/>
+      <Language Description="Demi-centre/Ailier gauche" Language="FRA"/>
+      <Language Description="Armador central/Ponta esq" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="CB/RB">
+      <Language Description="Centre Back/Right Back" Language="ENG"/>
+      <Language Description="Demi-centre/Arrière droit" Language="FRA"/>
+      <Language Description="Armador central/Armador d" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="CB/RW">
+      <Language Description="Centre Back/Right Wing" Language="ENG"/>
+      <Language Description="Demi-centre/Ailier droit" Language="FRA"/>
+      <Language Description="Armador central/Ponta dir" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="WP" Code="CF">
+      <Language Description="Centre Forward" Language="ENG"/>
+      <Language Description="Avant de pointe" Language="FRA"/>
+      <Language Description="Marcador de centro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HO" Code="D">
+      <Language Description="Defender" Language="ENG"/>
+      <Language Description="Défenseur" Language="FRA"/>
+      <Language Description="Defensor" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="WP" Code="D">
+      <Language Description="Driver" Language="ENG"/>
+      <Language Description="Passeur" Language="FRA"/>
+      <Language Description="Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="FB" Code="DF">
+      <Language Description="Defender" Language="ENG"/>
+      <Language Description="Défenseur" Language="FRA"/>
+      <Language Description="Defensor" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="F">
+      <Language Description="Forward" Language="ENG"/>
+      <Language Description="Ailier" Language="FRA"/>
+      <Language Description="Ala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HO" Code="F">
+      <Language Description="Forward" Language="ENG"/>
+      <Language Description="Attaquant" Language="FRA"/>
+      <Language Description="Atacante" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RU" Code="F">
+      <Language Description="Forward" Language="ENG"/>
+      <Language Description="Avant" Language="FRA"/>
+      <Language Description="Forward" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="F/C">
+      <Language Description="Forward/Centre" Language="ENG"/>
+      <Language Description="Ailier/Centre" Language="FRA"/>
+      <Language Description="Ala/Pivô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="F/G">
+      <Language Description="Forward/Guard" Language="ENG"/>
+      <Language Description="Ailier/Arrière" Language="FRA"/>
+      <Language Description="Ala/Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="FB" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HO" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RU" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="WP" Code="FP">
+      <Language Description="Field Player" Language="ENG"/>
+      <Language Description="Joueur" Language="FRA"/>
+      <Language Description="Jogador em campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="FB" Code="FW">
+      <Language Description="Forward" Language="ENG"/>
+      <Language Description="Attaquant" Language="FRA"/>
+      <Language Description="Atacante" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="G">
+      <Language Description="Guard" Language="ENG"/>
+      <Language Description="Arrière" Language="FRA"/>
+      <Language Description="Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="G/F">
+      <Language Description="Guard/Forward" Language="ENG"/>
+      <Language Description="Arrière/Ailier" Language="FRA"/>
+      <Language Description="Armador/Ala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="FB" Code="GK">
+      <Language Description="Goalkeeper" Language="ENG"/>
+      <Language Description="Gardien de but" Language="FRA"/>
+      <Language Description="Goleiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="GK">
+      <Language Description="Goalkeeper" Language="ENG"/>
+      <Language Description="Gardien de but" Language="FRA"/>
+      <Language Description="Goleiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HO" Code="GK">
+      <Language Description="Goalkeeper" Language="ENG"/>
+      <Language Description="Gardien de but" Language="FRA"/>
+      <Language Description="Goleiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="WP" Code="GK">
+      <Language Description="Goalkeeper" Language="ENG"/>
+      <Language Description="Gardien de but" Language="FRA"/>
+      <Language Description="Goleiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="SA" Code="H">
+      <Language Description="Helm" Language="ENG"/>
+      <Language Description="Barreur" Language="FRA"/>
+      <Language Description="Timoneiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="L">
+      <Language Description="Libero" Language="ENG"/>
+      <Language Description="Libéro" Language="FRA"/>
+      <Language Description="Líbero" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BV" Code="LB">
+      <Language Description="Left Blocker" Language="ENG"/>
+      <Language Description="Bloqueur Gauche" Language="FRA"/>
+      <Language Description="Bloqueador de esquerda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="LB">
+      <Language Description="Left Back" Language="ENG"/>
+      <Language Description="Arrière gauche" Language="FRA"/>
+      <Language Description="Armador esquerdo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="LB/CB">
+      <Language Description="Left Back/Centre Back" Language="ENG"/>
+      <Language Description="Arrière gauche/Demi-ctr" Language="FRA"/>
+      <Language Description="Armador esquerdo/Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="LB/RB">
+      <Language Description="Left Back/Right Back" Language="ENG"/>
+      <Language Description="Arrière gauche/Arrière dr" Language="FRA"/>
+      <Language Description="Armador esquerdo/Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BV" Code="LD">
+      <Language Description="Left Defender" Language="ENG"/>
+      <Language Description="Défenseur Gauche" Language="FRA"/>
+      <Language Description="Defensor esquerda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="LW">
+      <Language Description="Left Wing" Language="ENG"/>
+      <Language Description="Ailier gauche" Language="FRA"/>
+      <Language Description="Ponta esquerda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="LW/CB">
+      <Language Description="Left Wing/Centre Back" Language="ENG"/>
+      <Language Description="Ailier gauche/Demi-centre" Language="FRA"/>
+      <Language Description="Ponta esquerda/Armador ce" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HO" Code="M">
+      <Language Description="Midfield" Language="ENG"/>
+      <Language Description="Milieu de terrain" Language="FRA"/>
+      <Language Description="Meio-campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="MB">
+      <Language Description="Middle Blocker" Language="ENG"/>
+      <Language Description="Central" Language="FRA"/>
+      <Language Description="Meio-de-rede" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="FB" Code="MF">
+      <Language Description="Midfield" Language="ENG"/>
+      <Language Description="Milieu de terrain" Language="FRA"/>
+      <Language Description="Meio-campo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="OS">
+      <Language Description="Opposite Spiker" Language="ENG"/>
+      <Language Description="Attaquant" Language="FRA"/>
+      <Language Description="Oposto" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="P">
+      <Language Description="Pivot" Language="ENG"/>
+      <Language Description="Pivot" Language="FRA"/>
+      <Language Description="Pivô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="P/CB">
+      <Language Description="Pivot/Centre Back" Language="ENG"/>
+      <Language Description="Pivot/Demi-centre" Language="FRA"/>
+      <Language Description="Pivô/Armador central" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="PF">
+      <Language Description="Power Forward" Language="ENG"/>
+      <Language Description="Ailier fort" Language="FRA"/>
+      <Language Description="Ala de força" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="PF/C">
+      <Language Description="Power Forward/Centre" Language="ENG"/>
+      <Language Description="Ailier fort/Centre" Language="FRA"/>
+      <Language Description="Ala de força/Pivô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="PG">
+      <Language Description="Point Guard" Language="ENG"/>
+      <Language Description="Meneur de jeu" Language="FRA"/>
+      <Language Description="Armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BV" Code="RB">
+      <Language Description="Right Blocker" Language="ENG"/>
+      <Language Description="Bloqueur Droit" Language="FRA"/>
+      <Language Description="Bloqueador de direito" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RB">
+      <Language Description="Right Back" Language="ENG"/>
+      <Language Description="Arrière droit" Language="FRA"/>
+      <Language Description="Armador direito" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RB/CB">
+      <Language Description="Right Back/Centre Back" Language="ENG"/>
+      <Language Description="Arrière droit/Demi-centre" Language="FRA"/>
+      <Language Description="Armador direito/Armador c" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RB/RW">
+      <Language Description="Right Back/Right Wing" Language="ENG"/>
+      <Language Description="Arrière droit/Ailier droi" Language="FRA"/>
+      <Language Description="Armador direito/Ponta dir" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BV" Code="RD">
+      <Language Description="Right Defender" Language="ENG"/>
+      <Language Description="Défenseur Droit" Language="FRA"/>
+      <Language Description="Defesa Direito" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RW">
+      <Language Description="Right Wing" Language="ENG"/>
+      <Language Description="Ailier droit" Language="FRA"/>
+      <Language Description="Ponta direita" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RW/CB">
+      <Language Description="Right Wing/Centre Back" Language="ENG"/>
+      <Language Description="Ailier droit/Demi-centre" Language="FRA"/>
+      <Language Description="Ponta direita/Armador cen" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="RW/RB">
+      <Language Description="Right Wing/Right Back" Language="ENG"/>
+      <Language Description="Ailier droit/Arrière droi" Language="FRA"/>
+      <Language Description="Ponta direita/Armador dir" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="RO" Code="S">
+      <Language Description="Stroke" Language="ENG"/>
+      <Language Description="Coup d'aviron" Language="FRA"/>
+      <Language Description="Voga" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="S">
+      <Language Description="Setter" Language="ENG"/>
+      <Language Description="Passeur" Language="FRA"/>
+      <Language Description="Levantador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="SF">
+      <Language Description="Small Forward" Language="ENG"/>
+      <Language Description="Ailier" Language="FRA"/>
+      <Language Description="Ala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="SF/SG">
+      <Language Description="Small Forward/Shooting Gu" Language="ENG"/>
+      <Language Description="Ailier/Deuxième arrière" Language="FRA"/>
+      <Language Description="Ala/Ala-armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="BK" Code="SG">
+      <Language Description="Shooting Guard" Language="ENG"/>
+      <Language Description="Deuxième arrière" Language="FRA"/>
+      <Language Description="Ala-armador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="HB" Code="W">
+      <Language Description="Wing" Language="ENG"/>
+      <Language Description="Ailier" Language="FRA"/>
+      <Language Description="Ala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Discipline="VO" Code="WS">
+      <Language Description="Wing Spiker" Language="ENG"/>
+      <Language Description="Réceptionneur-attaquant" Language="FRA"/>
+      <Language Description="Ponteiro passador" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

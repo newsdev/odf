@@ -1,0 +1,9 @@
+Code,Order,ENG Description,KOR Description,Comment
+START_LIST,1,Start List,KOR,"Before competition, Start List"
+LIVE,2,Live,KOR,For live updates during competition
+INTERMEDIATE,3,Intermediate,KOR,"When competition is stopped, usued at pre-defined points"
+UNCONFIRMED,4,Unconfirmed,KOR,When the unit is over but not yet unofficial or official
+UNOFFICIAL,5,Unofficial,KOR,"Results of the competition released as soon as the event is over, not waiting any official decision of the International Federation. The correctness of data must be assured"
+OFFICIAL,6,Official,KOR,"Results of the competition released as soon as the event is officially confirmed taking into account the resolution of the protests, etc."
+PARTIAL,7,Partial,KOR,"Incomplete list, Final Ranking. Used in PDF"
+PROTESTED,8,Protested,KOR,After the competition is no longer LIVE and a protest has been lodged

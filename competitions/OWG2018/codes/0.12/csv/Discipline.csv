@@ -1,0 +1,26 @@
+Id,ENG Description,FRA Description,KOR Description,nonsport,Sport,Eventorder,scheduled,Old DD
+ALP,Alpine Skiing,Ski alpin,알파인 스키,N,SI,DATE,Y,AS
+ART,Cultural Olympiad,Olympiades de la culture,문화 올림피아드,Y,,DATE,Y,AF
+BOB,Bobsleigh,Bobsleigh,봅슬레이,N,BS,DATE,Y,BS
+BSN,IBSF events,Épreuves IBSF,IBSF 이벤트,N,,DATE,N,FM
+BTH,Biathlon,Biathlon,바이애슬론,N,BT,DATE,Y,BT
+CCS,Cross-Country,Ski de fond,크로스 컨트리 스키,N,NE,DATE,Y,CC
+CER,Ceremonies,Cérémonies,세레모니,Y,,DATE,Y,CE
+CUR,Curling,Curling,컬링,N,CU,DATE,Y,CU
+FRS,Freestyle Skiing,Ski acrobatique,프리스타일 스키,N,SI,DATE,Y,FR
+FSK,Figure Skating,Patinage artistique,피겨 스케이팅,N,SK,DATE,Y,FS
+GEN,General,Général,일반,Y,,DATE,N,GL
+IHO,Ice Hockey,Hockey sur glace,아이스 하키,N,IH,DATE,Y,IH
+IOC,IOC Activities,Activités du CIO,IOC 엑티비티,Y,,DATE,Y,IA
+LUG,Luge,Luge,루지,N,LG,DATE,Y,LG
+NCB,Nordic Combined,Combiné nordique,노르딕 복합,N,NE,DATE,Y,NC
+NEV,Nordic Events,Épreuves nordiques,노르딕 이벤트,N,,DATE,N,NE
+OLV,Olympic Villages,Village olympique,선수촌,Y,,DATE,Y,OV
+PCO,Press Conferences,Conférences de presse,기자회견,Y,,DATE,Y,PC
+SBD,Snowboard,Surf des neiges,스노보드,N,SI,DATE,Y,SB
+SJP,Ski Jumping,Saut à ski,스키점프,N,NE,DATE,Y,SJ
+SKN,Skeleton,Skeleton,스켈레톤,N,BS,DATE,Y,SN
+SKT,Skating,Patinage,스케이팅,N,,DATE,N,SK
+SSK,Speed Skating,Patinage de vitesse,스피드 스케이팅,N,SK,DATE,Y,SS
+STK,Short Track,Patinage sur piste courte,쇼트트랙 스피드 스케이팅,N,SK,DATE,Y,ST
+TRU,Training (Unofficial),Entraînement (non officiel),연습(비공식),Y,,DATE,Y,UT

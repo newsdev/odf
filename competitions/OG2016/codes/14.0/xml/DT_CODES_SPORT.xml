@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="60" Time="061257334" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="SPORT">
+  <Competition Code="OG2016">
+    <CodeSet Code="AQ">
+      <Language Description="Aquatics" Language="ENG"/>
+      <Language Description="Natation" Language="FRA"/>
+      <Language Description="Desportos Aquáticos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AR">
+      <Language Description="Archery" Language="ENG"/>
+      <Language Description="Tir à l'arc" Language="FRA"/>
+      <Language Description="Tiro com Arco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AT">
+      <Language Description="Athletics" Language="ENG"/>
+      <Language Description="Athlétisme" Language="FRA"/>
+      <Language Description="Atletismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BD">
+      <Language Description="Badminton" Language="ENG"/>
+      <Language Description="Badminton" Language="FRA"/>
+      <Language Description="Badminton" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BK">
+      <Language Description="Basketball" Language="ENG"/>
+      <Language Description="Basketball" Language="FRA"/>
+      <Language Description="Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BX">
+      <Language Description="Boxing" Language="ENG"/>
+      <Language Description="Boxe" Language="FRA"/>
+      <Language Description="Boxe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CA">
+      <Language Description="Canoe" Language="ENG"/>
+      <Language Description="Canoë-kayak" Language="FRA"/>
+      <Language Description="Canoagem" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CY">
+      <Language Description="Cycling" Language="ENG"/>
+      <Language Description="Cyclisme" Language="FRA"/>
+      <Language Description="Ciclismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="EQ">
+      <Language Description="Equestrian" Language="ENG"/>
+      <Language Description="Sports équestres" Language="FRA"/>
+      <Language Description="Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FB">
+      <Language Description="Football" Language="ENG"/>
+      <Language Description="Football" Language="FRA"/>
+      <Language Description="Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FE">
+      <Language Description="Fencing" Language="ENG"/>
+      <Language Description="Escrime" Language="FRA"/>
+      <Language Description="Esgrima" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GO">
+      <Language Description="Golf" Language="ENG"/>
+      <Language Description="Golf" Language="FRA"/>
+      <Language Description="Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GY">
+      <Language Description="Gymnastics" Language="ENG"/>
+      <Language Description="Gymnastique" Language="FRA"/>
+      <Language Description="Ginástica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HB">
+      <Language Description="Handball" Language="ENG"/>
+      <Language Description="Handball" Language="FRA"/>
+      <Language Description="Handebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HO">
+      <Language Description="Hockey" Language="ENG"/>
+      <Language Description="Hockey" Language="FRA"/>
+      <Language Description="Hóquei sobre Grama" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="JU">
+      <Language Description="Judo" Language="ENG"/>
+      <Language Description="Judo" Language="FRA"/>
+      <Language Description="Judô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MP">
+      <Language Description="Modern Pentathlon" Language="ENG"/>
+      <Language Description="Pentathlon moderne" Language="FRA"/>
+      <Language Description="Pentatlo Moderno" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RO">
+      <Language Description="Rowing" Language="ENG"/>
+      <Language Description="Aviron" Language="FRA"/>
+      <Language Description="Remo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RU">
+      <Language Description="Rugby Sevens" Language="ENG"/>
+      <Language Description="Rugby à 7" Language="FRA"/>
+      <Language Description="Rugby de 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SA">
+      <Language Description="Sailing" Language="ENG"/>
+      <Language Description="Voile" Language="FRA"/>
+      <Language Description="Vela" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SH">
+      <Language Description="Shooting" Language="ENG"/>
+      <Language Description="Tir" Language="FRA"/>
+      <Language Description="Tiro Esportivo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TE">
+      <Language Description="Tennis" Language="ENG"/>
+      <Language Description="Tennis" Language="FRA"/>
+      <Language Description="Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TK">
+      <Language Description="Taekwondo" Language="ENG"/>
+      <Language Description="Taekwondo" Language="FRA"/>
+      <Language Description="Taekwondo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TR">
+      <Language Description="Triathlon" Language="ENG"/>
+      <Language Description="Triathlon" Language="FRA"/>
+      <Language Description="Triatlo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TT">
+      <Language Description="Table Tennis" Language="ENG"/>
+      <Language Description="Tennis de table" Language="FRA"/>
+      <Language Description="Tênis de Mesa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="VB">
+      <Language Description="Volleyball" Language="ENG"/>
+      <Language Description="Volleyball" Language="FRA"/>
+      <Language Description="Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WL">
+      <Language Description="Weightlifting" Language="ENG"/>
+      <Language Description="Haltérophilie" Language="FRA"/>
+      <Language Description="Levantamento de Peso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WR">
+      <Language Description="Wrestling" Language="ENG"/>
+      <Language Description="Lutte" Language="FRA"/>
+      <Language Description="Luta Olímpica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="XX">
+      <Language Description="More than one Sport" Language="ENG"/>
+      <Language Description="Multisport" Language="FRA"/>
+      <Language Description="Multi-esporte" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

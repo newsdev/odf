@@ -1,0 +1,424 @@
+Discipline,Gender,Event,phase,type,order,ENG Description,KOR Description,ENG longdescription,KOR longdescription,ENG phase Description,KOR phase Description,Old DDGEEEP
+ALP,-,------------------,----,8,,Alpine Skiing,KOR,Alpine Skiing,KOR,,,AS00000
+ALP,-,------------------,MEET,9,M,"Alpine Skiing, Team Captain Meeting",KOR,"Alpine Skiing, Team Captain Meeting",KOR,Team Captain Meeting,KOR,AS0000T
+ALP,M,------------------,----,8,,Men's Alpine Skiing,KOR,Men's Alpine Skiing,KOR,,,ASM0000
+ALP,M,AC----------------,----,8,,Men's Combined,KOR,Men's Combined,KOR,,,ASM0600
+ALP,M,AC------03030-----,----,8,,"Men's Combined, Visually Impaired",KOR,"Men's Combined, Visually Impaired",KOR,,,ASM3600
+ALP,M,AC------03030-----,DRAW,7,D,"Men's Combined, Visually Impaired, Draw",KOR,"Men's Combined, Visually Impaired, Draw",KOR,Draw,KOR,ASM360E
+ALP,M,AC------03030-----,FNL-,3,1,"Men's Combined, Visually Impaired",KOR,"Men's Combined, Visually Impaired",KOR,,,ASM3601
+ALP,M,AC------03030-----,TRNO,1,T,"Men's Combined, Vis Imp, Downhill Train",KOR,"Men's Combined, Visually Impaired, Downhill Training",KOR,Downhill Training,KOR,ASM360O
+ALP,M,AC------03030-----,VICT,6,V,"Men's Combined, Vis Imp, Vict. Ceremony",KOR,"Men's Combined, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM360M
+ALP,M,AC------09110-----,----,8,,"Men's Combined, Standing",KOR,"Men's Combined, Standing",KOR,,,ASM1600
+ALP,M,AC------09110-----,DRAW,7,D,"Men's Combined, Standing, Draw",KOR,"Men's Combined, Standing, Draw",KOR,Draw,KOR,ASM160E
+ALP,M,AC------09110-----,FNL-,3,1,"Men's Combined, Standing",KOR,"Men's Combined, Standing",KOR,,,ASM1601
+ALP,M,AC------09110-----,TRNO,1,T,"Men's Combined, Standing, Downhill Train",KOR,"Men's Combined, Standing, Downhill Training",KOR,Downhill Training,KOR,ASM160O
+ALP,M,AC------09110-----,VICT,6,V,"Men's Combined, Standing, Vict. Ceremony",KOR,"Men's Combined, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM160M
+ALP,M,AC------12050-----,----,8,,"Men's Combined, Sitting",KOR,"Men's Combined, Sitting",KOR,,,ASM2600
+ALP,M,AC------12050-----,DRAW,7,D,"Men's Combined, Sitting, Draw",KOR,"Men's Combined, Sitting, Draw",KOR,Draw,KOR,ASM260E
+ALP,M,AC------12050-----,FNL-,3,1,"Men's Combined, Sitting",KOR,"Men's Combined, Sitting",KOR,,,ASM2601
+ALP,M,AC------12050-----,TRNO,1,T,"Men's Combined, Sitting, Downhill Train",KOR,"Men's Combined, Sitting, Downhill Training",KOR,Downhill Training,KOR,ASM260O
+ALP,M,AC------12050-----,VICT,6,V,"Men's Combined, Sitting, Vict. Ceremony",KOR,"Men's Combined, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM260M
+ALP,M,DH----------------,----,8,,Men's Downhill,KOR,Men's Downhill,KOR,,,ASM0100
+ALP,M,DH----------------,TRNO,1,T,"Men's Downhill, Training Run",KOR,"Men's Downhill, Training Run",KOR,Training Run,KOR,ASM010O
+ALP,M,DH------03030-----,----,8,,"Men's Downhill, Visually Impaired",KOR,"Men's Downhill, Visually Impaired",KOR,,,ASM3100
+ALP,M,DH------03030-----,DRAW,7,D,"Men's Downhill, Vis Imp, Draw",KOR,"Men's Downhill, Visually Impaired, Draw",KOR,Draw,KOR,ASM310E
+ALP,M,DH------03030-----,FNL-,3,1,"Men's Downhill, Visually Impaired",KOR,"Men's Downhill, Visually Impaired",KOR,,,ASM3101
+ALP,M,DH------03030-----,TRNO,1,T,"Men's Downhill, Vis Imp, Trng Run",KOR,"Men's Downhill, Visually Impaired, Training Run",KOR,Training Run,KOR,ASM310O
+ALP,M,DH------03030-----,VICT,6,V,"Men's Downhill, Vis Imp, Vict. Ceremony",KOR,"Men's Downhill, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM310M
+ALP,M,DH------09110-----,----,8,,"Men's Downhill, Standing",KOR,"Men's Downhill, Standing",KOR,,,ASM1100
+ALP,M,DH------09110-----,DRAW,7,D,"Men's Downhill, Standing, Draw",KOR,"Men's Downhill, Standing, Draw",KOR,Draw,KOR,ASM110E
+ALP,M,DH------09110-----,FNL-,3,1,"Men's Downhill, Standing",KOR,"Men's Downhill, Standing",KOR,,,ASM1101
+ALP,M,DH------09110-----,TRNO,1,T,"Men's Downhill, Standing, Trng Run",KOR,"Men's Downhill, Standing, Training Run",KOR,Training Run,KOR,ASM110O
+ALP,M,DH------09110-----,VICT,6,V,"Men's Downhill, Standing, Vict. Cer.",KOR,"Men's Downhill, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM110M
+ALP,M,DH------12050-----,----,8,,"Men's Downhill, Sitting",KOR,"Men's Downhill, Sitting",KOR,,,ASM2100
+ALP,M,DH------12050-----,DRAW,7,D,"Men's Downhill, Sitting, Draw",KOR,"Men's Downhill, Sitting, Draw",KOR,Draw,KOR,ASM210E
+ALP,M,DH------12050-----,FNL-,3,1,"Men's Downhill, Sitting",KOR,"Men's Downhill, Sitting",KOR,,,ASM2101
+ALP,M,DH------12050-----,TRNO,1,T,"Men's Downhill, Sitting, Trng Run",KOR,"Men's Downhill, Sitting, Trng Run",KOR,Training Run,KOR,ASM210O
+ALP,M,DH------12050-----,VICT,6,V,"Men's Downhill, Sitting, Vict. Ceremony",KOR,"Men's Downhill, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM210M
+ALP,M,GS----------------,----,8,,Men's Giant Slalom,KOR,Men's Giant Slalom,KOR,,,ASM0300
+ALP,M,GS------03030-----,----,8,,"Men's Giant Slalom, Visually Impaired",KOR,"Men's Giant Slalom, Visually Impaired",KOR,,,ASM3300
+ALP,M,GS------03030-----,DRAW,7,D,"Men's G Slalom, Vis Imp, Draw",KOR,"Men's Giant Slalom, Visually Impaired, Draw",KOR,Draw,KOR,ASM330E
+ALP,M,GS------03030-----,FNL-,3,1,"Men's Giant Slalom, Visually Impaired",KOR,"Men's Giant Slalom, Visually Impaired",KOR,,,ASM3301
+ALP,M,GS------03030-----,VICT,6,V,"Men's G Slalom, Vis Imp, Vict. Ceremony",KOR,"Men's Giant Slalom, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM330M
+ALP,M,GS------09110-----,----,8,,"Men's Giant Slalom, Standing",KOR,"Men's Giant Slalom, Standing",KOR,,,ASM1300
+ALP,M,GS------09110-----,DRAW,7,D,"Men's Giant Slalom, Standing, Draw",KOR,"Men's Giant Slalom, Standing, Draw",KOR,Draw,KOR,ASM130E
+ALP,M,GS------09110-----,FNL-,3,1,"Men's Giant Slalom, Standing",KOR,"Men's Giant Slalom, Standing",KOR,,,ASM1301
+ALP,M,GS------09110-----,VICT,6,V,"Men's G. Slalom, Stand., Vict. Ceremony",KOR,"Men's Giant Slalom, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM130M
+ALP,M,GS------12050-----,----,8,,"Men's Giant Slalom, Sitting",KOR,"Men's Giant Slalom, Sitting",KOR,,,ASM2300
+ALP,M,GS------12050-----,DRAW,7,D,"Men's Giant Slalom, Sitting, Draw",KOR,"Men's Giant Slalom, Sitting, Draw",KOR,Draw,KOR,ASM230E
+ALP,M,GS------12050-----,FNL-,3,1,"Men's Giant Slalom, Sitting",KOR,"Men's Giant Slalom, Sitting",KOR,,,ASM2301
+ALP,M,GS------12050-----,VICT,6,V,"Men's G Slalom, Sitting, Vict. Ceremony",KOR,"Men's Giant Slalom, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM230M
+ALP,M,SG----------------,----,8,,Men's Super-G,KOR,Men's Super-G,KOR,,,ASM0400
+ALP,M,SG------03030-----,----,8,,"Men's Super-G, Visually Impaired",KOR,"Men's Super-G, Visually Impaired",KOR,,,ASM3400
+ALP,M,SG------03030-----,DRAW,7,D,"Men's Super-G, Vis Imp, Draw",KOR,"Men's Super-G, Visually Impaired, Draw",KOR,Draw,KOR,ASM340E
+ALP,M,SG------03030-----,FNL-,3,1,"Men's Super-G, Visually Impaired",KOR,"Men's Super-G, Visually Impaired",KOR,,,ASM3401
+ALP,M,SG------03030-----,VICT,6,V,"Men's Super-G, Vis Imp, Vict. Ceremony",KOR,"Men's Super-G, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM340M
+ALP,M,SG------09110-----,----,8,,"Men's Super-G, Standing",KOR,"Men's Super-G, Standing",KOR,,,ASM1400
+ALP,M,SG------09110-----,DRAW,7,D,"Men's Super-G, Standing, Draw",KOR,"Men's Super-G, Standing, Draw",KOR,Draw,KOR,ASM140E
+ALP,M,SG------09110-----,FNL-,3,1,"Men's Super-G, Standing",KOR,"Men's Super-G, Standing",KOR,,,ASM1401
+ALP,M,SG------09110-----,VICT,6,V,"Men's Super-G, Standing, Vict. Ceremony",KOR,"Men's Super-G, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM140M
+ALP,M,SG------12050-----,----,8,,"Men's Super-G, Sitting",KOR,"Men's Super-G, Sitting",KOR,,,ASM2400
+ALP,M,SG------12050-----,DRAW,7,D,"Men's Super-G, Sitting, Draw",KOR,"Men's Super-G, Sitting, Draw",KOR,Draw,KOR,ASM240E
+ALP,M,SG------12050-----,FNL-,3,1,"Men's Super-G, Sitting",KOR,"Men's Super-G, Sitting",KOR,,,ASM2401
+ALP,M,SG------12050-----,VICT,6,V,"Men's Super-G, Sitting, Vict. Ceremony",KOR,"Men's Super-G, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM240M
+ALP,M,SL----------------,----,8,,Men's Slalom,KOR,Men's Slalom,KOR,,,ASM0200
+ALP,M,SL------03030-----,----,8,,"Men's Slalom, Visually Impaired",KOR,"Men's Slalom, Visually Impaired",KOR,,,ASM3200
+ALP,M,SL------03030-----,DRAW,7,D,"Men's Slalom, Vis Imp, Draw",KOR,"Men's Slalom, Visually Impaired, Draw",KOR,Draw,KOR,ASM320E
+ALP,M,SL------03030-----,FNL-,3,1,"Men's Slalom, Visually Impaired",KOR,"Men's Slalom, Visually Impaired",KOR,,,ASM3201
+ALP,M,SL------03030-----,VICT,6,V,"Men's Slalom, Vis Imp., Vict. Ceremony",KOR,"Men's Slalom, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM320M
+ALP,M,SL------09110-----,----,8,,"Men's Slalom, Standing",KOR,"Men's Slalom, Standing",KOR,,,ASM1200
+ALP,M,SL------09110-----,DRAW,7,D,"Men's Slalom, Standing, Draw",KOR,"Men's Slalom, Standing, Draw",KOR,Draw,KOR,ASM120E
+ALP,M,SL------09110-----,FNL-,3,1,"Men's Slalom, Standing",KOR,"Men's Slalom, Standing",KOR,,,ASM1201
+ALP,M,SL------09110-----,VICT,6,V,"Men's Slalom, Standing, Vict. Ceremony",KOR,"Men's Slalom, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM120M
+ALP,M,SL------12050-----,----,8,,"Men's Slalom, Sitting",KOR,"Men's Slalom, Sitting",KOR,,,ASM2200
+ALP,M,SL------12050-----,DRAW,7,D,"Men's Slalom, Sitting, Draw",KOR,"Men's Slalom, Sitting, Draw",KOR,Draw,KOR,ASM220E
+ALP,M,SL------12050-----,FNL-,3,1,"Men's Slalom, Sitting",KOR,"Men's Slalom, Sitting",KOR,,,ASM2201
+ALP,M,SL------12050-----,VICT,6,V,"Men's Slalom, Sitting, Ceremonies",KOR,"Men's Slalom, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASM220M
+ALP,W,------------------,----,8,,Women's Alpine Skiing,KOR,Women's Alpine Skiing,KOR,,,ASW0000
+ALP,W,AC----------------,----,8,,Women's Combined,KOR,Women's Combined,KOR,,,ASW0600
+ALP,W,AC------03030-----,----,8,,"Women's Combined, Visually Impaired",KOR,"Women's Combined, Visually Imp",KOR,,,ASW3600
+ALP,W,AC------03030-----,DRAW,7,D,"Women's Combined, Visually Imp, Draw",KOR,"Women's Combined, Visually Imp, Draw",KOR,Draw,KOR,ASW360E
+ALP,W,AC------03030-----,FNL-,3,1,"Women's Combined, Visually Impaired",KOR,"Women's Combined, Visually Imp",KOR,,,ASW3601
+ALP,W,AC------03030-----,TRNO,1,T,"Women's Combined Vis Imp, Downhill Train",KOR,"Women's Combined, Visually Imp, Downhill Training",KOR,Downhill Training,KOR,ASW360O
+ALP,W,AC------03030-----,VICT,6,V,"Women's Combined, Vis Imp, Vict. Cer",KOR,"Women's Combined, Visually Imp, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW360M
+ALP,W,AC------09110-----,----,8,,"Women's Combined, Standing",KOR,"Women's Combined, Standing",KOR,,,ASW1600
+ALP,W,AC------09110-----,DRAW,7,D,"Women's Combined, Standing, Draw",KOR,"Women's Combined, Standing, Draw",KOR,Draw,KOR,ASW160E
+ALP,W,AC------09110-----,FNL-,3,1,"Women's Combined, Standing",KOR,"Women's Combined, Standing",KOR,,,ASW1601
+ALP,W,AC------09110-----,TRNO,1,T,"Women's Combined, Standing, DH Training",KOR,"Women's Combined, Standing, Downhill Training",KOR,Downhill Training,KOR,ASW160O
+ALP,W,AC------09110-----,VICT,6,V,"Women's Combined, Standing, Vict. Cer",KOR,"Women's Combined, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW160M
+ALP,W,AC------12050-----,----,8,,"Women's Combined, Sitting",KOR,"Women's Combined, Sitting",KOR,,,ASW2600
+ALP,W,AC------12050-----,DRAW,7,D,"Women's Combined, Sitting, Draw",KOR,"Women's Combined, Sitting, Draw",KOR,Draw,KOR,ASW260E
+ALP,W,AC------12050-----,FNL-,3,1,"Women's Combined, Sitting",KOR,"Women's Combined, Sitting",KOR,,,ASW2601
+ALP,W,AC------12050-----,TRNO,1,T,"Women's Combined Sitting, Downhill Train",KOR,"Women's Combined, Sitting, Downhill Training",KOR,Downhill Training,KOR,ASW260O
+ALP,W,AC------12050-----,VICT,6,V,"Women's Combined, Sitting, Vict. Cer",KOR,"Women's Combined, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW260M
+ALP,W,DH----------------,----,8,,Women's Downhill,KOR,Women's Downhill,KOR,,,ASW0100
+ALP,W,DH----------------,TRNO,1,T,"Women's Downhill, Training Run",KOR,"Women's Downhill, Training Run",KOR,Training Run,KOR,ASW010O
+ALP,W,DH------03030-----,----,8,,"Women's Downhill, Visually Impaired",KOR,"Women's Downhill, Visually Impaired",KOR,,,ASW3100
+ALP,W,DH------03030-----,DRAW,7,D,"Women's Downhill, Vis Imp, Draw",KOR,"Women's Downhill, Visually Impaired, Draw",KOR,Draw,KOR,ASW310E
+ALP,W,DH------03030-----,FNL-,3,1,"Women's Downhill, Visually Impaired",KOR,"Women's Downhill, Visually Impaired",KOR,,,ASW3101
+ALP,W,DH------03030-----,TRNO,1,T,"Women's Downhill, Vis Imp, Trng Run",KOR,"Women's Downhill, Visually Impaired, Training Run",KOR,Training Run,KOR,ASW310O
+ALP,W,DH------03030-----,VICT,6,V,"Women's Downhill, Vis Imp, Vict. Cer.",KOR,"Women's Downhill, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW310M
+ALP,W,DH------09110-----,----,8,,"Women's Downhill, Standing",KOR,"Women's Downhill, Standing",KOR,,,ASW1100
+ALP,W,DH------09110-----,DRAW,7,D,"Women's Downhill, Standing, Draw",KOR,"Women's Downhill, Standing, Draw",KOR,Draw,KOR,ASW110E
+ALP,W,DH------09110-----,FNL-,3,1,"Women's Downhill, Standing",KOR,"Women's Downhill, Standing",KOR,,,ASW1101
+ALP,W,DH------09110-----,TRNO,1,T,"Women's Downhill, Standing, Trng Run",KOR,"Women's Downhill, Standing, Training Run",KOR,Training Run,KOR,ASW110O
+ALP,W,DH------09110-----,VICT,6,V,"Women's Downhill, Stand., Vict. Ceremony",KOR,"Women's Downhill, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW110M
+ALP,W,DH------12050-----,----,8,,"Women's Downhill, Sitting",KOR,"Women's Downhill, Sitting",KOR,,,ASW2100
+ALP,W,DH------12050-----,DRAW,7,D,"Women's Downhill, Sitting, Draw",KOR,"Women's Downhill, Sitting, Draw",KOR,Draw,KOR,ASW210E
+ALP,W,DH------12050-----,FNL-,3,1,"Women's Downhill, Sitting",KOR,"Women's Downhill, Sitting",KOR,,,ASW2101
+ALP,W,DH------12050-----,TRNO,1,T,"Women's Downhill, Sitting, Trng Run",KOR,"Women's Downhill, Sitting, Training Run",KOR,Training Run,KOR,ASW210O
+ALP,W,DH------12050-----,VICT,6,V,"Women's Downhill, Sitting, Vict. Cer.",KOR,"Women's Downhill, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW210M
+ALP,W,GS----------------,----,8,,Women's Giant Slalom,KOR,Women's Giant Slalom,KOR,,,ASW0300
+ALP,W,GS------03030-----,----,8,,"Women's Giant Slalom, Visually Impaired",KOR,"Women's Giant Slalom, Visually Impaired",KOR,,,ASW3300
+ALP,W,GS------03030-----,DRAW,7,D,"Women's Giant Slalom, Vis Imp, Draw",KOR,"Women's Giant Slalom, Visually Impaired, Draw",KOR,Draw,KOR,ASW330E
+ALP,W,GS------03030-----,FNL-,3,1,"Women's Giant Slalom, Visually Impaired",KOR,"Women's Giant Slalom, Visually Impaired",KOR,,,ASW3301
+ALP,W,GS------03030-----,VICT,6,V,"Women's G Slalom, Vis Imp, Ceremonies",KOR,"Women's Giant Slalom, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW330M
+ALP,W,GS------09110-----,----,8,,"Women's Giant Slalom, Standing",KOR,"Women's Giant Slalom, Standing",KOR,,,ASW1300
+ALP,W,GS------09110-----,DRAW,7,D,"Women's Giant Slalom, Standing, Draw",KOR,"Women's Giant Slalom, Standing, Draw",KOR,Draw,KOR,ASW130E
+ALP,W,GS------09110-----,FNL-,3,1,"Women's Giant Slalom, Standing",KOR,"Women's Giant Slalom, Standing",KOR,,,ASW1301
+ALP,W,GS------09110-----,VICT,6,V,"Women's G Slalom, Stand, Vict. Ceremony",KOR,"Women's Giant Slalom, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW130M
+ALP,W,GS------12050-----,----,8,,"Women's Giant Slalom, Sitting",KOR,"Women's Giant Slalom, Sitting",KOR,,,ASW2300
+ALP,W,GS------12050-----,DRAW,7,D,"Women's Giant Slalom, Sitting, Draw",KOR,"Women's Giant Slalom, Sitting, Draw",KOR,Draw,KOR,ASW230E
+ALP,W,GS------12050-----,FNL-,3,1,"Women's Giant Slalom, Sitting",KOR,"Women's Giant Slalom, Sitting",KOR,,,ASW2301
+ALP,W,GS------12050-----,VICT,6,V,"Women's G Slalom, Sit., Vict. Ceremony",KOR,"Women's Giant Slalom, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW230M
+ALP,W,SG----------------,----,8,,Women's Super-G,KOR,Women's Super-G,KOR,,,ASW0400
+ALP,W,SG------03030-----,----,8,,"Women's Super-G, Visually Impaired",KOR,"Women's Super-G, Visually Impaired",KOR,,,ASW3400
+ALP,W,SG------03030-----,DRAW,7,D,"Women's Super-G, Vis Imp, Draw",KOR,"Women's Super-G, Visually Impaired, Draw",KOR,Draw,KOR,ASW340E
+ALP,W,SG------03030-----,FNL-,3,1,"Women's Super-G, Visually Impaired",KOR,"Women's Super-G, Visually Impaired",KOR,,,ASW3401
+ALP,W,SG------03030-----,VICT,6,V,"Women's Super-G, Vis Imp, Ceremonies",KOR,"Women's Super-G, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW340M
+ALP,W,SG------09110-----,----,8,,"Women's Super-G, Standing",KOR,"Women's Super-G, Standing",KOR,,,ASW1400
+ALP,W,SG------09110-----,DRAW,7,D,"Women's Super-G, Standing, Draw",KOR,"Women's Super-G, Standing, Draw",KOR,Draw,KOR,ASW140E
+ALP,W,SG------09110-----,FNL-,3,1,"Women's Super-G, Standing",KOR,"Women's Super-G, Standing",KOR,,,ASW1401
+ALP,W,SG------09110-----,VICT,6,V,"Women's Super-G, Stand., Vict. Ceremony",KOR,"Women's Super-G, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW140M
+ALP,W,SG------12050-----,----,8,,"Women's Super-G, Sitting",KOR,"Women's Super-G, Sitting",KOR,,,ASW2400
+ALP,W,SG------12050-----,DRAW,7,D,"Women's Super-G, Sitting, Draw",KOR,"Women's Super-G, Sitting, Draw",KOR,Draw,KOR,ASW240E
+ALP,W,SG------12050-----,FNL-,3,1,"Women's Super-G, Sitting",KOR,"Women's Super-G, Sitting",KOR,,,ASW2401
+ALP,W,SG------12050-----,VICT,6,V,"Women's Super-G, Sitting, Vict. Cer.",KOR,"Women's Super-G, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW240M
+ALP,W,SL----------------,----,8,,Women's Slalom,KOR,Women's Slalom,KOR,,,ASW0200
+ALP,W,SL------03030-----,----,8,,"Women's Slalom, Visually Impaired",KOR,"Women's Slalom, Visually Impaired",KOR,,,ASW3200
+ALP,W,SL------03030-----,DRAW,7,D,"Women's Slalom, Vis Imp, Draw",KOR,"Women's Slalom, Visually Impaired, Draw",KOR,Draw,KOR,ASW320E
+ALP,W,SL------03030-----,FNL-,3,1,"Women's Slalom, Visually Impaired",KOR,"Women's Slalom, Visually Impaired",KOR,,,ASW3201
+ALP,W,SL------03030-----,VICT,6,V,"Women's Slalom, Vis Imp, Vict. Ceremony",KOR,"Women's Slalom, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW320M
+ALP,W,SL------09110-----,----,8,,"Women's Slalom, Standing",KOR,"Women's Slalom, Standing",KOR,,,ASW1200
+ALP,W,SL------09110-----,DRAW,7,D,"Women's Slalom, Standing, Draw",KOR,"Women's Slalom, Standing, Draw",KOR,Draw,KOR,ASW120E
+ALP,W,SL------09110-----,FNL-,3,1,"Women's Slalom, Standing",KOR,"Women's Slalom, Standing",KOR,,,ASW1201
+ALP,W,SL------09110-----,VICT,6,V,"Women's Slalom, Stand., Vict. Ceremony",KOR,"Women's Slalom, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW120M
+ALP,W,SL------12050-----,----,8,,"Women's Slalom, Sitting",KOR,"Women's Slalom, Sitting",KOR,,,ASW2200
+ALP,W,SL------12050-----,DRAW,7,D,"Women's Slalom, Sitting, Draw",KOR,"Women's Slalom, Sitting, Draw",KOR,Draw,KOR,ASW220E
+ALP,W,SL------12050-----,FNL-,3,1,"Women's Slalom, Sitting",KOR,"Women's Slalom, Sitting",KOR,,,ASW2201
+ALP,W,SL------12050-----,VICT,6,V,"Women's Slalom, Sitting, Vict. Ceremony",KOR,"Women's Slalom, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,ASW220M
+ART,-,CIRCUS------------,----,8,,Circus / Street Arts,KOR,Circus / Street Arts,KOR,,,AF0CRC0
+ART,-,COMEDY------------,----,8,,Comedy,KOR,Comedy,KOR,,,AF0CMD0
+ART,-,CULTURAL----------,----,8,,Cultural Activities,KOR,Cultural Activities,KOR,,,
+ART,-,DANCE-------------,----,8,,Dance,KOR,Dance,KOR,,,AF0DNC0
+ART,-,DIGITAL-----------,----,8,,Digital / Film / Video,KOR,Digital / Film / Video,KOR,,,AF0DGT0
+ART,-,LITERARY----------,----,8,,Literary Arts,KOR,Literary Arts,KOR,,,AF0LTR0
+ART,-,MUSIC-------------,----,8,,Music,KOR,Music,KOR,,,AF0MSC0
+ART,-,SPONSOR-----------,----,8,,Sponsor Activities,KOR,Sponsor Activities,KOR,,,
+ART,-,THEATRE-----------,----,8,,Theatre,KOR,Theatre,KOR,,,AF0THT0
+ART,-,VISUAL------------,----,8,,Visual Arts,KOR,Visual Arts,KOR,,,AF0VSL0
+BTH,-,------------------,----,8,,Biathlon,KOR,Biathlon,KOR,,,BT00000
+BTH,-,------------------,MEET,9,M,"Biathlon, Team Captain Meeting",KOR,"Biathlon, Team Captain Meeting",KOR,Team Captain Meeting,KOR,BT0000T
+BTH,M,------------------,----,8,,Men's Biathlon,KOR,Men's Biathlon,KOR,,,BTM0000
+BTH,M,12.5KM--03030-----,----,8,,"Men's 12.5km, Visually Impaired",KOR,"Men's 12.5km, Visually Impaired",KOR,,,BTM3200
+BTH,M,12.5KM--03030-----,FNL-,3,1,"Men's 12.5km, Visually Impaired",KOR,"Men's 12.5km, Visually Impaired",KOR,,,BTM3201
+BTH,M,12.5KM--03030-----,TRNO,1,T,"Men's 12.5km, Vis Imp, Off. Training",KOR,"Men's 12.5km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTM320O
+BTH,M,12.5KM--03030-----,VICT,6,V,"Men's 12.5km, Vis Imp, Vict. Ceremony",KOR,"Men's 12.5km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM320M
+BTH,M,12.5KM--09070-----,----,8,,"Men's 12.5km, Standing",KOR,"Men's 12.5km, Standing",KOR,,,BTM1200
+BTH,M,12.5KM--09070-----,FNL-,3,1,"Men's 12.5km, Standing",KOR,"Men's 12.5km, Standing",KOR,,,BTM1201
+BTH,M,12.5KM--09070-----,TRNO,1,T,"Men's 12.5km, Standing, Off. Training",KOR,"Men's 12.5km, Standing, Official Training",KOR,Official Training,KOR,BTM120O
+BTH,M,12.5KM--09070-----,VICT,6,V,"Men's 12.5km, Standing, Vict. Ceremony",KOR,"Men's 12.5km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM120M
+BTH,M,12.5KM--12050-----,----,8,,"Men's 12.5km, Sitting",KOR,"Men's 12.5km, Sitting",KOR,,,BTM2200
+BTH,M,12.5KM--12050-----,FNL-,3,1,"Men's 12.5km, Sitting",KOR,"Men's 12.5km, Sitting",KOR,,,BTM2201
+BTH,M,12.5KM--12050-----,TRNO,1,T,"Men's 12.5km, Sitting, Off. Training",KOR,"Men's 12.5km, Sitting, Official Training",KOR,Official Training,KOR,BTM220O
+BTH,M,12.5KM--12050-----,VICT,6,V,"Men's 12.5km, Sitting, Vict. Ceremony",KOR,"Men's 12.5km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM220M
+BTH,M,15KM----03030-----,----,8,,"Men's 15km, Visually Impaired",KOR,"Men's 15km, Visually Impaired",KOR,,,BTM3300
+BTH,M,15KM----03030-----,FNL-,3,1,"Men's 15km, Visually Impaired",KOR,"Men's 15km, Visually Impaired",KOR,,,BTM3301
+BTH,M,15KM----03030-----,TRNO,1,T,"Men's 15km, Vis Imp, Official Training",KOR,"Men's 15km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTM330O
+BTH,M,15KM----03030-----,VICT,6,V,"Men's 15km, Vis Imp, Victory Ceremony",KOR,"Men's 15km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM330M
+BTH,M,15KM----09070-----,----,8,,"Men's 15km, Standing",KOR,"Men's 15km, Standing",KOR,,,BTM1300
+BTH,M,15KM----09070-----,FNL-,3,1,"Men's 15km, Standing",KOR,"Men's 15km, Standing",KOR,,,BTM1301
+BTH,M,15KM----09070-----,TRNO,1,T,"Men's 15km, Standing, Off. Training",KOR,"Men's 15km, Standing, Official Training",KOR,Official Training,KOR,BTM130O
+BTH,M,15KM----09070-----,VICT,6,V,"Men's 15km, Standing, Vict. Ceremony",KOR,"Men's 15km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM130M
+BTH,M,15KM----12050-----,----,8,,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,,,BTM2300
+BTH,M,15KM----12050-----,FNL-,3,1,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,,,BTM2301
+BTH,M,15KM----12050-----,TRNO,1,T,"Men's 15km, Sitting, Official Training",KOR,"Men's 15km, Sitting, Official Training",KOR,Official Training,KOR,BTM230O
+BTH,M,15KM----12050-----,VICT,6,V,"Men's 15km, Sitting, Victory Ceremony",KOR,"Men's 15km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM230M
+BTH,M,7.5KM---03030-----,----,8,,"Men's 7.5km, Visually Impaired",KOR,"Men's 7.5km, Visually Impaired",KOR,,,BTM3100
+BTH,M,7.5KM---03030-----,FNL-,3,1,"Men's 7.5km, Visually Impaired",KOR,"Men's 7.5km, Visually Impaired",KOR,,,BTM3101
+BTH,M,7.5KM---03030-----,TRNO,1,T,"Men's 7.5km, Vis Imp, Off. Training",KOR,"Men's 7.5km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTM310O
+BTH,M,7.5KM---03030-----,VICT,6,V,"Men's 7.5km, Vis Imp, Vict. Ceremony",KOR,"Men's 7.5km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM310M
+BTH,M,7.5KM---09070-----,----,8,,"Men's 7.5km, Standing",KOR,"Men's 7.5km, Standing",KOR,,,BTM1100
+BTH,M,7.5KM---09070-----,FNL-,3,1,"Men's 7.5km, Standing",KOR,"Men's 7.5km, Standing",KOR,,,BTM1101
+BTH,M,7.5KM---09070-----,TRNO,1,T,"Men's 7.5km, Standing, Off.Training",KOR,"Men's 7.5km, Standing, Official Training",KOR,Official Training,KOR,BTM110O
+BTH,M,7.5KM---09070-----,VICT,6,V,"Men's 7.5km, Standing, Vict. Ceremony",KOR,"Men's 7.5km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM110M
+BTH,M,7.5KM---12050-----,----,8,,"Men's 7.5km, Sitting",KOR,"Men's 7.5km, Sitting",KOR,,,BTM2100
+BTH,M,7.5KM---12050-----,FNL-,3,1,"Men's 7.5km, Sitting",KOR,"Men's 7.5km, Sitting",KOR,,,BTM2101
+BTH,M,7.5KM---12050-----,TRNO,1,T,"Men's 7.5km, Sitting, Off. Training",KOR,"Men's 7.5km, Sitting, Official Training",KOR,Official Training,KOR,BTM210O
+BTH,M,7.5KM---12050-----,VICT,6,V,"Men's 7.5km, Sitting, Victory Ceremony",KOR,"Men's 7.5km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTM210M
+BTH,W,------------------,----,8,,Women's Biathlon,KOR,Women's Biathlon,KOR,,,BTW0000
+BTH,W,10KM----03030-----,----,8,,"Women's 10km, Visually Impaired",KOR,"Women's 10km, Visually Impaired",KOR,,,BTW3200
+BTH,W,10KM----03030-----,FNL-,3,1,"Women's 10km, Visually Impaired",KOR,"Women's 10km, Visually Impaired",KOR,,,BTW3201
+BTH,W,10KM----03030-----,TRNO,1,T,"Women's 10km, Vis Imp, Off. Training",KOR,"Women's 10km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTW320O
+BTH,W,10KM----03030-----,VICT,6,V,"Women's 10km, Vis Imp, Vict. Ceremony",KOR,"Women's 10km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW320M
+BTH,W,10KM----09070-----,----,8,,"Women's 10km, Standing",KOR,"Women's 10km, Standing",KOR,,,BTW1200
+BTH,W,10KM----09070-----,FNL-,3,1,"Women's 10km, Standing",KOR,"Women's 10km, Standing",KOR,,,BTW1201
+BTH,W,10KM----09070-----,TRNO,1,T,"Women's 10km, Standing, Off. Training",KOR,"Women's 10km, Standing, Official Training",KOR,Official Training,KOR,BTW120O
+BTH,W,10KM----09070-----,VICT,6,V,"Women's 10km, Standing, Vict. Ceremony",KOR,"Women's 10km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW120M
+BTH,W,10KM----12050-----,----,8,,"Women's 10km, Sitting",KOR,"Women's 10km, Sitting",KOR,,,BTW2200
+BTH,W,10KM----12050-----,FNL-,3,1,"Women's 10km, Sitting",KOR,"Women's 10km, Sitting",KOR,,,BTW2201
+BTH,W,10KM----12050-----,TRNO,1,T,"Women's 10km, Sitting, Off. Training",KOR,"Women's 10km, Sitting, Official Training",KOR,Official Training,KOR,BTW220O
+BTH,W,10KM----12050-----,VICT,6,V,"Women's 10km, Sitting, Vict. Ceremony",KOR,"Women's 10km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW220M
+BTH,W,12.5KM--03030-----,----,8,,"Women's 12.5km, Visually Impaired",KOR,"Women's 12.5km, Visually Impaired",KOR,,,BTW3300
+BTH,W,12.5KM--03030-----,FNL-,3,1,"Women's 12.5km, Visually Impaired",KOR,"Women's 12.5km, Visually Impaired",KOR,,,BTW3301
+BTH,W,12.5KM--03030-----,TRNO,1,T,"Women's 12.5km, Vis Imp, Off. Training",KOR,"Women's 12.5km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTW330O
+BTH,W,12.5KM--03030-----,VICT,6,V,"Women's 12.5km, Vis Imp, Vict. Cer.",KOR,"Women's 12.5km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW330M
+BTH,W,12.5KM--09070-----,----,8,,"Women's 12.5km, Standing",KOR,"Women's 12.5km, Standing",KOR,,,BTW1300
+BTH,W,12.5KM--09070-----,FNL-,3,1,"Women's 12.5km, Standing",KOR,"Women's 12.5km, Standing",KOR,,,BTW1301
+BTH,W,12.5KM--09070-----,TRNO,1,T,"Women's 12.5km, Standing, Off. Trng.",KOR,"Women's 12.5km, Standing, Official Training",KOR,Official Training,KOR,BTW130O
+BTH,W,12.5KM--09070-----,VICT,6,V,"Women's 12.5km, Standing, Vict. Cer.",KOR,"Women's 12.5km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW130M
+BTH,W,12.5KM--12050-----,----,8,,"Women's 12.5km, Sitting",KOR,"Women's 12.5km, Sitting",KOR,,,BTW2300
+BTH,W,12.5KM--12050-----,FNL-,3,1,"Women's 12.5km, Sitting",KOR,"Women's 12.5km, Sitting",KOR,,,BTW2301
+BTH,W,12.5KM--12050-----,TRNO,1,T,"Women's 12.5km, Sitting, Off. Trng.",KOR,"Women's 12.5km, Sitting, Official Training",KOR,Official Training,KOR,BTW230O
+BTH,W,12.5KM--12050-----,VICT,6,V,"Women's 12.5km, Sitting, Vict. Cer.",KOR,"Women's 12.5km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW230M
+BTH,W,6KM-----03030-----,----,8,,"Women's 6km, Visually Impaired",KOR,"Women's 6km, Visually Impaired",KOR,,,BTW3100
+BTH,W,6KM-----03030-----,FNL-,3,1,"Women's 6km, Visually Impaired",KOR,"Women's 6km, Visually Impaired",KOR,,,BTW3101
+BTH,W,6KM-----03030-----,TRNO,1,T,"Women's 6km, Vis Imp, Off. Training",KOR,"Women's 6km, Visually Impaired, Official Training",KOR,Official Training,KOR,BTW310O
+BTH,W,6KM-----03030-----,VICT,6,V,"Women's 6km, Vis Imp, Vict. Ceremony",KOR,"Women's 6km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW310M
+BTH,W,6KM-----09070-----,----,8,,"Women's 6km, Standing",KOR,"Women's 6km, Standing",KOR,,,BTW1100
+BTH,W,6KM-----09070-----,FNL-,3,1,"Women's 6km, Standing",KOR,"Women's 6km, Standing",KOR,,,BTW1101
+BTH,W,6KM-----09070-----,TRNO,1,T,"Women's 6km, Standing, Off. Training",KOR,"Women's 6km, Standing, Official Training",KOR,Official Training,KOR,BTW110O
+BTH,W,6KM-----09070-----,VICT,6,V,"Women's 6km, Standing, Vict. Ceremony",KOR,"Women's 6km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW110M
+BTH,W,6KM-----12050-----,----,8,,"Women's 6km, Sitting",KOR,"Women's 6km, Sitting",KOR,,,BTW2100
+BTH,W,6KM-----12050-----,FNL-,3,1,"Women's 6km, Sitting",KOR,"Women's 6km, Sitting",KOR,,,BTW2101
+BTH,W,6KM-----12050-----,TRNO,1,T,"Women's 6km, Sitting, Off. Training",KOR,"Women's 6km, Sitting, Official Training",KOR,Official Training,KOR,BTW210O
+BTH,W,6KM-----12050-----,VICT,6,V,"Women's 6km, Sitting, Vict. Ceremony",KOR,"Women's 6km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,BTW210M
+CCS,-,------------------,----,8,,Cross-Country Skiing,KOR,Cross-Country Skiing,KOR,,,CC00000
+CCS,-,------------------,MEET,9,M,Cross-Country Skiing TCM,KOR,Cross-Country Skiing Team Captain Meeting,KOR,Team Captain Meeting,KOR,CC0000T
+CCS,M,------------------,----,8,,Men's Cross-Country Skiing,KOR,Men's Cross-Country Skiing,KOR,,,CCM0000
+CCS,M,10KM----03030-----,----,8,,"Men's 10km, Vis Imp",KOR,"Men's 10km, Visually Impaired",KOR,,,CCM3100
+CCS,M,10KM----03030-----,FNL-,3,1,"Men's 10km, Vis Imp",KOR,"Men's 10km, Visually Impaired",KOR,,,CCM3101
+CCS,M,10KM----03030-----,VICT,6,V,"Men's 10km, Vis Imp, Vict. Ceremony",KOR,"Men's 10km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM310M
+CCS,M,10KM----09070-----,----,8,,"Men's 10km, Sitting",KOR,"Men's 10km, Sitting",KOR,,,CCM2100
+CCS,M,10KM----09070-----,FNL-,3,1,"Men's 10km, Sitting",KOR,"Men's 10km, Sitting",KOR,,,CCM2101
+CCS,M,10KM----09070-----,VICT,6,V,"Men's 10km, Sitting, Vict. Ceremony",KOR,"Men's 10km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM210M
+CCS,M,10KM----12050-----,----,8,,"Men's 10km, Standing",KOR,"Men's 10km, Standing",KOR,,,CCM1100
+CCS,M,10KM----12050-----,FNL-,3,1,"Men's 10km, Standing",KOR,"Men's 10km, Standing",KOR,,,CCM1101
+CCS,M,10KM----12050-----,VICT,6,V,"Men's 10km, Standing, Vict. Ceremony",KOR,"Men's 10km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM110M
+CCS,M,15KM----09070-----,----,8,,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,,,CCM2200
+CCS,M,15KM----09070-----,FNL-,3,1,"Men's 15km, Sitting",KOR,"Men's 15km, Sitting",KOR,,,CCM2201
+CCS,M,15KM----09070-----,VICT,6,V,"Men's 15km, Sitting, Vict. Ceremony",KOR,"Men's 15km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM220M
+CCS,M,20KM----03030-----,----,8,,"Men's 20km, Vis Imp",KOR,"Men's 20km, Visually Impaired",KOR,,,CCM3200
+CCS,M,20KM----03030-----,FNL-,3,1,"Men's 20km, Vis Imp",KOR,"Men's 20km, Visually Impaired",KOR,,,CCM3201
+CCS,M,20KM----03030-----,VICT,6,V,"Men's 20km, Vis Imp, Vict. Ceremony",KOR,"Men's 20km, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM320M
+CCS,M,20KM----12050-----,----,8,,"Men's 20km, Standing",KOR,"Men's 20km, Standing",KOR,,,CCM1200
+CCS,M,20KM----12050-----,FNL-,3,1,"Men's 20km, Standing",KOR,"Men's 20km, Standing",KOR,,,CCM1201
+CCS,M,20KM----12050-----,VICT,6,V,"Men's 20km, Standing, Vict. Ceremony",KOR,"Men's 20km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM120M
+CCS,M,SPRINT--03030-----,----,8,,"Men's 1km Sprint, Vis Imp",KOR,"Men's 1km Sprint, Visually Impaired",KOR,,,CCM3020
+CCS,M,SPRINT--03030-----,FNL-,3,1,"Men's 1km Sprint, Vis Imp",KOR,"Men's 1km Sprint, Visually Impaired",KOR,,,CCM3021
+CCS,M,SPRINT--03030-----,QUAL,3,8,"Men's 1km Sprint, Vis Imp, Qualif",KOR,"Men's 1km Sprint, Visually Impaired, Qualification",KOR,Qualification,KOR,CCM3029
+CCS,M,SPRINT--03030-----,SFNL,3,2,"Men's 1km Sprint, Vis Imp, Semif",KOR,"Men's 1km Sprint, Visually Impaired, Semifinals",KOR,Semifinals,KOR,CCM3022
+CCS,M,SPRINT--03030-----,VICT,6,V,"Men's 1km Sprint, Vis Imp, Vict. Cer.",KOR,"Men's 1km Sprint, Visually Impaired, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM302M
+CCS,M,SPRINT--09070-----,----,8,,"Men's 1km Sprint, Sitting",KOR,"Men's 1km Sprint, Sitting",KOR,,,CCM2020
+CCS,M,SPRINT--09070-----,FNL-,3,1,"Men's 1km Sprint, Sitting",KOR,"Men's 1km Sprint, Sitting",KOR,,,CCM2021
+CCS,M,SPRINT--09070-----,QUAL,3,8,"Men's 1km Sprint, Sitting, Qualif",KOR,"Men's 1km Sprint, Sitting, Qualification",KOR,Qualification,KOR,CCM2029
+CCS,M,SPRINT--09070-----,SFNL,3,2,"Men's 1km Sprint, Sitting, Semif",KOR,"Men's 1km Sprint, Sitting, Semifinals",KOR,Semifinals,KOR,CCM2022
+CCS,M,SPRINT--09070-----,VICT,6,V,"Men's 1km Sprint, Sitting, Vict. Cer.",KOR,"Men's 1km Sprint, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM202M
+CCS,M,SPRINT--12050-----,----,8,,"Men's 1km Sprint, Standing",KOR,"Men's 1km Sprint, Standing",KOR,,,CCM1020
+CCS,M,SPRINT--12050-----,FNL-,3,1,"Men's 1km Sprint, Standing, Finals",KOR,"Men's 1km Sprint, Standing, Finals",KOR,Finals,KOR,CCM1021
+CCS,M,SPRINT--12050-----,QUAL,3,8,"Men's 1km Sprint, Standing, Qualif",KOR,"Men's 1km Sprint, Standing, Qualification",KOR,Qualification,KOR,CCM1029
+CCS,M,SPRINT--12050-----,SFNL,3,2,"Men's 1km Sprint, Standing, Semif",KOR,"Men's 1km Sprint, Standing, Semifinals",KOR,Semifinals,KOR,CCM1022
+CCS,M,SPRINT--12050-----,VICT,6,V,"Men's 1km Sprint, Stand, Vict. Cer.",KOR,"Men's 1km Sprint, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCM102M
+CCS,O,4X2.5KM-12150-----,----,8,,4x2.5km Open Relay,KOR,4x2.5km Open Relay,KOR,,,CCX4020
+CCS,O,4X2.5KM-12150-----,FNL-,3,1,4x2.5km Open Relay,KOR,4x2.5km Open Relay,KOR,,,CCX4021
+CCS,O,4X2.5KM-12150-----,VICT,6,V,"4x2.5km Open Relay, Vict. Ceremony",KOR,"4x2.5km Open Relay, Victory Ceremony",KOR,Victory Ceremony,KOR,CCX402M
+CCS,W,------------------,----,8,,Women's Cross-Country Skiing,KOR,Women's Cross-Country Skiing,KOR,,,CCW0000
+CCS,W,12KM----09070-----,----,8,,"Women's 12km, Sitting",KOR,"Women's 12km, Sitting",KOR,,,CCW2150
+CCS,W,12KM----09070-----,FNL-,3,1,"Women's 12km, Sitting",KOR,"Women's 12km, Sitting",KOR,,,CCW2151
+CCS,W,12KM----09070-----,VICT,6,V,"Women's 12km, Sitting, Vict. Ceremony",KOR,"Women's 12km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW215M
+CCS,W,15KM----03030-----,----,8,,"Women's 15km, Vis Imp",KOR,"Women's 15km, Visually Imp",KOR,,,CCW3150
+CCS,W,15KM----03030-----,FNL-,3,1,"Women's 15km, Vis Imp",KOR,"Women's 15km, Visually Imp",KOR,,,CCW3151
+CCS,W,15KM----03030-----,VICT,6,V,"Women's 15km, Vis Imp, Vict. Ceremony",KOR,"Women's 15km, Visually Imp, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW315M
+CCS,W,15KM----12050-----,----,8,,"Women's 15km, Standing",KOR,"Women's 15km, Standing",KOR,,,CCW1150
+CCS,W,15KM----12050-----,FNL-,3,1,"Women's 15km, Standing",KOR,"Women's 15km, Standing",KOR,,,CCW1151
+CCS,W,15KM----12050-----,VICT,6,V,"Women's 15km, Standing, Vict. Cer.",KOR,"Women's 15km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW115M
+CCS,W,5KM-----03030-----,----,8,,"Women's 5km, Vis Imp",KOR,"Women's 5km, Visually Imp",KOR,,,CCW3050
+CCS,W,5KM-----03030-----,FNL-,3,1,"Women's 5km, Vis Imp",KOR,"Women's 5km, Visually Imp",KOR,,,CCW3051
+CCS,W,5KM-----03030-----,VICT,6,V,"Women's 5km, Vis Imp, Vict. Ceremony",KOR,"Women's 5km, Visually Imp, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW305M
+CCS,W,5KM-----09070-----,----,8,,"Women's 5km, Sitting",KOR,"Women's 5km, Sitting",KOR,,,CCW2050
+CCS,W,5KM-----09070-----,FNL-,3,1,"Women's 5km, Sitting",KOR,"Women's 5km, Sitting",KOR,,,CCW2051
+CCS,W,5KM-----09070-----,VICT,6,V,"Women's 5km, Sitting, Vict. Ceremony",KOR,"Women's 5km, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW205M
+CCS,W,5KM-----12050-----,----,8,,"Women's 5km, Standing",KOR,"Women's 5km, Standing",KOR,,,CCW1050
+CCS,W,5KM-----12050-----,FNL-,3,1,"Women's 5km, Standing",KOR,"Women's 5km, Standing",KOR,,,CCW1051
+CCS,W,5KM-----12050-----,VICT,6,V,"Women's 5km, Standing, Vict. Ceremony",KOR,"Women's 5km, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW105M
+CCS,W,SPRINT--03030-----,----,8,,"Women's 1km Sprint, Vis Imp",KOR,"Women's 1km Sprint, Visually Imp",KOR,,,CCW3020
+CCS,W,SPRINT--03030-----,FNL-,3,1,"Women's 1km Sprint, Vis Imp",KOR,"Women's 1km Sprint, Visually Imp",KOR,,,CCW3021
+CCS,W,SPRINT--03030-----,QUAL,3,8,"Women's 1km Sprint, Vis Imp, Qualif",KOR,"Women's 1km Sprint, Visually Imp, Qualification",KOR,Qualification,KOR,CCW3029
+CCS,W,SPRINT--03030-----,SFNL,3,2,"Women's 1km Sprint, Vis Imp, Semif",KOR,"Women's 1km Sprint, Visually Imp, Semifinals",KOR,Semifinals,KOR,CCW3022
+CCS,W,SPRINT--03030-----,VICT,6,V,"Women's 1km Sp., Vis Imp, Vict. Cer.",KOR,"Women's 1km Sprint, Visually Imp, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW302M
+CCS,W,SPRINT--09070-----,----,8,,"Women's 1km Sprint, Sitting",KOR,"Women's 1km Sprint, Sitting",KOR,,,CCW2020
+CCS,W,SPRINT--09070-----,FNL-,3,1,"Women's 1km Sprint, Sitting",KOR,"Women's 1km Sprint, Sitting",KOR,,,CCW2021
+CCS,W,SPRINT--09070-----,QUAL,3,8,"Women's 1km Sprint, Sitting, Qualif",KOR,"Women's 1km Sprint, Sitting, Qualification",KOR,Qualification,KOR,CCW2029
+CCS,W,SPRINT--09070-----,SFNL,3,2,"Women's 1km Sprint, Sitting, Semif",KOR,"Women's 1km Sprint, Sitting, Semifinals",KOR,Semifinals,KOR,CCW2022
+CCS,W,SPRINT--09070-----,VICT,6,V,"Women's 1km Sprint, Sit., Vict. Cer.",KOR,"Women's 1km Sprint, Sitting, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW202M
+CCS,W,SPRINT--12050-----,----,8,,"Women's 1km Sprint, Standing",KOR,"Women's 1km Sprint, Standing",KOR,,,CCW1020
+CCS,W,SPRINT--12050-----,FNL-,3,1,"Women's 1km Sprint, Standing, Finals",KOR,"Women's 1km Sprint, Standing, Finals",KOR,Finals,KOR,CCW1021
+CCS,W,SPRINT--12050-----,QUAL,3,8,"Women's 1km Sprint, Standing, Qualif",KOR,"Women's 1km Sprint, Standing, Qualification",KOR,Qualification,KOR,CCW1029
+CCS,W,SPRINT--12050-----,SFNL,3,2,"Women's 1km Sprint, Standing, Semif",KOR,"Women's 1km Sprint, Standing, Semifinals",KOR,Semifinals,KOR,CCW1022
+CCS,W,SPRINT--12050-----,VICT,6,V,"Women's 1km Sprint, Stand, Vict. Cer.",KOR,"Women's 1km Sprint, Standing, Victory Ceremony",KOR,Victory Ceremony,KOR,CCW102M
+CCS,X,4X2.5KM-12150-----,----,8,,4x2.5km Mixed Relay,KOR,4x2.5km Mixed Relay,KOR,,,CCX4010
+CCS,X,4X2.5KM-12150-----,FNL-,3,1,4x2.5km Mixed Relay,KOR,4x2.5km Mixed Relay,KOR,,,CCX4011
+CCS,X,4X2.5KM-12150-----,VICT,6,V,"4x2.5km Mixed Relay, Vict. Ceremony",KOR,"4x2.5km Mixed Relay, Victory Ceremony",KOR,Victory Ceremony,KOR,CCX401M
+CER,-,CLOSING-----------,----,8,,Closing Ceremony,KOR,Closing Ceremony,KOR,,,CE0CLO0
+CER,-,OPENING-----------,----,8,,Opening Ceremony,KOR,Opening Ceremony,KOR,,,CE0OPN0
+GEN,-,------------------,----,8,,General,KOR,General,KOR,,,GL00000
+IOC,-,MEETINGS----------,----,8,,IPC Meetings,KOR,IPC Meetings,KOR,,,IA0MET0
+ISH,-,------------------,----,8,,Ice Sledge Hockey,KOR,Ice Sledge Hockey,KOR,,,IH00000
+ISH,-,------------------,DRAW,7,D,Ice Sledge Hockey Draw,KOR,Ice Sledge Hockey Draw,KOR,Draw,KOR,IH0000E
+ISH,-,------------------,MEET,9,M,"Ice Sledge Hockey, Team Captain Meeting",KOR,"Ice Sledge Hockey, Team Captain Meeting",KOR,Team Captain Meeting,KOR,IH0000T
+ISH,O,------------------,----,8,,Ice Sledge Hockey Tournament,KOR,Ice Sledge Hockey Tournament,KOR,Tournament,KOR,IHX0000
+ISH,O,------------------,MEET,9,M,"Ice Sledge Hockey, Team Captain Meeting",KOR,"Ice Sledge Hockey, Team Captain Meeting",KOR,Team Captain Meeting,KOR,IHX000T
+ISH,O,TEAM6---00000-----,----,8,,Ice Sledge Hockey,KOR,Ice Sledge Hockey,KOR,,,IHX4000
+ISH,O,TEAM6---00000-----,FNL-,3,1,Play-offs Finals,KOR,Play-offs Finals,KOR,Play-offs Finals,KOR,IHX4001
+ISH,O,TEAM6---00000-----,GRPA-,3,8,Preliminary Round - Group A,KOR,Preliminary Round - Group A,KOR,Preliminary Round - Group A,KOR,IHX400A
+ISH,O,TEAM6---00000-----,GRPB-,3,8,Preliminary Round - Group B,KOR,Preliminary Round - Group B,KOR,Preliminary Round - Group B,KOR,IHX400B
+ISH,O,TEAM6---00000-----,PREL,3,8,Preliminary Round,KOR,Preliminary Round,KOR,Preliminary Round,KOR,IHX4009
+ISH,O,TEAM6---00000-----,SF5-,3,2,Classifications (5-8),KOR,Classifications (5-8),KOR,Classifications (5-8),KOR,
+ISH,O,TEAM6---00000-----,SFNL,3,2,Play-offs Semifinals,KOR,Play-offs Semifinals,KOR,Play-offs Semifinals,KOR,IHX4002
+ISH,O,TEAM6---00000-----,VICT,6,V,Ice Sledge Hockey Ceremonies,KOR,Ice Sledge Hockey Victory Ceremony,KOR,Victory Ceremony,KOR,IHX400M
+NSK,-,------------------,----,8,,Nordic Skiing,KOR,Nordic Skiing,KOR,,,NS00000
+OLV,-,ELECTION----------,----,8,,IPC Athletes' Council Election,KOR,IPC Athletes' Council Election,KOR,,,OV0IOC0
+OLV,-,ENTERTAN----------,----,8,,Entertainment Program,KOR,Entertainment Program,KOR,,,OV0ENP0
+OLV,-,FAITH-------------,----,8,,Interfaith Centre,KOR,Interfaith Centre,KOR,,,OV0IFC0
+OLV,-,WELCOME-----------,----,8,,Team Welcome Ceremonies,KOR,Team Welcome Ceremonies,KOR,,,OV0TEA0
+PCO,-,ALP---------------,----,5,,Alpine Skiing Press Conferences,KOR,Alpine Skiing Press Conferences,KOR,,,PC0AS00
+PCO,-,BTH---------------,----,5,,Biathlon Press Conferences,KOR,Biathlon Press Conferences,KOR,,,PC0BT00
+PCO,-,CCS---------------,----,5,,Cross-Country Skiing Press Conferences,KOR,Cross-Country Skiing Press Conferences,KOR,,,PC0CC00
+PCO,-,GEN---------------,----,5,,General Press Conferences,KOR,General Press Conferences,KOR,,,PC0GEN0
+PCO,-,IOC---------------,----,5,,IPC Press Conferences,KOR,IPC Press Conferences,KOR,,,PC0IOC0
+PCO,-,ISH---------------,----,5,,Ice Sledge Hockey Press Conferences,KOR,Ice Sledge Hockey Press Conferences,KOR,,,PC0IH00
+PCO,-,LOC---------------,----,5,,OCOG Press Conferences,KOR,OCOG Press Conferences,KOR,,,PC0LOC0
+PCO,-,SBD---------------,----,5,,Snowboard Press Conferences,KOR,Snowboard Press Conferences,KOR,,,
+PCO,-,WCU---------------,----,5,,Wheelchair Curling Press Conferences,KOR,Wheelchair Curling Press Conferences,KOR,,,PC0CU00
+SBD,-,------------------,----,8,,Snowboard,KOR,Snowboard,KOR,,,
+SBD,-,------------------,MEET,9,M,"Snowboard, Team Captain Meeting",KOR,"Snowboard, Team Captain Meeting",KOR,Team Captain Meeting,KOR,
+SBD,M,------------------,----,8,,Men's Snowboard,KOR,Men's Snowboard,KOR,,,
+SBD,M,BSL---------------,----,8,,Men's Banked Slalom,KOR,Men's Banked Slalom,KOR,,,
+SBD,M,BSL---------------,TRNO,1,T,"Men's Banked Slalom, Training",KOR,"Men's Banked Slalom, Training",KOR,,,
+SBD,M,BSL-----01010-----,----,8,,Men's Banked Slalom SB-UL ,KOR,Men's Banked Slalom SB-UL ,KOR,,,
+SBD,M,BSL-----01010-----,DRAW,7,D,"Men's Banked Slalom SB-UL, Draw",KOR,"Men's Banked Slalom SB-UL, Draw",KOR,,,
+SBD,M,BSL-----01010-----,FNL-,3,1,Men's Banked Slalom SB-UL ,KOR,Men's Banked Slalom SB-UL ,KOR,,,
+SBD,M,BSL-----01010-----,VICT,6,V,"Men's Banked Slalom SB-UL, Vict. Cer.",KOR,"Men's Banked Slalom SB-UL, Victory Ceremony",KOR,,,
+SBD,M,BSL-----10010-----,----,8,,Men's Banked Slalom SB-LL1 ,KOR,Men's Banked Slalom SB-LL1 ,KOR,,,
+SBD,M,BSL-----10010-----,DRAW,7,D,"Men's Banked Slalom SB-LL1, Draw",KOR,"Men's Banked Slalom SB-LL1, Draw",KOR,,,
+SBD,M,BSL-----10010-----,FNL-,3,1,Men's Banked Slalom SB-LL1 ,KOR,Men's Banked Slalom SB-LL1 ,KOR,,,
+SBD,M,BSL-----10010-----,VICT,6,V,"Men's Banked Slalom SB-LL1, Vict. Cer.",KOR,"Men's Banked Slalom SB-LL1, Victory Ceremony",KOR,,,
+SBD,M,BSL-----20010-----,----,8,,Men's Banked Slalom SB-LL2 ,KOR,Men's Banked Slalom SB-LL2 ,KOR,,,
+SBD,M,BSL-----20010-----,DRAW,7,D,"Men's Banked Slalom SB-LL2, Draw",KOR,"Men's Banked Slalom SB-LL2, Draw",KOR,,,
+SBD,M,BSL-----20010-----,FNL-,3,1,Men's Banked Slalom SB-LL2 ,KOR,Men's Banked Slalom SB-LL2 ,KOR,,,
+SBD,M,BSL-----20010-----,VICT,6,V,"Men's Banked Slalom SB-LL2, Vict. Cer.",KOR,"Men's Banked Slalom SB-LL2, Victory Ceremony",KOR,,,
+SBD,M,SBX---------------,----,8,,Men's Snowboard Cross,KOR,Men's Snowboard Cross,KOR,,,ASM0900
+SBD,M,SBX---------------,TRNO,1,T,Men's Snowboard Cross Training,KOR,Men's Snowboard Cross Training,KOR,Training,KOR,ASM190O
+SBD,M,SBX-----01010-----,----,8,,Men's Snowboard Cross SB-UL ,KOR,Men's Snowboard Cross SB-UL ,KOR,,,
+SBD,M,SBX-----01010-----,DRAW,7,D,"Men's Snowboard Cross SB-UL, Draw",KOR,"Men's Snowboard Cross SB-UL, Draw",KOR,,,
+SBD,M,SBX-----01010-----,FNL-,3,1,"Men's Snowboard Cross SB-UL, Final",KOR,"Men's Snowboard Cross SB-UL, Final",KOR,,,
+SBD,M,SBX-----01010-----,QUAL,3,8,"Men's Snowboard Cross SB-UL, Qual",KOR,"Men's Snowboard Cross SB-UL, Qualification",KOR,,,
+SBD,M,SBX-----01010-----,VICT,6,V,"Men's Snowboard Cross SB-UL, Vict. Cer.",KOR,"Men's Snowboard Cross SB-UL, Victory Ceremony",KOR,,,
+SBD,M,SBX-----10010-----,----,8,,Men's Snowboard Cross SB-LL1 ,KOR,Men's Snowboard Cross SB-LL1 ,KOR,,,
+SBD,M,SBX-----10010-----,DRAW,7,D,"Men's Snowboard Cross SB-LL1, Draw",KOR,"Men's Snowboard Cross SB-LL1, Draw",KOR,,,
+SBD,M,SBX-----10010-----,FNL-,3,1,"Men's Snowboard Cross SB-LL1, Final",KOR,"Men's Snowboard Cross SB-LL1, Final",KOR,,,
+SBD,M,SBX-----10010-----,QUAL,3,8,"Men's Snowboard Cross SB-LL1, Qual",KOR,"Men's Snowboard Cross SB-LL1, Qualification",KOR,,,
+SBD,M,SBX-----10010-----,VICT,6,V,"Men's Snowboard Cross SB-LL1, Vict. Cer.",KOR,"Men's Snowboard Cross SB-LL1, Victory Ceremony",KOR,,,
+SBD,M,SBX-----20010-----,----,8,,Men's Snowboard Cross SB-LL2 ,KOR,Men's Snowboard Cross SB-LL2 ,KOR,,,
+SBD,M,SBX-----20010-----,DRAW,7,D,"Men's Snowboard Cross SB-LL2, Draw",KOR,"Men's Snowboard Cross SB-LL2, Draw",KOR,,,
+SBD,M,SBX-----20010-----,FNL-,3,1,"Men's Snowboard Cross SB-LL2, Final",KOR,"Men's Snowboard Cross SB-LL2, Final",KOR,,,
+SBD,M,SBX-----20010-----,FNL-,3,8,"Men's Snowboard Cross SB-LL2, Qual",KOR,"Men's Snowboard Cross SB-LL2, Qualification",KOR,,,
+SBD,M,SBX-----20010-----,VICT,6,V,"Men's Snowboard Cross SB-LL2, Vict. Cer.",KOR,"Men's Snowboard Cross SB-LL2, Victory Ceremony",KOR,,,
+SBD,W,------------------,----,8,,Women's Snowboard,KOR,Women's Snowboard,KOR,,,
+SBD,W,BSL---------------,----,8,,Women's Banked Slalom ,KOR,Women's Banked Slalom ,KOR,,,
+SBD,W,BSL---------------,TRNO,1,T,"Women's Banked Slalom, Training",KOR,"Women's Banked Slalom, Training",KOR,,,
+SBD,W,BSL-----01010-----,----,8,,Women's Banked Slalom SB-UL ,KOR,Women's Banked Slalom SB-UL ,KOR,,,
+SBD,W,BSL-----01010-----,DRAW,7,D,"Women's Banked Slalom SB-UL, Draw",KOR,"Women's Banked Slalom SB-UL, Draw",KOR,,,
+SBD,W,BSL-----01010-----,FNL-,3,1,Women's Banked Slalom SB-UL ,KOR,Women's Banked Slalom SB-UL ,KOR,,,
+SBD,W,BSL-----01010-----,VICT,6,V,"Women's Banked Slalom SB-UL, Vict. Cer.",KOR,"Women's Banked Slalom SB-UL, Victory Ceremony",KOR,,,
+SBD,W,BSL-----10010-----,----,8,,Women's Banked Slalom SB-LL1 ,KOR,Women's Banked Slalom SB-LL1 ,KOR,,,
+SBD,W,BSL-----10010-----,DRAW,7,D,"Women's Banked Slalom SB-LL1, Draw",KOR,"Women's Banked Slalom SB-LL1, Draw",KOR,,,
+SBD,W,BSL-----10010-----,FNL-,3,1,Women's Banked Slalom SB-LL1 ,KOR,Women's Banked Slalom SB-LL1 ,KOR,,,
+SBD,W,BSL-----10010-----,VICT,6,V,"Women's Banked Slalom SB-LL1, Vict. Cer.",KOR,"Women's Banked Slalom SB-LL1, Victory Ceremony",KOR,,,
+SBD,W,BSL-----20010-----,----,8,,Women's Banked Slalom SB-LL2 ,KOR,Women's Banked Slalom SB-LL2 ,KOR,,,
+SBD,W,BSL-----20010-----,DRAW,7,D,"Women's Banked Slalom SB-LL2, Draw",KOR,"Women's Banked Slalom SB-LL2, Draw",KOR,,,
+SBD,W,BSL-----20010-----,FNL-,3,1,Women's Banked Slalom SB-LL2 ,KOR,Women's Banked Slalom SB-LL2 ,KOR,,,
+SBD,W,BSL-----20010-----,VICT,6,V,"Women's Banked Slalom SB-LL2, Vict. Cer.",KOR,"Women's Banked Slalom SB-LL2, Victory Ceremony",KOR,,,
+SBD,W,SBX---------------,----,8,,Women's Snowboard Cross,KOR,Women's Snowboard Cross,KOR,,,ASW0900
+SBD,W,SBX---------------,TRNO,1,T,Women's Snowboard Cross Training,KOR,Women's Snowboard Cross Training,KOR,Training,KOR,ASM190O
+SBD,W,SBX-----01010-----,----,8,,Women's Snowboard Cross SB-UL ,KOR,Women's Snowboard Cross SB-UL ,KOR,,,
+SBD,W,SBX-----01010-----,DRAW,7,D,"Women's Snowboard Cross SB-UL, Draw",KOR,"Women's Snowboard Cross SB-UL, Draw",KOR,,,
+SBD,W,SBX-----01010-----,FNL-,3,1,"Women's Snowboard Cross SB-UL, Final",KOR,"Women's Snowboard Cross SB-UL, Final",KOR,,,
+SBD,W,SBX-----01010-----,QUAL,3,8,"Women's Snowboard Cross SB-UL, Qual",KOR,"Women's Snowboard Cross SB-UL, Qualification",KOR,,,
+SBD,W,SBX-----01010-----,VICT,6,V,"Women's Snowboard Cross SB-UL, Vict. Cer.",KOR,"Women's Snowboard Cross SB-UL, Victory Ceremony",KOR,,,
+SBD,W,SBX-----10010-----,----,8,,Women's Snowboard Cross SB-LL1 ,KOR,Women's Snowboard Cross SB-LL1 ,KOR,,,
+SBD,W,SBX-----10010-----,DRAW,7,D,"Women's Snowboard Cross SB-LL1, Draw",KOR,"Women's Snowboard Cross SB-LL1, Draw",KOR,,,
+SBD,W,SBX-----10010-----,FNL-,3,1,"Women's Snowboard Cross SB-LL1, Final",KOR,"Women's Snowboard Cross SB-LL1, Final",KOR,,,
+SBD,W,SBX-----10010-----,QUAL,3,8,"Women's Snowboard Cross SB-LL1, Qual",KOR,"Women's Snowboard Cross SB-LL1, Qual",KOR,,,
+SBD,W,SBX-----10010-----,VICT,6,V,"Women's Snowboard Cross SB-LL1, Vict. Cer.",KOR,"Women's Snowboard Cross SB-LL1, Victory Ceremony",KOR,,,
+SBD,W,SBX-----20010-----,----,8,,Women's Snowboard Cross SB-LL2 ,KOR,Women's Snowboard Cross SB-LL2 ,KOR,,,
+SBD,W,SBX-----20010-----,DRAW,7,D,"Women's Snowboard Cross SB-LL2, Draw",KOR,"Women's Snowboard Cross SB-LL2, Draw",KOR,,,
+SBD,W,SBX-----20010-----,FNL-,3,1,"Women's Snowboard Cross SB-LL2, Final",KOR,"Women's Snowboard Cross SB-LL2, Final",KOR,,,
+SBD,W,SBX-----20010-----,QUAL,3,8,"Women's Snowboard Cross SB-LL2, Qual",KOR,"Women's Snowboard Cross SB-LL2, Qualification",KOR,,,
+SBD,W,SBX-----20010-----,VICT,6,V,"Women's Snowboard Cross SB-LL2, Vict. Cer.",KOR,"Women's Snowboard Cross SB-LL2, Victory Ceremony",KOR,,,
+TRU,-,ALP---------------,----,2,,Alpine Skiing Training,KOR,Alpine Skiing Training,KOR,,,UT0AST0
+TRU,-,BTH---------------,----,2,,Biathlon Training,KOR,Biathlon Training,KOR,,,UT0BTT0
+TRU,-,CCS---------------,----,2,,Cross-Country Skiing Training,KOR,Cross-Country Skiing Training,KOR,,,UT0CCT0
+TRU,-,ISH---------------,----,2,,Ice Sledge Hockey Training,KOR,Ice Sledge Hockey Training,KOR,,,UT0IHT0
+TRU,-,SBD---------------,----,2,,Snowboard Training,KOR,Snowboard Training,KOR,,,
+TRU,-,WCU---------------,----,2,,Wheelchair Curling Training,KOR,Wheelchair Curling Training,KOR,,,UT0CUT0
+WCU,-,------------------,----,8,,Wheelchair Curling,KOR,Wheelchair Curling,KOR,,,CU00000
+WCU,-,------------------,MEET,9,M,"Wheelchair Curling, Team Meeting",KOR,"Wheelchair Curling, Team Meeting",KOR,Team Meeting,KOR,CU0000T
+WCU,-,------------------,SESS,3,9,"Mixed, Sessions",KOR,"Mixed, Sessions",KOR,Sessions,KOR,CUX400Z
+WCU,X,TEAM4---00000-----,----,8,,Mixed,KOR,Mixed,KOR,,,CUX4000
+WCU,X,TEAM4---00000-----,FNL-,3,1,"Mixed, Finals",KOR,"Mixed, Finals",KOR,Finals,KOR,CUX4001
+WCU,X,TEAM4---00000-----,PREL,3,8,"Mixed, Round Robin",KOR,"Mixed, Round Robin",KOR,Round Robin,KOR,CUX4009
+WCU,X,TEAM4---00000-----,SFNL,3,2,"Mixed, Semifinals",KOR,"Mixed, Semifinals",KOR,Semifinals,KOR,CUX4002
+WCU,X,TEAM4---00000-----,TB--,3,5,Mixed Tie-breaker,KOR,Mixed Tie-breaker,KOR,Tie-Breaker,KOR,
+WCU,X,TEAM4---00000-----,TBIF,3,5,Mixed Tie-breaker (if needed),KOR,Mixed Tie-breaker (if needed),KOR,Tie-Breaker,KOR,
+WCU,X,TEAM4---00000-----,VICT,6,V,"Mixed, Victory Ceremony",KOR,"Mixed, Victory Ceremony",KOR,Victory Ceremony,KOR,CUX400M

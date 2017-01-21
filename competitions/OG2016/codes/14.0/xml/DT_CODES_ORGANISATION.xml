@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="55" Time="061255279" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="ORGANISATION">
+  <Competition Code="OG2016">
+    <CodeSet Type="OC" Code="AFG">
+      <Language Description="Afghanistan" LongDescription="Afghanistan" Language="ENG"/>
+      <Language Description="Afghanistan" LongDescription="Afghanistan" Language="FRA"/>
+      <Language Description="Afeganistão" LongDescription="Afeganistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="AHO">
+      <Language Description="Netherlands Antilles" LongDescription="Netherlands Antilles" Language="ENG"/>
+      <Language Description="Ant. Néerlandaises" LongDescription="Antilles néerlandaises" Language="FRA"/>
+      <Language Description="Antilhas Holandesas" LongDescription="Antilhas Holandesas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="AIBA">
+      <Language Description="AIBA" LongDescription="International Boxing Association" Language="ENG"/>
+      <Language Description="AIBA" LongDescription="Fédération Internationale de Boxe" Language="FRA"/>
+      <Language Description="AIBA" LongDescription="Associação Internacional de Boxe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ALB">
+      <Language Description="Albania" LongDescription="Albania" Language="ENG"/>
+      <Language Description="Albanie" LongDescription="Albanie" Language="FRA"/>
+      <Language Description="Albânia" LongDescription="Albânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ALG">
+      <Language Description="Algeria" LongDescription="Algeria" Language="ENG"/>
+      <Language Description="Algérie" LongDescription="Algérie" Language="FRA"/>
+      <Language Description="Argélia" LongDescription="Argélia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="AND">
+      <Language Description="Andorra" LongDescription="Andorra" Language="ENG"/>
+      <Language Description="Andorre" LongDescription="Andorre" Language="FRA"/>
+      <Language Description="Andorra" LongDescription="Andorra" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ANG">
+      <Language Description="Angola" LongDescription="Angola" Language="ENG"/>
+      <Language Description="Angola" LongDescription="Angola" Language="FRA"/>
+      <Language Description="Angola" LongDescription="Angola" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ANT">
+      <Language Description="Antigua and Barbuda" LongDescription="Antigua and Barbuda" Language="ENG"/>
+      <Language Description="Antigua-et-Barbuda" LongDescription="Antigua-et-Barbuda" Language="FRA"/>
+      <Language Description="Antígua e Barbuda" LongDescription="Antígua e Barbuda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ANZ">
+      <Language Description="AUS/NZL" LongDescription="Australia/New Zealand" Language="ENG"/>
+      <Language Description="AUS/NZL" LongDescription="Australie/Nouvelle-Zélande" Language="FRA"/>
+      <Language Description="AUS/NZL" LongDescription="Austrrália/Nova Zelândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ARG">
+      <Language Description="Argentina" LongDescription="Argentina" Language="ENG"/>
+      <Language Description="Argentine" LongDescription="Argentine" Language="FRA"/>
+      <Language Description="Argentina" LongDescription="Argentina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ARM">
+      <Language Description="Armenia" LongDescription="Armenia" Language="ENG"/>
+      <Language Description="Arménie" LongDescription="Arménie" Language="FRA"/>
+      <Language Description="Armênia" LongDescription="Armênia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ARU">
+      <Language Description="Aruba" LongDescription="Aruba" Language="ENG"/>
+      <Language Description="Aruba" LongDescription="Aruba" Language="FRA"/>
+      <Language Description="Aruba" LongDescription="Aruba" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ASA">
+      <Language Description="American Samoa" LongDescription="American Samoa" Language="ENG"/>
+      <Language Description="Samoa Américaines" LongDescription="Samoa Américaines" Language="FRA"/>
+      <Language Description="Samoa Americana" LongDescription="Samoa Americana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="AUS">
+      <Language Description="Australia" LongDescription="Australia" Language="ENG"/>
+      <Language Description="Australie" LongDescription="Australie" Language="FRA"/>
+      <Language Description="Austrália" LongDescription="Austrália" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="AUT">
+      <Language Description="Austria" LongDescription="Austria" Language="ENG"/>
+      <Language Description="Autriche" LongDescription="Autriche" Language="FRA"/>
+      <Language Description="Áustria" LongDescription="Áustria" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="AZE">
+      <Language Description="Azerbaijan" LongDescription="Azerbaijan" Language="ENG"/>
+      <Language Description="Azerbaïdjan" LongDescription="Azerbaïdjan" Language="FRA"/>
+      <Language Description="Azerbaijão" LongDescription="Azerbaijão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BAH">
+      <Language Description="Bahamas" LongDescription="Bahamas" Language="ENG"/>
+      <Language Description="Bahamas" LongDescription="Bahamas" Language="FRA"/>
+      <Language Description="Bahamas" LongDescription="Bahamas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BAN">
+      <Language Description="Bangladesh" LongDescription="Bangladesh" Language="ENG"/>
+      <Language Description="Bangladesh" LongDescription="Bangladesh" Language="FRA"/>
+      <Language Description="Bangladesh" LongDescription="Bangladesh" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BAR">
+      <Language Description="Barbados" LongDescription="Barbados" Language="ENG"/>
+      <Language Description="Barbade" LongDescription="Barbade" Language="FRA"/>
+      <Language Description="Barbados" LongDescription="Barbados" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BDI">
+      <Language Description="Burundi" LongDescription="Burundi" Language="ENG"/>
+      <Language Description="Burundi" LongDescription="Burundi" Language="FRA"/>
+      <Language Description="Burundi" LongDescription="Burundi" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BEL">
+      <Language Description="Belgium" LongDescription="Belgium" Language="ENG"/>
+      <Language Description="Belgique" LongDescription="Belgique" Language="FRA"/>
+      <Language Description="Bélgica" LongDescription="Bélgica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BEN">
+      <Language Description="Benin" LongDescription="Benin" Language="ENG"/>
+      <Language Description="Bénin" LongDescription="Bénin" Language="FRA"/>
+      <Language Description="Benin" LongDescription="Benin" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BER">
+      <Language Description="Bermuda" LongDescription="Bermuda" Language="ENG"/>
+      <Language Description="Bermudes" LongDescription="Bermudes" Language="FRA"/>
+      <Language Description="Bermudas" LongDescription="Bermudas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BHU">
+      <Language Description="Bhutan" LongDescription="Bhutan" Language="ENG"/>
+      <Language Description="Bhoutan" LongDescription="Bhoutan" Language="FRA"/>
+      <Language Description="Butão" LongDescription="Butão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BIH">
+      <Language Description="Bosnia &amp; Herzegovina" LongDescription="Bosnia and Herzegovina" Language="ENG"/>
+      <Language Description="Bosnie-Herzégovine" LongDescription="Bosnie-Herzégovine" Language="FRA"/>
+      <Language Description="Bósnia-Herzegovina" LongDescription="Bósnia-Herzegovina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BIZ">
+      <Language Description="Belize" LongDescription="Belize" Language="ENG"/>
+      <Language Description="Belize" LongDescription="Belize" Language="FRA"/>
+      <Language Description="Belize" LongDescription="Belize" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BLR">
+      <Language Description="Belarus" LongDescription="Belarus" Language="ENG"/>
+      <Language Description="Bélarus" LongDescription="Bélarus" Language="FRA"/>
+      <Language Description="Belarus" LongDescription="Belarus" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BOL">
+      <Language Description="Bolivia" LongDescription="Bolivia" Language="ENG"/>
+      <Language Description="Bolivie" LongDescription="Bolivie" Language="FRA"/>
+      <Language Description="Bolívia" LongDescription="Bolívia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BOT">
+      <Language Description="Botswana" LongDescription="Botswana" Language="ENG"/>
+      <Language Description="Botswana" LongDescription="Botswana" Language="FRA"/>
+      <Language Description="Botsuana" LongDescription="Botsuana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BRA">
+      <Language Description="Brazil" LongDescription="Brazil" Language="ENG"/>
+      <Language Description="Brésil" LongDescription="Brésil" Language="FRA"/>
+      <Language Description="Brasil" LongDescription="Brasil" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BRN">
+      <Language Description="Bahrain" LongDescription="Bahrain" Language="ENG"/>
+      <Language Description="Bahreïn" LongDescription="Bahreïn" Language="FRA"/>
+      <Language Description="Bareine" LongDescription="Bareine" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BRU">
+      <Language Description="Brunei Darussalam" LongDescription="Brunei Darussalam" Language="ENG"/>
+      <Language Description="Brunéi Darussalam" LongDescription="Brunéi Darussalam" Language="FRA"/>
+      <Language Description="Brunei Darussalam" LongDescription="Brunei Darussalam" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BUL">
+      <Language Description="Bulgaria" LongDescription="Bulgaria" Language="ENG"/>
+      <Language Description="Bulgarie" LongDescription="Bulgarie" Language="FRA"/>
+      <Language Description="Bulgária" LongDescription="Bulgária" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="BUR">
+      <Language Description="Burkina Faso" LongDescription="Burkina Faso" Language="ENG"/>
+      <Language Description="Burkina Faso" LongDescription="Burkina Faso" Language="FRA"/>
+      <Language Description="Burkina Faso" LongDescription="Burkina Faso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="BWF">
+      <Language Description="BWF" LongDescription="Badminton World Federation" Language="ENG"/>
+      <Language Description="BWF" LongDescription="Fédération Internationale de Badminton" Language="FRA"/>
+      <Language Description="BWF" LongDescription="Federação Internacional de Badminton" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CAF">
+      <Language Description="Central African Rep." LongDescription="Central African Republic" Language="ENG"/>
+      <Language Description="Rép. Centrafricaine" LongDescription="République Centrafricaine" Language="FRA"/>
+      <Language Description="Rep. Centroafricana" LongDescription="República Centroafricana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CAM">
+      <Language Description="Cambodia" LongDescription="Cambodia" Language="ENG"/>
+      <Language Description="Cambodge" LongDescription="Cambodge" Language="FRA"/>
+      <Language Description="Camboja" LongDescription="Camboja" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CAN">
+      <Language Description="Canada" LongDescription="Canada" Language="ENG"/>
+      <Language Description="Canada" LongDescription="Canada" Language="FRA"/>
+      <Language Description="Canadá" LongDescription="Canadá" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CAY">
+      <Language Description="Cayman Islands" LongDescription="Cayman Islands" Language="ENG"/>
+      <Language Description="Îles Caïmans" LongDescription="Îles Caïmans" Language="FRA"/>
+      <Language Description="Ilhas Cayman" LongDescription="Ilhas Cayman" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CGO">
+      <Language Description="Congo" LongDescription="Congo" Language="ENG"/>
+      <Language Description="Congo" LongDescription="Congo" Language="FRA"/>
+      <Language Description="Congo" LongDescription="Congo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CHA">
+      <Language Description="Chad" LongDescription="Chad" Language="ENG"/>
+      <Language Description="Tchad" LongDescription="Tchad" Language="FRA"/>
+      <Language Description="Chade" LongDescription="Chade" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CHI">
+      <Language Description="Chile" LongDescription="Chile" Language="ENG"/>
+      <Language Description="Chili" LongDescription="Chili" Language="FRA"/>
+      <Language Description="Chile" LongDescription="Chile" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CHN">
+      <Language Description="China" LongDescription="People's Republic of China" Language="ENG"/>
+      <Language Description="Chine" LongDescription="République populaire de Chine" Language="FRA"/>
+      <Language Description="China" LongDescription="República Popular da China" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CIS">
+      <Language Description="CIS" LongDescription="Commonwealth of Independent States" Language="ENG"/>
+      <Language Description="CIS" LongDescription="FRA Commonwealth of Independent States" Language="FRA"/>
+      <Language Description="CEI" LongDescription="Comunidade dos Estados Independentes" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CIV">
+      <Language Description="Côte d'Ivoire" LongDescription="Côte d'Ivoire" Language="ENG"/>
+      <Language Description="Côte d'Ivoire" LongDescription="Côte d'Ivoire" Language="FRA"/>
+      <Language Description="Costa do Marfim" LongDescription="Costa do Marfim" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CMR">
+      <Language Description="Cameroon" LongDescription="Cameroon" Language="ENG"/>
+      <Language Description="Cameroun" LongDescription="Cameroun" Language="FRA"/>
+      <Language Description="Camarões" LongDescription="Camarões" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="COD">
+      <Language Description="DR Congo" LongDescription="Democratic Republic of the Congo" Language="ENG"/>
+      <Language Description="RD Congo" LongDescription="République Démocratique du Congo" Language="FRA"/>
+      <Language Description="Congo, Rep. Dem." LongDescription="República Democrática do Congo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="COK">
+      <Language Description="Cook Islands" LongDescription="Cook Islands" Language="ENG"/>
+      <Language Description="Îles Cook" LongDescription="Îles Cook" Language="FRA"/>
+      <Language Description="Ilhas Cook" LongDescription="Ilhas Cook" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="COL">
+      <Language Description="Colombia" LongDescription="Colombia" Language="ENG"/>
+      <Language Description="Colombie" LongDescription="Colombie" Language="FRA"/>
+      <Language Description="Colômbia" LongDescription="Colômbia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="COM">
+      <Language Description="Comoros" LongDescription="Comoros" Language="ENG"/>
+      <Language Description="Comores" LongDescription="Comores" Language="FRA"/>
+      <Language Description="Comores" LongDescription="Comores" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CPV">
+      <Language Description="Cape Verde" LongDescription="Cape Verde" Language="ENG"/>
+      <Language Description="Cap-Vert" LongDescription="Cap-Vert" Language="FRA"/>
+      <Language Description="Cabo Verde" LongDescription="Cabo Verde" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CRC">
+      <Language Description="Costa Rica" LongDescription="Costa Rica" Language="ENG"/>
+      <Language Description="Costa Rica" LongDescription="Costa Rica" Language="FRA"/>
+      <Language Description="Costa Rica" LongDescription="Costa Rica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CRO">
+      <Language Description="Croatia" LongDescription="Croatia" Language="ENG"/>
+      <Language Description="Croatie" LongDescription="Croatie" Language="FRA"/>
+      <Language Description="Croácia" LongDescription="Croácia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CUB">
+      <Language Description="Cuba" LongDescription="Cuba" Language="ENG"/>
+      <Language Description="Cuba" LongDescription="Cuba" Language="FRA"/>
+      <Language Description="Cuba" LongDescription="Cuba" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CYP">
+      <Language Description="Cyprus" LongDescription="Cyprus" Language="ENG"/>
+      <Language Description="Chypre" LongDescription="Chypre" Language="FRA"/>
+      <Language Description="Chipre" LongDescription="Chipre" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="CZE">
+      <Language Description="Czech Republic" LongDescription="Czech Republic" Language="ENG"/>
+      <Language Description="République tchèque" LongDescription="République tchèque" Language="FRA"/>
+      <Language Description="República Tcheca" LongDescription="República Tcheca" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="DEN">
+      <Language Description="Denmark" LongDescription="Denmark" Language="ENG"/>
+      <Language Description="Danemark" LongDescription="Danemark" Language="FRA"/>
+      <Language Description="Dinamarca" LongDescription="Dinamarca" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="DJI">
+      <Language Description="Djibouti" LongDescription="Djibouti" Language="ENG"/>
+      <Language Description="Djibouti" LongDescription="Djibouti" Language="FRA"/>
+      <Language Description="Djibuti" LongDescription="Djibuti" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="DMA">
+      <Language Description="Dominica" LongDescription="Dominica" Language="ENG"/>
+      <Language Description="Dominique" LongDescription="Dominique" Language="FRA"/>
+      <Language Description="Dominica" LongDescription="Dominica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="DOM">
+      <Language Description="Dominican Republic" LongDescription="Dominican Republic" Language="ENG"/>
+      <Language Description="Rép. dominicaine" LongDescription="République dominicaine" Language="FRA"/>
+      <Language Description="República Dominicana" LongDescription="República Dominicana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ECU">
+      <Language Description="Ecuador" LongDescription="Ecuador" Language="ENG"/>
+      <Language Description="Équateur" LongDescription="Équateur" Language="FRA"/>
+      <Language Description="Equador" LongDescription="Equador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="EGY">
+      <Language Description="Egypt" LongDescription="Egypt" Language="ENG"/>
+      <Language Description="Égypte" LongDescription="Égypte" Language="FRA"/>
+      <Language Description="Egito" LongDescription="Egito" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ERI">
+      <Language Description="Eritrea" LongDescription="Eritrea" Language="ENG"/>
+      <Language Description="Érythrée" LongDescription="Érythrée" Language="FRA"/>
+      <Language Description="Eritreia" LongDescription="Eritreia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ESA">
+      <Language Description="El Salvador" LongDescription="El Salvador" Language="ENG"/>
+      <Language Description="El Salvador" LongDescription="El Salvador" Language="FRA"/>
+      <Language Description="El Salvador" LongDescription="El Salvador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ESP">
+      <Language Description="Spain" LongDescription="Spain" Language="ENG"/>
+      <Language Description="Espagne" LongDescription="Espagne" Language="FRA"/>
+      <Language Description="Espanha" LongDescription="Espanha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="EST">
+      <Language Description="Estonia" LongDescription="Estonia" Language="ENG"/>
+      <Language Description="Estonie" LongDescription="Estonie" Language="FRA"/>
+      <Language Description="Estônia" LongDescription="Estônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ETH">
+      <Language Description="Ethiopia" LongDescription="Ethiopia" Language="ENG"/>
+      <Language Description="Éthiopie" LongDescription="Éthiopie" Language="FRA"/>
+      <Language Description="Etiópia" LongDescription="Etiópia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="EUN">
+      <Language Description="Unified Team" LongDescription="Unified Team" Language="ENG"/>
+      <Language Description="Équipe unifiée" LongDescription="Équipe unifiée" Language="FRA"/>
+      <Language Description="Equipe Unificada" LongDescription="Equipe Unificada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FEI">
+      <Language Description="FEI" LongDescription="International Equestrian Federation" Language="ENG"/>
+      <Language Description="FEI" LongDescription="Fédération Équestre Internationale" Language="FRA"/>
+      <Language Description="FEI" LongDescription="Federação Internacional de Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIBA">
+      <Language Description="FIBA" LongDescription="International Basketball Federation" Language="ENG"/>
+      <Language Description="FIBA" LongDescription="Fédération Internationale de Basketball" Language="FRA"/>
+      <Language Description="FIBA" LongDescription="Federação Internacional de Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIE">
+      <Language Description="FIE" LongDescription="International Fencing Federation" Language="ENG"/>
+      <Language Description="FIE" LongDescription="Fédération Internationale d'Escrime" Language="FRA"/>
+      <Language Description="FIE" LongDescription="Federação Internacional de Esgrima" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIFA">
+      <Language Description="FIFA" LongDescription="International Football Federation" Language="ENG"/>
+      <Language Description="FIFA" LongDescription="Fédération Internationale de Football Association" Language="FRA"/>
+      <Language Description="FIFA" LongDescription="Federação Internacional de Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIG">
+      <Language Description="FIG" LongDescription="International Gymnastics Federation" Language="ENG"/>
+      <Language Description="FIG" LongDescription="Fédération Internationale de Gymnastique" Language="FRA"/>
+      <Language Description="FIG" LongDescription="Federação Internacional de Ginástica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIH">
+      <Language Description="FIH" LongDescription="International Hockey Federation" Language="ENG"/>
+      <Language Description="FIH" LongDescription="Fédération Internationale de Hockey" Language="FRA"/>
+      <Language Description="FIH" LongDescription="Federação Internacional de Hóquei sobre Grama" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="FIJ">
+      <Language Description="Fiji" LongDescription="Fiji" Language="ENG"/>
+      <Language Description="Fidji" LongDescription="Fidji" Language="FRA"/>
+      <Language Description="Fiji" LongDescription="Fiji" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FILA">
+      <Language Description="FILA" LongDescription="Int.Fed Ass. Wrestling Styles" Language="ENG"/>
+      <Language Description="FILA" LongDescription="Int.Fed Ass. Wrestling Styles" Language="FRA"/>
+      <Language Description="FILA" LongDescription="Int.Fed Ass. Wrestling Styles" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="FIN">
+      <Language Description="Finland" LongDescription="Finland" Language="ENG"/>
+      <Language Description="Finlande" LongDescription="Finlande" Language="FRA"/>
+      <Language Description="Finlândia" LongDescription="Finlândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FINA">
+      <Language Description="FINA" LongDescription="International Aquatics Federation" Language="ENG"/>
+      <Language Description="FINA" LongDescription="Fédération Internationale de Natation" Language="FRA"/>
+      <Language Description="FINA" LongDescription="Federação Internacional de Desportos Aquáticos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FISA">
+      <Language Description="FISA" LongDescription="International Rowing Federation" Language="ENG"/>
+      <Language Description="FISA" LongDescription="Fédération Internationale des Sociétés d'Aviron" Language="FRA"/>
+      <Language Description="FISA" LongDescription="Federação Internacional de Remo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="FIVB">
+      <Language Description="FIVB" LongDescription="International Volleyball Federation" Language="ENG"/>
+      <Language Description="FIVB" LongDescription="Fédération Internationale de Volleyball" Language="FRA"/>
+      <Language Description="FIVB" LongDescription="Federação Internacional de Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="FRA">
+      <Language Description="France" LongDescription="France" Language="ENG"/>
+      <Language Description="France" LongDescription="France" Language="FRA"/>
+      <Language Description="França" LongDescription="França" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="FRG">
+      <Language Description="FRG" LongDescription="Federal Republic of Germany" Language="ENG"/>
+      <Language Description="FRG" LongDescription="République Fédérale d'Allemagne" Language="FRA"/>
+      <Language Description="Alemanha Ocidental" LongDescription="República Federal da Alemanha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="FSM">
+      <Language Description="Micronesia" LongDescription="Federated States of Micronesia" Language="ENG"/>
+      <Language Description="Micronésie" LongDescription="États fédérés de Micronésie" Language="FRA"/>
+      <Language Description="Micronésia" LongDescription="Estados Federados da Micronésia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GAB">
+      <Language Description="Gabon" LongDescription="Gabon" Language="ENG"/>
+      <Language Description="Gabon" LongDescription="Gabon" Language="FRA"/>
+      <Language Description="Gabão" LongDescription="Gabão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GAM">
+      <Language Description="Gambia" LongDescription="Gambia" Language="ENG"/>
+      <Language Description="Gambie" LongDescription="Gambie" Language="FRA"/>
+      <Language Description="Gâmbia" LongDescription="Gâmbia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GBR">
+      <Language Description="Great Britain" LongDescription="Great Britain" Language="ENG"/>
+      <Language Description="Grande-Bretagne" LongDescription="Grande-Bretagne" Language="FRA"/>
+      <Language Description="Grã-Bretanha" LongDescription="Grã-Bretanha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GBS">
+      <Language Description="Guinea-Bissau" LongDescription="Guinea-Bissau" Language="ENG"/>
+      <Language Description="Guinée-Bissau" LongDescription="Guinée-Bissau" Language="FRA"/>
+      <Language Description="Guiné-Bissau" LongDescription="Guiné-Bissau" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GDR">
+      <Language Description="GDR" LongDescription="GDR" Language="ENG"/>
+      <Language Description="RDA" LongDescription="RDA" Language="FRA"/>
+      <Language Description="Alemanha Oriental" LongDescription="República Democrática Alemã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GEO">
+      <Language Description="Georgia" LongDescription="Georgia" Language="ENG"/>
+      <Language Description="Géorgie" LongDescription="Géorgie" Language="FRA"/>
+      <Language Description="Geórgia" LongDescription="Geórgia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GEQ">
+      <Language Description="Equatorial Guinea" LongDescription="Equatorial Guinea" Language="ENG"/>
+      <Language Description="Guinée équatoriale" LongDescription="Guinée équatoriale" Language="FRA"/>
+      <Language Description="Guiné Equatorial" LongDescription="Guiné Equatorial" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GER">
+      <Language Description="Germany" LongDescription="Germany" Language="ENG"/>
+      <Language Description="Allemagne" LongDescription="Allemagne" Language="FRA"/>
+      <Language Description="Alemanha" LongDescription="Alemanha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GHA">
+      <Language Description="Ghana" LongDescription="Ghana" Language="ENG"/>
+      <Language Description="Ghana" LongDescription="Ghana" Language="FRA"/>
+      <Language Description="Gana" LongDescription="Gana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GRE">
+      <Language Description="Greece" LongDescription="Greece" Language="ENG"/>
+      <Language Description="Grèce" LongDescription="Grèce" Language="FRA"/>
+      <Language Description="Grécia" LongDescription="Grécia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GRN">
+      <Language Description="Grenada" LongDescription="Grenada" Language="ENG"/>
+      <Language Description="Grenade" LongDescription="Grenade" Language="FRA"/>
+      <Language Description="Granada" LongDescription="Granada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GUA">
+      <Language Description="Guatemala" LongDescription="Guatemala" Language="ENG"/>
+      <Language Description="Guatemala" LongDescription="Guatemala" Language="FRA"/>
+      <Language Description="Guatemala" LongDescription="Guatemala" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GUI">
+      <Language Description="Guinea" LongDescription="Guinea" Language="ENG"/>
+      <Language Description="Guinée" LongDescription="Guinée" Language="FRA"/>
+      <Language Description="Guiné" LongDescription="Guiné" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GUM">
+      <Language Description="Guam" LongDescription="Guam" Language="ENG"/>
+      <Language Description="Guam" LongDescription="Guam" Language="FRA"/>
+      <Language Description="Guam" LongDescription="Guam" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="GUY">
+      <Language Description="Guyana" LongDescription="Guyana" Language="ENG"/>
+      <Language Description="Guyana" LongDescription="Guyana" Language="FRA"/>
+      <Language Description="Guiana" LongDescription="Guiana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="HAI">
+      <Language Description="Haiti" LongDescription="Haiti" Language="ENG"/>
+      <Language Description="Haïti" LongDescription="Haïti" Language="FRA"/>
+      <Language Description="Haiti" LongDescription="Haiti" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="HKG">
+      <Language Description="Hong Kong, China" LongDescription="Hong Kong, China" Language="ENG"/>
+      <Language Description="Hong Kong, Chine" LongDescription="Hong Kong, Chine" Language="FRA"/>
+      <Language Description="Hong Kong, China" LongDescription="Hong Kong, China" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="HON">
+      <Language Description="Honduras" LongDescription="Honduras" Language="ENG"/>
+      <Language Description="Honduras" LongDescription="Honduras" Language="FRA"/>
+      <Language Description="Honduras" LongDescription="Honduras" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="HUN">
+      <Language Description="Hungary" LongDescription="Hungary" Language="ENG"/>
+      <Language Description="Hongrie" LongDescription="Hongrie" Language="FRA"/>
+      <Language Description="Hungria" LongDescription="Hungria" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="IAAF">
+      <Language Description="IAAF" LongDescription="International Association of Athletics Federations" Language="ENG"/>
+      <Language Description="IAAF" LongDescription="Association Internationale des Fédérations d'Athletisme" Language="FRA"/>
+      <Language Description="IAAF" LongDescription="Federação Internacional de Atletismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ICF">
+      <Language Description="ICF" LongDescription="International Canoe Federation" Language="ENG"/>
+      <Language Description="ICF" LongDescription="Fédération Internationale de Canoë" Language="FRA"/>
+      <Language Description="ICF" LongDescription="Federação Internacional de Canoagem" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="IGF">
+      <Language Description="IGF" LongDescription="International Golf Federation" Language="ENG"/>
+      <Language Description="IGF" LongDescription="Fédération Internationale de Golf" Language="FRA"/>
+      <Language Description="IGF" LongDescription="Federação International de Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="IHF">
+      <Language Description="IHF" LongDescription="International Handball Federation" Language="ENG"/>
+      <Language Description="IHF" LongDescription="Fédération Internationale de Handball" Language="FRA"/>
+      <Language Description="IHF" LongDescription="Federação Internacional de Handebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="IJF">
+      <Language Description="IJF" LongDescription="International Judo Federation" Language="ENG"/>
+      <Language Description="IJF" LongDescription="Fédération Internationale de Judo" Language="FRA"/>
+      <Language Description="IJF" LongDescription="Federação Internacional de Judô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="INA">
+      <Language Description="Indonesia" LongDescription="Indonesia" Language="ENG"/>
+      <Language Description="Indonésie" LongDescription="Indonésie" Language="FRA"/>
+      <Language Description="Indonésia" LongDescription="Indonésia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IND">
+      <Language Description="India" LongDescription="India" Language="ENG"/>
+      <Language Description="Inde" LongDescription="Inde" Language="FRA"/>
+      <Language Description="Índia" LongDescription="Índia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IOA">
+      <Language Description="IOA" LongDescription="Independent Olympic Athlete" Language="ENG"/>
+      <Language Description="AOI" LongDescription="Athlète Olympique Indépendant" Language="FRA"/>
+      <Language Description="AOI" LongDescription="Atleta Olímpico Independente" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IOP">
+      <Language Description="IOP" LongDescription="Independent Olympic Participant" Language="ENG"/>
+      <Language Description="POI" LongDescription="Participant Olympique Indépendant" Language="FRA"/>
+      <Language Description="POI" LongDescription="Participante Olímpico Independente" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IRI">
+      <Language Description="Iran" LongDescription="Islamic Republic of Iran" Language="ENG"/>
+      <Language Description="Iran" LongDescription="République islamique d'Iran" Language="FRA"/>
+      <Language Description="Irã" LongDescription="República Islâmica do Irã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IRL">
+      <Language Description="Ireland" LongDescription="Ireland" Language="ENG"/>
+      <Language Description="Irlande" LongDescription="Irlande" Language="FRA"/>
+      <Language Description="Irlanda" LongDescription="Irlanda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IRQ">
+      <Language Description="Iraq" LongDescription="Iraq" Language="ENG"/>
+      <Language Description="Iraq" LongDescription="Iraq" Language="FRA"/>
+      <Language Description="Iraque" LongDescription="Iraque" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ISAF">
+      <Language Description="ISAF" LongDescription="International Sailing Federation" Language="ENG"/>
+      <Language Description="ISAF" LongDescription="Fédération Internationale de Voile" Language="FRA"/>
+      <Language Description="ISAF" LongDescription="Federação Internacional de Vela" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ISL">
+      <Language Description="Iceland" LongDescription="Iceland" Language="ENG"/>
+      <Language Description="Islande" LongDescription="Islande" Language="FRA"/>
+      <Language Description="Islândia" LongDescription="Islândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ISR">
+      <Language Description="Israel" LongDescription="Israel" Language="ENG"/>
+      <Language Description="Israël" LongDescription="Israël" Language="FRA"/>
+      <Language Description="Israel" LongDescription="Israel" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ISSF">
+      <Language Description="ISSF" LongDescription="International Shooting Sport Federation" Language="ENG"/>
+      <Language Description="ISSF" LongDescription="Fédération Internationale de Tir Sportif" Language="FRA"/>
+      <Language Description="ISSF" LongDescription="Federação Internacional de Tiro Esportivo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ISV">
+      <Language Description="Virgin Islands, US" LongDescription="Virgin Islands, US" Language="ENG"/>
+      <Language Description="Îles Vierges EU" LongDescription="Îles Vierges des États-Unis" Language="FRA"/>
+      <Language Description="Ilhas Virgens, EU" LongDescription="Ilhas Virgens Americanas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ITA">
+      <Language Description="Italy" LongDescription="Italy" Language="ENG"/>
+      <Language Description="Italie" LongDescription="Italie" Language="FRA"/>
+      <Language Description="Itália" LongDescription="Itália" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ITF">
+      <Language Description="ITF" LongDescription="International Tennis Federation" Language="ENG"/>
+      <Language Description="ITF" LongDescription="Fédération Internationale de Tennis" Language="FRA"/>
+      <Language Description="ITF" LongDescription="Federação Internacional de Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ITTF">
+      <Language Description="ITTF" LongDescription="International Table Tennis Federation" Language="ENG"/>
+      <Language Description="ITTF" LongDescription="Fédération Internationale de Tennis de Table" Language="FRA"/>
+      <Language Description="ITTF" LongDescription="Federação Internacional de Tênis de Mesa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="ITU">
+      <Language Description="ITU" LongDescription="International Triathlon Union" Language="ENG"/>
+      <Language Description="ITU" LongDescription="Fédération Internationale de Triathlon" Language="FRA"/>
+      <Language Description="ITU" LongDescription="Federação Internacional de Triatlo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="IVB">
+      <Language Description="Virgin Islands, GB" LongDescription="Virgin Islands, British" Language="ENG"/>
+      <Language Description="Îles Vierges RU" LongDescription="Îles Vierges britanniques" Language="FRA"/>
+      <Language Description="Ilhas V. Britânicas" LongDescription="Ilhas Virgens Britânicas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="IWF">
+      <Language Description="IWF" LongDescription="International Weightlifting Federation" Language="ENG"/>
+      <Language Description="IWF" LongDescription="Fédération Internationale d'Haltérophilie" Language="FRA"/>
+      <Language Description="IWF" LongDescription="Federação Internacional de Levantamento de Peso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="JAM">
+      <Language Description="Jamaica" LongDescription="Jamaica" Language="ENG"/>
+      <Language Description="Jamaïque" LongDescription="Jamaïque" Language="FRA"/>
+      <Language Description="Jamaica" LongDescription="Jamaica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="JOR">
+      <Language Description="Jordan" LongDescription="Jordan" Language="ENG"/>
+      <Language Description="Jordanie" LongDescription="Jordanie" Language="FRA"/>
+      <Language Description="Jordânia" LongDescription="Jordânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="JPN">
+      <Language Description="Japan" LongDescription="Japan" Language="ENG"/>
+      <Language Description="Japon" LongDescription="Japon" Language="FRA"/>
+      <Language Description="Japão" LongDescription="Japão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KAZ">
+      <Language Description="Kazakhstan" LongDescription="Kazakhstan" Language="ENG"/>
+      <Language Description="Kazakhstan" LongDescription="Kazakhstan" Language="FRA"/>
+      <Language Description="Cazaquistão" LongDescription="Cazaquistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KEN">
+      <Language Description="Kenya" LongDescription="Kenya" Language="ENG"/>
+      <Language Description="Kenya" LongDescription="Kenya" Language="FRA"/>
+      <Language Description="Quênia" LongDescription="Quênia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KGZ">
+      <Language Description="Kyrgyzstan" LongDescription="Kyrgyzstan" Language="ENG"/>
+      <Language Description="Kirghizistan" LongDescription="Kirghizistan" Language="FRA"/>
+      <Language Description="Quirguistão" LongDescription="Quirguistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KIR">
+      <Language Description="Kiribati" LongDescription="Kiribati" Language="ENG"/>
+      <Language Description="Kiribati" LongDescription="Kiribati" Language="FRA"/>
+      <Language Description="Kiribati" LongDescription="Kiribati" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KOR">
+      <Language Description="Republic of Korea" LongDescription="Republic of Korea" Language="ENG"/>
+      <Language Description="République de Corée" LongDescription="République de Corée" Language="FRA"/>
+      <Language Description="República da Coréia" LongDescription="República da Coréia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KOS">
+      <Language Description="Kosovo" LongDescription="Kosovo" Language="ENG"/>
+      <Language Description="Kosovo" LongDescription="Kosovo" Language="FRA"/>
+      <Language Description="Kosovo" LongDescription="Kosovo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KSA">
+      <Language Description="Saudi Arabia" LongDescription="Saudi Arabia" Language="ENG"/>
+      <Language Description="Arabie saoudite" LongDescription="Arabie saoudite" Language="FRA"/>
+      <Language Description="Arábia Saudita" LongDescription="Arábia Saudita" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="KUW">
+      <Language Description="Kuwait" LongDescription="Kuwait" Language="ENG"/>
+      <Language Description="Koweït" LongDescription="Koweït" Language="FRA"/>
+      <Language Description="Kuaite" LongDescription="Kuaite" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LAO">
+      <Language Description="Lao PDR" LongDescription="Lao People's Democratic Republic" Language="ENG"/>
+      <Language Description="RDP lao" LongDescription="République démocratique populaire lao" Language="FRA"/>
+      <Language Description="Laos" LongDescription="República Democrática Popular do Laos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LAT">
+      <Language Description="Latvia" LongDescription="Latvia" Language="ENG"/>
+      <Language Description="Lettonie" LongDescription="Lettonie" Language="FRA"/>
+      <Language Description="Letônia" LongDescription="Letônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LBA">
+      <Language Description="Libya" LongDescription="Libya" Language="ENG"/>
+      <Language Description="Libye" LongDescription="Libye" Language="FRA"/>
+      <Language Description="Líbia" LongDescription="Líbia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LBR">
+      <Language Description="Liberia" LongDescription="Liberia" Language="ENG"/>
+      <Language Description="Libéria" LongDescription="Libéria" Language="FRA"/>
+      <Language Description="Libéria" LongDescription="Libéria" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LCA">
+      <Language Description="Saint Lucia" LongDescription="Saint Lucia" Language="ENG"/>
+      <Language Description="Sainte-Lucie" LongDescription="Sainte-Lucie" Language="FRA"/>
+      <Language Description="Santa Lúcia" LongDescription="Santa Lúcia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LES">
+      <Language Description="Lesotho" LongDescription="Lesotho" Language="ENG"/>
+      <Language Description="Lesotho" LongDescription="Lesotho" Language="FRA"/>
+      <Language Description="Lesoto" LongDescription="Lesoto" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LIB">
+      <Language Description="Lebanon" LongDescription="Lebanon" Language="ENG"/>
+      <Language Description="Liban" LongDescription="Liban" Language="FRA"/>
+      <Language Description="Líbano" LongDescription="Líbano" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LIE">
+      <Language Description="Liechtenstein" LongDescription="Liechtenstein" Language="ENG"/>
+      <Language Description="Liechtenstein" LongDescription="Liechtenstein" Language="FRA"/>
+      <Language Description="Liechtenstein" LongDescription="Liechtenstein" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LTU">
+      <Language Description="Lithuania" LongDescription="Lithuania" Language="ENG"/>
+      <Language Description="Lituanie" LongDescription="Lituanie" Language="FRA"/>
+      <Language Description="Lituânia" LongDescription="Lituânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="LUX">
+      <Language Description="Luxembourg" LongDescription="Luxembourg" Language="ENG"/>
+      <Language Description="Luxembourg" LongDescription="Luxembourg" Language="FRA"/>
+      <Language Description="Luxemburgo" LongDescription="Luxemburgo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MAD">
+      <Language Description="Madagascar" LongDescription="Madagascar" Language="ENG"/>
+      <Language Description="Madagascar" LongDescription="Madagascar" Language="FRA"/>
+      <Language Description="Madagascar" LongDescription="Madagascar" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MAR">
+      <Language Description="Morocco" LongDescription="Morocco" Language="ENG"/>
+      <Language Description="Maroc" LongDescription="Maroc" Language="FRA"/>
+      <Language Description="Marrocos" LongDescription="Marrocos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MAS">
+      <Language Description="Malaysia" LongDescription="Malaysia" Language="ENG"/>
+      <Language Description="Malaisie" LongDescription="Malaisie" Language="FRA"/>
+      <Language Description="Malásia" LongDescription="Malásia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MAW">
+      <Language Description="Malawi" LongDescription="Malawi" Language="ENG"/>
+      <Language Description="Malawi" LongDescription="Malawi" Language="FRA"/>
+      <Language Description="Maláui" LongDescription="Maláui" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MDA">
+      <Language Description="Republic of Moldova" LongDescription="Republic of Moldova" Language="ENG"/>
+      <Language Description="Rép. de Moldova" LongDescription="République de Moldova" Language="FRA"/>
+      <Language Description="República da Moldova" LongDescription="República da Moldova" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MDV">
+      <Language Description="Maldives" LongDescription="Maldives" Language="ENG"/>
+      <Language Description="Maldives" LongDescription="Maldives" Language="FRA"/>
+      <Language Description="Maldivas" LongDescription="Maldivas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MEX">
+      <Language Description="Mexico" LongDescription="Mexico" Language="ENG"/>
+      <Language Description="Mexique" LongDescription="Mexique" Language="FRA"/>
+      <Language Description="México" LongDescription="México" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MGL">
+      <Language Description="Mongolia" LongDescription="Mongolia" Language="ENG"/>
+      <Language Description="Mongolie" LongDescription="Mongolie" Language="FRA"/>
+      <Language Description="Mongólia" LongDescription="Mongólia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MHL">
+      <Language Description="Marshall Islands" LongDescription="Marshall Islands" Language="ENG"/>
+      <Language Description="Îles Marshall" LongDescription="Îles Marshall" Language="FRA"/>
+      <Language Description="Ilhas Marshall" LongDescription="Ilhas Marshall" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MKD">
+      <Language Description="MKD" LongDescription="The Former Yugoslav Republic of Macedonia" Language="ENG"/>
+      <Language Description="MKD" LongDescription="Ex-République Yougoslave de Macédoine" Language="FRA"/>
+      <Language Description="Macedônia" LongDescription="Ex-República Iugoslava da Macedônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MLI">
+      <Language Description="Mali" LongDescription="Mali" Language="ENG"/>
+      <Language Description="Mali" LongDescription="Mali" Language="FRA"/>
+      <Language Description="Mali" LongDescription="Mali" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MLT">
+      <Language Description="Malta" LongDescription="Malta" Language="ENG"/>
+      <Language Description="Malte" LongDescription="Malte" Language="FRA"/>
+      <Language Description="Malta" LongDescription="Malta" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MNE">
+      <Language Description="Montenegro" LongDescription="Montenegro" Language="ENG"/>
+      <Language Description="Monténégro" LongDescription="Monténégro" Language="FRA"/>
+      <Language Description="Montenegro" LongDescription="Montenegro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MON">
+      <Language Description="Monaco" LongDescription="Monaco" Language="ENG"/>
+      <Language Description="Monaco" LongDescription="Monaco" Language="FRA"/>
+      <Language Description="Mônaco" LongDescription="Mônaco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MOZ">
+      <Language Description="Mozambique" LongDescription="Mozambique" Language="ENG"/>
+      <Language Description="Mozambique" LongDescription="Mozambique" Language="FRA"/>
+      <Language Description="Moçambique" LongDescription="Moçambique" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MRI">
+      <Language Description="Mauritius" LongDescription="Mauritius" Language="ENG"/>
+      <Language Description="Maurice" LongDescription="Maurice" Language="FRA"/>
+      <Language Description="Maurício" LongDescription="Maurício" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MTN">
+      <Language Description="Mauritania" LongDescription="Mauritania" Language="ENG"/>
+      <Language Description="Mauritanie" LongDescription="Mauritanie" Language="FRA"/>
+      <Language Description="Mauritânia" LongDescription="Mauritânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="MYA">
+      <Language Description="Myanmar" LongDescription="Myanmar" Language="ENG"/>
+      <Language Description="Myanmar" LongDescription="Myanmar" Language="FRA"/>
+      <Language Description="Myanmar" LongDescription="Myanmar" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NAM">
+      <Language Description="Namibia" LongDescription="Namibia" Language="ENG"/>
+      <Language Description="Namibie" LongDescription="Namibie" Language="FRA"/>
+      <Language Description="Namíbia" LongDescription="Namíbia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NCA">
+      <Language Description="Nicaragua" LongDescription="Nicaragua" Language="ENG"/>
+      <Language Description="Nicaragua" LongDescription="Nicaragua" Language="FRA"/>
+      <Language Description="Nicarágua" LongDescription="Nicarágua" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NED">
+      <Language Description="Netherlands" LongDescription="Netherlands" Language="ENG"/>
+      <Language Description="Pays-Bas" LongDescription="Pays-Bas" Language="FRA"/>
+      <Language Description="Países Baixos" LongDescription="Países Baixos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NEP">
+      <Language Description="Nepal" LongDescription="Nepal" Language="ENG"/>
+      <Language Description="Népal" LongDescription="Népal" Language="FRA"/>
+      <Language Description="Nepal" LongDescription="Nepal" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NGR">
+      <Language Description="Nigeria" LongDescription="Nigeria" Language="ENG"/>
+      <Language Description="Nigéria" LongDescription="Nigéria" Language="FRA"/>
+      <Language Description="Nigéria" LongDescription="Nigéria" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NIG">
+      <Language Description="Niger" LongDescription="Niger" Language="ENG"/>
+      <Language Description="Niger" LongDescription="Niger" Language="FRA"/>
+      <Language Description="Níger" LongDescription="Níger" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NOR">
+      <Language Description="Norway" LongDescription="Norway" Language="ENG"/>
+      <Language Description="Norvège" LongDescription="Norvège" Language="FRA"/>
+      <Language Description="Noruega" LongDescription="Noruega" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NRU">
+      <Language Description="Nauru" LongDescription="Nauru" Language="ENG"/>
+      <Language Description="Nauru" LongDescription="Nauru" Language="FRA"/>
+      <Language Description="Nauru" LongDescription="Nauru" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="NZL">
+      <Language Description="New Zealand" LongDescription="New Zealand" Language="ENG"/>
+      <Language Description="Nouvelle-Zélande" LongDescription="Nouvelle-Zélande" Language="FRA"/>
+      <Language Description="Nova Zelândia" LongDescription="Nova Zelândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="OMA">
+      <Language Description="Oman" LongDescription="Oman" Language="ENG"/>
+      <Language Description="Oman" LongDescription="Oman" Language="FRA"/>
+      <Language Description="Omã" LongDescription="Omã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PAK">
+      <Language Description="Pakistan" LongDescription="Pakistan" Language="ENG"/>
+      <Language Description="Pakistan" LongDescription="Pakistan" Language="FRA"/>
+      <Language Description="Paquistão" LongDescription="Paquistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PAN">
+      <Language Description="Panama" LongDescription="Panama" Language="ENG"/>
+      <Language Description="Panama" LongDescription="Panama" Language="FRA"/>
+      <Language Description="Panamá" LongDescription="Panamá" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PAR">
+      <Language Description="Paraguay" LongDescription="Paraguay" Language="ENG"/>
+      <Language Description="Paraguay" LongDescription="Paraguay" Language="FRA"/>
+      <Language Description="Paraguai" LongDescription="Paraguai" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PER">
+      <Language Description="Peru" LongDescription="Peru" Language="ENG"/>
+      <Language Description="Pérou" LongDescription="Pérou" Language="FRA"/>
+      <Language Description="Peru" LongDescription="Peru" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PHI">
+      <Language Description="Philippines" LongDescription="Philippines" Language="ENG"/>
+      <Language Description="Philippines" LongDescription="Philippines" Language="FRA"/>
+      <Language Description="Filipinas" LongDescription="Filipinas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PLE">
+      <Language Description="Palestine" LongDescription="Palestine" Language="ENG"/>
+      <Language Description="Palestine" LongDescription="Palestine" Language="FRA"/>
+      <Language Description="Palestina" LongDescription="Palestina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PLW">
+      <Language Description="Palau" LongDescription="Palau" Language="ENG"/>
+      <Language Description="Palaos" LongDescription="Palaos" Language="FRA"/>
+      <Language Description="Palau" LongDescription="Palau" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PNG">
+      <Language Description="Papua New Guinea" LongDescription="Papua New Guinea" Language="ENG"/>
+      <Language Description="Papouasie-N.-Guinée" LongDescription="Papouasie-Nouvelle-Guinée" Language="FRA"/>
+      <Language Description="Papua Nova Guiné" LongDescription="Papua Nova Guiné" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="POL">
+      <Language Description="Poland" LongDescription="Poland" Language="ENG"/>
+      <Language Description="Pologne" LongDescription="Pologne" Language="FRA"/>
+      <Language Description="Polônia" LongDescription="Polônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="POR">
+      <Language Description="Portugal" LongDescription="Portugal" Language="ENG"/>
+      <Language Description="Portugal" LongDescription="Portugal" Language="FRA"/>
+      <Language Description="Portugal" LongDescription="Portugal" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PRK">
+      <Language Description="DPR Korea" LongDescription="Democratic People's Republic of Korea" Language="ENG"/>
+      <Language Description="RPD de Corée" LongDescription="République populaire démocratique de Corée" Language="FRA"/>
+      <Language Description="RPD da Coréia" LongDescription="República Popular Democrática da Coréia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="PUR">
+      <Language Description="Puerto Rico" LongDescription="Puerto Rico" Language="ENG"/>
+      <Language Description="Porto Rico" LongDescription="Porto Rico" Language="FRA"/>
+      <Language Description="Porto Rico" LongDescription="Porto Rico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="QAT">
+      <Language Description="Qatar" LongDescription="Qatar" Language="ENG"/>
+      <Language Description="Qatar" LongDescription="Qatar" Language="FRA"/>
+      <Language Description="Catar" LongDescription="Catar" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ROU">
+      <Language Description="Romania" LongDescription="Romania" Language="ENG"/>
+      <Language Description="Roumanie" LongDescription="Roumanie" Language="FRA"/>
+      <Language Description="Romênia" LongDescription="Romênia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="RSA">
+      <Language Description="South Africa" LongDescription="South Africa" Language="ENG"/>
+      <Language Description="Afrique du Sud" LongDescription="Afrique du Sud" Language="FRA"/>
+      <Language Description="África do Sul" LongDescription="África do Sul" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="RUS">
+      <Language Description="Russian Federation" LongDescription="Russian Federation" Language="ENG"/>
+      <Language Description="Fédération de Russie" LongDescription="Fédération de Russie" Language="FRA"/>
+      <Language Description="Federação da Rússia" LongDescription="Federação da Rússia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="RWA">
+      <Language Description="Rwanda" LongDescription="Rwanda" Language="ENG"/>
+      <Language Description="Rwanda" LongDescription="Rwanda" Language="FRA"/>
+      <Language Description="Ruanda" LongDescription="Ruanda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SAM">
+      <Language Description="Samoa" LongDescription="Samoa" Language="ENG"/>
+      <Language Description="Samoa" LongDescription="Samoa" Language="FRA"/>
+      <Language Description="Samoa" LongDescription="Samoa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SCG">
+      <Language Description="Serbia &amp; Montenegro" LongDescription="Serbia and Montenegro" Language="ENG"/>
+      <Language Description="Serbie-et-Monténégro" LongDescription="Serbie-et-Monténégro" Language="FRA"/>
+      <Language Description="Sérvia e Montenegro" LongDescription="Estado da Sérvia e Montenegro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SEN">
+      <Language Description="Senegal" LongDescription="Senegal" Language="ENG"/>
+      <Language Description="Sénégal" LongDescription="Sénégal" Language="FRA"/>
+      <Language Description="Senegal" LongDescription="Senegal" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SEY">
+      <Language Description="Seychelles" LongDescription="Seychelles" Language="ENG"/>
+      <Language Description="Seychelles" LongDescription="Seychelles" Language="FRA"/>
+      <Language Description="Seicheles" LongDescription="Seicheles" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SIN">
+      <Language Description="Singapore" LongDescription="Singapore" Language="ENG"/>
+      <Language Description="Singapour" LongDescription="Singapour" Language="FRA"/>
+      <Language Description="Cingapura" LongDescription="Cingapura" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SKN">
+      <Language Description="Saint Kitts &amp; Nevis" LongDescription="Saint Kitts and Nevis" Language="ENG"/>
+      <Language Description="Saint-Kitts-et-Nevis" LongDescription="Saint-Kitts-et-Nevis" Language="FRA"/>
+      <Language Description="São Cristóvão-Névis" LongDescription="São Cristóvão e Névis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SLE">
+      <Language Description="Sierra Leone" LongDescription="Sierra Leone" Language="ENG"/>
+      <Language Description="Sierra Leone" LongDescription="Sierra Leone" Language="FRA"/>
+      <Language Description="Serra Leoa" LongDescription="Serra Leoa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SLO">
+      <Language Description="Slovenia" LongDescription="Slovenia" Language="ENG"/>
+      <Language Description="Slovénie" LongDescription="Slovénie" Language="FRA"/>
+      <Language Description="Eslovênia" LongDescription="Eslovênia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SMR">
+      <Language Description="San Marino" LongDescription="San Marino" Language="ENG"/>
+      <Language Description="Saint-Marin" LongDescription="Saint-Marin" Language="FRA"/>
+      <Language Description="San Marino" LongDescription="San Marino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SOL">
+      <Language Description="Solomon Islands" LongDescription="Solomon Islands" Language="ENG"/>
+      <Language Description="Îles Salomon" LongDescription="Îles Salomon" Language="FRA"/>
+      <Language Description="Ilhas Salomão" LongDescription="Ilhas Salomão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SOM">
+      <Language Description="Somalia" LongDescription="Somalia" Language="ENG"/>
+      <Language Description="Somalie" LongDescription="Somalie" Language="FRA"/>
+      <Language Description="Somália" LongDescription="Somália" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SRB">
+      <Language Description="Serbia" LongDescription="Serbia" Language="ENG"/>
+      <Language Description="Serbie" LongDescription="Serbie" Language="FRA"/>
+      <Language Description="Sérvia" LongDescription="Sérvia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SRI">
+      <Language Description="Sri Lanka" LongDescription="Sri Lanka" Language="ENG"/>
+      <Language Description="Sri Lanka" LongDescription="Sri Lanka" Language="FRA"/>
+      <Language Description="Sri Lanka" LongDescription="Sri Lanka" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SSD">
+      <Language Description="South Sudan" LongDescription="South Sudan" Language="ENG"/>
+      <Language Description="Soudan du Sud" LongDescription="Soudan du Sud" Language="FRA"/>
+      <Language Description="Sudão do Sul" LongDescription="Sudão do Sul" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="STP">
+      <Language Description="Sao Tome &amp; Principe" LongDescription="Sao Tome and Principe" Language="ENG"/>
+      <Language Description="Sao Tomé-et-Principe" LongDescription="Sao Tomé-et-Principe" Language="FRA"/>
+      <Language Description="São Tomé e Príncipe" LongDescription="São Tomé e Príncipe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SUD">
+      <Language Description="Sudan" LongDescription="Sudan" Language="ENG"/>
+      <Language Description="Soudan" LongDescription="Soudan" Language="FRA"/>
+      <Language Description="Sudão" LongDescription="Sudão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SUI">
+      <Language Description="Switzerland" LongDescription="Switzerland" Language="ENG"/>
+      <Language Description="Suisse" LongDescription="Suisse" Language="FRA"/>
+      <Language Description="Suíça" LongDescription="Suíça" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SUR">
+      <Language Description="Suriname" LongDescription="Suriname" Language="ENG"/>
+      <Language Description="Suriname" LongDescription="Suriname" Language="FRA"/>
+      <Language Description="Suriname" LongDescription="Suriname" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SVK">
+      <Language Description="Slovakia" LongDescription="Slovakia" Language="ENG"/>
+      <Language Description="Slovaquie" LongDescription="Slovaquie" Language="FRA"/>
+      <Language Description="Eslováquia" LongDescription="Eslováquia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SWE">
+      <Language Description="Sweden" LongDescription="Sweden" Language="ENG"/>
+      <Language Description="Suède" LongDescription="Suède" Language="FRA"/>
+      <Language Description="Suécia" LongDescription="Suécia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SWZ">
+      <Language Description="Swaziland" LongDescription="Swaziland" Language="ENG"/>
+      <Language Description="Swaziland" LongDescription="Swaziland" Language="FRA"/>
+      <Language Description="Suazilândia" LongDescription="Suazilândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="SYR">
+      <Language Description="Syria" LongDescription="Syrian Arab Republic" Language="ENG"/>
+      <Language Description="Syrie" LongDescription="République arabe syrienne" Language="FRA"/>
+      <Language Description="Síria" LongDescription="República Árabe da Síria" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TAH">
+      <Language Description="Tahiti" LongDescription="Tahiti" Language="ENG"/>
+      <Language Description="Tahiti" LongDescription="Tahiti" Language="FRA"/>
+      <Language Description="Taiti" LongDescription="Taiti" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TAN">
+      <Language Description="Tanzania" LongDescription="United Republic of Tanzania" Language="ENG"/>
+      <Language Description="Tanzanie" LongDescription="République unie de Tanzanie" Language="FRA"/>
+      <Language Description="Tanzânia" LongDescription="República Unida da Tanzânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TCH">
+      <Language Description="Czechoslovakia" LongDescription="Czechoslovakia" Language="ENG"/>
+      <Language Description="Tchécoslovaquie" LongDescription="Tchécoslovaquie" Language="FRA"/>
+      <Language Description="Tchecoslováquia" LongDescription="Tchecoslováquia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TGA">
+      <Language Description="Tonga" LongDescription="Tonga" Language="ENG"/>
+      <Language Description="Tonga" LongDescription="Tonga" Language="FRA"/>
+      <Language Description="Tonga" LongDescription="Tonga" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="THA">
+      <Language Description="Thailand" LongDescription="Thailand" Language="ENG"/>
+      <Language Description="Thaïlande" LongDescription="Thaïlande" Language="FRA"/>
+      <Language Description="Tailândia" LongDescription="Tailândia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TJK">
+      <Language Description="Tajikistan" LongDescription="Tajikistan" Language="ENG"/>
+      <Language Description="Tadjikistan" LongDescription="Tadjikistan" Language="FRA"/>
+      <Language Description="Tadjiquistão" LongDescription="Tadjiquistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TKM">
+      <Language Description="Turkmenistan" LongDescription="Turkmenistan" Language="ENG"/>
+      <Language Description="Turkménistan" LongDescription="Turkménistan" Language="FRA"/>
+      <Language Description="Turcomenistão" LongDescription="Turcomenistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TLS">
+      <Language Description="Timor-Leste" LongDescription="Democratic Republic of Timor-Leste" Language="ENG"/>
+      <Language Description="Timor-Leste" LongDescription="République démocratique du Timor-Leste" Language="FRA"/>
+      <Language Description="Timor-Leste" LongDescription="República Democrática de Timor-Leste" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TOG">
+      <Language Description="Togo" LongDescription="Togo" Language="ENG"/>
+      <Language Description="Togo" LongDescription="Togo" Language="FRA"/>
+      <Language Description="Togo" LongDescription="Togo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TPE">
+      <Language Description="Chinese Taipei" LongDescription="Chinese Taipei" Language="ENG"/>
+      <Language Description="Chinese Taipei" LongDescription="Chinese Taipei" Language="FRA"/>
+      <Language Description="Taipé Chinesa" LongDescription="Taipé Chinesa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TTO">
+      <Language Description="Trinidad and Tobago" LongDescription="Trinidad and Tobago" Language="ENG"/>
+      <Language Description="Trinité-et-Tobago" LongDescription="Trinité-et-Tobago" Language="FRA"/>
+      <Language Description="Trinidad e Tobago" LongDescription="Trinidad e Tobago" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TUN">
+      <Language Description="Tunisia" LongDescription="Tunisia" Language="ENG"/>
+      <Language Description="Tunisie" LongDescription="Tunisie" Language="FRA"/>
+      <Language Description="Tunísia" LongDescription="Tunísia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TUR">
+      <Language Description="Turkey" LongDescription="Turkey" Language="ENG"/>
+      <Language Description="Turquie" LongDescription="Turquie" Language="FRA"/>
+      <Language Description="Turquia" LongDescription="Turquia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="TUV">
+      <Language Description="Tuvalu" LongDescription="Tuvalu" Language="ENG"/>
+      <Language Description="Tuvalu" LongDescription="Tuvalu" Language="FRA"/>
+      <Language Description="Tuvalu" LongDescription="Tuvalu" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="UAE">
+      <Language Description="United Arab Emirates" LongDescription="United Arab Emirates" Language="ENG"/>
+      <Language Description="Émirats arabes unis" LongDescription="Émirats arabes unis" Language="FRA"/>
+      <Language Description="Emirados Árab Unidos" LongDescription="Emirados Árabes Unidos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="UCI">
+      <Language Description="UCI" LongDescription="International Cycling Union" Language="ENG"/>
+      <Language Description="UCI" LongDescription="Union Cycliste Internationale" Language="FRA"/>
+      <Language Description="UCI" LongDescription="Federação Internacional de Ciclismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="UGA">
+      <Language Description="Uganda" LongDescription="Uganda" Language="ENG"/>
+      <Language Description="Ouganda" LongDescription="Ouganda" Language="FRA"/>
+      <Language Description="Uganda" LongDescription="Uganda" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="UIPM">
+      <Language Description="UIPM" LongDescription="International Modern Pentathlon Union" Language="ENG"/>
+      <Language Description="UIPM" LongDescription="International Modern Pentathlon Union" Language="FRA"/>
+      <Language Description="UIPM" LongDescription="International Modern Pentathlon Union" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="UKR">
+      <Language Description="Ukraine" LongDescription="Ukraine" Language="ENG"/>
+      <Language Description="Ukraine" LongDescription="Ukraine" Language="FRA"/>
+      <Language Description="Ucrânia" LongDescription="Ucrânia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="URS">
+      <Language Description="USSR" LongDescription="USSR" Language="ENG"/>
+      <Language Description="U.R.S.S." LongDescription="U.R.S.S." Language="FRA"/>
+      <Language Description="U.R.S.S." LongDescription="União das Repúblicas Socialistas Soviéticas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="URU">
+      <Language Description="Uruguay" LongDescription="Uruguay" Language="ENG"/>
+      <Language Description="Uruguay" LongDescription="Uruguay" Language="FRA"/>
+      <Language Description="Uruguai" LongDescription="Uruguai" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="USA">
+      <Language Description="United States" LongDescription="United States of America" Language="ENG"/>
+      <Language Description="États-Unis" LongDescription="États-Unis d'Amérique" Language="FRA"/>
+      <Language Description="Estados Unidos" LongDescription="Estados Unidos da América" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="UWW">
+      <Language Description="UWW" LongDescription="United World Wrestling" Language="ENG"/>
+      <Language Description="UWW" LongDescription="Fédération Mondiale de Lutte" Language="FRA"/>
+      <Language Description="UWW" LongDescription="Federação Internacional de Lutas Associadas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="UZB">
+      <Language Description="Uzbekistan" LongDescription="Uzbekistan" Language="ENG"/>
+      <Language Description="Ouzbékistan" LongDescription="Ouzbékistan" Language="FRA"/>
+      <Language Description="Uzbequistão" LongDescription="Uzbequistão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="VAN">
+      <Language Description="Vanuatu" LongDescription="Vanuatu" Language="ENG"/>
+      <Language Description="Vanuatu" LongDescription="Vanuatu" Language="FRA"/>
+      <Language Description="Vanuatu" LongDescription="Vanuatu" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="VEN">
+      <Language Description="Venezuela" LongDescription="Venezuela" Language="ENG"/>
+      <Language Description="Venezuela" LongDescription="Venezuela" Language="FRA"/>
+      <Language Description="Venezuela" LongDescription="Venezuela" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="VIE">
+      <Language Description="Vietnam" LongDescription="Vietnam" Language="ENG"/>
+      <Language Description="Vietnam" LongDescription="Vietnam" Language="FRA"/>
+      <Language Description="Vietnã" LongDescription="Vietnã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="VIN">
+      <Language Description="St Vinc &amp; Grenadines" LongDescription="St Vincent and the Grenadines" Language="ENG"/>
+      <Language Description="St Vinc &amp; Grenadines" LongDescription="Saint-Vincent-et-les-Grenadines" Language="FRA"/>
+      <Language Description="São Vicente e Granad" LongDescription="São Vicente e Granadinas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="WA">
+      <Language Description="WA" LongDescription="World Archery" Language="ENG"/>
+      <Language Description="WA" LongDescription="Fédération Internationale de Tir à l'arc" Language="FRA"/>
+      <Language Description="WA" LongDescription="Federação Internacional de Tiro com Arco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="WR">
+      <Language Description="WR" LongDescription="World Rugby" Language="ENG"/>
+      <Language Description="WR" LongDescription="Fédération Internationale de Rugby" Language="FRA"/>
+      <Language Description="WR" LongDescription="Federação Internacional de Rugby" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="IF" Code="WTF">
+      <Language Description="WTF" LongDescription="World Taekwondo Federation" Language="ENG"/>
+      <Language Description="WTF" LongDescription="Fédération Mondiale de Taekwondo" Language="FRA"/>
+      <Language Description="WTF" LongDescription="Federação Internacional de Taekwondo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="YEM">
+      <Language Description="Yemen" LongDescription="Yemen" Language="ENG"/>
+      <Language Description="Yémen" LongDescription="Yémen" Language="FRA"/>
+      <Language Description="Iêmen" LongDescription="Iêmen" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="YUG">
+      <Language Description="Yugoslavia" LongDescription="The Federal Republic of Yugoslavia" Language="ENG"/>
+      <Language Description="Yougoslavie" LongDescription="Yougoslavie" Language="FRA"/>
+      <Language Description="Iugoslávia" LongDescription="República Socialista Federativa da Iugoslávia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ZAM">
+      <Language Description="Zambia" LongDescription="Zambia" Language="ENG"/>
+      <Language Description="Zambie" LongDescription="Zambie" Language="FRA"/>
+      <Language Description="Zâmbia" LongDescription="Zâmbia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Type="OC" Code="ZIM">
+      <Language Description="Zimbabwe" LongDescription="Zimbabwe" Language="ENG"/>
+      <Language Description="Zimbabwe" LongDescription="Zimbabwe" Language="FRA"/>
+      <Language Description="Zimbábue" LongDescription="Zimbábue" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

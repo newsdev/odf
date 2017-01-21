@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="47" Time="061252353" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="50" DocumentSubtype="HORSE_COLOUR">
+  <Competition Code="OG2016">
+    <CodeSet Code="AP">
+      <Language Description="Appaloosa" Language="ENG"/>
+      <Language Description="Appalouse" Language="FRA"/>
+      <Language Description="Appaloosa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BA">
+      <Language Description="Bay" Language="ENG"/>
+      <Language Description="Bai" Language="FRA"/>
+      <Language Description="Castanho" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BL">
+      <Language Description="Black" Language="ENG"/>
+      <Language Description="Noir" Language="FRA"/>
+      <Language Description="Negro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CH">
+      <Language Description="Chestnut" Language="ENG"/>
+      <Language Description="Alezan" Language="FRA"/>
+      <Language Description="Alazão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CR">
+      <Language Description="Cream" Language="ENG"/>
+      <Language Description="Crème" Language="FRA"/>
+      <Language Description="Creme" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DB">
+      <Language Description="Dark Bay" Language="ENG"/>
+      <Language Description="Bai foncé" Language="FRA"/>
+      <Language Description="Castanho Oscuro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DC">
+      <Language Description="Dark Chestnut" Language="ENG"/>
+      <Language Description="Alezan brûlé" Language="FRA"/>
+      <Language Description="Alazão Tostado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DG">
+      <Language Description="Dark Grey" Language="ENG"/>
+      <Language Description="Gris foncé" Language="FRA"/>
+      <Language Description="Cinza Escuro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DU">
+      <Language Description="Dun" Language="ENG"/>
+      <Language Description="Isabelle" Language="FRA"/>
+      <Language Description="Baio" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="GR">
+      <Language Description="Grey" Language="ENG"/>
+      <Language Description="Gris" Language="FRA"/>
+      <Language Description="Cinza" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="LB">
+      <Language Description="Light Bay" Language="ENG"/>
+      <Language Description="Bai clair" Language="FRA"/>
+      <Language Description="Castanho Claro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="LC">
+      <Language Description="Light Chestnut" Language="ENG"/>
+      <Language Description="Alezan clair" Language="FRA"/>
+      <Language Description="Alazão dourado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="NL">
+      <Language Description="Not listed" Language="ENG"/>
+      <Language Description="Non inclus dans la liste" Language="FRA"/>
+      <Language Description="Não listado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PA">
+      <Language Description="Palomino" Language="ENG"/>
+      <Language Description="Palomino" Language="FRA"/>
+      <Language Description="Palomino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PB">
+      <Language Description="Piebald/Skewbald" Language="ENG"/>
+      <Language Description="Pie noir/pie alezan" Language="FRA"/>
+      <Language Description="Pio / mulato" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RO">
+      <Language Description="Roan" Language="ENG"/>
+      <Language Description="Rouan" Language="FRA"/>
+      <Language Description="Ruano" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ST">
+      <Language Description="Strawberry" Language="ENG"/>
+      <Language Description="Aubère" Language="FRA"/>
+      <Language Description="Overo" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

@@ -1,0 +1,37 @@
+Id,ENG Description,FRA Description,KOR Description
+clr,Clear sky,Ciel clair,맑은 하늘
+drz,Drizzle,Bruine,이슬비
+dust,Dust,Poussière,먼지
+fewcld,Few clouds,Peu nuageux,구름 조금
+fog,Fog,Brouillard,안개
+hail,Hail,Grêle,우박
+haze,Haze,Brume légère,안개 
+hlshrd,Hail shower,Averses de grêle,우박 소나기
+hlshrn,Hail shower,Averses de grêle,우박 소나기
+hrain,Heavy rain,Pluie forte,폭우
+hrshrd,Heavy rain shower,Averses,많은 양의 폭우
+hrshrn,Heavy rain shower,Averses,많은 양의 폭우
+hsnow,Heavy snow,Neige forte,폭설
+hsshrd,Heavy snow shower,Averses de neige forte,많은 양의 폭설
+hsshrn,Heavy snow shower,Averses de neige forte,많은 양의 폭설
+lowcld,Low-level cloud,Couvert - nuages bas,하층 구름
+lrain,Light rain,Pluie faible,약한 비
+lrshrd,Light rain shower,Rares averses,적은 양의 소나기
+lrshrn,Light rain shower,Rares averses,적은 양의 소나기 
+lsnow,Light snow,Neige fine,약한 눈
+lsshrd,Light snow shower,Rares averses de neige,적은 양의 소낙눈
+lsshrn,Light snow shower,Rares averses de neige,적은 양의 소낙눈
+medcld,Medium-level cloud,Nuages à moyenne altitude,중층구름
+mist,Mist,Brume,엷은 안개
+nocond,No condition,No condition,기상조건 없음
+ovc,Overcast,Ciel couvert,흐림
+prtcld,Partly cloudy,Soleil voilé,부분 흐림
+slshrd,Sleet shower,Averses de grésil,소나기성 진눈깨비 
+slshrn,Sleet shower,Averses de grésil,소나기성 진눈깨비 
+slt,Sleet,Grésil,진눈깨비
+sun,Sunny,Soleil,화창한 날씨
+sunint,Sunny intervals,Intervalles ensoleillés,간간이 화창한 날씨
+thshrd,Thundery shower,Averses orageuses ,천둥을 동반한 소나기
+thshrn,Thundery shower,Averses orageuses ,천둥을 동반한 소나기
+thstrm,Thunder storm,Orages,뇌우
+trpstm,Tropical storm,Orages tropicaux,열대 폭풍우

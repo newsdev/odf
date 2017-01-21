@@ -1,0 +1,18 @@
+Id,ENG Description,FRA Description,KOR Description
+cmp,Compact,Compacte,촘촘한 눈
+f-g,Fine grained,En petites granules,가루눈
+grn,Granular,Granuleuse,싸락눈
+hrd,Hard,Dure,딱딱한 눈
+hrd-p,Hard packed,Fermenet damée,단단하게 굳음
+hrd-p-v,Hard packed variable,Damée variable,단단하게 굳은 변수
+icy,Icy,Glissante,얼음에 뒤덮임
+p,Packed,Damée,단단히 다져짐
+ppwd,Packed powder,Poudreuse damée,단단한 파우더
+pwd,Powder,Poudreuse,파우더
+sft,Soft,Molle,소프트
+sp-c,Spring conditions,Conditions printanières,스프링 컨디션스
+wt,Wet,Mouillée,젖은 눈
+wt-pwd,Wet & powder,Mouillée et poudreuse,진눈깨비
+nor,Normal,Normale,보통 
+bet,Better,Meilleure,나음 
+bad,Bad,Mauvaise,나쁨 

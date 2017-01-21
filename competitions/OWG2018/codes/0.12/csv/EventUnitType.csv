@@ -1,0 +1,10 @@
+Id,ENG Description,FRA Description,KOR Description
+ATH,Individuals,Individuel,개인
+COUP,Couples,Couples,혼성
+HATH,Individuals Head to Head,Face à face individuel,개인별
+HCOUP,Couples Head to Head,Face à face couples,혼성별
+HNOC,NOC Head to Head,Face à face CNO,NOC별
+HTEAM,Teams Head to Head,Face à face par équipes,팀별
+NOC,NOC,CNO,NOC
+NONE,Not Applicable,Sans objet,적용 안됨
+TEAM,Teams,Équipes,팀

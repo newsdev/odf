@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<head>
+  <script type="text/javascript" src="http://int.nyt.com.s3.amazonaws.com/cdn/adcom-nyt/adcom-static.js"></script>
+  <style>
+    div.sports {
+      margin: 10px 0;
+      display: block;
+    }
+    a.label {
+      display: inline-block;
+      margin: 0 5px 5px 0;
+      padding-top: 4px;
+      float: left;
+    }
+    /*a.label:hover {
+      opacity: 0.8;
+    }*/
+    h4 {
+      color: #bbb;
+    }
+    h6 {
+      color: #bbb;
+    }
+    tabel a.label {
+      width: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ORIS</h1>
+
+    <h3>Sports</h3>
+    <div class="clearfix">
+      <a class="btn btn-xs btn-default" id="all">All</a>
+      <a class="btn btn-xs btn-default" id="none">None</a>
+      <br /><br />
+    </div>
+
+    <div id="sports" class="clearfix">
+      <a data-field="name" class="label label-primary"></a>
+    </div>
+
+    <table class="table table-condensed">
+      <tbody id="list"></tbody>
+    </table>
+  </div>
+
+  <script type="text/template" id="template">
+    <tr>
+      <% if (category) { %>
+        <td colspan="3">
+          <h4><%= category %></h4>
+        </td>
+      <% } else { %>
+        <td style="width: 15em;">
+          <h5><%= names[0] %></h5>
+        </td>
+        <td>
+          <h6><%= type %></h6>
+        </td>
+        <td>
+          <div class="sports clearfix">
+            <% sports.forEach(function(doc) { %>
+              <a target="_blank" href="<%= doc.pdf %>#page=<%= doc.start %>" class="label label-default" title="<%= doc.sport_name %>"><%= doc.sport_name %></a>
+            <% }) %>
+          </div>
+          <% if (names.length > 1) { %>
+            <h5><small><%= names.slice(1).join(' / ') %></small></h5>
+          <% } %>
+        </td>
+      <% } %>
+    </tr>
+  </script>
+  <script type="text/javascript">
+
+  function render(codes) {
+    var data = {}, items = [];
+    codes = codes || Object.keys(sport_names);
+
+    Object.keys(sports).forEach(function(sport_code) {
+      if (codes.indexOf(sport_code) < 0) return;
+      sports[sport_code].docs.forEach(function(doc) {
+        doc.sport_name = sport_names[sport_code];
+        doc.sport = sport_code;
+        doc.pdf = sports[sport_code].pdf
+        var big_type = doc.code.substring(0, 3);
+        data[big_type] = data[big_type] || {type: big_type, main: {}, sub_types: {}};
+
+        if (doc.code === big_type) {
+          data[big_type].main[doc.name] = data[big_type].main[doc.name] || [];
+          data[big_type].main[doc.name].push(doc);
+
+        } else {
+          data[big_type].sub_types[doc.code] = data[big_type].sub_types[doc.code] || {};
+          data[big_type].sub_types[doc.code][doc.name] = data[big_type].sub_types[doc.code][doc.name] || [];
+          data[big_type].sub_types[doc.code][doc.name].push(doc);
+        }
+      });
+    });
+
+    var observed_categories = [];
+    Object.keys(data).sort().forEach(function(type) {
+      data[type].category = null;
+      var category = categories[type.substring(0, 2)];
+      if (category && observed_categories.indexOf(type.substring(0, 2)) < 0) {
+        items.push({category: category});
+        observed_categories.push(type.substring(0, 2));
+      }
+      data[type].sports = [];
+
+      var docs = [];
+      var names = [];
+      Object.keys(data[type].main).sort().forEach(function(key) {
+        names.push(key);
+        docs.push(data[type].main[key]);
+      });
+      Object.keys(data[type].sub_types).sort().forEach(function(key) {
+        Object.keys(data[type].sub_types[key]).forEach(function(key2) {
+          docs.push(data[type].sub_types[key][key2]);
+        });
+      });
+      _.flatten(docs).forEach(function(doc) {
+        if (_.pluck(data[type].sports, 'sport').indexOf(doc.sport) < 0) {
+          names.push(doc.name);
+          data[type].sports.push(doc);
+        }
+      });
+
+      data[type].names = _.first(_.unique(names), 10);
+      data[type].sports = _.sortBy(data[type].sports, function(doc) {return doc.sport});
+
+      items.push(data[type]);
+    })
+
+    $('#list').on('shown.ac.list', function() {
+      // $('[title]').tooltip();
+    }).list({
+      items: items,
+      template: _.template(document.getElementById('template').innerHTML)
+    });
+  }
+
+    $.ajax({
+      url: 'metadata.json'
+    }).then(function(sports) {
+      window.sports = sports;
+      render();
+    });
+
+    var categories = {
+      C0: 'Schedule',
+      C2: 'Historic Results',
+      C3: 'Competitors',
+      C4: 'Pre-competition seeding',
+      C5: 'Day-of-competition seeding, lineups',
+      C6: 'Score sheets',
+      C7: 'Results',
+      C8: 'Post-event summary',
+      C9: 'Official results',
+      N0: 'Competition Format',
+      N1: 'Historic Results',
+      N2: 'Officials',
+      N5: 'Lineups',
+      N8: 'Highlights',
+      N9: 'Post-competition events'
+    }
+
+    var sport_names = {
+      "AR":"Archery",
+      "AT":"Athletics",
+      "BD":"Badminton",
+      "BK":"Basketball",
+      "BV":"Beach Volleyball",
+      "BX":"Boxing",
+      "CB":"Cycling BMX",
+      "CF":"Canoe Sprint",
+      "CM":"Cycling Mountain Bike",
+      "CR":"Cycling Road",
+      "CS":"Canoe Slalom",
+      "CT":"Cycling Track",
+      "DV":"Diving",
+      "EQ":"Equestrian",
+      "FB":"Football",
+      "FE":"Fencing",
+      "GA":"Artistic Gymnastics",
+      "GO":"Golf",
+      "GR":"Rhythmic Gymnastics",
+      "GT":"Trampoline Gymnastics",
+      "HB":"Handball",
+      "HO":"Hockey",
+      "JU":"Judo",
+      "MP":"Modern Pentathlon",
+      "OW":"Marathon Swimming",
+      "RO":"Rowing",
+      "RU":"Rugby Sevens",
+      "SA":"Sailing",
+      "SH":"Shooting",
+      "SW":"Swimming",
+      "SY":"Synchronised Swimming",
+      "TE":"Tennis",
+      "TK":"Taekwondo",
+      "TR":"Triathlon",
+      "TT":"Table Tennis",
+      "VO":"Volleyball",
+      "WL":"Weightlifting",
+      "WP":"Water Polo",
+      "WR":"Wrestling"
+    };
+
+    $('#sports').list({
+      items: _.sortBy(_.map(_.keys(sport_names), function(key) { return {id: key, name: sport_names[key]} }), function(d) {return d.name})
+    }).on('click', 'a.label', function(e) {
+      $(e.target).toggleClass('label-default label-primary');
+      var codes = _.map($('#sports a.label-primary'), function(e) { return _.invert(sport_names)[e.innerHTML] });
+      render(codes);
+    });
+    $('#all').on('click', function() {
+      $('.label-default').toggleClass('label-default label-primary');
+      render(Object.keys(sport_names))
+    });
+    $('#none').on('click', function() {
+      $('.label-primary').toggleClass('label-default label-primary');
+      render([]);
+    });
+  </script>
+</body>
+</html>

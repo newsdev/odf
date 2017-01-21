@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="61" Time="061257496" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="51" DocumentSubtype="VENUE">
+  <Competition Code="OG2016">
+    <CodeSet Competition="N" Code="AB3">
+      <Language Description="Army Barracks 3" LongDescription="Army Barracks 3" Language="ENG"/>
+      <Language Description="Casernes Militaires" LongDescription="Casernes Militaires" Language="FRA"/>
+      <Language Description="31º GAC" LongDescription="31º GAC" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="AFC">
+      <Language Description="Air Force Club" LongDescription="Air Force Club" Language="ENG"/>
+      <Language Description="Club de l'aéronautique" LongDescription="Club de l'aéronautique" Language="FRA"/>
+      <Language Description="Clube de Aeronáutica" LongDescription="Clube de Aeronáutica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="AFU">
+      <Language Description="Air Force University" LongDescription="Air Force University (UNIFA)" Language="ENG"/>
+      <Language Description="Uni. de la Force Aérienne" LongDescription="Université de la Force Aérienne (UNIFA)" Language="FRA"/>
+      <Language Description="Universid. da Força Aérea" LongDescription="Universidade da Força Aérea(UNIFA)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="AMC">
+      <Language Description="Alt Main Operation Centre" LongDescription="Alternative Main Operation Centre" Language="ENG"/>
+      <Language Description="Ctr Principal des Ops Alt" LongDescription="Centre Principal des Opérations Alternatif" Language="FRA"/>
+      <Language Description="Ctr Principal de Ops Alt" LongDescription="Centro Principal de Operações Alternativo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="MNU" Competition="Y" Code="AMZ">
+      <Language Description="Amazônia Arena" LongDescription="Amazônia Arena" Language="ENG"/>
+      <Language Description="Amazônia Arena" LongDescription="Amazônia Arena" Language="FRA"/>
+      <Language Description="Arena da Amazônia" LongDescription="Arena da Amazônia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="AQC">
+      <Language Description="Maria Lenk Aquatics Ctr" LongDescription="Maria Lenk Aquatics Centre" Language="ENG"/>
+      <Language Description="Ctr Aquatique Maria Lenk" LongDescription="Centre Aquatique Maria Lenk" Language="FRA"/>
+      <Language Description="Ctr Aquático Maria Lenk" LongDescription="Centro Aquático Maria Lenk" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BAS">
+      <Language Description="Barradão Stadium" LongDescription="Barradão Stadium (Salvador)" Language="ENG"/>
+      <Language Description="Stade Barradão" LongDescription="Stade Barradão (Salvador)" Language="FRA"/>
+      <Language Description="Estádio Barradão" LongDescription="Estádio Barradão (Salvador)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="BMX">
+      <Language Description="Olympic BMX Centre" LongDescription="Olympic BMX Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de BMX" LongDescription="Centre Olympique de BMX" Language="FRA"/>
+      <Language Description="Centro Olímpico de BMX" LongDescription="Centro Olímpico de BMX" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BSB">
+      <Language Description="Brasília Intl Airport" LongDescription="Brasília International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl de Brasília" LongDescription="Aéroport international de Brasília" Language="FRA"/>
+      <Language Description="Aeroporto Int de Brasília" LongDescription="Aeroporto Internacional de Brasília" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BV1">
+      <Language Description="Barra ACM Village 1" LongDescription="Barra Accommodation Village 1" Language="ENG"/>
+      <Language Description="Village de ACM de Barra 1" LongDescription="Village de l'Hébergement de Barra 1" Language="FRA"/>
+      <Language Description="Vila de ACM da Barra 1" LongDescription="Vila de Acomodações da Barra 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BV2">
+      <Language Description="Barra ACM Village 2" LongDescription="Barra Accommodation Village 2" Language="ENG"/>
+      <Language Description="Village de ACM de Barra 2" LongDescription="Village de l'Hébergement de Barra 2" Language="FRA"/>
+      <Language Description="Vila de ACM da Barra 2" LongDescription="Vila de Acomodações da Barra 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BV3">
+      <Language Description="Barra ACM Village 3" LongDescription="Barra Accommodation Village 3" Language="ENG"/>
+      <Language Description="Village de ACM de Barra 3" LongDescription="Village de l'Hébergement de Barra 3" Language="FRA"/>
+      <Language Description="Vila de ACM da Barra 3" LongDescription="Vila de Acomodações da Barra 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="COP" Competition="Y" Code="BVA">
+      <Language Description="Beach Volleyball Arena" LongDescription="Beach Volleyball Arena" Language="ENG"/>
+      <Language Description="Beach Volleyball Arena" LongDescription="Beach Volleyball Arena" Language="FRA"/>
+      <Language Description="Arena de Vôlei de Praia" LongDescription="Arena de Vôlei de Praia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="BZS">
+      <Language Description="Bezerrão Stadium" LongDescription="Bezerrão Stadium (Brasília)" Language="ENG"/>
+      <Language Description="Stade Bezerrão" LongDescription="Stade Bezerrão (Brasília)" Language="FRA"/>
+      <Language Description="Estádio Bezerrão" LongDescription="Estádio Bezerrão (Brasília)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="CA1">
+      <Language Description="Carioca Arena 1" LongDescription="Carioca Arena 1" Language="ENG"/>
+      <Language Description="Carioca Arena 1" LongDescription="Carioca Arena 1" Language="FRA"/>
+      <Language Description="Arena Carioca 1" LongDescription="Arena Carioca 1" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="CA2">
+      <Language Description="Carioca Arena 2" LongDescription="Carioca Arena 2" Language="ENG"/>
+      <Language Description="Carioca Arena 2" LongDescription="Carioca Arena 2" Language="FRA"/>
+      <Language Description="Arena Carioca 2" LongDescription="Arena Carioca 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="CA3">
+      <Language Description="Carioca Arena 3" LongDescription="Carioca Arena 3" Language="ENG"/>
+      <Language Description="Carioca Arena 3" LongDescription="Carioca Arena 3" Language="FRA"/>
+      <Language Description="Arena Carioca 3" LongDescription="Arena Carioca 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="CAS">
+      <Language Description="Cidade das Artes" LongDescription="Cidade das Artes" Language="ENG"/>
+      <Language Description="Cité des Arts" LongDescription="Cité des Arts" Language="FRA"/>
+      <Language Description="Cidade das Artes" LongDescription="Cidade das Artes" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="CIG">
+      <Language Description="Gerinicó Instruction Camp" LongDescription="Gericinó Instruction Camp Headquarter" Language="ENG"/>
+      <Language Description="Camp Entraîn. Gericinó" LongDescription="Siège du Camp d'Entraînement de Gericinó" Language="FRA"/>
+      <Language Description="Campo Instrução Gericinó" LongDescription="Sede do Campo de Instrução de Gericinó" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="CNF">
+      <Language Description="Confins Intl Airport" LongDescription="Confins International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl de Confins" LongDescription="Aéroport international de Confins" Language="FRA"/>
+      <Language Description="Aeroporto Intl de Confins" LongDescription="Aeroporto Internacional de Confins" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="DAQ">
+      <Language Description="Deodoro Aquatics Centre" LongDescription="Deodoro Aquatics Centre" Language="ENG"/>
+      <Language Description="Centre Aquatique Deodoro" LongDescription="Centre Aquatique de Deodoro" Language="FRA"/>
+      <Language Description="Centro Aquático Deodoro" LongDescription="Centro Aquático de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="DAV">
+      <Language Description="Deodoro ACM Village" LongDescription="Deodoro Accommodation Village" Language="ENG"/>
+      <Language Description="Village de ACM de Deodoro" LongDescription="Village de l'Hébergement de Deodoro" Language="FRA"/>
+      <Language Description="Vila de ACM de Deodoro" LongDescription="Vila de Acomodações de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="DCD">
+      <Language Description="Deodoro Common Domain" LongDescription="Deodoro Common Domain" Language="ENG"/>
+      <Language Description="Zone Commune de Deodoro" LongDescription="Zone Commune de Deodoro" Language="FRA"/>
+      <Language Description="Área Comum de Deodoro" LongDescription="Área Comum de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="DES">
+      <Language Description="Deodoro Stadium" LongDescription="Deodoro Stadium" Language="ENG"/>
+      <Language Description="Stade de Deodoro" LongDescription="Stade de Deodoro" Language="FRA"/>
+      <Language Description="Estádio de Deodoro" LongDescription="Estádio de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="DUD">
+      <Language Description="Deodoro Urban Domain" LongDescription="Deodoro Urban Domain" Language="ENG"/>
+      <Language Description="Zone Urbaine de Deodoro" LongDescription="Zone Urbaine de Deodoro" Language="FRA"/>
+      <Language Description="Área Urbana de Deodoro" LongDescription="Área Urbana de Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="EQC">
+      <Language Description="Olympic Equestrian Centre" LongDescription="Olympic Equestrian Centre" Language="ENG"/>
+      <Language Description="Ctr Olympique Équitation" LongDescription="Centre Olympique d´Équitation" Language="FRA"/>
+      <Language Description="Ctr. Olímpico de Hipismo" LongDescription="Centro Olímpico de Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FH1">
+      <Language Description="Hotel FB - Belo Horizonte" LongDescription="Football City Hotel - Belo Horizonte" Language="ENG"/>
+      <Language Description="Hôtel FB - Belo Horizonte" LongDescription="Hôtel de la Ville du Football - Belo Horizonte" Language="FRA"/>
+      <Language Description="Hotel FB - Belo Horizonte" LongDescription="Hotel da Cidade do Futebol - Belo Horizonte" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FH2">
+      <Language Description="Hotel FB - Brasília" LongDescription="Football City Hotel - Brasília" Language="ENG"/>
+      <Language Description="Hôtel FB - Brasília" LongDescription="Hôtel de la Ville du Football - Brasília" Language="FRA"/>
+      <Language Description="Hotel FB - Brasília" LongDescription="Hotel da Cidade do Futebol - Brasília" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FH3">
+      <Language Description="Hotel FB - Salvador" LongDescription="Football City Hotel - Salvador" Language="ENG"/>
+      <Language Description="Hôtel FB - Salvador" LongDescription="Hôtel de la Ville du Football - Salvador" Language="FRA"/>
+      <Language Description="Hotel FB - Salvador" LongDescription="Hotel da Cidade do Futebol - Salvador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FH4">
+      <Language Description="Hotel FB - São Paulo" LongDescription="Football City Hotel - São Paulo" Language="ENG"/>
+      <Language Description="Hôtel FB - São Paulo" LongDescription="Hôtel de la Ville du Football - São Paulo" Language="FRA"/>
+      <Language Description="Hotel FB - São Paulo" LongDescription="Hotel da Cidade do Futebol - São Paulo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FH5">
+      <Language Description="Hotel FB - Manaus" LongDescription="Football City Hotel - Manaus" Language="ENG"/>
+      <Language Description="Hôtel FB - Manaus" LongDescription="Hôtel de la Ville du Football - Manaus" Language="FRA"/>
+      <Language Description="Hotel FB - Manaus" LongDescription="Hotel da Cidade do Futebol - Manaus" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="SLV" Competition="Y" Code="FNA">
+      <Language Description="Fonte Nova Arena" LongDescription="Fonte Nova Arena" Language="ENG"/>
+      <Language Description="Fonte Nova Arena" LongDescription="Fonte Nova Arena" Language="FRA"/>
+      <Language Description="Arena Fonte Nova" LongDescription="Arena Fonte Nova" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FPT">
+      <Language Description="Physical Trn Ctr Brasilia" LongDescription="Fireman Physical Training Centre (Brasília)" Language="ENG"/>
+      <Language Description="Ctr Format. Phys Brasilia" LongDescription="Centre Formation Physique des Pompiers (Brasília)" Language="FRA"/>
+      <Language Description="Ctr. Cap. Física Brasília" LongDescription="Centro Capacitação Física dos Bombeiros (Brasília)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="FTA">
+      <Language Description="Future Arena" LongDescription="Future Arena" Language="ENG"/>
+      <Language Description="Future Arena" LongDescription="Future Arena" Language="FRA"/>
+      <Language Description="Arena do Futuro" LongDescription="Arena do Futuro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="COP" Competition="Y" Code="FTC">
+      <Language Description="Fort Copacabana" LongDescription="Fort Copacabana" Language="ENG"/>
+      <Language Description="Fort de Copacabana" LongDescription="Fort de Copacabana" Language="FRA"/>
+      <Language Description="Forte de Copacabana" LongDescription="Forte de Copacabana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="FUR">
+      <Language Description="Federal University of Rio" LongDescription="Federal University of Rio de Janeiro" Language="ENG"/>
+      <Language Description="Université Fédérale Rio" LongDescription="Université Fédérale de Rio de Janeiro" Language="FRA"/>
+      <Language Description="Universidade Federal Rio" LongDescription="Universidade Federal do Rio de Janeiro (UFRJ)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="GIG">
+      <Language Description="Tom Jobim Intl Airport" LongDescription="Tom Jobim International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl Tom Jobim" LongDescription="Aéroport International Tom Jobim" Language="FRA"/>
+      <Language Description="Aeroporto Intl Tom Jobim" LongDescription="Aeroporto Internacional Tom Jobim" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="COP" Competition="Y" Code="GLO">
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="ENG"/>
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="FRA"/>
+      <Language Description="Marina da Glória" LongDescription="Marina da Glória" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="GRA">
+      <Language Description="Grooms Accommodation" LongDescription="Grooms Accommodation" Language="ENG"/>
+      <Language Description="Hébergement palfreniers" LongDescription="Hébergement des palfreniers" Language="FRA"/>
+      <Language Description="Acomodação dos Tratadores" LongDescription="Acomodação dos Tratadores" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="GRU">
+      <Language Description="Guarulhos Intl Airport" LongDescription="Guarulhos International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl Guarulhos" LongDescription="Aéroport international de Guarulhos" Language="FRA"/>
+      <Language Description="Aeroporto Intl Guarulhos" LongDescription="Aeroporto Internacional de Guarulhos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="IBC">
+      <Language Description="Intl Broadcast Centre" LongDescription="International Broadcast Centre (IBC)" Language="ENG"/>
+      <Language Description="Centre Intl de diffusion" LongDescription="Centre international de diffusion (IBC)" Language="FRA"/>
+      <Language Description="Centro Intl Radiodifusão" LongDescription="Centro Internacional de Radiodifusão (IBC)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="INS">
+      <Language Description="Independência Stadium-BH" LongDescription="Independência Stadium (Belo Horizonte)" Language="ENG"/>
+      <Language Description="Stade Independência-BH" LongDescription="Stade Independência (Belo Horizonte)" Language="FRA"/>
+      <Language Description="Estádio Independência-BH" LongDescription="Estádio Independência (Belo Horizonte)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="COP" Competition="Y" Code="LAG">
+      <Language Description="Lagoa Stadium" LongDescription="Lagoa Stadium" Language="ENG"/>
+      <Language Description="Stade de Lagoa" LongDescription="Stade de Lagoa" Language="FRA"/>
+      <Language Description="Estádio da Lagoa" LongDescription="Estádio da Lagoa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="MAO">
+      <Language Description="Manaus Intl Airport" LongDescription="Manaus International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl Manaus" LongDescription="Aéroport Internacional Manaus" Language="FRA"/>
+      <Language Description="Aeroporto Intl Manaus" LongDescription="Aeroporto Internacional de Manaus" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="MBT">
+      <Language Description="Mountain Bike Centre" LongDescription="Mountain Bike Centre" Language="ENG"/>
+      <Language Description="Centre de Mountain Bike" LongDescription="Centre de Mountain Bike" Language="FRA"/>
+      <Language Description="Centro de Mountain Bike" LongDescription="Centro de Mountain Bike" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="MCD">
+      <Language Description="Maracanã Common Domain" LongDescription="Maracanã Common Domain" Language="ENG"/>
+      <Language Description="Zone Commune de Maracanã" LongDescription="Zone Commune de Maracanã" Language="FRA"/>
+      <Language Description="Área Comum do Maracanã" LongDescription="Área Comum do Maracanã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BRS" Competition="Y" Code="MGA">
+      <Language Description="Mané Garrincha Stadium" LongDescription="Mané Garrincha Stadium" Language="ENG"/>
+      <Language Description="Stade Mané Garrincha" LongDescription="Stade Mané Garrincha" Language="FRA"/>
+      <Language Description="Estádio Mané Garrincha" LongDescription="Estádio Mané Garrincha" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BHZ" Competition="Y" Code="MIN">
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="ENG"/>
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="FRA"/>
+      <Language Description="Mineirão" LongDescription="Mineirão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="MRZ" Competition="Y" Code="MNZ">
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="ENG"/>
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="FRA"/>
+      <Language Description="Maracanãzinho" LongDescription="Maracanãzinho" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="MOC">
+      <Language Description="Main Operations Centre" LongDescription="Main Operations Centre" Language="ENG"/>
+      <Language Description="Ctr. Principal Opérations" LongDescription="Centre Principal des Opérations" Language="FRA"/>
+      <Language Description="Ctr. Principal Operações" LongDescription="Centro Principal de Operações" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="MPC">
+      <Language Description="Main Press Centre (MPC)" LongDescription="Main Press Centre (MPC)" Language="ENG"/>
+      <Language Description="Centre Principal de Press" LongDescription="Centre Principal de Presse" Language="FRA"/>
+      <Language Description="Ctr Principal de Imprensa" LongDescription="Centro Principal de Imprensa (MPC)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="MRZ" Competition="Y" Code="MRC">
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="ENG"/>
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="FRA"/>
+      <Language Description="Maracanã" LongDescription="Maracanã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="OAS">
+      <Language Description="Olympic Aquatics Stadium" LongDescription="Olympic Aquatics Stadium" Language="ENG"/>
+      <Language Description="Stade Aquatique Olympique" LongDescription="Stade Aquatique Olympique" Language="FRA"/>
+      <Language Description="Estádio Aquático Olímpico" LongDescription="Estádio Aquático Olímpico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="OF2">
+      <Language Description="Olympic Family Hotel 2" LongDescription="Olympic Family Hotel 2 - Windsor Barra &amp; Oceânico" Language="ENG"/>
+      <Language Description="Hôtel Famille Olympique 2" LongDescription="Hôtel Fam Olymp 2-Windsor Barra &amp; Windsor Oceânico" Language="FRA"/>
+      <Language Description="Hotel Família Olímpica 2" LongDescription="Hotel Fam Olímp 2 - Windsor Barra&amp;Windsor Oceânico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="OF3">
+      <Language Description="IOC Staff Hotel" LongDescription="IOC Staff Hotel - Novotel Barra" Language="ENG"/>
+      <Language Description="Hôtel du personnel du CIO" LongDescription="Hôtel du personnel du CIO - Novotel Barra" Language="FRA"/>
+      <Language Description="Hotel Funcionários do COI" LongDescription="Hotel dos Funcionários do COI - Novotel Barra" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="OFH">
+      <Language Description="Main Olympic Family Hotel" LongDescription="Main Olympic Family Hotel - Windsor Marapendi" Language="ENG"/>
+      <Language Description="Hôtel Princ Famille Olymp" LongDescription="Hôtel Princ. Famille Olympique - Windsor Marapendi" Language="FRA"/>
+      <Language Description="Hotel Princ Família Olímp" LongDescription="Hotel Princ. Família Olímpica - Windsor Marapendi" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="OGC">
+      <Language Description="Olympic Golf Course" LongDescription="Olympic Golf Course" Language="ENG"/>
+      <Language Description="Parcours Olympique Golf" LongDescription="Parcours Olympique de Golf" Language="FRA"/>
+      <Language Description="Campo Olímpico de Golfe" LongDescription="Campo Olímpico de Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="OHK">
+      <Language Description="Olympic Hockey Centre" LongDescription="Olympic Hockey Centre" Language="ENG"/>
+      <Language Description="Ctr. Olympique de Hockey" LongDescription="Centre Olympique de Hockey" Language="FRA"/>
+      <Language Description="Centro Olímpico de Hóquei" LongDescription="Centro Olímpico de Hóquei" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="MRZ" Competition="Y" Code="OLS">
+      <Language Description="Olympic Stadium" LongDescription="Olympic Stadium" Language="ENG"/>
+      <Language Description="Stade Olympique" LongDescription="Stade Olympique" Language="FRA"/>
+      <Language Description="Estádio Olímpico" LongDescription="Estádio Olímpico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="OLV">
+      <Language Description="Oympic&amp;Paralympic Village" LongDescription="Olympic and Paralympic Village" Language="ENG"/>
+      <Language Description="Village Oly.&amp;Paralympique" LongDescription="Village Olympique et Paralympique" Language="FRA"/>
+      <Language Description="Vila Olímpica&amp;Paralímpica" LongDescription="Vila Olímpica e Paralímpica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="OSC">
+      <Language Description="Olympic Shooting Centre" LongDescription="Olympic Shooting Centre" Language="ENG"/>
+      <Language Description="Centre Olympique de Tir" LongDescription="Centre Olympique de Tir" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tiro" LongDescription="Centro Olímpico de Tiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="OTN">
+      <Language Description="Olympic Tennis Centre" LongDescription="Olympic Tennis Centre" Language="ENG"/>
+      <Language Description="Ctr. Olympique de Tennis" LongDescription="Centre Olympique de Tennis" Language="FRA"/>
+      <Language Description="Centro Olímpico de Tênis" LongDescription="Centro Olímpico de Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="OVP">
+      <Language Description="Athletes' Park" LongDescription="Athletes' Park" Language="ENG"/>
+      <Language Description="Parc des Athlètes" LongDescription="Parc des Athlètes" Language="FRA"/>
+      <Language Description="Parque dos Atletas" LongDescription="Parque dos Atletas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PBS">
+      <Language Description="Pacaembu Stadium-SP" LongDescription="Pacaembu Stadium (São Paulo)" Language="ENG"/>
+      <Language Description="Stade Pacaembu-SP" LongDescription="Stade Pacaembu (São Paulo)" Language="FRA"/>
+      <Language Description="Estádio Pacaembu-SP" LongDescription="Estádio Pacaembu (São Paulo)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PEC">
+      <Language Description="Physical Ed. Centre CEFAN" LongDescription="Navy Physical Education Centre (CEFAN)" Language="ENG"/>
+      <Language Description="Ctr d'Édu Physique CEFAN" LongDescription="Centre d'Éducation Physique (CEFAN)" Language="FRA"/>
+      <Language Description="Ctr Educação Física CEFAN" LongDescription="Centro de Educação Física (CEFAN)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PF2">
+      <Language Description="Paralympic Family Hotel" LongDescription="Paralympic Family Hotel - Windsor Barra" Language="ENG"/>
+      <Language Description="Hôtel Famille Paralympiqu" LongDescription="Hôtel de la Famille Paralympique - Windsor Barra" Language="FRA"/>
+      <Language Description="Hotel Família Paralímpica" LongDescription="Hotel da Família Paralímpica - Windsor Barra" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PFH">
+      <Language Description="Windsor Oceânico" LongDescription="Main Paralympic Family Hotel - Windsor Oceânico" Language="ENG"/>
+      <Language Description="Windsor Oceânico" LongDescription="Hôtel Officiel Famille Paralymp-Windsor Oceânico" Language="FRA"/>
+      <Language Description="Windsor Oceânico" LongDescription="Hotel Oficial Família Paralímpica-Windsor Oceânico" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PIS">
+      <Language Description="Pituaçu Stadium-SA" LongDescription="Pituaçu Stadium (Salvador)" Language="ENG"/>
+      <Language Description="Stade Pituaçu-SA" LongDescription="Stade Pituaçu (Salvador)" Language="FRA"/>
+      <Language Description="Estádio Pituaçu-SA" LongDescription="Estádio Pituaçu (Salvador)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="PMC">
+      <Language Description="Cruise Accommodations" LongDescription="Pier Mauá Cruise Accommodations" Language="ENG"/>
+      <Language Description="Hébergement des navires" LongDescription="Hébergement des navires Pier Maua" Language="FRA"/>
+      <Language Description="Acomodação de Navios" LongDescription="Acomodação de Navios do Pier Mauá" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="PON">
+      <Language Description="Pontal" LongDescription="Pontal" Language="ENG"/>
+      <Language Description="Pontal" LongDescription="Pontal" Language="FRA"/>
+      <Language Description="Pontal" LongDescription="Pontal" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="RC2">
+      <Language Description="Riocentro - Pavilion 2" LongDescription="Riocentro - Pavilion 2" Language="ENG"/>
+      <Language Description="Riocentro - Pavillon 2" LongDescription="Riocentro - Pavillon 2" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 2" LongDescription="Riocentro - Pavilhão 2" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="RC3">
+      <Language Description="Riocentro - Pavilion 3" LongDescription="Riocentro - Pavilion 3" Language="ENG"/>
+      <Language Description="Riocentro - Pavillon 3" LongDescription="Riocentro - Pavillon 3" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 3" LongDescription="Riocentro - Pavilhão 3" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="RC4">
+      <Language Description="Riocentro - Pavilion 4" LongDescription="Riocentro - Pavilion 4" Language="ENG"/>
+      <Language Description="Riocentro - Pavillon 4" LongDescription="Riocentro - Pavillon 4" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 4" LongDescription="Riocentro - Pavilhão 4" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="RC5">
+      <Language Description="Riocentro - Pavilion 5" LongDescription="Riocentro - Pavilion 5" Language="ENG"/>
+      <Language Description="Riocentro - Pavillon 5" LongDescription="Riocentro - Pavillon 5" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 5" LongDescription="Riocentro - Pavilhão 5" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="RC6">
+      <Language Description="Riocentro - Pavilion 6" LongDescription="Riocentro - Pavilion 6" Language="ENG"/>
+      <Language Description="Riocentro - Pavillon 6" LongDescription="Riocentro - Pavillon 6" Language="FRA"/>
+      <Language Description="Riocentro - Pavilhão 6" LongDescription="Riocentro - Pavilhão 6" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="RCD">
+      <Language Description="BPK Common Domain" LongDescription="Barra Olympic Park Common Domain" Language="ENG"/>
+      <Language Description="Domaine commun BPK" LongDescription="Zone Commune du Parc Olympique de Barra" Language="FRA"/>
+      <Language Description="Área Comum BPK" LongDescription="Área Comum do Parque Olímpico da Barra" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="RHQ">
+      <Language Description="Rio 2016 Office" LongDescription="Rio 2016 Office" Language="ENG"/>
+      <Language Description="Bureau Rio 2016" LongDescription="Bureau Rio 2016" Language="FRA"/>
+      <Language Description="Escritório Rio 2016" LongDescription="Escritório Rio 2016" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="RID">
+      <Language Description="Riocentro Common Domain" LongDescription="Riocentro Common Domain" Language="ENG"/>
+      <Language Description="Zone Commune de Riocentro" LongDescription="Zone Commune de Riocentro" Language="FRA"/>
+      <Language Description="Área Comum do Riocentro" LongDescription="Área Comum do Riocentro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="ROA">
+      <Language Description="Rio Olympic Arena" LongDescription="Rio Olympic Arena" Language="ENG"/>
+      <Language Description="Rio Olympic Arena" LongDescription="Rio Olympic Arena" Language="FRA"/>
+      <Language Description="Arena Olímpica do Rio" LongDescription="Arena Olímpica do Rio" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="BAT" Competition="Y" Code="ROV">
+      <Language Description="Rio Olympic Velodrome" LongDescription="Rio Olympic Velodrome" Language="ENG"/>
+      <Language Description="Vélodrome Olympique Rio" LongDescription="Vélodrome Olympique de Rio" Language="FRA"/>
+      <Language Description="Velódromo Olímpico do Rio" LongDescription="Velódromo Olímpico do Rio" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="MRZ" Competition="Y" Code="SBD">
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="ENG"/>
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="FRA"/>
+      <Language Description="Sambódromo" LongDescription="Sambódromo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="SDU">
+      <Language Description="Santos Dumont Airport" LongDescription="Santos Dumont Domestic Airport" Language="ENG"/>
+      <Language Description="Aéroport Santos Dumont" LongDescription="Aéroport domestique  Santos Dumont" Language="FRA"/>
+      <Language Description="Aeroporto Santos Dumont" LongDescription="Aeroporto Doméstico Santos Dumont" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="SPL" Competition="Y" Code="SPA">
+      <Language Description="Corinthians Arena" LongDescription="Corinthians Arena" Language="ENG"/>
+      <Language Description="Corinthians Arena" LongDescription="Corinthians Arena" Language="FRA"/>
+      <Language Description="Arena Corinthians" LongDescription="Arena Corinthians" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="SSA">
+      <Language Description="Salvador Intl Airport" LongDescription="Salvador International Airport" Language="ENG"/>
+      <Language Description="Aéroport Intl de Salvador" LongDescription="Aéroport international de Salvador" Language="FRA"/>
+      <Language Description="Aeroporto Intl Salvador" LongDescription="Aeroporto Internacional de Salvador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="SVN">
+      <Language Description="SESC Venda Nova-BH" LongDescription="SESC Venda Nova (Belo Horizonte)" Language="ENG"/>
+      <Language Description="SESC Venda Nova-BH" LongDescription="SESC Venda Nova (Belo Horizonte)" Language="FRA"/>
+      <Language Description="SESC Venda Nova-BH" LongDescription="SESC Venda Nova (Belo Horizonte)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="TOC">
+      <Language Description="Technology Ops Centre" LongDescription="Technology Operations Centre" Language="ENG"/>
+      <Language Description="Centre des opé. techno." LongDescription="Centre d'Opérations de Technologie" Language="FRA"/>
+      <Language Description="Centro de Ope Tecnologia" LongDescription="Centro de Operações de Tecnologia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="UAC">
+      <Language Description="Uniform and ACR Ctr." LongDescription="Uniform and Accreditation Centre" Language="ENG"/>
+      <Language Description="Ctr. de Uniformes et ACR" LongDescription="Centre de Uniformes et Accréditation" Language="FRA"/>
+      <Language Description="Ctr. de Uniformes e ACR" LongDescription="Centro de Uniformes e Credenciamento" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="WWS">
+      <Language Description="Whitewater Stadium" LongDescription="Whitewater Stadium" Language="ENG"/>
+      <Language Description="Stade de Canoë Slalom" LongDescription="Stade de Canoë Slalom" Language="FRA"/>
+      <Language Description="Estádio Canoagem Slalom" LongDescription="Estádio de Canoagem Slalom" Language="POR"/>
+    </CodeSet>
+    <CodeSet Competition="N" Code="XCD">
+      <Language Description="X-Park Common Domain" LongDescription="X-Park Common Domain" Language="ENG"/>
+      <Language Description="Zone Commune de X-Park" LongDescription="Zone Commune de Parc Radical" Language="FRA"/>
+      <Language Description="Área Comum do X-Park" LongDescription="Área Comum do Parque Radical" Language="POR"/>
+    </CodeSet>
+    <CodeSet Region="DEO" Competition="Y" Code="YOA">
+      <Language Description="Youth Arena" LongDescription="Youth Arena" Language="ENG"/>
+      <Language Description="Youth Arena" LongDescription="Youth Arena" Language="FRA"/>
+      <Language Description="Arena da Juventude" LongDescription="Arena da Juventude" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

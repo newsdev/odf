@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="46" Time="061252177" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="51" DocumentSubtype="HORSE_BREED">
+  <Competition Code="OG2016">
+    <CodeSet Code="AA">
+      <Language Description="Anglo-Arab" Language="ENG"/>
+      <Language Description="Anglo-arabe" Language="FRA"/>
+      <Language Description="Anglo-árabe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AAFE">
+      <Language Description="Asociacion Argentina de Fomento Equino" Language="ENG"/>
+      <Language Description="Asociacion Argentina de Fomento Equino" Language="FRA"/>
+      <Language Description="Asociacion Argentina de Fomento Equino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AES">
+      <Language Description="Anglo European Studbook" Language="ENG"/>
+      <Language Description="Anglo European Studbook" Language="FRA"/>
+      <Language Description="Anglo European Studbook" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AWR">
+      <Language Description="American Warmblood Registry" Language="ENG"/>
+      <Language Description="American Warmblood Registry" Language="FRA"/>
+      <Language Description="American Warmblood Registry" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="AWS">
+      <Language Description="American Warmblood Society" Language="ENG"/>
+      <Language Description="American Warmblood Society" Language="FRA"/>
+      <Language Description="American Warmblood Society" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BAD-WU">
+      <Language Description="Pferdezuchtverband Baden-Württemberg e.V." Language="ENG"/>
+      <Language Description="Pferdezuchtverband Baden-Württemberg e.V." Language="FRA"/>
+      <Language Description="Pferdezuchtverband Baden-Württemberg e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BAVAR">
+      <Language Description="Landesverband Bayerischer Pferdezüchtere V." Language="ENG"/>
+      <Language Description="Landesverband Bayerischer Pferdezüchtere V." Language="FRA"/>
+      <Language Description="Landesverband Bayerischer Pferdezüchtere V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="Bras-H">
+      <Language Description="Asso. Brasileira de Criadores do Cavalo de Hipismo" Language="ENG"/>
+      <Language Description="Asso. Brasileira de Criadores do Cavalo de Hipismo" Language="FRA"/>
+      <Language Description="Asso. Brasileira de Criadores do Cavalo de Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="Bri.WS">
+      <Language Description="British Warmblood Society" Language="ENG"/>
+      <Language Description="British Warmblood Society" Language="FRA"/>
+      <Language Description="British Warmblood Society" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BWP">
+      <Language Description="Belgisch Warmbloedpaard v.z.w." Language="ENG"/>
+      <Language Description="Belgisch Warmbloedpaard v.z.w." Language="FRA"/>
+      <Language Description="Belgisch Warmbloedpaard v.z.w." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CCDM">
+      <Language Description="Criadores de Caballos Deportivos Mexicanos" Language="ENG"/>
+      <Language Description="Criadores de Caballos Deportivos Mexicanos" Language="FRA"/>
+      <Language Description="Criadores de Caballos Deportivos Mexicanos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="Cdesp">
+      <Language Description="Caballo de Deporte Espanol" Language="ENG"/>
+      <Language Description="Caballo de Deporte Español" Language="FRA"/>
+      <Language Description="Caballo de Deporte Espanol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CH">
+      <Language Description="Swiss Warmblood" Language="ENG"/>
+      <Language Description="Swiss Warmblood" Language="FRA"/>
+      <Language Description="Swiss Warmblood" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CSHA">
+      <Language Description="Canadian Sport Horse Association" Language="ENG"/>
+      <Language Description="Canadian Sport Horse Association" Language="FRA"/>
+      <Language Description="Canadian Sport Horse Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="CWHBA">
+      <Language Description="Canadian Warmblood Horse Breeders Ass." Language="ENG"/>
+      <Language Description="Canadian Warmblood Horse Breeders Ass." Language="FRA"/>
+      <Language Description="Canadian Warmblood Horse Breeders Ass." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DWB">
+      <Language Description="Danish Warmblood Society" Language="ENG"/>
+      <Language Description="Danish Warmblood Society" Language="FRA"/>
+      <Language Description="Danish Warmblood Society" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FWB">
+      <Language Description="Finnish Warmblood" Language="ENG"/>
+      <Language Description="Finnish Warmblood" Language="FRA"/>
+      <Language Description="Finnish Warmblood" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HANN">
+      <Language Description="Verband Hannoverscher Pferdezüchter e.V." Language="ENG"/>
+      <Language Description="Verband Hannoverscher Pferdezüchter e.V." Language="FRA"/>
+      <Language Description="Verband Hannoverscher Pferdezüchter e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HESS">
+      <Language Description="Verband Hessischer Pferdezüchter e.V." Language="ENG"/>
+      <Language Description="Verband Hessischer Pferdezüchter e.V." Language="FRA"/>
+      <Language Description="Verband Hessischer Pferdezüchter e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HOLST">
+      <Language Description="Verband der Züchter des Holsteiner Pferdes e.V." Language="ENG"/>
+      <Language Description="Verband der Züchter des Holsteiner Pferdes e.V." Language="FRA"/>
+      <Language Description="Verband der Züchter des Holsteiner Pferdes e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="HSHBA">
+      <Language Description="Hungarian Sport Horse Breeders Association" Language="ENG"/>
+      <Language Description="Hungarian Sport Horse Breeders Association" Language="FRA"/>
+      <Language Description="Hungarian Sport Horse Breeders Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ISH">
+      <Language Description="Irish Sport Horse" Language="ENG"/>
+      <Language Description="Irish Sport Horse" Language="FRA"/>
+      <Language Description="Irish Sport Horse" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="KWPN">
+      <Language Description="Koninklijk Warmbloed Paardenstamboek Nederland" Language="ENG"/>
+      <Language Description="Koninklijk Warmbloed Paardenstamboek Nederland" Language="FRA"/>
+      <Language Description="Koninklijk Warmbloed Paardenstamboek Nederland" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="LUSIT">
+      <Language Description="Lusitanian" Language="ENG"/>
+      <Language Description="Lusitanian" Language="FRA"/>
+      <Language Description="Lusitanian" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MECKL">
+      <Language Description="Verband der Pferde. Mecklenburg-Vorpommern e.V." Language="ENG"/>
+      <Language Description="Verband der Pferde. Mecklenburg-Vorpommern e.V." Language="FRA"/>
+      <Language Description="Verband der Pferde. Mecklenburg-Vorpommern e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="NL">
+      <Language Description="Not Listed" Language="ENG"/>
+      <Language Description="Non inclus dans la liste" Language="FRA"/>
+      <Language Description="Não listado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="NRPS">
+      <Language Description="Nederlands Rijpaarden en Pony Stamboek" Language="ENG"/>
+      <Language Description="Nederlands Rijpaarden en Pony Stamboek" Language="FRA"/>
+      <Language Description="Nederlands Rijpaarden en Pony Stamboek" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="NWB">
+      <Language Description="Norwegian Warmblood Association" Language="ENG"/>
+      <Language Description="Norwegian Warmblood Association" Language="FRA"/>
+      <Language Description="Norwegian Warmblood Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="OLDBG">
+      <Language Description="Verband der Züchter des Oldenburger Pferdes e.V." Language="ENG"/>
+      <Language Description="Verband der Züchter des Oldenburger Pferdes e.V." Language="FRA"/>
+      <Language Description="Verband der Züchter des Oldenburger Pferdes e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="P.R.E">
+      <Language Description="Pura Raza Español" Language="ENG"/>
+      <Language Description="Pura Raza Española" Language="FRA"/>
+      <Language Description="Pura Raza Español" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PHBA">
+      <Language Description="Polish Horse Breeders Association" Language="ENG"/>
+      <Language Description="Polish Horse Breeders Association" Language="FRA"/>
+      <Language Description="Polish Horse Breeders Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PTB">
+      <Language Description="Part Bred" Language="ENG"/>
+      <Language Description="Demi-sang" Language="FRA"/>
+      <Language Description="Mestiço" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="RHEIN">
+      <Language Description="Rheinisches Pferdestammbuch e.V." Language="ENG"/>
+      <Language Description="Rheinisches Pferdestammbuch e.V." Language="FRA"/>
+      <Language Description="Rheinisches Pferdestammbuch e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SA">
+      <Language Description="Pferdezuchtverband Sachsen Anhalt e.v." Language="ENG"/>
+      <Language Description="Pferdezuchtverband Sachsen Anhalt e.v." Language="FRA"/>
+      <Language Description="Pferdezuchtverband Sachsen Anhalt e.v." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SACHS">
+      <Language Description="Pferdezuchtverband Sachsen e.V." Language="ENG"/>
+      <Language Description="Pferdezuchtverband Sachsen e.V." Language="FRA"/>
+      <Language Description="Pferdezuchtverband Sachsen e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SAWHS">
+      <Language Description="South African Warmblood Association" Language="ENG"/>
+      <Language Description="South African Warmblood Association" Language="FRA"/>
+      <Language Description="South African Warmblood Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SBS">
+      <Language Description="Stud-book sBs, le Cheval de Sport Belge" Language="ENG"/>
+      <Language Description="Stud-book sBs, le cheval de sport belge" Language="FRA"/>
+      <Language Description="Stud-book sBs, le Cheval de Sport Belge" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SF">
+      <Language Description="Stud-book Français du Cheval Selle Français" Language="ENG"/>
+      <Language Description="Stud-book français du cheval Selle Français" Language="FRA"/>
+      <Language Description="Stud-book Français du Cheval Selle Français" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SHBGB">
+      <Language Description="Sport Horse Breeding of Great Britain" Language="ENG"/>
+      <Language Description="Sport Horse Breeding of Great Britain" Language="FRA"/>
+      <Language Description="Sport Horse Breeding of Great Britain" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SLS">
+      <Language Description="Studbook La Silla" Language="ENG"/>
+      <Language Description="Studbook La Silla" Language="FRA"/>
+      <Language Description="Studbook La Silla" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SWB">
+      <Language Description="Swedish Warmblood Association" Language="ENG"/>
+      <Language Description="Swedish Warmblood Association" Language="FRA"/>
+      <Language Description="Swedish Warmblood Association" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="THB">
+      <Language Description="Thoroughbred" Language="ENG"/>
+      <Language Description="Pur-sang" Language="FRA"/>
+      <Language Description="Puro-sangue" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TRAK">
+      <Language Description="Trakehner Verband" Language="ENG"/>
+      <Language Description="Trakehner Verband" Language="FRA"/>
+      <Language Description="Trakehner Verband" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="UN">
+      <Language Description="Unknown" Language="ENG"/>
+      <Language Description="Inconnue" Language="FRA"/>
+      <Language Description="Desconhecido" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="UNIRE">
+      <Language Description="Unione Nazionale Incremento Razze Equine" Language="ENG"/>
+      <Language Description="Unione Nazionale Incremento Razze Equine" Language="FRA"/>
+      <Language Description="Unione Nazionale Incremento Razze Equine" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="VNP">
+      <Language Description="Verband Niederösterrichischer Pferdezüchter" Language="ENG"/>
+      <Language Description="Verband Niederösterrichischer Pferdezüchter" Language="FRA"/>
+      <Language Description="Verband Niederösterrichischer Pferdezüchter" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WBD">
+      <Language Description="Warm Blood" Language="ENG"/>
+      <Language Description="Sang chaud" Language="FRA"/>
+      <Language Description="Sangue Quente" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WESTF">
+      <Language Description="Westfälisches Pferdestammbuch e.V." Language="ENG"/>
+      <Language Description="Westfälisches Pferdestammbuch e.V." Language="FRA"/>
+      <Language Description="Westfälisches Pferdestammbuch e.V." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ZANG">
+      <Language Description="Stud-book Zangersheide" Language="ENG"/>
+      <Language Description="Stud-book Zangersheide" Language="FRA"/>
+      <Language Description="Stud-book Zangersheide" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ZVDP">
+      <Language Description="Zuchtverband für Deutsche Pferde e.v." Language="ENG"/>
+      <Language Description="Zuchtverband für Deutsche Pferde e.v." Language="FRA"/>
+      <Language Description="Zuchtverband für Deutsche Pferde e.v." Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ZWEIB">
+      <Language Description="Pferdezuchtverband Rheinland-Pfalz-Saar e.V." Language="ENG"/>
+      <Language Description="Pferdezuchtverband Rheinland-Pfalz-Saar e.V." Language="FRA"/>
+      <Language Description="Pferdezuchtverband Rheinland-Pfalz-Saar e.V." Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="58" Time="061256844" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="RECORD">
+  <Competition Code="OG2016">
+    <CodeSet Event="070" Gender="M" Order="1" Discipline="AR" Code="ARM0700000">
+      <Language Description="Men 72 Arrows 70m Round" Language="ENG"/>
+      <Language Description="Tour de 70 m, 72 flèches - hommes" Language="FRA"/>
+      <Language Description="Rodada de 70m, 72 flechas - homens" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="470" Gender="M" Order="2" Discipline="AR" Code="ARM4700005">
+      <Language Description="Men 216 Arrows 70m Round" Language="ENG"/>
+      <Language Description="Tour de 70 m, 216 flèches - hommes" Language="FRA"/>
+      <Language Description="Rodada de 70m, 216 flechas - homens" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="070" Gender="W" Order="3" Discipline="AR" Code="ARW0700000">
+      <Language Description="Women 72 Arrows 70m Round" Language="ENG"/>
+      <Language Description="Tour de 70 m, 72 flèches - femmes" Language="FRA"/>
+      <Language Description="Rodada de 70m, 72 flechas - mulheres" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="470" Gender="W" Order="4" Discipline="AR" Code="ARW4700005">
+      <Language Description="Women 216 Arrows 70m Round" Language="ENG"/>
+      <Language Description="Tour de 70 m, 216 flèches - femmes" Language="FRA"/>
+      <Language Description="Rodada de 70m, 216 flechas - mulheres" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="1" Discipline="AT" Code="ATM001000">
+      <Language Description="Men's 100m" Language="ENG"/>
+      <Language Description="100 m - hommes" Language="FRA"/>
+      <Language Description="100m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="002" Gender="M" Order="2" Discipline="AT" Code="ATM002000">
+      <Language Description="Men's 200m" Language="ENG"/>
+      <Language Description="200 m - hommes" Language="FRA"/>
+      <Language Description="200m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="004" Gender="M" Order="3" Discipline="AT" Code="ATM004000">
+      <Language Description="Men's 400m" Language="ENG"/>
+      <Language Description="400 m - hommes" Language="FRA"/>
+      <Language Description="400m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="008" Gender="M" Order="4" Discipline="AT" Code="ATM008000">
+      <Language Description="Men's 800m" Language="ENG"/>
+      <Language Description="800 m - hommes" Language="FRA"/>
+      <Language Description="800m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="012" Gender="M" Order="5" Discipline="AT" Code="ATM012000">
+      <Language Description="Men's 110m Hurdles" Language="ENG"/>
+      <Language Description="110 m haies - hommes" Language="FRA"/>
+      <Language Description="110m com barreiras masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="015" Gender="M" Order="6" Discipline="AT" Code="ATM015000">
+      <Language Description="Men's 1500m" Language="ENG"/>
+      <Language Description="1 500 m - hommes" Language="FRA"/>
+      <Language Description="1.500m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="033" Gender="M" Order="7" Discipline="AT" Code="ATM033000">
+      <Language Description="Men's 3000m Steeplechase" Language="ENG"/>
+      <Language Description="3 000 m steeple - hommes" Language="FRA"/>
+      <Language Description="3.000m com obstáculos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="044" Gender="M" Order="8" Discipline="AT" Code="ATM044000">
+      <Language Description="Men's 400m Hurdles" Language="ENG"/>
+      <Language Description="400 m haies - hommes" Language="FRA"/>
+      <Language Description="400m com barreiras masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="050" Gender="M" Order="9" Discipline="AT" Code="ATM050000">
+      <Language Description="Men's 5000m" Language="ENG"/>
+      <Language Description="5 000 m - hommes" Language="FRA"/>
+      <Language Description="5.000m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="051" Gender="M" Order="10" Discipline="AT" Code="ATM051000">
+      <Language Description="Men's Shot Put" Language="ENG"/>
+      <Language Description="Lancer de poids - hommes" Language="FRA"/>
+      <Language Description="Arremesso do peso masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="052" Gender="M" Order="11" Discipline="AT" Code="ATM052000">
+      <Language Description="Men's Discus Throw" Language="ENG"/>
+      <Language Description="Lancer de disque - hommes" Language="FRA"/>
+      <Language Description="Lançamento do disco masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="053" Gender="M" Order="12" Discipline="AT" Code="ATM053000">
+      <Language Description="Men's Javelin Throw" Language="ENG"/>
+      <Language Description="Lancer de javelot - hommes" Language="FRA"/>
+      <Language Description="Lançamento do dardo masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="054" Gender="M" Order="13" Discipline="AT" Code="ATM054000">
+      <Language Description="Men's Hammer Throw" Language="ENG"/>
+      <Language Description="Lancer de marteau - hommes" Language="FRA"/>
+      <Language Description="Lançamento do martelo masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="061" Gender="M" Order="14" Discipline="AT" Code="ATM061000">
+      <Language Description="Men's Long Jump" Language="ENG"/>
+      <Language Description="Saut en longueur - hommes" Language="FRA"/>
+      <Language Description="Salto em distância masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="062" Gender="M" Order="15" Discipline="AT" Code="ATM062000">
+      <Language Description="Men's Triple Jump" Language="ENG"/>
+      <Language Description="Triple saut - hommes" Language="FRA"/>
+      <Language Description="Salto triplo masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="071" Gender="M" Order="16" Discipline="AT" Code="ATM071000">
+      <Language Description="Men's High Jump" Language="ENG"/>
+      <Language Description="Saut en hauteur - hommes" Language="FRA"/>
+      <Language Description="Salto em altura masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="072" Gender="M" Order="17" Discipline="AT" Code="ATM072000">
+      <Language Description="Men's Pole Vault" Language="ENG"/>
+      <Language Description="Saut à la perche - hommes" Language="FRA"/>
+      <Language Description="Salto com vara masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="092" Gender="M" Order="18" Discipline="AT" Code="ATM092000">
+      <Language Description="Men's 20km Race Walk" Language="ENG"/>
+      <Language Description="20 km marche - hommes" Language="FRA"/>
+      <Language Description="Marcha atlética 20km masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="095" Gender="M" Order="19" Discipline="AT" Code="ATM095000">
+      <Language Description="Men's 50km Race Walk" Language="ENG"/>
+      <Language Description="50 km marche - hommes" Language="FRA"/>
+      <Language Description="Marcha atlética 50km masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="099" Gender="M" Order="20" Discipline="AT" Code="ATM099000">
+      <Language Description="Men's Marathon" Language="ENG"/>
+      <Language Description="Marathon - hommes" Language="FRA"/>
+      <Language Description="Maratona masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="100" Gender="M" Order="21" Discipline="AT" Code="ATM100000">
+      <Language Description="Men's 10,000m" Language="ENG"/>
+      <Language Description="10 000 m - hommes" Language="FRA"/>
+      <Language Description="10.000m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="M" Order="22" Discipline="AT" Code="ATM401000">
+      <Language Description="Men's 4 x 100m Relay" Language="ENG"/>
+      <Language Description="Relais 4 x 100 m - hommes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="404" Gender="M" Order="23" Discipline="AT" Code="ATM404000">
+      <Language Description="Men's 4 x 400m Relay" Language="ENG"/>
+      <Language Description="Relais 4 x 400 m - hommes" Language="FRA"/>
+      <Language Description="Revezamento 4x400m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="24" Discipline="AT" Code="ATM900000">
+      <Language Description="Men's Decathlon" Language="ENG"/>
+      <Language Description="Décathlon - hommes" Language="FRA"/>
+      <Language Description="Decatlo masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="25" Discipline="AT" Code="ATM900A00">
+      <Language Description="Men's Decathlon 100m" Language="ENG"/>
+      <Language Description="Décathlon - hommes, 100 m" Language="FRA"/>
+      <Language Description="Decatlo - 100m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="26" Discipline="AT" Code="ATM900B00">
+      <Language Description="Men's Decathlon Long Jump" Language="ENG"/>
+      <Language Description="Décathlon - saut en longueur, hommes" Language="FRA"/>
+      <Language Description="Decatlo - salto em distância masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="27" Discipline="AT" Code="ATM900C00">
+      <Language Description="Men's Decathlon Shot Put" Language="ENG"/>
+      <Language Description="Décathlon - lancer de poids, hommes" Language="FRA"/>
+      <Language Description="Decatlo - arremesso do peso masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="28" Discipline="AT" Code="ATM900D00">
+      <Language Description="Men's Decathlon High Jump" Language="ENG"/>
+      <Language Description="Décathlon - saut en hauteur, hommes" Language="FRA"/>
+      <Language Description="Decatlo - salto em altura masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="29" Discipline="AT" Code="ATM900E00">
+      <Language Description="Men's Decathlon 400m" Language="ENG"/>
+      <Language Description="Décathlon - 400 m, hommes" Language="FRA"/>
+      <Language Description="Decatlo - 400m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="30" Discipline="AT" Code="ATM900F00">
+      <Language Description="Men's Decathlon 110m Hurdles" Language="ENG"/>
+      <Language Description="Décathlon - 110 m haies, hommes" Language="FRA"/>
+      <Language Description="Decatlo - 110m com barreiras masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="31" Discipline="AT" Code="ATM900G00">
+      <Language Description="Men's Decathlon Discus Throw" Language="ENG"/>
+      <Language Description="Décathlon - lancer de disque, hommes" Language="FRA"/>
+      <Language Description="Decatlo - lançamento do disco masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="32" Discipline="AT" Code="ATM900H00">
+      <Language Description="Men's Decathlon Pole Vault" Language="ENG"/>
+      <Language Description="Décathlon - saut à la perche, hommes" Language="FRA"/>
+      <Language Description="Decatlo - salto com vara masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="33" Discipline="AT" Code="ATM900I00">
+      <Language Description="Men's Decathlon Javelin Throw" Language="ENG"/>
+      <Language Description="Décathlon - lancer de javelot, hommes" Language="FRA"/>
+      <Language Description="Decatlo - lançamento do dardo masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="900" Gender="M" Order="34" Discipline="AT" Code="ATM900J00">
+      <Language Description="Men's Decathlon 1500m" Language="ENG"/>
+      <Language Description="Décathlon - 1 500 m, hommes" Language="FRA"/>
+      <Language Description="Decatlo - 1.500m rasos masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="35" Discipline="AT" Code="ATW001000">
+      <Language Description="Women's 100m" Language="ENG"/>
+      <Language Description="100 m - femmes" Language="FRA"/>
+      <Language Description="100m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="002" Gender="W" Order="36" Discipline="AT" Code="ATW002000">
+      <Language Description="Women's 200m" Language="ENG"/>
+      <Language Description="200 m - femmes" Language="FRA"/>
+      <Language Description="200m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="004" Gender="W" Order="37" Discipline="AT" Code="ATW004000">
+      <Language Description="Women's 400m" Language="ENG"/>
+      <Language Description="400 m - femmes" Language="FRA"/>
+      <Language Description="400m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="008" Gender="W" Order="38" Discipline="AT" Code="ATW008000">
+      <Language Description="Women's 800m" Language="ENG"/>
+      <Language Description="800 m - femmes" Language="FRA"/>
+      <Language Description="800m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="011" Gender="W" Order="39" Discipline="AT" Code="ATW011000">
+      <Language Description="Women's 100m Hurdles" Language="ENG"/>
+      <Language Description="100 m haies - femmes" Language="FRA"/>
+      <Language Description="100m com barreiras feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="015" Gender="W" Order="40" Discipline="AT" Code="ATW015000">
+      <Language Description="Women's 1500m" Language="ENG"/>
+      <Language Description="1 500 m - femmes" Language="FRA"/>
+      <Language Description="1.500m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="033" Gender="W" Order="41" Discipline="AT" Code="ATW033000">
+      <Language Description="Women's 3000m Steeplechase" Language="ENG"/>
+      <Language Description="3 000 m steeple - femmes" Language="FRA"/>
+      <Language Description="3.000m com obstáculos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="044" Gender="W" Order="42" Discipline="AT" Code="ATW044000">
+      <Language Description="Women's 400m Hurdles" Language="ENG"/>
+      <Language Description="400 m haies - femmes" Language="FRA"/>
+      <Language Description="400m com barreiras feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="050" Gender="W" Order="43" Discipline="AT" Code="ATW050000">
+      <Language Description="Women's 5000m" Language="ENG"/>
+      <Language Description="5 000 m - femmes" Language="FRA"/>
+      <Language Description="5.000m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="051" Gender="W" Order="44" Discipline="AT" Code="ATW051000">
+      <Language Description="Women's Shot Put" Language="ENG"/>
+      <Language Description="Lancer de poids - femmes" Language="FRA"/>
+      <Language Description="Arremesso do peso feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="052" Gender="W" Order="45" Discipline="AT" Code="ATW052000">
+      <Language Description="Women's Discus Throw" Language="ENG"/>
+      <Language Description="Lancer de disque - femmes" Language="FRA"/>
+      <Language Description="Lançamento do disco feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="053" Gender="W" Order="46" Discipline="AT" Code="ATW053000">
+      <Language Description="Women's Javelin Throw" Language="ENG"/>
+      <Language Description="Lancer de javelot - femmes" Language="FRA"/>
+      <Language Description="Lançamento do dardo feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="054" Gender="W" Order="47" Discipline="AT" Code="ATW054000">
+      <Language Description="Women's Hammer Throw" Language="ENG"/>
+      <Language Description="Lancer de marteau - femmes" Language="FRA"/>
+      <Language Description="Lançamento do martelo feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="061" Gender="W" Order="48" Discipline="AT" Code="ATW061000">
+      <Language Description="Women's Long Jump" Language="ENG"/>
+      <Language Description="Saut en longueur - femmes" Language="FRA"/>
+      <Language Description="Salto em distância feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="062" Gender="W" Order="49" Discipline="AT" Code="ATW062000">
+      <Language Description="Women's Triple Jump" Language="ENG"/>
+      <Language Description="Triple saut - femmes" Language="FRA"/>
+      <Language Description="Salto triplo feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="071" Gender="W" Order="50" Discipline="AT" Code="ATW071000">
+      <Language Description="Women's High Jump" Language="ENG"/>
+      <Language Description="Saut en hauteur - femmes" Language="FRA"/>
+      <Language Description="Salto em altura feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="072" Gender="W" Order="51" Discipline="AT" Code="ATW072000">
+      <Language Description="Women's Pole Vault" Language="ENG"/>
+      <Language Description="Saut à la perche - femmes" Language="FRA"/>
+      <Language Description="Salto com vara feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="092" Gender="W" Order="52" Discipline="AT" Code="ATW092000">
+      <Language Description="Women's 20km Race Walk" Language="ENG"/>
+      <Language Description="20 km marche - femmes" Language="FRA"/>
+      <Language Description="Marcha atlética 20km feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="099" Gender="W" Order="53" Discipline="AT" Code="ATW099000">
+      <Language Description="Women's Marathon" Language="ENG"/>
+      <Language Description="Marathon - femmes" Language="FRA"/>
+      <Language Description="Maratona feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="100" Gender="W" Order="54" Discipline="AT" Code="ATW100000">
+      <Language Description="Women's 10,000m" Language="ENG"/>
+      <Language Description="10 000 m - femmes" Language="FRA"/>
+      <Language Description="10.000m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="W" Order="55" Discipline="AT" Code="ATW401000">
+      <Language Description="Women's 4 x 100m Relay" Language="ENG"/>
+      <Language Description="Relais 4 x 100 m - femmes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="404" Gender="W" Order="56" Discipline="AT" Code="ATW404000">
+      <Language Description="Women's 4 x 400m Relay" Language="ENG"/>
+      <Language Description="Relais 4 x 400 m - femmes" Language="FRA"/>
+      <Language Description="Revezamento 4x400m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="57" Discipline="AT" Code="ATW700000">
+      <Language Description="Women's Heptathlon" Language="ENG"/>
+      <Language Description="Heptathlon - femmes" Language="FRA"/>
+      <Language Description="Heptatlo feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="58" Discipline="AT" Code="ATW700A00">
+      <Language Description="Women's Heptathlon 100m Hurdles" Language="ENG"/>
+      <Language Description="Heptathlon - 100 m haies, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - 100m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="59" Discipline="AT" Code="ATW700B00">
+      <Language Description="Women's Heptathlon High Jump" Language="ENG"/>
+      <Language Description="Heptathlon - saut en hauteur, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - salto em altura feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="60" Discipline="AT" Code="ATW700C00">
+      <Language Description="Women's Heptathlon Shot Put" Language="ENG"/>
+      <Language Description="Heptathlon - lancer de poids, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - arremesso do peso feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="61" Discipline="AT" Code="ATW700D00">
+      <Language Description="Women's Heptathlon 200m" Language="ENG"/>
+      <Language Description="Heptathlon - 200 m, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - 200m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="62" Discipline="AT" Code="ATW700E00">
+      <Language Description="Women's Heptathlon Long Jump" Language="ENG"/>
+      <Language Description="Heptathlon - saut en longueur, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - salto em distância feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="63" Discipline="AT" Code="ATW700F00">
+      <Language Description="Women's Heptathlon Javelin Throw" Language="ENG"/>
+      <Language Description="Heptathlon - lancer de javelot, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - lançamento do dardo feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="700" Gender="W" Order="64" Discipline="AT" Code="ATW700G00">
+      <Language Description="Women's Heptathlon 800m" Language="ENG"/>
+      <Language Description="Heptathlon - 800 m, femmes" Language="FRA"/>
+      <Language Description="Heptatlo - 800m rasos feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="111" Gender="M" Order="7" Discipline="CF" Code="CFM111000">
+      <Language Description="Kayak Single (K1) 1000m Men" Language="ENG"/>
+      <Language Description="Kayak monoplace (K1) 1 000 m - hommes" Language="FRA"/>
+      <Language Description="Caiaque individual (K1) 1.000m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="112" Gender="M" Order="4" Discipline="CF" Code="CFM112000">
+      <Language Description="Kayak Single (K1) 200m Men" Language="ENG"/>
+      <Language Description="Kayak monoplace (K1) 200 m - hommes" Language="FRA"/>
+      <Language Description="Caiaque individual (K1) 200m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="121" Gender="M" Order="10" Discipline="CF" Code="CFM121000">
+      <Language Description="Kayak Double (K2) 1000m Men" Language="ENG"/>
+      <Language Description="Kayak biplace (K2) 1 000 m - hommes" Language="FRA"/>
+      <Language Description="Caiaque duplo (K2) 1.000m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="122" Gender="M" Order="8" Discipline="CF" Code="CFM122000">
+      <Language Description="Kayak Double (K2) 200m Men" Language="ENG"/>
+      <Language Description="Kayak biplace (K2) 200 m - hommes" Language="FRA"/>
+      <Language Description="Caiaque duplo (K2) 200m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="141" Gender="M" Order="12" Discipline="CF" Code="CFM141000">
+      <Language Description="Kayak Four (K4) 1000m Men" Language="ENG"/>
+      <Language Description="Kayak à quatre (K4) 1 000 m - hommes" Language="FRA"/>
+      <Language Description="Caiaque quádruplo (K4) 1.000m masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="211" Gender="M" Order="2" Discipline="CF" Code="CFM211000">
+      <Language Description="Canoe Single (C1) 1000m Men" Language="ENG"/>
+      <Language Description="Canoë monoplace (C1) 1 000 m - hommes" Language="FRA"/>
+      <Language Description="Canoa individual (C1) 1.000m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="212" Gender="M" Order="1" Discipline="CF" Code="CFM212000">
+      <Language Description="Canoe Single (C1) 200m Men" Language="ENG"/>
+      <Language Description="Canoë monoplace (C1) 200 m - hommes" Language="FRA"/>
+      <Language Description="Canoa individual (C1) 200m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="221" Gender="M" Order="3" Discipline="CF" Code="CFM221000">
+      <Language Description="Canoe Double (C2) 1000m Men" Language="ENG"/>
+      <Language Description="Canoë biplace (C2) 1 000 m - hommes" Language="FRA"/>
+      <Language Description="Canoa dupla (C2) 1.000m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="112" Gender="W" Order="5" Discipline="CF" Code="CFW112000">
+      <Language Description="Kayak Single (K1) 200m Women" Language="ENG"/>
+      <Language Description="Kayak monoplace (K1) 200 m - femmes" Language="FRA"/>
+      <Language Description="Caiaque individual (K1) 200m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="115" Gender="W" Order="6" Discipline="CF" Code="CFW115000">
+      <Language Description="Kayak Single (K1) 500m Women" Language="ENG"/>
+      <Language Description="Kayak monoplace (K1) 500 m - femmes" Language="FRA"/>
+      <Language Description="Caiaque individual (K1) 500m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="125" Gender="W" Order="9" Discipline="CF" Code="CFW125000">
+      <Language Description="Kayak Double (K2) 500m Women" Language="ENG"/>
+      <Language Description="Kayak biplace (K2) 500 m - femmes" Language="FRA"/>
+      <Language Description="Caiaque duplo (K2) 500m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="145" Gender="W" Order="11" Discipline="CF" Code="CFW145000">
+      <Language Description="Kayak Four (K4) 500m Women" Language="ENG"/>
+      <Language Description="Kayak à quatre (K4) 500 m - femmes" Language="FRA"/>
+      <Language Description="Caiaque quádruplo (K4) 500m feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="1" Discipline="CT" Code="CTM001900">
+      <Language Description="Men's 200m Flying Start" Language="ENG"/>
+      <Language Description="Vitesse départ lancé - hommes" Language="FRA"/>
+      <Language Description="Velocidade masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="M" Order="2" Discipline="CT" Code="CTM010300">
+      <Language Description="Men's 1km Time Trial" Language="ENG"/>
+      <Language Description="Hom., contre-la-montre (1 km)" Language="FRA"/>
+      <Language Description="Omnium masculino, contrarrelógio de 1km" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="M" Order="3" Discipline="CT" Code="CTM010500">
+      <Language Description="Men's 4km Individual Pursuit" Language="ENG"/>
+      <Language Description="Hom., poursuite ind. (4 km)" Language="FRA"/>
+      <Language Description="Perseguição individual masculina (4km)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="M" Order="4" Discipline="CT" Code="CTM401000">
+      <Language Description="Men's Team Sprint" Language="ENG"/>
+      <Language Description="Vitesse par équipes - hommes" Language="FRA"/>
+      <Language Description="Velocidade por equipes masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="402" Gender="M" Order="5" Discipline="CT" Code="CTM402000">
+      <Language Description="Men's Team Pursuit" Language="ENG"/>
+      <Language Description="Poursuite par équipes - hommes" Language="FRA"/>
+      <Language Description="Perseguição por equipes masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="6" Discipline="CT" Code="CTW001900">
+      <Language Description="Women's 200m Flying Start" Language="ENG"/>
+      <Language Description="Vitesse départ lancé - femmes" Language="FRA"/>
+      <Language Description="Velocidade feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="W" Order="7" Discipline="CT" Code="CTW010300">
+      <Language Description="Women's 500m Time Trial" Language="ENG"/>
+      <Language Description="Fem., contre-la-montre (500 m)" Language="FRA"/>
+      <Language Description="Omnium feminino, contrarrelógio de 500m" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="W" Order="8" Discipline="CT" Code="CTW010500">
+      <Language Description="Women's 3km Individual Pursuit" Language="ENG"/>
+      <Language Description="Fem., poursuite ind. (3 km)" Language="FRA"/>
+      <Language Description="Perseguição individual feminina (3km)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="W" Order="9" Discipline="CT" Code="CTW401000">
+      <Language Description="Women's Team Sprint" Language="ENG"/>
+      <Language Description="Vitesse par équipes - femmes" Language="FRA"/>
+      <Language Description="Velocidade por equipes feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="402" Gender="W" Order="10" Discipline="CT" Code="CTW402000">
+      <Language Description="Women's Team Pursuit" Language="ENG"/>
+      <Language Description="Poursuite par équipes - femmes" Language="FRA"/>
+      <Language Description="Perseguição por equipes feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="1" Discipline="FE" Code="FEM001000">
+      <Language Description="Men's Foil Individual" Language="ENG"/>
+      <Language Description="Fleuret individuel - hommes" Language="FRA"/>
+      <Language Description="Florete individual masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="002" Gender="M" Order="2" Discipline="FE" Code="FEM002000">
+      <Language Description="Men's Épée Individual" Language="ENG"/>
+      <Language Description="Épée individuelle - hommes" Language="FRA"/>
+      <Language Description="Espada individual masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="003" Gender="M" Order="3" Discipline="FE" Code="FEM003000">
+      <Language Description="Men's Sabre Individual" Language="ENG"/>
+      <Language Description="Sabre individuel - hommes" Language="FRA"/>
+      <Language Description="Sabre individual masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="M" Order="4" Discipline="FE" Code="FEM401000">
+      <Language Description="Men's Foil Team" Language="ENG"/>
+      <Language Description="Fleuret par équipes - hommes" Language="FRA"/>
+      <Language Description="Florete por equipes masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="402" Gender="M" Order="5" Discipline="FE" Code="FEM402000">
+      <Language Description="Men's Épée Team" Language="ENG"/>
+      <Language Description="Épée par équipes - hommes" Language="FRA"/>
+      <Language Description="Espada por equipes masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="6" Discipline="FE" Code="FEW001000">
+      <Language Description="Women's Foil Individual" Language="ENG"/>
+      <Language Description="Fleuret individuel - femmes" Language="FRA"/>
+      <Language Description="Florete individual feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="002" Gender="W" Order="7" Discipline="FE" Code="FEW002000">
+      <Language Description="Women's Épée Individual" Language="ENG"/>
+      <Language Description="Épée individuelle - femmes" Language="FRA"/>
+      <Language Description="Espada individual feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="003" Gender="W" Order="8" Discipline="FE" Code="FEW003000">
+      <Language Description="Women's Sabre Individual" Language="ENG"/>
+      <Language Description="Sabre individuel - femmes" Language="FRA"/>
+      <Language Description="Sabre individual feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="402" Gender="W" Order="9" Discipline="FE" Code="FEW402000">
+      <Language Description="Women's Épée Team" Language="ENG"/>
+      <Language Description="Épée par équipes - femmes" Language="FRA"/>
+      <Language Description="Espada por equipes feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="403" Gender="W" Order="10" Discipline="FE" Code="FEW403000">
+      <Language Description="Women's Sabre Team" Language="ENG"/>
+      <Language Description="Sabre par équipes - femmes" Language="FRA"/>
+      <Language Description="Sabre por equipes feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="2" Discipline="MP" Code="MPM0010000">
+      <Language Description="Men's Overall Points" Language="ENG"/>
+      <Language Description="Hommes global" Language="FRA"/>
+      <Language Description="Masculino geral" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="4" Discipline="MP" Code="MPM001A000">
+      <Language Description="Men's Fencing Record" Language="ENG"/>
+      <Language Description="Épreuve d'escrime - hommes" Language="FRA"/>
+      <Language Description="Prova de esgrima masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="6" Discipline="MP" Code="MPM001B001">
+      <Language Description="Men's Swimming 25m Pool" Language="ENG"/>
+      <Language Description="Natation piscine 25m - hommes" Language="FRA"/>
+      <Language Description="Natação piscina 25m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="8" Discipline="MP" Code="MPM001B002">
+      <Language Description="Men's Swimming 50m Pool" Language="ENG"/>
+      <Language Description="Natation piscine 50m - hommes" Language="FRA"/>
+      <Language Description="Natação piscina 50m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="M" Order="10" Discipline="MP" Code="MPM001D000">
+      <Language Description="Men's Combined Running/Shooting Record" Language="ENG"/>
+      <Language Description="Épreuve combinée - hommes" Language="FRA"/>
+      <Language Description="Prova combinada masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="1" Discipline="MP" Code="MPW0010000">
+      <Language Description="Women's Overall Points" Language="ENG"/>
+      <Language Description="Femmes global" Language="FRA"/>
+      <Language Description="Feminino geral" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="3" Discipline="MP" Code="MPW001A000">
+      <Language Description="Women's Fencing Record" Language="ENG"/>
+      <Language Description="Épreuve d'escrime - femmes" Language="FRA"/>
+      <Language Description="Prova de esgrima feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="5" Discipline="MP" Code="MPW001B001">
+      <Language Description="Women's Swimming 25m Pool" Language="ENG"/>
+      <Language Description="Natation piscine 25m - femmes" Language="FRA"/>
+      <Language Description="Natação piscina 25m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="7" Discipline="MP" Code="MPW001B002">
+      <Language Description="Women's Swimming 50m Pool" Language="ENG"/>
+      <Language Description="Natation piscine 50m - femmes" Language="FRA"/>
+      <Language Description="Natação piscina 50m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="001" Gender="W" Order="9" Discipline="MP" Code="MPW001D000">
+      <Language Description="Women's Combined Running/Shooting Record" Language="ENG"/>
+      <Language Description="Épreuve combinée - femmes" Language="FRA"/>
+      <Language Description="Prova combinada - feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="012" Gender="M" Order="1" Discipline="RO" Code="ROM012000">
+      <Language Description="Men's Single Sculls" Language="ENG"/>
+      <Language Description="Un rameur, skiff - hommes" Language="FRA"/>
+      <Language Description="Single-skiff masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="021" Gender="M" Order="3" Discipline="RO" Code="ROM021000">
+      <Language Description="Men's Pair" Language="ENG"/>
+      <Language Description="Deux en pointe - hommes" Language="FRA"/>
+      <Language Description="Dois sem masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="022" Gender="M" Order="5" Discipline="RO" Code="ROM022000">
+      <Language Description="Men's Double Sculls" Language="ENG"/>
+      <Language Description="Deux en couple - hommes" Language="FRA"/>
+      <Language Description="Double-skiff masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="041" Gender="M" Order="7" Discipline="RO" Code="ROM041000">
+      <Language Description="Men's Four" Language="ENG"/>
+      <Language Description="Quatre en pointe - hommes" Language="FRA"/>
+      <Language Description="Quatro sem masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="042" Gender="M" Order="8" Discipline="RO" Code="ROM042000">
+      <Language Description="Men's Quadruple Sculls" Language="ENG"/>
+      <Language Description="Quatre en couple - hommes" Language="FRA"/>
+      <Language Description="Four-skiff masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="083" Gender="M" Order="10" Discipline="RO" Code="ROM083000">
+      <Language Description="Men's Eight" Language="ENG"/>
+      <Language Description="Huit en pointe - hommes" Language="FRA"/>
+      <Language Description="Oito com masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="122" Gender="M" Order="12" Discipline="RO" Code="ROM122000">
+      <Language Description="Lightweight Men's Double Sculls" Language="ENG"/>
+      <Language Description="Deux en couple poids légers - hommes" Language="FRA"/>
+      <Language Description="Double-skiff peso leve masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="141" Gender="M" Order="14" Discipline="RO" Code="ROM141000">
+      <Language Description="Lightweight Men's Four" Language="ENG"/>
+      <Language Description="Quatre en pointe poids légers - hommes" Language="FRA"/>
+      <Language Description="Quatro sem peso leve masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="012" Gender="W" Order="2" Discipline="RO" Code="ROW012000">
+      <Language Description="Women's Single Sculls" Language="ENG"/>
+      <Language Description="Un rameur, skiff - femmes" Language="FRA"/>
+      <Language Description="Single-skiff feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="021" Gender="W" Order="4" Discipline="RO" Code="ROW021000">
+      <Language Description="Women's Pair" Language="ENG"/>
+      <Language Description="Deux en pointe - femmes" Language="FRA"/>
+      <Language Description="Dois sem feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="022" Gender="W" Order="6" Discipline="RO" Code="ROW022000">
+      <Language Description="Women's Double Sculls" Language="ENG"/>
+      <Language Description="Deux en couple - femmes" Language="FRA"/>
+      <Language Description="Double-skiff feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="042" Gender="W" Order="9" Discipline="RO" Code="ROW042000">
+      <Language Description="Women's Quadruple Sculls" Language="ENG"/>
+      <Language Description="Quatre en couple - femmes" Language="FRA"/>
+      <Language Description="Four-skiff feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="083" Gender="W" Order="11" Discipline="RO" Code="ROW083000">
+      <Language Description="Women's Eight" Language="ENG"/>
+      <Language Description="Huit en pointe - femmes" Language="FRA"/>
+      <Language Description="Oito com feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="122" Gender="W" Order="13" Discipline="RO" Code="ROW122000">
+      <Language Description="Lightweight Women's Double Sculls" Language="ENG"/>
+      <Language Description="Deux en couple poids légers - femmes" Language="FRA"/>
+      <Language Description="Double-skiff peso leve feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="101" Gender="M" Order="5" Discipline="SH" Code="SHM101000">
+      <Language Description="10m Air Rifle Men" Language="ENG"/>
+      <Language Description="10 m rifle à air - hommes" Language="FRA"/>
+      <Language Description="Carabina de ar 10m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="101" Gender="M" Order="6" Discipline="SH" Code="SHM101100">
+      <Language Description="10m Air Rifle Men's Finals" Language="ENG"/>
+      <Language Description="10 m rifle à air - hommes, finale" Language="FRA"/>
+      <Language Description="Carabina de ar 10m masculina, finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="103" Gender="M" Order="3" Discipline="SH" Code="SHM103000">
+      <Language Description="50m Rifle Prone Men" Language="ENG"/>
+      <Language Description="50 m rifle couché - hommes" Language="FRA"/>
+      <Language Description="Carabina deitado 50m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="103" Gender="M" Order="4" Discipline="SH" Code="SHM103100">
+      <Language Description="50m Rifle Prone Men's Finals" Language="ENG"/>
+      <Language Description="50 m rifle couché - hommes, finale" Language="FRA"/>
+      <Language Description="Carabina deitado 50m masculina, finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="104" Gender="M" Order="1" Discipline="SH" Code="SHM104000">
+      <Language Description="50m Rifle 3 Positions Men" Language="ENG"/>
+      <Language Description="50 m rifle 3 positions - hommes" Language="FRA"/>
+      <Language Description="Carabina três posições 50m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="104" Gender="M" Order="2" Discipline="SH" Code="SHM104100">
+      <Language Description="50m Rifle 3 Positions Men's Finals" Language="ENG"/>
+      <Language Description="50 m rifle 3 positions - hommes, finale" Language="FRA"/>
+      <Language Description="Carabina três posições 50m masculina, fi" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="201" Gender="M" Order="7" Discipline="SH" Code="SHM201000">
+      <Language Description="50m Pistol Men" Language="ENG"/>
+      <Language Description="50 m pistolet - hommes" Language="FRA"/>
+      <Language Description="Pistola 50m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="201" Gender="M" Order="8" Discipline="SH" Code="SHM201100">
+      <Language Description="50m Pistol Men's Finals" Language="ENG"/>
+      <Language Description="50 m pistolet - hommes, finale" Language="FRA"/>
+      <Language Description="Pistola 50m masculina, finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="202" Gender="M" Order="9" Discipline="SH" Code="SHM202000">
+      <Language Description="25m Rapid Fire Pistol Men" Language="ENG"/>
+      <Language Description="25 m pistolet feu rapide - hommes" Language="FRA"/>
+      <Language Description="Pistola de tiro rápido 25m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="202" Gender="M" Order="10" Discipline="SH" Code="SHM202100">
+      <Language Description="25m Rapid Fire Pistol Men's Finals" Language="ENG"/>
+      <Language Description="25 m pistolet feu rapide - hom., finale" Language="FRA"/>
+      <Language Description="Pistola de tiro rápido 25m masculina, fi" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="203" Gender="M" Order="11" Discipline="SH" Code="SHM203000">
+      <Language Description="10m Air Pistol Men" Language="ENG"/>
+      <Language Description="10 m pistolet à air - hommes" Language="FRA"/>
+      <Language Description="Pistola de ar 10m masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="203" Gender="M" Order="12" Discipline="SH" Code="SHM203100">
+      <Language Description="10m Air Pistol Men's Finals" Language="ENG"/>
+      <Language Description="10 m pistolet à air - hommes, finale" Language="FRA"/>
+      <Language Description="Pistola de ar 10m masculina, finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="M" Order="13" Discipline="SH" Code="SHM401000">
+      <Language Description="Trap Men" Language="ENG"/>
+      <Language Description="Fosse olympique - hommes" Language="FRA"/>
+      <Language Description="Fossa olímpica masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="402" Gender="M" Order="14" Discipline="SH" Code="SHM402000">
+      <Language Description="Double Trap Men" Language="ENG"/>
+      <Language Description="Double trap - hommes" Language="FRA"/>
+      <Language Description="Fossa double masculina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="403" Gender="M" Order="15" Discipline="SH" Code="SHM403000">
+      <Language Description="Skeet Men" Language="ENG"/>
+      <Language Description="Skeet - hommes" Language="FRA"/>
+      <Language Description="Skeet masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="101" Gender="W" Order="18" Discipline="SH" Code="SHW101000">
+      <Language Description="10m Air Rifle Women" Language="ENG"/>
+      <Language Description="10 m rifle à air - femmes" Language="FRA"/>
+      <Language Description="Carabina de ar 10m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="101" Gender="W" Order="19" Discipline="SH" Code="SHW101100">
+      <Language Description="10m Air Rifle Women's Finals" Language="ENG"/>
+      <Language Description="10 m rifle à air - femmes, finale" Language="FRA"/>
+      <Language Description="Carabina de ar 10m feminina, finais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="104" Gender="W" Order="16" Discipline="SH" Code="SHW104000">
+      <Language Description="50m Rifle 3 Positions Women" Language="ENG"/>
+      <Language Description="50 m rifle 3 positions - femmes" Language="FRA"/>
+      <Language Description="Carabina três posições 50m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="104" Gender="W" Order="17" Discipline="SH" Code="SHW104100">
+      <Language Description="50m Rifle 3 Positions Women's Finals" Language="ENG"/>
+      <Language Description="50 m rifle 3 positions - femmes, finale" Language="FRA"/>
+      <Language Description="Carabina três posições 50m feminina, fin" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="203" Gender="W" Order="21" Discipline="SH" Code="SHW203000">
+      <Language Description="10m Air Pistol Women" Language="ENG"/>
+      <Language Description="10 m pistolet à air - femmes" Language="FRA"/>
+      <Language Description="Pistola de ar 10m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="203" Gender="W" Order="22" Discipline="SH" Code="SHW203100">
+      <Language Description="10m Air Pistol Women's Finals" Language="ENG"/>
+      <Language Description="10 m pistolet à air - femmes, finale" Language="FRA"/>
+      <Language Description="Pistola de ar 10m feminina, final" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="204" Gender="W" Order="20" Discipline="SH" Code="SHW204000">
+      <Language Description="25m Pistol Women" Language="ENG"/>
+      <Language Description="25 m pistolet - femmes" Language="FRA"/>
+      <Language Description="Pistola 25m feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="401" Gender="W" Order="23" Discipline="SH" Code="SHW401000">
+      <Language Description="Trap Women" Language="ENG"/>
+      <Language Description="Trap - femmes" Language="FRA"/>
+      <Language Description="Fossa olímpica feminina" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="403" Gender="W" Order="24" Discipline="SH" Code="SHW403000">
+      <Language Description="Skeet Women" Language="ENG"/>
+      <Language Description="Skeet - femmes" Language="FRA"/>
+      <Language Description="Skeet feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="M" Order="20" Discipline="SW" Code="SWM010000">
+      <Language Description="Men's 50m Freestyle" Language="ENG"/>
+      <Language Description="50 m nage libre - hommes" Language="FRA"/>
+      <Language Description="50m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="011" Gender="M" Order="21" Discipline="SW" Code="SWM011000">
+      <Language Description="Men's 100m Freestyle" Language="ENG"/>
+      <Language Description="100 m nage libre - hommes" Language="FRA"/>
+      <Language Description="100m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="012" Gender="M" Order="22" Discipline="SW" Code="SWM012000">
+      <Language Description="Men's 200m Freestyle" Language="ENG"/>
+      <Language Description="200 m nage libre - hommes" Language="FRA"/>
+      <Language Description="200m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="014" Gender="M" Order="23" Discipline="SW" Code="SWM014000">
+      <Language Description="Men's 400m Freestyle" Language="ENG"/>
+      <Language Description="400 m nage libre - hommes" Language="FRA"/>
+      <Language Description="400m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="015" Gender="M" Order="25" Discipline="SW" Code="SWM015000">
+      <Language Description="Men's 1500m Freestyle" Language="ENG"/>
+      <Language Description="1 500 m nage libre - hommes" Language="FRA"/>
+      <Language Description="1.500m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="24" Code="SWM018000">
+      <Language Description="Men's 800m Freestyle" Language="ENG"/>
+      <Language Description="800 m nage libre - hommes" Language="FRA"/>
+      <Language Description="800m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="32" Code="SWM020000">
+      <Language Description="Men's 50m Butterfly" Language="ENG"/>
+      <Language Description="50 m papillon - hommes" Language="FRA"/>
+      <Language Description="50m borboleta masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="021" Gender="M" Order="33" Discipline="SW" Code="SWM021000">
+      <Language Description="Men's 100m Butterfly" Language="ENG"/>
+      <Language Description="100 m papillon - hommes" Language="FRA"/>
+      <Language Description="100m borboleta masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="022" Gender="M" Order="34" Discipline="SW" Code="SWM022000">
+      <Language Description="Men's 200m Butterfly" Language="ENG"/>
+      <Language Description="200 m papillon - hommes" Language="FRA"/>
+      <Language Description="200m borboleta masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="29" Code="SWM030000">
+      <Language Description="Men's 50m Breaststroke" Language="ENG"/>
+      <Language Description="50 m brasse - hommes" Language="FRA"/>
+      <Language Description="50m peito masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="031" Gender="M" Order="30" Discipline="SW" Code="SWM031000">
+      <Language Description="Men's 100m Breaststroke" Language="ENG"/>
+      <Language Description="100 m brasse - hommes" Language="FRA"/>
+      <Language Description="100m peito masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="032" Gender="M" Order="31" Discipline="SW" Code="SWM032000">
+      <Language Description="Men's 200m Breaststroke" Language="ENG"/>
+      <Language Description="200 m brasse - hommes" Language="FRA"/>
+      <Language Description="200m peito masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="26" Code="SWM040000">
+      <Language Description="Men's 50m Backstroke" Language="ENG"/>
+      <Language Description="50 m dos - hommes" Language="FRA"/>
+      <Language Description="50m costas masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="041" Gender="M" Order="27" Discipline="SW" Code="SWM041000">
+      <Language Description="Men's 100m Backstroke" Language="ENG"/>
+      <Language Description="100 m dos - hommes" Language="FRA"/>
+      <Language Description="100m costas masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="042" Gender="M" Order="28" Discipline="SW" Code="SWM042000">
+      <Language Description="Men's 200m Backstroke" Language="ENG"/>
+      <Language Description="200 m dos - hommes" Language="FRA"/>
+      <Language Description="200m costas masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="052" Gender="M" Order="35" Discipline="SW" Code="SWM052000">
+      <Language Description="Men's 200m Individual Medley" Language="ENG"/>
+      <Language Description="200 m quatre nages individuel - hommes" Language="FRA"/>
+      <Language Description="200m medley masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="054" Gender="M" Order="36" Discipline="SW" Code="SWM054000">
+      <Language Description="Men's 400m Individual Medley" Language="ENG"/>
+      <Language Description="400 m quatre nages individuel - hommes" Language="FRA"/>
+      <Language Description="400m medley masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="411" Gender="M" Order="37" Discipline="SW" Code="SWM411000">
+      <Language Description="Men's 4 x 100m Freestyle Relay" Language="ENG"/>
+      <Language Description="Relais 4x100 m nage libre - hommes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="412" Gender="M" Order="38" Discipline="SW" Code="SWM412000">
+      <Language Description="Men's 4 x 200m Freestyle Relay" Language="ENG"/>
+      <Language Description="Relais 4x200 m nage libre - hommes" Language="FRA"/>
+      <Language Description="Revezamento 4x200m livre masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="451" Gender="M" Order="39" Discipline="SW" Code="SWM451000">
+      <Language Description="Men's 4 x 100m Medley Relay" Language="ENG"/>
+      <Language Description="Relais 4x100 m quatre nages - hommes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m medley masculino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="010" Gender="W" Order="1" Discipline="SW" Code="SWW010000">
+      <Language Description="Women's 50m Freestyle" Language="ENG"/>
+      <Language Description="50 m nage libre - femmes" Language="FRA"/>
+      <Language Description="50m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="011" Gender="W" Order="2" Discipline="SW" Code="SWW011000">
+      <Language Description="Women's 100m Freestyle" Language="ENG"/>
+      <Language Description="100 m nage libre - femmes" Language="FRA"/>
+      <Language Description="100m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="012" Gender="W" Order="3" Discipline="SW" Code="SWW012000">
+      <Language Description="Women's 200m Freestyle" Language="ENG"/>
+      <Language Description="200 m nage libre - femmes" Language="FRA"/>
+      <Language Description="200m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="014" Gender="W" Order="4" Discipline="SW" Code="SWW014000">
+      <Language Description="Women's 400m Freestyle" Language="ENG"/>
+      <Language Description="400 m nage libre - femmes" Language="FRA"/>
+      <Language Description="400m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="018" Gender="W" Order="5" Discipline="SW" Code="SWW018000">
+      <Language Description="Women's 800m Freestyle" Language="ENG"/>
+      <Language Description="800 m nage libre - femmes" Language="FRA"/>
+      <Language Description="800m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="12" Code="SWW020000">
+      <Language Description="Women's 50m Butterfly" Language="ENG"/>
+      <Language Description="50 m papillon - femmes" Language="FRA"/>
+      <Language Description="50m borboleta feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="021" Gender="W" Order="13" Discipline="SW" Code="SWW021000">
+      <Language Description="Women's 100m Butterfly" Language="ENG"/>
+      <Language Description="100 m papillon - femmes" Language="FRA"/>
+      <Language Description="100m borboleta feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="022" Gender="W" Order="14" Discipline="SW" Code="SWW022000">
+      <Language Description="Women's 200m Butterfly" Language="ENG"/>
+      <Language Description="200 m papillon - femmes" Language="FRA"/>
+      <Language Description="200m borboleta feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="9" Code="SWW030000">
+      <Language Description="Women's 50m Breaststroke" Language="ENG"/>
+      <Language Description="50 m brasse - femmes" Language="FRA"/>
+      <Language Description="50m peito feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="031" Gender="W" Order="10" Discipline="SW" Code="SWW031000">
+      <Language Description="Women's 100m Breaststroke" Language="ENG"/>
+      <Language Description="100 m brasse - femmes" Language="FRA"/>
+      <Language Description="100m peito feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="032" Gender="W" Order="11" Discipline="SW" Code="SWW032000">
+      <Language Description="Women's 200m Breaststroke" Language="ENG"/>
+      <Language Description="200 m brasse - femmes" Language="FRA"/>
+      <Language Description="200m peito feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Order="6" Code="SWW040000">
+      <Language Description="Women's 50m Backstroke" Language="ENG"/>
+      <Language Description="50 m dos - femmes" Language="FRA"/>
+      <Language Description="50m costas feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="041" Gender="W" Order="7" Discipline="SW" Code="SWW041000">
+      <Language Description="Women's 100m Backstroke" Language="ENG"/>
+      <Language Description="100 m dos - femmes" Language="FRA"/>
+      <Language Description="100m costas feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="042" Gender="W" Order="8" Discipline="SW" Code="SWW042000">
+      <Language Description="Women's 200m Backstroke" Language="ENG"/>
+      <Language Description="200 m dos - femmes" Language="FRA"/>
+      <Language Description="200m costas feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="052" Gender="W" Order="15" Discipline="SW" Code="SWW052000">
+      <Language Description="Women's 200m Individual Medley" Language="ENG"/>
+      <Language Description="200 m 4 nages individuel - femmes" Language="FRA"/>
+      <Language Description="200m medley feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="054" Gender="W" Order="16" Discipline="SW" Code="SWW054000">
+      <Language Description="Women's 400m Individual Medley" Language="ENG"/>
+      <Language Description="400 m 4 nages individuel - femmes" Language="FRA"/>
+      <Language Description="400m medley feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="411" Gender="W" Order="17" Discipline="SW" Code="SWW411000">
+      <Language Description="Women's 4 x 100m Freestyle Relay" Language="ENG"/>
+      <Language Description="Relais 4x100 m nage libre - femmes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="412" Gender="W" Order="18" Discipline="SW" Code="SWW412000">
+      <Language Description="Women's 4 x 200m Freestyle Relay" Language="ENG"/>
+      <Language Description="Relais 4x200 m nage libre - femmes" Language="FRA"/>
+      <Language Description="Revezamento 4x200m livre feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="451" Gender="W" Order="19" Discipline="SW" Code="SWW451000">
+      <Language Description="Women's 4 x 100m Medley Relay" Language="ENG"/>
+      <Language Description="Relais 4x100 m quatre nages - femmes" Language="FRA"/>
+      <Language Description="Revezamento 4x100m medley feminino" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="005" Gender="M" Order="42" Discipline="WL" Code="WLM005000">
+      <Language Description="Men's 105kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 105 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 105kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="025" Gender="M" Order="45" Discipline="WL" Code="WLM025000">
+      <Language Description="Men's +105kg - Total" Language="ENG"/>
+      <Language Description="+105 kg - hommes, total" Language="FRA"/>
+      <Language Description="Acima de 105kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="056" Gender="M" Order="24" Discipline="WL" Code="WLM056000">
+      <Language Description="Men's 56kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 56 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 56kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="062" Gender="M" Order="27" Discipline="WL" Code="WLM062000">
+      <Language Description="Men's 62kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 62 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 62kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="M" Order="30" Discipline="WL" Code="WLM069000">
+      <Language Description="Men's 69kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 69kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="077" Gender="M" Order="33" Discipline="WL" Code="WLM077000">
+      <Language Description="Men's 77kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 77 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 77kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="085" Gender="M" Order="36" Discipline="WL" Code="WLM085000">
+      <Language Description="Men's 85kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 85 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 85kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="094" Gender="M" Order="39" Discipline="WL" Code="WLM094000">
+      <Language Description="Men's 94kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 94 kg - hommes, total" Language="FRA"/>
+      <Language Description="Até 94kg masculino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="005" Gender="M" Order="40" Discipline="WL" Code="WLM105000">
+      <Language Description="Men's 105kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 105 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 105kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="025" Gender="M" Order="43" Discipline="WL" Code="WLM125000">
+      <Language Description="Men's +105kg - Snatch" Language="ENG"/>
+      <Language Description="+105 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Acima de 105kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="056" Gender="M" Order="22" Discipline="WL" Code="WLM156000">
+      <Language Description="Men's 56kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 56 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 56kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="062" Gender="M" Order="25" Discipline="WL" Code="WLM162000">
+      <Language Description="Men's 62kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 62 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 62kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="M" Order="28" Discipline="WL" Code="WLM169000">
+      <Language Description="Men's 69kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 69kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="077" Gender="M" Order="31" Discipline="WL" Code="WLM177000">
+      <Language Description="Men's 77kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 77 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 77kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="085" Gender="M" Order="34" Discipline="WL" Code="WLM185000">
+      <Language Description="Men's 85kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 85 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 85kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="094" Gender="M" Order="37" Discipline="WL" Code="WLM194000">
+      <Language Description="Men's 94kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 94 kg - hommes, arraché" Language="FRA"/>
+      <Language Description="Até 94kg masculino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="005" Gender="M" Order="41" Discipline="WL" Code="WLM205000">
+      <Language Description="Men's 105kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 105 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 105kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="025" Gender="M" Order="44" Discipline="WL" Code="WLM225000">
+      <Language Description="Men's +105kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="+105 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Acima de 105kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="056" Gender="M" Order="23" Discipline="WL" Code="WLM256000">
+      <Language Description="Men's 56kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 56 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 56kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="062" Gender="M" Order="26" Discipline="WL" Code="WLM262000">
+      <Language Description="Men's 62kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 62 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 62kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="M" Order="29" Discipline="WL" Code="WLM269000">
+      <Language Description="Men's 69kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 69kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="077" Gender="M" Order="32" Discipline="WL" Code="WLM277000">
+      <Language Description="Men's 77kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 77 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 77kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="085" Gender="M" Order="35" Discipline="WL" Code="WLM285000">
+      <Language Description="Men's 85kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 85 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 85kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="094" Gender="M" Order="38" Discipline="WL" Code="WLM294000">
+      <Language Description="Men's 94kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 94 kg - hommes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 94kg masculino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="026" Gender="W" Order="21" Discipline="WL" Code="WLW026000">
+      <Language Description="Women's +75kg - Total" Language="ENG"/>
+      <Language Description="+75 kg - femmes, total" Language="FRA"/>
+      <Language Description="Acima de 75kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="048" Gender="W" Order="3" Discipline="WL" Code="WLW048000">
+      <Language Description="Women's 48kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 48 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 48kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="053" Gender="W" Order="6" Discipline="WL" Code="WLW053000">
+      <Language Description="Women's 53kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 53 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 53kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="058" Gender="W" Order="9" Discipline="WL" Code="WLW058000">
+      <Language Description="Women's 58kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 58 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 58kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="063" Gender="W" Order="12" Discipline="WL" Code="WLW063000">
+      <Language Description="Women's 63kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 63 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 63kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="W" Order="15" Discipline="WL" Code="WLW069000">
+      <Language Description="Women's 69kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 69kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="075" Gender="W" Order="18" Discipline="WL" Code="WLW075000">
+      <Language Description="Women's 75kg - Total" Language="ENG"/>
+      <Language Description="Jusqu'à 75 kg - femmes, total" Language="FRA"/>
+      <Language Description="Até 75kg feminino, total" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="026" Gender="W" Order="19" Discipline="WL" Code="WLW126000">
+      <Language Description="Women's +75kg - Snatch" Language="ENG"/>
+      <Language Description="+75 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Acima de 75kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="048" Gender="W" Order="1" Discipline="WL" Code="WLW148000">
+      <Language Description="Women's 48kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 48 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 48kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="053" Gender="W" Order="4" Discipline="WL" Code="WLW153000">
+      <Language Description="Women's 53kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 53 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 53kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="058" Gender="W" Order="7" Discipline="WL" Code="WLW158000">
+      <Language Description="Women's 58kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 58 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 58kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="063" Gender="W" Order="10" Discipline="WL" Code="WLW163000">
+      <Language Description="Women's 63kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 63 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 63kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="W" Order="13" Discipline="WL" Code="WLW169000">
+      <Language Description="Women's 69kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 69kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="075" Gender="W" Order="16" Discipline="WL" Code="WLW175000">
+      <Language Description="Women's 75kg - Snatch" Language="ENG"/>
+      <Language Description="Jusqu'à 75 kg - femmes, arraché" Language="FRA"/>
+      <Language Description="Até 75kg feminino, arranco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="026" Gender="W" Order="20" Discipline="WL" Code="WLW226000">
+      <Language Description="Women's +75kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="+75 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Acima de 75kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="048" Gender="W" Order="2" Discipline="WL" Code="WLW248000">
+      <Language Description="Women's 48kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 48 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 48kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="053" Gender="W" Order="5" Discipline="WL" Code="WLW253000">
+      <Language Description="Women's 53kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 53 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 53kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="058" Gender="W" Order="8" Discipline="WL" Code="WLW258000">
+      <Language Description="Women's 58kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 58 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 58kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="063" Gender="W" Order="11" Discipline="WL" Code="WLW263000">
+      <Language Description="Women's 63kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 63 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 63kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="069" Gender="W" Order="14" Discipline="WL" Code="WLW269000">
+      <Language Description="Women's 69kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 69 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 69kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Event="075" Gender="W" Order="17" Discipline="WL" Code="WLW275000">
+      <Language Description="Women's 75kg - Clean &amp; Jerk" Language="ENG"/>
+      <Language Description="Jusqu'à 75 kg - femmes, épaulé-jeté" Language="FRA"/>
+      <Language Description="Até 75kg feminino, arremesso" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

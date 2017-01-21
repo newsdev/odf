@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="63" Time="061257811" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="48" DocumentSubtype="WTHR_REGION">
+  <Competition Code="OG2016">
+    <CodeSet Code="BAT">
+      <Language Description="Barra da Tijuca" Language="ENG"/>
+      <Language Description="Barra da Tijuca" Language="FRA"/>
+      <Language Description="Barra da Tijuca" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BHZ">
+      <Language Description="Belo Horizonte" Language="ENG"/>
+      <Language Description="Belo Horizonte" Language="FRA"/>
+      <Language Description="Belo Horizonte" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="BRS">
+      <Language Description="Brasília" Language="ENG"/>
+      <Language Description="Brasília" Language="FRA"/>
+      <Language Description="Brasília" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="COP">
+      <Language Description="Copacabana" Language="ENG"/>
+      <Language Description="Copacabana" Language="FRA"/>
+      <Language Description="Copacabana" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DEO">
+      <Language Description="Deodoro" Language="ENG"/>
+      <Language Description="Deodoro" Language="FRA"/>
+      <Language Description="Deodoro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MNU">
+      <Language Description="Manaus" Language="ENG"/>
+      <Language Description="Manaus" Language="FRA"/>
+      <Language Description="Manaus" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MRZ">
+      <Language Description="Maracanã" Language="ENG"/>
+      <Language Description="Maracanã" Language="FRA"/>
+      <Language Description="Maracanã" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SLV">
+      <Language Description="Salvador" Language="ENG"/>
+      <Language Description="Salvador" Language="FRA"/>
+      <Language Description="Salvador" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SPL">
+      <Language Description="São Paulo" Language="ENG"/>
+      <Language Description="São Paulo" Language="FRA"/>
+      <Language Description="São Paulo" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

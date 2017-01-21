@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="53" Time="061253843" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="19" DocumentSubtype="NWS_TYPE">
+  <Competition Code="OG2016">
+    <CodeSet Code="CEN">
+      <Language Description="Ceremonies News" LongDescription="Ceremonies News" Language="ENG"/>
+      <Language Description="Ceremonies News" LongDescription="Ceremonies News" Language="FRA"/>
+      <Language Description="Ceremonies News" LongDescription="Ceremonies News" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FL">
+      <Language Description="Flag Bearers" LongDescription="Flag Bearers" Language="ENG"/>
+      <Language Description="Flag Bearers" LongDescription="Flag Bearers" Language="FRA"/>
+      <Language Description="Flag Bearers" LongDescription="Flag Bearers" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FQ">
+      <Language Description="Flash Quotes" LongDescription="Flash Quotes" Language="ENG"/>
+      <Language Description="Flash Quotes" LongDescription="Flash Quotes" Language="FRA"/>
+      <Language Description="Flash Quotes" LongDescription="Flash Quotes" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MCH">
+      <Language Description="Press Conference Highlights" LongDescription="Press Conference Highlights" Language="ENG"/>
+      <Language Description="Press Conference Highlights" LongDescription="Press Conference Highlights" Language="FRA"/>
+      <Language Description="Press Conference Highlights" LongDescription="Press Conference Highlights" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="OPC">
+      <Language Description="Open and Closing Ceremonies" LongDescription="Open and Closing Ceremonies" Language="ENG"/>
+      <Language Description="Open and Closing Ceremonies" LongDescription="Open and Closing Ceremonies" Language="FRA"/>
+      <Language Description="Open and Closing Ceremonies" LongDescription="Open and Closing Ceremonies" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PRE">
+      <Language Description="Medals Presenters" LongDescription="Medals Presenters" Language="ENG"/>
+      <Language Description="Medals Presenters" LongDescription="Medals Presenters" Language="FRA"/>
+      <Language Description="Medals Presenters" LongDescription="Medals Presenters" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="TAN">
+      <Language Description="Transport Announcements" LongDescription="Transport Announcements" Language="ENG"/>
+      <Language Description="Transport Announcements" LongDescription="Transport Announcements" Language="FRA"/>
+      <Language Description="Transport Announcements" LongDescription="Transport Announcements" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

@@ -1,0 +1,70 @@
+Id,competition,ENG Description,FRA Description,KOR Description,ENG longdescription,FRA longdescription,KOR longdescription,IndoorOutdoor,Cluster,City
+ABT,Y,Alpensia Biathlon Centre,FRA,알펜시아 바이애슬론 센터,Alpensia Biathlon Centre,Centre de biathlon d'Alpensia,알펜시아 바이애슬론 센터,,PYE,PyeongChang
+ACC,Y,Alpensia Cross-Ctry Ctr,FRA,알펜시아 크로스컨트리 센터,Alpensia Cross-Country Centre,Centre de ski de fond d'Alpensia,알펜시아 크로스컨트리 센터,,PYE,PyeongChang
+AMC,N,Asan Medical Centre,Centre médical d'Asan,서울아산병원,Asan Medical Centre,Centre médical d'Asan,서울아산병원,,SEO,Seoul
+ASJ,Y,Alpensia Ski Jumping Ctr,FRA,알펜시아 스키점프 센터,Alpensia Ski Jumping Centre,Centre de saut à ski d'Alpensia,알펜시아 스키점프 센터,,PYE,PyeongChang
+ASL,Y,Alpensia Sliding Centre,FRA,알펜시아 슬라이딩 센터,Alpensia Sliding Centre,Centre de glisse d'Alpensia,알펜시아 슬라이딩 센터,,PYE,PyeongChang
+ATC,N,Alternate TOC,Alternative du CET,보조 기술운영센터,Alternate Technology Operations Centre,Alternative du centre d’exploitation technologique,보조 기술운영센터,,GNG,Gangneung 
+BKC,Y,Bokwang Snow Park (C),FRA,보광 스노 경기장(C),Bokwang Snow Park (C),Parc de neige de Bokwang (C),보광 스노 경기장(C),,PYE,PyeongChang
+BKP,Y,Bokwang Snow Park (P),FRA,보광 스노 경기장(P),Bokwang Snow Park (P),Parc de neige de Bokwang (P),보광 스노 경기장(P),,PYE,PyeongChang
+CAC,N,Coastal Accreditation Ctr,FRA,코스탈 클러스터 유니폼배부 및 메인 등록센터,Coastal Accreditation Centre,Centre d'accréditation du Pôle du littoral,코스탈 클러스터 유니폼배부 및 메인 등록센터,,GNG,Gangneung 
+CBC,N,Coastal Broadcast Centre ,FRA,코스탈 방송 센터,Coastal Broadcast Centre ,Centre de radio et télévision du littoral,코스탈 방송 센터,,GNG,Gangneung 
+CST,N,Coastal Superstore,Superboutique du littoral,코스탈 슈퍼스토어,Coastal Superstore,Superboutique du littoral,코스탈 슈퍼스토어,,GNG,Gangneung 
+CTO,N,Coastal Ticketing Outlet,Billetterie du littoral,코스탈 입장권판매점,Coastal Ticketing Outlet,Billetterie du littoral,코스탈 입장권판매점,,GNG,Gangneung 
+EDC,N,Equipment Deployment Ctr,FRA,장비분배센터,IT Equipment Deployment Centre,Centre de déploiement de l’équipement,장비분배센터,,,
+GAH,N,Gangneung Asan Hospital,Hôpital Asan de Gangneung,강릉아산병원,Gangneung Asan Hospital,Hôpital Asan de Gangneung,강릉아산병원,,GNG,Gangneung 
+GCC,Y,Gangneung Curling Centre,FRA,강릉 컬링 센터,Gangneung Curling Centre,Centre de curling de Gangneung,강릉 컬링 센터,,GNG,Gangneung 
+GHC,Y,Gangneung Hockey Centre,FRA,강릉 하키 센터,Gangneung Hockey Centre,Centre de hockey de Gangneung,강릉 하키 센터,,GNG,Gangneung 
+GHT,N,Gangneung Hockey Training,FRA,강릉 하키 연습경기장,Gangneung Hockey Training Centre,Centre d'entraînement de hockey de Gangneung,강릉 하키 연습경기장,,GNG,Gangneung 
+GIA,Y,Gangneung Ice Arena,FRA,강릉 아이스 아레나,Gangneung Ice Arena,Palais des glaces de Gangneung ,강릉 아이스 아레나,,GNG,Gangneung 
+GMP,N,Gimpo Int'l Airport,FRA,김포국제공항,Gimpo International Airport,Aéroport international de Gimpo,김포국제공항,,SEO,Seoul
+GMV,N,Gangneung Media Village,FRA,강릉 미디어촌,Gangneung Media Village,Village des médias de Gangneung,강릉 미디어촌,,GNG,Gangneung 
+GMW,N,Gangneung Media Workroom,FRA,강릉 미디어 워크룸,Gangneung Media Workroom,Salle de travail des médias de Gangneung,강릉 미디어 워크룸,,GNG,Gangneung 
+GNS,N,Gangneung Station,Station de Gangneung,강릉역,Gangneung Station,Station de Gangneung,강릉역,,GNG,Gangneung 
+GOP,N,Gangneung Olympic Park,FRA,강릉 올림픽 파크,Gangneung Olympic Park,Parc olympique de Gangneung,강릉 올림픽 파크,,GNG,Gangneung 
+GOV,Y,Gangneung Oval,Ovale de Gangneung,강릉 스피드 스케이팅 경기장,Gangneung Oval,Ovale de Gangneung,강릉 스피드 스케이팅 경기장,,GNG,Gangneung 
+GST,N,Gangneung Stadium,Stade de Gangneung,강릉 스타디움,Gangneung Stadium,Stade de Gangneung,강릉 스타디움,,GNG,Gangneung 
+GVL,N,Gangneung Olympic Village,FRA,강릉 올림픽 선수촌,Gangneung Olympic Village,Village olympique de Gangneung,강릉 올림픽 선수촌,,GNG,Gangneung 
+HQ1,N,POCOG Headquarters,Siège du COJOP,평창조직위 본부,PyeongChang 2018 Main Office,Bureau principal de PyeongChang 2018,평창조직위 본부,,PYE,PyeongChang
+HQ2,N,POCOG Seoul Office,Bureau du COJOP à Séoul,평창조직위 서울사무소,PyeongChang 2018 Secondary Office,Bureau secondaire de PyeongChang 2018,평창조직위 서울사무소,,SEO,Seoul
+HQ3,N,POCOG Coastal Office,FRA,평창조직위 강릉사무소,PyeongChang 2018 Office in Gangneung,Bureau de PyeongChang 2018 à Gangneung,평창조직위 강릉사무소,,GNG,Gangneung 
+HQ4,N,POCOG Ski Jumping Office,FRA,평창조직위 스키점프사무소,PyeongChang 2018 Office in Ski Jumping Venue,FRA,평창조직위 스키점프사무소,,PYE,PyeongChang
+HQ5,N,POCOG KAL Office,Bureau de KAL du COJOP,평창조직위 대한항공사무소,PyeongChang 2018 Office in Korean Air Headquarters,Bureau de Korean Air de PyeongChang 2018,평창조직위 대한항공사무소,,SEO,Seoul
+IBC,N,Internat Broadcast Ctr ,FRA,국제 방송 센터,International Broadcast Centre ,Centre international de radio et de télévision,국제 방송 센터,,PYE,PyeongChang
+ICN,N,Incheon Int’l Airport,FRA,인천국제공항,Incheon International Airport,Aéroport international d'Incheon,인천국제공항,,SEO,Seoul
+ISM,N,Security Monitoring Ctr,FRA,보안관제센터,Integrated Security Monitoring Centre,Centre de surveillance de la sécurité intégrée,보안관제센터,,,
+ITH,N,IBC Transport Hub,FRA,IBC 수송허브,IBC Transport Hub,FRA,IBC 수송허브,,PYE,PyeongChang
+JAL,Y,Jeongseon Alpine Centre,Centre alpin de Jeongseon,정선 알파인 경기장,Jeongseon Alpine Centre,Centre alpin de Jeongseon,정선 알파인 경기장,,PYE,PyeongChang
+JBS,N,Jinbu Station,Station de Jinbu,진부역,Jinbu Station,Station de Jinbu,진부역,,PYE,PyeongChang
+KHC,Y,Kwandong Hockey Centre,FRA,관동 하키 센터,Kwandong Hockey Centre,Centre de hockey de Kwandong,관동 하키 센터,,GNG,Gangneung 
+KHT,N,Kwandong Hockey Training,FRA,관동 하키 연습경기장,Kwandong Hockey Training Centre,Centre d'entraînement de hockey de Kwandong,관동 하키 연습경기장,,GNG,Gangneung 
+KST,N,Korea Science & Tec Inst.,FRA,한국과학기술연구원,Korea Institute of Science and Technology (KIST),Institut coréen des sciences et de la technologie,한국과학기술연구원,,SEO,Seoul
+MAC,N,Mountain Accred Ctr,FRA,마운틴 클러스터 유니폼배부 및 메인 등록센터,Mountain Accreditation Centre,Centre d'accréditation du Pôle de montagne,마운틴 클러스터 유니폼배부 및 메인 등록센터,,PYE,PyeongChang
+MDC,N,Main Distribution Centre,FRA,물류분배센터,Main Distribution Centre,Centre principal de distribution,물류분배센터,,PYE,PyeongChang
+MOC,N,Main Operations Centre,FRA,대회종합상황실,Main Operations Centre,Centre principal d'exploitation,대회종합상황실,,PYE,PyeongChang
+MPC,N,Main Press Centre,FRA,메인 프레스 센터,Main Press Centre,Centre principal de presse,메인 프레스 센터,,PYE,PyeongChang
+MST,N,Main Superstore,Superboutique principale,메인 슈퍼스토어,Main Superstore,Superboutique principale,메인 슈퍼스토어,,PYE,PyeongChang
+MTH,N,Media Transport Hub,FRA,미디어촌 수송허브,Media Transport Hub,Pôle de transport du village des Médias ,미디어촌 수송허브,,GNG,Gangneung 
+MTO,N,Main Ticketing Outlet,Billetterie principale,메인 입장권판매점,Main Ticketing Outlet,Billetterie principale,메인 입장권판매점,,PYE,PyeongChang
+OF2,N,Holiday Inn Resort,FRA,홀리데이인 리조트 호텔,Holiday Inn Hotel and Resort,Hôtel Holiday Inn & Resort,홀리데이인 리조트 호텔,,PYE,PyeongChang
+OF3,N,Dragon Valley Hotel,Hôtel Dragon Valley,드래곤밸리 호텔,Dragon Valley Hotel,Hôtel Dragon Valley,드래곤밸리 호텔,,PYE,PyeongChang
+OF4,N,Kensington Flora Hotel,Hôtel Kensington Flora,켄싱턴 플로라 호텔,Kensington Flora Hotel,Hôtel Kensington Flora,켄싱턴 플로라 호텔,,PYE,PyeongChang
+OF5,N,Gangneung Lakai Sandpine,Gangneung Lakai Sandpine,강릉 라카이샌드파인 리조트,Gangneung Lakai Sandpine Resort,Gangneung Lakai Sandpine,강릉 라카이샌드파인 리조트,,GNG,Gangneung 
+OFH,N,InterContinental Hotel,Hôtel Intercontinental ,인터컨티넨탈 호텔,InterContinental Hotel,Hôtel Intercontinental ,인터컨티넨탈 호텔,,PYE,PyeongChang
+OHC,N,Olympic Hospitality Club,Olympic Hospitality Club,알펜시아 트룬 골프&컨트리 클럽하우스,Olympic Hospitality Club,Olympic Hospitality Club,알펜시아 트룬 골프&컨트리 클럽하우스,,PYE,PyeongChang
+PDC,N,Primary Data Centre,FRA,주 데이터센터,Primary Data Centre,Centre de données primaires,주 데이터센터,,,
+POP,N,PyeongChang Olympic Plaza,FRA,평창 올림픽 플라자,PyeongChang Olympic Plaza,Place olympique de PyeongChang,평창 올림픽 플라자,,PYE,PyeongChang
+POS,N,PyeongChang Olympic Stad.,FRA,평창 올림픽 스타디움,PyeongChang Olympic Stadium,Stade olympique de Pyeongchang ,평창 올림픽 스타디움,,PYE,PyeongChang
+PVL,N,Pyeongchang Olympic Vill.,FRA,평창 올림픽 선수촌,Pyeongchang Olympic Village,Village olympique de PyeongChang,평창 올림픽 선수촌,,PYE,PyeongChang
+SDC,N,Secondary Data Centre,FRA,보조 데이터센터,Secondary Data Centre,Centre de données secondaires,보조 데이터센터,,SEO,Seoul
+SEV,N,Severance Hospital,Hôpital Severance ,세브란스병원,Severance Hospital,Hôpital Severance ,세브란스병원,,SEO,Seoul
+STO,N,Seoul Ticketing Outlet,Billetterie de Séoul,서울 입장권판매점,Seoul Ticketing Outlet,Billetterie de Séoul,서울 입장권판매점,,SEO,Seoul
+STT,N,Gangeung Yeongdong U. Gym,FRA,강릉영동 쇼트트랙 연습경기장,Gangeung Yeongdong Short Track Training Venue,FRA,강릉영동 쇼트트랙 연습경기장,,GNG,Gangneung 
+SUS,N,Seoul Station,Station de Séoul,서울역,Seoul Station,Station de Séoul,서울역,,SEO,Seoul
+THG,N,Gangneung Transport Hub,FRA,강릉 수송허브,Gangneung Transport Hub,Pôle de transport de Gangneung,강릉 수송허브,,GNG,Gangneung 
+THJ,N,Jinbu Transport hub,FRA,진부 수송허브,Jinbu Transport hub,Pôle de transport de Jinbu,진부 수송허브,,PYE,PyeongChang
+TOC,N,Tech Operations Centre,FRA,기술운영센터,Main Technology Operations Centre,Centre d’exploitation technologique,기술운영센터,,GNG,Gangneung 
+TSD,N,Technology Service Desk,FRA,정보통신 서비스데스크,Technology Service Desk,Bureau des services technologiques,정보통신 서비스데스크,,GNG,Gangneung 
+WSC,N,Wonju Severance Hospital,FRA,원주세브란스기독병원,Wonju Severance Christian Hospital,Hôpital Severance de Wonju,원주세브란스기독병원,,PYE,PyeongChang
+YAL,Y,Yongpyong Alpine Centre,Centre alpin de Yongpyong,용평 알파인 경기장,Yongpyong Alpine Centre,Centre alpin de Yongpyong,용평 알파인 경기장,,PYE,PyeongChang
+YNY,N,YangYang Int’l Airport,FRA,양양국제공항,YangYang International Airport,Aéroport international de YangYang,양양국제공항,,GNG,Gangneung 

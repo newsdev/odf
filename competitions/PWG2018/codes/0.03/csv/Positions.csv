@@ -1,0 +1,9 @@
+Discipline,Id,PositionOrder,ENG Description,KOR Description
+ISH,GK,1,Goalkeeper,KOR
+ISH,D,2,Defence,KOR
+ISH,F,3,Forward,KOR
+WCU,4,1,Fourth,KOR
+WCU,3,2,Third,KOR
+WCU,2,3,Second,KOR
+WCU,1,4,Lead,KOR
+WCU,A,5,Alternate,KOR

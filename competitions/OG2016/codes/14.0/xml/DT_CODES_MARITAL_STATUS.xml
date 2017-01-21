@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="50" Time="061253236" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="MARITAL_STATUS">
+  <Competition Code="OG2016">
+    <CodeSet Code="CLF">
+      <Language Description="Common Law / De Facto" Language="ENG"/>
+      <Language Description="Concubinage" Language="FRA"/>
+      <Language Description="Concubinato" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="DIV">
+      <Language Description="Divorced" Language="ENG"/>
+      <Language Description="Divorcé(e)" Language="FRA"/>
+      <Language Description="Divorciado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MAR">
+      <Language Description="Married" Language="ENG"/>
+      <Language Description="Marié(e)" Language="FRA"/>
+      <Language Description="Casado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="SIN">
+      <Language Description="Single" Language="ENG"/>
+      <Language Description="Célibataire" Language="FRA"/>
+      <Language Description="Solteiro" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="WID">
+      <Language Description="Widowed" Language="ENG"/>
+      <Language Description="Veuf/veuve" Language="FRA"/>
+      <Language Description="Viúvo" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="42" Time="061249112" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="52" DocumentSubtype="DISCIPLINE">
+  <Competition Code="OG2016">
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="AF" Code="AF0000000">
+      <Language Description="Cultural Olympiad" Language="ENG"/>
+      <Language Description="Olympiades de la culture" Language="FRA"/>
+      <Language Description="Olympiades de la Cultura" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Discipline="AQ" Code="AQ0000000">
+      <Language Description="Aquatics Sport" Language="ENG"/>
+      <Language Description="Natation" Language="FRA"/>
+      <Language Description="Desportos Aquáticos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AR" Discipline="AR" Code="AR0000000">
+      <Language Description="Archery" Language="ENG"/>
+      <Language Description="Tir à l'arc" Language="FRA"/>
+      <Language Description="Tiro com Arco" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AT" Discipline="AT" Code="AT0000000">
+      <Language Description="Athletics" Language="ENG"/>
+      <Language Description="Athlétisme" Language="FRA"/>
+      <Language Description="Atletismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="BD" Discipline="BD" Code="BD0000000">
+      <Language Description="Badminton" Language="ENG"/>
+      <Language Description="Badminton" Language="FRA"/>
+      <Language Description="Badminton" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="BK" Discipline="BK" Code="BK0000000">
+      <Language Description="Basketball" Language="ENG"/>
+      <Language Description="Basketball" Language="FRA"/>
+      <Language Description="Basquetebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="VB" Discipline="BV" Code="BV0000000">
+      <Language Description="Beach Volleyball" Language="ENG"/>
+      <Language Description="Volleyball de plage" Language="FRA"/>
+      <Language Description="Vôlei de Praia" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="BX" Discipline="BX" Code="BX0000000">
+      <Language Description="Boxing" Language="ENG"/>
+      <Language Description="Boxe" Language="FRA"/>
+      <Language Description="Boxe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Discipline="CA" Code="CA0000000">
+      <Language Description="Canoe Sport" Language="ENG"/>
+      <Language Description="Canoë-kayak" Language="FRA"/>
+      <Language Description="Canoagem" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CY" Discipline="CB" Code="CB0000000">
+      <Language Description="Cycling BMX" Language="ENG"/>
+      <Language Description="BMX" Language="FRA"/>
+      <Language Description="Ciclismo BMX" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="CE" Code="CE0000000">
+      <Language Description="Ceremonies" Language="ENG"/>
+      <Language Description="Cérémonies" Language="FRA"/>
+      <Language Description="Cerimônias" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CA" Discipline="CF" Code="CF0000000">
+      <Language Description="Canoe Sprint" Language="ENG"/>
+      <Language Description="Canoë-kayak, course en ligne" Language="FRA"/>
+      <Language Description="Canoagem Velocidade" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CY" Discipline="CM" Code="CM0000000">
+      <Language Description="Cycling Mountain Bike" Language="ENG"/>
+      <Language Description="Cyclisme Mountain Bike" Language="FRA"/>
+      <Language Description="Ciclismo Mountain Bike" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CY" Discipline="CR" Code="CR0000000">
+      <Language Description="Cycling Road" Language="ENG"/>
+      <Language Description="Cyclisme sur route" Language="FRA"/>
+      <Language Description="Ciclismo de Estrada" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CA" Discipline="CS" Code="CS0000000">
+      <Language Description="Canoe Slalom" Language="ENG"/>
+      <Language Description="Canoë-kayak, slalom" Language="FRA"/>
+      <Language Description="Canoagem Slalom" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="CY" Discipline="CT" Code="CT0000000">
+      <Language Description="Cycling Track" Language="ENG"/>
+      <Language Description="Cyclisme sur piste" Language="FRA"/>
+      <Language Description="Ciclismo de Pista" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Discipline="CY" Code="CY0000000">
+      <Language Description="Cycling Sport" Language="ENG"/>
+      <Language Description="Cyclisme" Language="FRA"/>
+      <Language Description="Ciclismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AQ" Discipline="DV" Code="DV0000000">
+      <Language Description="Diving" Language="ENG"/>
+      <Language Description="Plongeon" Language="FRA"/>
+      <Language Description="Saltos Ornamentais" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="EQ" Discipline="EQ" Code="EQ0000000">
+      <Language Description="Equestrian" Language="ENG"/>
+      <Language Description="Sports équestres" Language="FRA"/>
+      <Language Description="Hipismo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="FB" Discipline="FB" Code="FB0000000">
+      <Language Description="Football" Language="ENG"/>
+      <Language Description="Football" Language="FRA"/>
+      <Language Description="Futebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="FE" Discipline="FE" Code="FE0000000">
+      <Language Description="Fencing" Language="ENG"/>
+      <Language Description="Escrime" Language="FRA"/>
+      <Language Description="Esgrima" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="GY" Discipline="GA" Code="GA0000000">
+      <Language Description="Artistic Gymnastics" Language="ENG"/>
+      <Language Description="Gymnastique artistique" Language="FRA"/>
+      <Language Description="Ginástica Artística" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Note="non-sport" Discipline="GL" Code="GL0000000">
+      <Language Description="General" Language="ENG"/>
+      <Language Description="Général" Language="FRA"/>
+      <Language Description="Geral" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="GO" Discipline="GO" Code="GO0000000">
+      <Language Description="Golf" Language="ENG"/>
+      <Language Description="Golf" Language="FRA"/>
+      <Language Description="Golfe" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="GY" Discipline="GR" Code="GR0000000">
+      <Language Description="Rhythmic Gymnastics" Language="ENG"/>
+      <Language Description="Gymnastique rythmique" Language="FRA"/>
+      <Language Description="Ginástica Rítmica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="GY" Discipline="GT" Code="GT0000000">
+      <Language Description="Trampoline Gymnastics" Language="ENG"/>
+      <Language Description="Trampoline" Language="FRA"/>
+      <Language Description="Ginástica de Trampolim" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Discipline="GY" Code="GY0000000">
+      <Language Description="Gymnastic Sport" Language="ENG"/>
+      <Language Description="Gymnastique" Language="FRA"/>
+      <Language Description="Ginástica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="HB" Discipline="HB" Code="HB0000000">
+      <Language Description="Handball" Language="ENG"/>
+      <Language Description="Handball" Language="FRA"/>
+      <Language Description="Handebol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="HO" Discipline="HO" Code="HO0000000">
+      <Language Description="Hockey" Language="ENG"/>
+      <Language Description="Hockey" Language="FRA"/>
+      <Language Description="Hóquei sobre Grama" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="IA" Code="IA0000000">
+      <Language Description="IOC Activities" Language="ENG"/>
+      <Language Description="Activités du CIO" Language="FRA"/>
+      <Language Description="Atividades do COI" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="JU" Discipline="JU" Code="JU0000000">
+      <Language Description="Judo" Language="ENG"/>
+      <Language Description="Judo" Language="FRA"/>
+      <Language Description="Judô" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="MP" Discipline="MP" Code="MP0000000">
+      <Language Description="Modern Pentathlon" Language="ENG"/>
+      <Language Description="Pentathlon moderne" Language="FRA"/>
+      <Language Description="Pentatlo Moderno" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="OV" Code="OV0000000">
+      <Language Description="Olympic Village" Language="ENG"/>
+      <Language Description="Village Olympique" Language="FRA"/>
+      <Language Description="Vila Olímpica" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AQ" Discipline="OW" Code="OW0000000">
+      <Language Description="Marathon Swimming" Language="ENG"/>
+      <Language Description="Natation de marathon" Language="FRA"/>
+      <Language Description="Maratonas Aquáticas" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="PC" Code="PC0000000">
+      <Language Description="Press Conferences" Language="ENG"/>
+      <Language Description="Conférence de presse" Language="FRA"/>
+      <Language Description="Conferência de Imprensa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="RO" Discipline="RO" Code="RO0000000">
+      <Language Description="Rowing" Language="ENG"/>
+      <Language Description="Aviron" Language="FRA"/>
+      <Language Description="Remo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="RU" Discipline="RU" Code="RU0000000">
+      <Language Description="Rugby Sevens" Language="ENG"/>
+      <Language Description="Rugby à 7" Language="FRA"/>
+      <Language Description="Rugby de 7" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="SA" Discipline="SA" Code="SA0000000">
+      <Language Description="Sailing" Language="ENG"/>
+      <Language Description="Voile" Language="FRA"/>
+      <Language Description="Vela" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="SH" Discipline="SH" Code="SH0000000">
+      <Language Description="Shooting" Language="ENG"/>
+      <Language Description="Tir" Language="FRA"/>
+      <Language Description="Tiro Esportivo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AQ" Discipline="SW" Code="SW0000000">
+      <Language Description="Swimming" Language="ENG"/>
+      <Language Description="Natation" Language="FRA"/>
+      <Language Description="Natação" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AQ" Discipline="SY" Code="SY0000000">
+      <Language Description="Synchronised Swimming" Language="ENG"/>
+      <Language Description="Natation synchronisée" Language="FRA"/>
+      <Language Description="Nado Sincronizado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="LOC" Sport="TE" Discipline="TE" Code="TE0000000">
+      <Language Description="Tennis" Language="ENG"/>
+      <Language Description="Tennis" Language="FRA"/>
+      <Language Description="Tênis" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="TK" Discipline="TK" Code="TK0000000">
+      <Language Description="Taekwondo" Language="ENG"/>
+      <Language Description="Taekwondo" Language="FRA"/>
+      <Language Description="Taekwondo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="TR" Discipline="TR" Code="TR0000000">
+      <Language Description="Triathlon" Language="ENG"/>
+      <Language Description="Triathlon" Language="FRA"/>
+      <Language Description="Triatlo" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="TT" Discipline="TT" Code="TT0000000">
+      <Language Description="Table Tennis" Language="ENG"/>
+      <Language Description="Tennis de table" Language="FRA"/>
+      <Language Description="Tênis de Mesa" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Note="non-sport" Discipline="UT" Code="UT0000000">
+      <Language Description="Training (Unofficial)" Language="ENG"/>
+      <Language Description="Entraînement (non officiel)" Language="FRA"/>
+      <Language Description="Treinamento (nao oficial)" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="N" Order="DATE" Discipline="VB" Code="VB0000000">
+      <Language Description="Volleyball Sport" Language="ENG"/>
+      <Language Description="Volleyball" Language="FRA"/>
+      <Language Description="Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="VB" Discipline="VO" Code="VO0000000">
+      <Language Description="Volleyball" Language="ENG"/>
+      <Language Description="Volleyball" Language="FRA"/>
+      <Language Description="Voleibol" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="WL" Discipline="WL" Code="WL0000000">
+      <Language Description="Weightlifting" Language="ENG"/>
+      <Language Description="Haltérophilie" Language="FRA"/>
+      <Language Description="Levantamento de Peso" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="DATE" Sport="AQ" Discipline="WP" Code="WP0000000">
+      <Language Description="Water Polo" Language="ENG"/>
+      <Language Description="Water-polo" Language="FRA"/>
+      <Language Description="Polo Aquático" Language="POR"/>
+    </CodeSet>
+    <CodeSet Schedule="Y" Order="LOC" Sport="WR" Discipline="WR" Code="WR0000000">
+      <Language Description="Wrestling" Language="ENG"/>
+      <Language Description="Lutte" Language="FRA"/>
+      <Language Description="Luta Olímpica" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

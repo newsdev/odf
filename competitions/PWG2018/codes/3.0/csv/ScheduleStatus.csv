@@ -1,0 +1,12 @@
+Id,ENG Description,KOR Description,Comment
+CANCELLED,Cancelled,KOR,Competition unit was schedule and will not now take place
+DELAYED,Delayed,KOR,Competition has not started and start is late (no new time)
+FINISHED,Finished,KOR,All play is complete in the unit
+GETTING_READY,Getting Ready,KOR,"Start of competition is iminent, athletes usually on FOP"
+INTERRUPTED,Interrupted,KOR,Competition has started but is now stopped temporarily.
+POSTPONED,Postponed,KOR,Competition has stopped and will take place at a new time (to be determined)
+RESCHEDULED,Rescheduled,KOR,The start (or re-start) of the competition has changed to a new time (new time is known)
+RUNNING,Running,KOR,Competition in progress
+SCHEDULED,Scheduled,KOR,Unit to be conducted
+SCHEDULED_BREAK,Scheduled Break,KOR,Planned break in competition (e.g. end of period)
+UNSCHEDULED,Unscheduled,KOR,"A possible unit to be scheduled, not displayed (e.g. swim-off)"

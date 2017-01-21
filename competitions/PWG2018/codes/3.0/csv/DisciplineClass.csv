@@ -1,0 +1,58 @@
+Class,Discipline,ENG Description,KOR Description
+B1,ALP,Visually impaired,KOR
+B2,ALP,Visually impaired,KOR
+B3,ALP,Visually impaired,KOR
+LW1,ALP,Standing,KOR
+LW2,ALP,Standing,KOR
+LW3,ALP,Standing,KOR
+LW4,ALP,Standing,KOR
+LW5/7-1,ALP,Standing,KOR
+LW5/7-2,ALP,Standing,KOR
+LW5/7-3,ALP,Standing,KOR
+LW6/8-1,ALP,Standing,KOR
+LW6/8-2,ALP,Standing,KOR
+LW9-1,ALP,Standing,KOR
+LW9-2,ALP,Standing,KOR
+LW10-1,ALP,Sitting,KOR
+LW10-2,ALP,Sitting,KOR
+LW11,ALP,Sitting,KOR
+LW12-1,ALP,Sitting,KOR
+LW12-2,ALP,Sitting,KOR
+PSL,ALP,Lower limb impaired,KOR
+B1,BTH,Visually impaired,KOR
+B2,BTH,Visually impaired,KOR
+B3,BTH,Visually impaired,KOR
+LW2,BTH,Standing,KOR
+LW3,BTH,Standing,KOR
+LW4,BTH,Standing,KOR
+LW5/7,BTH,Standing,KOR
+LW6,BTH,Standing,KOR
+LW8,BTH,Standing,KOR
+LW9,BTH,Standing,KOR
+LW10,BTH,Sitting,KOR
+LW10.5,BTH,Sitting,KOR
+LW11,BTH,Sitting,KOR
+LW11.5,BTH,Sitting,KOR
+LW12,BTH,Sitting,KOR
+B1,CCS,Visually impaired,KOR
+B2,CCS,Visually impaired,KOR
+B3,CCS,Visually impaired,KOR
+LW2,CCS,Standing,KOR
+LW3,CCS,Standing,KOR
+LW4,CCS,Standing,KOR
+LW5/7,CCS,Standing,KOR
+LW6,CCS,Standing,KOR
+LW8,CCS,Standing,KOR
+LW9,CCS,Standing,KOR
+LW10,CCS,Sitting,KOR
+LW10.5,CCS,Sitting,KOR
+LW11,CCS,Sitting,KOR
+LW11.5,CCS,Sitting,KOR
+LW12,CCS,Sitting,KOR
+ME,ISH,Sitting,KOR
+NE,ISH,Sitting,KOR
+LL-1,SBD,Below knee amputee,KOR
+LL-2,SBD,Above knee amputee,KOR
+UL,SBD,Upper limb,KOR
+ME,WCU,Sitting,KOR
+NE,WCU,Sitting,KOR

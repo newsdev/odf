@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="48" Time="061252537" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="47" DocumentSubtype="HORSE_GENDER">
+  <Competition Code="OG2016">
+    <CodeSet Code="GD">
+      <Language Description="Gelding" Language="ENG"/>
+      <Language Description="Hongre" Language="FRA"/>
+      <Language Description="Macho Castrado" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MA">
+      <Language Description="Mare" Language="ENG"/>
+      <Language Description="Jument" Language="FRA"/>
+      <Language Description="Égua" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="ST">
+      <Language Description="Stallion" Language="ENG"/>
+      <Language Description="Étalon" Language="FRA"/>
+      <Language Description="Garanhão" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="UN">
+      <Language Description="Unknown" Language="ENG"/>
+      <Language Description="Inconnu" Language="FRA"/>
+      <Language Description="Desconhecido" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

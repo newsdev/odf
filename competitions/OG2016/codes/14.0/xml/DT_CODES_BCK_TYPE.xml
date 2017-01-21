@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody DocumentCode="GL0000000" FeedFlag="T" Source="IDS" Serial="39" Time="061248625" CompetitionCode="OG2016" Date="2016-01-19" LogicalDate="2016-01-19" DocumentType="DT_CODES" Version="18" DocumentSubtype="BCK_TYPE">
+  <Competition Code="OG2016">
+    <CodeSet Code="CER">
+      <Language Description="Ceremonies Facts" LongDescription="Ceremonies Facts" Language="ENG"/>
+      <Language Description="Ceremonies Facts" LongDescription="Ceremonies Facts" Language="FRA"/>
+      <Language Description="Ceremonies Facts" LongDescription="Ceremonies Facts" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="FCT">
+      <Language Description="Facts" LongDescription="Facts" Language="ENG"/>
+      <Language Description="Faits" LongDescription="Faits" Language="FRA"/>
+      <Language Description="Fatos" LongDescription="Fatos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="MDL">
+      <Language Description="Past Medallists" LongDescription="Past Medallists" Language="ENG"/>
+      <Language Description="Médaillés historiques" LongDescription="Médaillés historiques" Language="FRA"/>
+      <Language Description="Medalhistas Históricos" LongDescription="Medalhistas Históricos" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="OLM">
+      <Language Description="Olympic Movement Facts" LongDescription="Olympic Movement Facts" Language="ENG"/>
+      <Language Description="Olympic Movement Facts" LongDescription="Olympic Movement Facts" Language="FRA"/>
+      <Language Description="Olympic Movement Facts" LongDescription="Olympic Movement Facts" Language="POR"/>
+    </CodeSet>
+    <CodeSet Code="PRE">
+      <Language Description="Past Results" LongDescription="Past Results" Language="ENG"/>
+      <Language Description="Past Results" LongDescription="Past Results" Language="FRA"/>
+      <Language Description="Past Results" LongDescription="Past Results" Language="POR"/>
+    </CodeSet>
+  </Competition>
+</OdfBody>

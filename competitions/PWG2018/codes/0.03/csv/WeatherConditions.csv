@@ -1,0 +1,37 @@
+Id,ENG Description,KOR Description
+clr,Clear sky,KOR
+drz,Drizzle,KOR
+dust,Dust,KOR
+fewcld,Few clouds,KOR
+fog,Fog,KOR
+hail,Hail,KOR
+haze,Haze,KOR
+hlshrd,Hail shower,KOR
+hlshrn,Hail shower,KOR
+hrain,Heavy rain,KOR
+hrshrd,Heavy rain shower,KOR
+hrshrn,Heavy rain shower,KOR
+hsnow,Heavy snow,KOR
+hsshrd,Heavy snow shower,KOR
+hsshrn,Heavy snow shower,KOR
+lowcld,Low-level cloud,KOR
+lrain,Light rain,KOR
+lrshrd,Light rain shower,KOR
+lrshrn,Light rain shower,KOR
+lsnow,Light snow,KOR
+lsshrd,Light snow shower,KOR
+lsshrn,Light snow shower,KOR
+medcld,Medium-level cloud,KOR
+mist,Mist,KOR
+nocond,No condition,KOR
+ovc,Overcast,KOR
+prtcld,Partly cloudy,KOR
+slshrd,Sleet shower,KOR
+slshrn,Sleet shower,KOR
+slt,Sleet,KOR
+sun,Sunny,KOR
+sunint,Sunny intervals,KOR
+thshrd,Thundery shower,KOR
+thshrn,Thundery shower,KOR
+thstrm,Thunder storm,KOR
+trpstm,Tropical storm,KOR

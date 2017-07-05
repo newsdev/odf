@@ -1,0 +1,38 @@
+Id,ENG Description,FRA Description,KOR Description
+clr,Clear sky,Ciel clair,맑음
+drz,Drizzle,Bruine,이슬비
+dust,Dust,Poussière,황사
+fewcld,Few clouds,Peu nuageux,구름 조금
+fog,Fog,Brouillard,안개
+hail,Hail,Grêle,우박
+haze,Haze,Brume légère,연무
+hlshrd,Hail shower,Averse de grêle,우박 소나기
+hlshrn,Hail shower,Averse de grêle,우박 소나기
+hrain,Heavy rain,Forte pluie,폭우
+hrshrd,Heavy rain shower,Forte averse de pluie,강한 소나기
+hrshrn,Heavy rain shower,Forte averse de pluie,강한 소나기
+hsnow,Heavy snow,Neige abondante,폭설
+hsshrd,Heavy snow shower,Forte averse de neige,강한 소낙눈
+hsshrn,Heavy snow shower,Forte averse de neige,강한 소낙눈
+lowcld,Low-level cloud,Nuages bas,하층운
+lrain,Light rain,Faible pluie,약한 비
+lrshrd,Light rain shower,Légère averse de pluie,약한 소나기
+lrshrn,Light rain shower,Légère averse de pluie,약한 소나기
+lsnow,Light snow,Faible neige,약한 눈
+lsshrd,Light snow shower,Légère averse de neige,약한 소낙눈
+lsshrn,Light snow shower,Légère averse de neige,약한 소낙눈
+medcld,Medium-level cloud,Nuages à moyenne altitude,중층운
+mist,Mist,Brume,박무
+motcld,Mostly cloudy,Généralement nuageux,구름많음
+nocond,No condition,Pas de condition,기상조건 없음
+ovc,Overcast,Ciel couvert,흐림
+prtcld,Partly cloudy,Partiellement couvert,구름 조금
+slshrd,Sleet shower,Averse de giboulée,소낙성 진눈깨비 
+slshrn,Sleet shower,Averse de giboulée,소낙성 진눈깨비 
+slt,Sleet,Giboulée,진눈깨비
+sun,Sunny,Ensoleillé,맑음
+sunint,Sunny intervals,Intervalles ensoleillés,가끔 맑음
+thshrd,Thundery shower,Averse orageuse ,뇌성 동반 소나기
+thshrn,Thundery shower,Averse orageuse ,뇌성 동반 소나기
+thstrm,Thunder storm,Orage,뇌우
+trpstm,Tropical storm,Orage tropical,열대 폭풍우

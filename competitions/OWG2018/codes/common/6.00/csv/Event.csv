@@ -1,0 +1,220 @@
+Discipline,Gender,Event,order,ENG Description,FRA Description,KOR Description,ENG longdescription,FRA longdescription,KOR longdescription,Team Event,Old DDGEEE
+ALP,M,DH----------------,1,Men's Downhill,Descente hommes,남자 활강,Men's Downhill,Descente hommes,남자 활강,N,ASM010
+ALP,M,SG----------------,2,Men's Super-G,Super-G hommes,남자 슈퍼대회전,Men's Super-G,Super-G hommes,남자 슈퍼대회전,N,ASM040
+ALP,M,GS----------------,3,Men's Giant Slalom,Slalom géant hommes,남자 대회전,Men's Giant Slalom,Slalom géant hommes,남자 대회전,N,ASM030
+ALP,M,SL----------------,4,Men's Slalom,Slalom hommes,남자 회전,Men's Slalom,Slalom hommes,남자 회전,N,ASM020
+ALP,M,AC----------------,5,Men's Alpine Combined,Combiné alpin hommes,남자 복합,Men's Alpine Combined,Combiné alpin hommes,남자 복합,N,ASM105
+ALP,W,DH----------------,6,Ladies' Downhill,Descente femmes,여자 활강,Ladies' Downhill,Descente femmes,여자 활강,N,ASW010
+ALP,W,SG----------------,7,Ladies' Super-G,Super-G femmes,여자 슈퍼대회전,Ladies' Super-G,Super-G femmes,여자 슈퍼대회전,N,ASW040
+ALP,W,GS----------------,8,Ladies' Giant Slalom,Slalom géant femmes,여자 대회전,Ladies' Giant Slalom,Slalom géant femmes,여자 대회전,N,ASW030
+ALP,W,SL----------------,9,Ladies' Slalom,Slalom femmes,여자 회전,Ladies' Slalom,Slalom femmes,여자 회전,N,ASW020
+ALP,W,AC----------------,10,Ladies' Alpine Combined,Combiné alpin femmes,여자 복합,Ladies' Alpine Combined,Combiné alpin femmes,여자 복합,N,ASW105
+ALP,X,PLTEAM4-----------,11,Alpine Team Event,Épreuve par équipes,혼성 단체전,Alpine Team Event,Épreuve par équipes,혼성 단체전,Y,
+ALP,-,------------------,,Alpine Skiing,Ski alpin,알파인 스키,Alpine Skiing,Ski alpin,알파인 스키,,AS0000
+ALP,M,------------------,,Men's Alpine Skiing,Ski alpin hommes,알파인 스키 남자경기,Men's Alpine Skiing,Ski alpin hommes,알파인 스키 남자경기,,ASM000
+ALP,W,------------------,,Ladies' Alpine Skiing,Ski alpin femmes,알파인 스키 여자경기,Ladies' Alpine Skiing,Ski alpin femmes,알파인 스키 여자경기,,ASW000
+ALP,X,------------------,,Mixed Alpine Skiing,Ski alpin mixte,알파인 스키 혼성 단체 경기,Mixed Alpine Skiing,Ski alpin mixte,알파인 스키 혼성 단체 경기,,
+ALP,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+ART,-,CIRCUS------------,,Circus / Street Arts,Cirque / Arts de la rue,서커스 / 거리예술,Circus / Street Arts,Cirque / Arts de la rue,서커스 / 거리예술,,AF0CRC
+ART,-,COMEDY------------,,Comedy,Comédie,코메디,Comedy,Comédie,코메디,,AF0CMD
+ART,-,DANCE-------------,,Dance,Danse,댄스,Dance,Danse,댄스,,AF0DNC
+ART,-,DIGITAL-----------,,Digital / Film / Video,Arts médiatiques / film / vidéo,디지털 / 필름 / 비디오,Digital / Film / Video,Arts médiatiques / film / vidéo,디지털 / 필름 / 비디오,,AF0DGT
+ART,-,LITERARY----------,,Literary Arts,Arts littéraires,문학 예술,Literary Arts,Arts littéraires,문학 예술,,AF0LTR
+ART,-,MUSIC-------------,,Music,Musique,음악,Music,Musique,음악,,AF0MSC
+ART,-,THEATRE-----------,,Theatre,Théâtre,극장,Theatre,Théâtre,극장,,AF0THT
+ART,-,VISUAL------------,,Visual Arts,Arts visuels,시각 예술,Visual Arts,Arts visuels,시각 예술,,AF0VSL
+BOB,M,TEAM2-------------,1,2-man,Bob à deux hommes,남자 2인승,2-man,Bob à deux hommes,남자 2인승,Y,BSM020
+BOB,O,TEAM4-------------,2,4-man,Bob à quatre hommes,남자 4인승,4-man,Bob à quatre hommes,남자 4인승,Y,BSM040
+BOB,W,TEAM2-------------,3,Women,Bob à deux femmes,여자 2인승,Women,Bob à deux femmes,여자 2인승,Y,BSW020
+BOB,-,------------------,,Bobsleigh,Bobsleigh,봅슬레이,Bobsleigh,Bobsleigh,봅슬레이,,BS0000
+BOB,M,------------------,,Men's Bobsleigh,Bobsleigh hommes,봅슬레이 남자경기,Men's Bobsleigh,Bobsleigh hommes,봅슬레이 남자경기,,BSM000
+BOB,O,------------------,,Open Bobsleigh,Open Bobsleigh,봅슬레이 오픈경기,Open Bobsleigh,Open Bobsleigh,봅슬레이 오픈경기,,
+BOB,W,------------------,,Women's Bobsleigh,Bobsleigh femmes,봅슬레이 여자경기,Women's Bobsleigh,Bobsleigh femmes,봅슬레이 여자경기,,BSW000
+BOB,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+BSN,-,------------------,,IBSF Events,Épreuves IBSF,IBSF 이벤트,IBSF Events,Épreuves IBSF,IBSF 이벤트,,FM0000
+BTH,M,20KMIS------------,1,Men's 20km Individual,20 km individuel hommes,남자 개인 20 km,Men's 20km Individual,20 km individuel hommes,남자 개인 20 km,N,BTM020
+BTH,M,10KMSP------------,2,Men's 10km Sprint,10 km sprint hommes,남자 스프린트 10 km,Men's 10km Sprint,10 km sprint hommes,남자 스프린트 10 km,N,BTM010
+BTH,M,12.5KMPU----------,3,Men's 12.5km Pursuit,"12,5 km poursuite hommes",남자 추적 12.5 km,Men's 12.5km Pursuit,"12,5 km poursuite hommes",남자 추적 12.5 km,N,BTM512
+BTH,M,15KMMS------------,4,Men's 15km Mass Start,15 km départ groupé hommes,남자 단체출발 15 km,Men's 15km Mass Start,15 km départ groupé hommes,남자 단체출발 15 km,N,BTM715
+BTH,M,4X7.5KM-----------,5,Men's 4x7.5km Relay,"Relais 4x7,5 km hommes",남자 계주 4 x 7.5 km,Men's 4x7.5km Relay,"Relais 4x7,5 km hommes",남자 계주 4 x 7.5 km,Y,BTM407
+BTH,W,15KMIS------------,6,Women's 15km Individual,15 km individuel femmes,여자 개인 15 km,Women's 15km Individual,15 km individuel femmes,여자 개인 15 km,N,BTW015
+BTH,W,7.5KMSP-----------,7,Women's 7.5km Sprint,"7,5 km sprint femmes",여자 스프린트 7.5 km,Women's 7.5km Sprint,"7,5 km sprint femmes",여자 스프린트 7.5 km,N,BTW007
+BTH,W,10KMPU------------,8,Women's 10km Pursuit,10 km poursuite femmes,여자 추적 10 km,Women's 10km Pursuit,10 km poursuite femmes,여자 추적 10 km,N,BTW510
+BTH,W,12.5KMMS----------,9,Women's 12.5km Mass Start,"12,5 km départ groupé femmes",여자 단체출발 12.5 km,Women's 12.5km Mass Start,"12,5 km départ groupé femmes",여자 단체출발 12.5 km,N,BTW712
+BTH,W,4X6KM-------------,10,Women's 4x6km Relay,Relais 4x6 km femmes,여자 계주 4 x 6 km,Women's 4x6km Relay,Relais 4x6 km femmes,여자 계주 4 x 6 km,Y,BTW406
+BTH,X,RELAY4------------,11,2x6km Women + 2x7.5km Men Mixed Relay,"Relais mixte 2x6 km f. + 2x7,5 km h.",혼성 계주,2x6km Women + 2x7.5km Men Mixed Relay,"Relais mixte 2x6 km f. + 2x7,5 km h.",혼성 계주,Y,BTX408
+BTH,-,------------------,,Biathlon,Biathlon,바이애슬론,Biathlon,Biathlon,바이애슬론,,BT0000
+BTH,M,------------------,,Men's Biathlon,Biathlon hommes,바이애슬론 남자경기,Men's Biathlon,Biathlon hommes,바이애슬론 남자경기,,BTM000
+BTH,W,------------------,,Women's Biathlon,Biathlon femmes,바이애슬론 여자경기,Women's Biathlon,Biathlon femmes,바이애슬론 여자경기,,BTW000
+BTH,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+CCS,M,15KMIS------------,1,Men's 15km Free,15 km libre hommes,남자 15 km 프리,Men's 15km Free,15 km libre hommes,남자 15 km 프리,N,CCM015
+CCS,M,SKIATHLN----------,2,Men's 15km + 15km Skiathlon,Skiathlon 15 km + 15 km hommes,남자 15 km + 15 km 스키애슬론,Men's 15km + 15km Skiathlon,Skiathlon 15 km + 15 km hommes,남자 15 km + 15 km 스키애슬론,N,CCM830
+CCS,M,SPRINT------------,3,Men's Sprint Classic,Sprint hommes classique,남자 스프린트 클래식,Men's Sprint Classic,Sprint hommes classique,남자 스프린트 클래식,N,CCM601
+CCS,M,TEAMSP2-----------,4,Men's Team Sprint Free,Sprint par équipes hommes libre,남자 팀 스프린트 프리,Men's Team Sprint Free,Sprint par équipes hommes libre,남자 팀 스프린트 프리,Y,CCM461
+CCS,M,50KMMS------------,5,Men's 50km Mass Start Classic,Départ en masse 50 km hommes classique,남자 50 km 단체출발 클래식,Men's 50km Mass Start Classic,Départ en masse 50 km hommes classique,남자 50 km 단체출발 클래식,N,CCM750
+CCS,M,4X10KM------------,6,Men's 4 x 10km Relay,Relais 4x10 km hommes,남자 4 x 10 km 계주,Men's 4 x 10km Relay,Relais 4x10 km hommes,남자 4 x 10 km 계주,Y,CCM410
+CCS,W,10KMIS------------,7,Ladies' 10km Free,10 km libre femmes,여자 10 km 프리,Ladies' 10km Free,10 km libre femmes,여자 10 km 프리,N,CCW010
+CCS,W,SKIATHLN----------,8,Ladies' 7.5km + 7.5km Skiathlon,"Skiathlon 7,5 km + 7,5 km femmes",여자  7.5 km + 7.5 km 스키애슬론,Ladies' 7.5km + 7.5km Skiathlon,"Skiathlon 7,5 km + 7,5 km femmes",여자  7.5 km + 7.5 km 스키애슬론,N,CCW815
+CCS,W,SPRINT------------,9,Ladies' Sprint Classic,Sprint femmes classique,여자 스프린트 클래식,Ladies' Sprint Classic,Sprint femmes classique,여자 스프린트 클래식,N,CCW601
+CCS,W,TEAMSP2-----------,10,Ladies' Team Sprint Free,Sprint par équipes femmes libre,여자 팀 스프린트 프리,Ladies' Team Sprint Free,Sprint par équipes femmes libre,여자 팀 스프린트 프리,Y,CCW461
+CCS,W,30KMMS------------,11,Ladies' 30km Mass Start Classic,Départ en masse 30 km femmes classique,여자 30 km 단체출발 클래식,Ladies' 30km Mass Start Classic,Départ en masse 30 km femmes classique,여자 30 km 단체출발 클래식,N,CCW730
+CCS,W,4X5KM-------------,12,Ladies' 4 x 5km Relay,Relais 4x5 km femmes,여자 4 x 5 km 계주,Ladies' 4 x 5km Relay,Relais 4x5 km femmes,여자 4 x 5 km 계주,Y,CCW405
+CCS,-,------------------,,Cross-Country Skiing,Ski de fond,크로스컨트리 스키,Cross-Country Skiing,Ski de fond,크로스컨트리 스키,,CC0000
+CCS,M,------------------,,Men's Cross-Country Skiing,Ski de fond hommes,크로스컨트리 스키 남자경기,Men's Cross-Country Skiing,Ski de fond hommes,크로스컨트리 스키 남자경기,,CCM000
+CCS,W,------------------,,Ladies' Cross-Country Skiing,Ski de fond femmes,크로스컨트리 스키 여자경기,Ladies' Cross-Country Skiing,Ski de fond femmes,크로스컨트리 스키 여자경기,,CCW000
+CCS,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+CER,-,CLOSING-----------,,Closing Ceremony,Cérémonie de clôture,폐막식,Closing Ceremony,Cérémonie de clôture,폐막식,,CE0CLO
+CER,-,OPENING-----------,,Opening Ceremony,Cérémonie d'ouverture,개막식,Opening Ceremony,Cérémonie d'ouverture,개막식,,CE0OPN
+CUR,M,TEAM4-------------,1,Men,Hommes,남자,Men,Hommes,남자,Y,CUM400
+CUR,W,TEAM4-------------,2,Women,Femmes,여자,Women,Femmes,여자,Y,CUW400
+CUR,X,TEAM2-------------,3,Mixed Doubles,Double mixte,남녀 혼성,Mixed Doubles,Double mixte,남녀 혼성,Y,
+CUR,-,------------------,,Curling,Curling,컬링,Curling,Curling,컬링,,CU0000
+CUR,M,------------------,,Men's Curling,Curling hommes,컬링 남자경기,Men's Curling,Curling hommes,컬링 남자경기,,CUM000
+CUR,W,------------------,,Women's Curling,Curling femmes,컬링 여자경기,Women's Curling,Curling femmes,컬링 여자경기,,CUW000
+CUR,X,------------------,,Mixed Curling,Curling mixte,컬링 혼성경기,Mixed Curling,Curling mixte,컬링 혼성경기,,
+FRS,M,MO----------------,1,Men's Moguls,Bosses hommes,남자 모글,Men's Moguls,Bosses hommes,남자 모글,N,FRM020
+FRS,M,AE----------------,2,Men's Aerials,Saut hommes,남자 에어리얼,Men's Aerials,Saut hommes,남자 에어리얼,N,FRM030
+FRS,M,SX----------------,3,Men's Ski Cross,Ski cross hommes,남자 스키 크로스,Men's Ski Cross,Ski cross hommes,남자 스키 크로스,N,FRM740
+FRS,M,HP----------------,4,Men's Ski Halfpipe,Ski halfpipe hommes,남자 스키 하프파이프,Men's Ski Halfpipe,Ski halfpipe hommes,남자 스키 하프파이프,N,FRM060
+FRS,M,SS----------------,5,Men's Ski Slopestyle,Ski slopestyle hommes,남자 스키 슬로프스타일,Men's Ski Slopestyle,Ski slopestyle hommes,남자 스키 슬로프스타일,N,FRM070
+FRS,W,MO----------------,6,Ladies' Moguls,Bosses femmes,여자 모글,Ladies' Moguls,Bosses femmes,여자 모글,N,FRW020
+FRS,W,AE----------------,7,Ladies' Aerials,Saut femmes,여자 에어리얼,Ladies' Aerials,Saut femmes,여자 에어리얼,N,FRW030
+FRS,W,SX----------------,8,Ladies' Ski Cross,Ski cross femmes,여자 스키 크로스,Ladies' Ski Cross,Ski cross femmes,여자 스키 크로스,N,FRW740
+FRS,W,HP----------------,9,Ladies' Ski Halfpipe,Ski halfpipe femmes,여자 스키 하프파이프,Ladies' Ski Halfpipe,Ski halfpipe femmes,여자 스키 하프파이프,N,FRW060
+FRS,W,SS----------------,10,Ladies' Ski Slopestyle,Ski slopestyle femmes,여자 스키 슬로프스타일,Ladies' Ski Slopestyle,Ski slopestyle femmes,여자 스키 슬로프스타일,N,FRW070
+FRS,-,------------------,,Freestyle Skiing,Ski acrobatique,프리스타일 스키,Freestyle Skiing,Ski acrobatique,프리스타일 스키,,FR0000
+FRS,-,AE----------------,,Aerials,Saut,에어리얼,Aerials,Saut,에어리얼,,FR0030
+FRS,-,HP----------------,,Ski Halfpipe,Ski halfpipe,스키 하프파이프,Ski Halfpipe,Ski halfpipe,스키 하프파이프,,FR0060
+FRS,-,MO----------------,,Moguls,Bosses,모글,Moguls,Bosses,모글,,FR0020
+FRS,-,SS----------------,,Ski Slopestyle,Ski slopestyle,스키 슬로프스타일,Ski Slopestyle,Ski slopestyle,스키 슬로프스타일,,FR0070
+FRS,-,SX----------------,,Ski Cross,Ski cross,스키 크로스,Ski Cross,Ski cross,스키 크로스,,FR0740
+FRS,M,------------------,,Men's Freestyle Skiing,Ski acrobatique hommes,프리스타일 스키 남자경기,Men's Freestyle Skiing,Ski acrobatique hommes,프리스타일 스키 남자경기,,FRM000
+FRS,W,------------------,,Ladies' Freestyle Skiing,Ski acrobatique femmes,프리스타일 스키 여자경기,Ladies' Freestyle Skiing,Ski acrobatique femmes,프리스타일 스키 여자경기,,FRW000
+FRS,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+FSK,M,SINGLES-----------,1,Men Single Skating,Patinage individuel hommes,피겨 스케이팅 남자 싱글,Men Single Skating,Patinage individuel hommes,피겨 스케이팅 남자 싱글,N,FSM010
+FSK,W,SINGLES-----------,2,Ladies Single Skating,Patinage individuel femmes,피겨 스케이팅 여자 싱글,Ladies Single Skating,Patinage individuel femmes,피겨 스케이팅 여자 싱글,N,FSW010
+FSK,X,PAIRS-------------,3,Pair Skating,Patinage en couple,피겨 스케이팅 페어,Pair Skating,Patinage en couple,피겨 스케이팅 페어,N,FSX020
+FSK,X,ICEDANCE----------,4,Ice Dance,Danse sur glace,피겨 스케이팅 아이스 댄스,Ice Dance,Danse sur glace,피겨 스케이팅 아이스 댄스,N,FSX030
+FSK,X,TEAM--------------,5,Team Event,Épreuve par équipes,피겨 스케이팅 팀이벤트,Team Event,Épreuve par équipes,피겨 스케이팅 팀이벤트,Y,FSX400
+FSK,-,------------------,,Figure Skating,Patinage artistique,피겨 스케이팅,Figure Skating,Patinage artistique,피겨 스케이팅,,FS0000
+FSK,X,------------------,,Exhibition Gala,Gala d'exhibition,갈라쇼,Exhibition Gala,Gala d'exhibition,갈라쇼,,FSX000
+GEN,-,------------------,,General,Comptes rendus généraux,일반,General,Comptes rendus généraux,일반,,GL0000
+IHO,M,TEAM6-------------,1,Men,Hommes,남자,Men,Hommes,남자,Y,IHM400
+IHO,W,TEAM6-------------,2,Women,Femmes,여자,Women,Femmes,여자,Y,IHW400
+IHO,-,------------------,,Ice Hockey,Hockey sur glace,아이스 하키,Ice Hockey,Hockey sur glace,아이스 하키,,IH0000
+IHO,M,------------------,,Men's Ice Hockey,Hockey sur glace hommes,아이스 하키 남자경기,Men's Ice Hockey,Hockey sur glace hommes,아이스 하키 남자경기,,IHM000
+IHO,W,------------------,,Women's Ice Hockey,Hockey sur glace femmes,아이스 하키 여자경기,Women's Ice Hockey,Hockey sur glace femmes,아이스 하키 여자경기,,IHW000
+IOC,-,MEETINGS----------,,IOC Meetings,Réunions du CIO,IOC 회의,IOC Meetings,Réunions du CIO,IOC 회의,,IA0MET
+LUG,M,SINGLES-----------,1,Men's Singles,Simple hommes,남자 싱글,Men's Singles,Simple hommes,남자 싱글,N,LGM010
+LUG,W,SINGLES-----------,2,Women's Singles,Simple femmes,여자 싱글,Women's Singles,Simple femmes,여자 싱글,N,LGW010
+LUG,O,DOUBLES-----------,3,Doubles,Double,더블,Doubles,Double,더블,N,LGX020
+LUG,X,RELAY4------------,4,Team Relay,Relais par équipes,팀 계주,Team Relay,Relais par équipes,팀 계주,Y,LGX400
+LUG,-,------------------,,Luge,Luge,루지,Luge,Luge,루지,,LG0000
+LUG,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+NCB,M,NH10KM------------,1,Individual Gundersen NH/10km,Individuel NH hommes,노멀힐 개인 10 km,Individual Gundersen NH/10km,Individuel NH hommes,노멀힐 개인 10 km,N,NCM070
+NCB,M,LH10KM------------,2,Individual Gundersen LH/10km,Individuel LH hommes,라지힐 개인 10 km,Individual Gundersen LH/10km,Individuel LH hommes,라지힐 개인 10 km,N,NCM690
+NCB,M,LH4X5KM-----------,3,Team Gundersen LH/4x5km,Par équipes 4x5 km hommes,라지힐 팀 4 x 5 km,Team Gundersen LH/4x5km,Par équipes 4x5 km hommes,라지힐 팀 4 x 5 km,Y,NCM490
+NCB,-,------------------,,Nordic Combined,Combiné nordique,노르딕 복합,Nordic Combined,Combiné nordique,노르딕 복합,,NC0000
+NCB,M,------------------,,Nordic Combined,Combiné nordique,노르딕 복합,Nordic Combined,Combiné nordique,노르딕 복합,,NCM000
+NCB,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+NEV,-,------------------,,Nordic Events,Épreuves nordiques,노르딕 이벤트,Nordic Events,Épreuves nordiques,노르딕 이벤트,,NE0000
+OLV,-,ELECTION----------,,IOC Athletes' Commission Election,Élection commission des athlètes du CIO,IOC 선수 위원회 선거,IOC Athletes' Commission Election,Élection de la commission des athlètes du CIO,IOC 선수 위원회 선거,,OV0IOC
+OLV,-,ENTERTAN----------,,Entertainment Program,Programme des Événements Divers,엔터테이먼트 프로그램,Entertainment Program,Programme des Événements Divers,엔터테이먼트 프로그램,,OV0ENP
+OLV,-,FAITH-------------,,Interfaith Centre,Centre Interreligieux,종교 센터,Interfaith Centre,Centre Interreligieux,종교 센터,,OV0IFC
+OLV,-,WELCOME-----------,,Team Welcome Ceremonies,Cérémonies d'accueil des équipes,팀 웰컴 세레모니,Team Welcome Ceremonies,Cérémonies d'accueil des équipes,팀 웰컴 세레모니,,OV0TEA
+PCO,-,ALP---------------,,Alpine Skiing,Ski Alpin,알파인 스키,Alpine Skiing,Ski Alpin,알파인 스키,,PC0AS0
+PCO,-,BOB---------------,,Bobsleigh,Bobsleigh,봅슬레이,Bobsleigh,Bobsleigh,봅슬레이,,PC0BS0
+PCO,-,BTH---------------,,Biathlon,Biathlon,바이애슬론,Biathlon,Biathlon,바이애슬론,,PC0BT0
+PCO,-,CCS---------------,,Cross-Country Skiing,Ski de Fond,크로스컨트리 스키,Cross-Country Skiing,Ski de Fond,크로스컨트리 스키,,PC0CC0
+PCO,-,CUR---------------,,Curling,Curling,컬링,Curling,Curling,컬링,,PC0CU0
+PCO,-,FRS---------------,,Freestyle,Ski Acrobatique,프리스타일 스키,Freestyle,Ski Acrobatique,프리스타일 스키,,PC0FR0
+PCO,-,FSK---------------,,Figure Skating,Patinage Artistique,피겨 스케이팅,Figure Skating,Patinage Artistique,피겨 스케이팅,,PC0FS0
+PCO,-,GEN---------------,,General,Générale,일반,General,Générale,일반,,PC0GEN
+PCO,-,IHO---------------,,Ice Hockey,Hockey sur Glace,아이스 하키,Ice Hockey,Hockey sur Glace,아이스 하키,,PC0IH0
+PCO,-,IOC---------------,,IOC Press Conferences,Conférences de Presse du CIO,IOC 기자회견,IOC Press Conferences,Conférences de Presse du CIO,IOC 기자회견,,PC0IOC
+PCO,-,LOC---------------,,PyeongChang 2018,PyeongChang 2018,2018 평창,PyeongChang 2018,PyeongChang 2018,2018 평창,,PC0LOC
+PCO,-,LUG---------------,,Luge,Luge,루지,Luge,Luge,루지,,PC0LG0
+PCO,-,NCB---------------,,Nordic Combined,Combiné Nordique,노르딕 복합,Nordic Combined,Combiné Nordique,노르딕 복합,,PC0NC0
+PCO,-,SBD---------------,,Snowboard,Snowboard,스노보드,Snowboard,Snowboard,스노보드,,PC0SB0
+PCO,-,SJP---------------,,Ski Jumping,Saut à Ski,스키점프,Ski Jumping,Saut à Ski,스키점프,,PC0SJ0
+PCO,-,SKN---------------,,Skeleton,Skeleton,스켈레톤,Skeleton,Skeleton,스켈레톤,,PC0SN0
+PCO,-,SSK---------------,,Speed Skating,Patinage de Vitesse,스피드 스케이팅,Speed Skating,Patinage de Vitesse,스피드 스케이팅,,PC0SS0
+PCO,-,STK---------------,,Short Track Speed Skating,Short-track,쇼트트랙,Short Track Speed Skating,Short-track,쇼트트랙,,PC0ST0
+SBD,M,PGS---------------,1,Men's Parallel Giant Slalom,Slalom géant parallèle hommes,남자 평행대회전,Men's Parallel Giant Slalom,Slalom géant parallèle hommes,남자 평행대회전,N,SBM230
+SBD,M,HP----------------,2,Men's Halfpipe,Halfpipe hommes,남자 하프파이프,Men's Halfpipe,Halfpipe hommes,남자 하프파이프,N,SBM060
+SBD,M,SBX---------------,3,Men's Snowboard Cross,Snowboard cross hommes,남자 스노보드 크로스,Men's Snowboard Cross,Snowboard cross hommes,남자 스노보드 크로스,N,SBM490
+SBD,M,SS----------------,4,Men's Slopestyle,Slopestyle hommes,남자 슬로프스타일,Men's Slopestyle,Slopestyle hommes,남자 슬로프스타일,N,SBM070
+SBD,M,BA----------------,5,Men's Big Air,Big Air hommes,남자 빅에어,Men's Big Air,Big Air hommes,남자 빅에어,N,
+SBD,W,PGS---------------,6,Ladies' Parallel Giant Slalom,Slalom géant parallèle femmes,여자 평행대회전,Ladies' Parallel Giant Slalom,Slalom géant parallèle femmes,여자 평행대회전,N,SBW230
+SBD,W,HP----------------,7,Ladies' Halfpipe,Halfpipe femmes,여자 하프파이프,Ladies' Halfpipe,Halfpipe femmes,여자 하프파이프,N,SBW060
+SBD,W,SBX---------------,8,Ladies' Snowboard Cross,Snowboard cross femmes,여자 스노보드 크로스,Ladies' Snowboard Cross,Snowboard cross femmes,여자 스노보드 크로스,N,SBW490
+SBD,W,SS----------------,9,Ladies' Slopestyle,Slopestyle femmes,여자 슬로프스타일,Ladies' Slopestyle,Slopestyle femmes,여자 슬로프스타일,N,SBW070
+SBD,W,BA----------------,10,Ladies' Big Air,Big Air femmes,여자 빅에어,Ladies' Big Air,Big Air femmes,여자 빅에어,N,
+SBD,-,------------------,,Snowboard,Snowboard,스노보드,Snowboard,Snowboard,스노보드,,SB0000
+SBD,-,BA----------------,,Big Air,Big Air,빅에어,Big Air,Big Air,빅에어,,
+SBD,-,HP----------------,,Halfpipe,Halfpipe,하프파이프,Halfpipe,Halfpipe,하프파이프,,SB0060
+SBD,-,PGS---------------,,Parallel Giant Slalom,Slalom géant parallèle,평행대회전,Parallel Giant Slalom,Slalom géant parallèle,평행대회전,,SB0230
+SBD,-,SS----------------,,Slopestyle,Slopestyle,슬로프스타일,Slopestyle,Slopestyle,슬로프스타일,,SB0070
+SBD,-,SBX---------------,,Snowboard Cross,Snowboard cross,스노보드 크로스,Snowboard Cross,Snowboard cross,스노보드 크로스,,SB0490
+SBD,M,------------------,,Men's Snowboard,Snowboard hommes,스노보드 남자경기,Men's Snowboard,Snowboard hommes,스노보드 남자경기,,SBM000
+SBD,W,------------------,,Ladies' Snowboard,Snowboard femmes,스노보드 여자경기,Ladies' Snowboard,Snowboard femmes,스노보드 여자경기,,SBW000
+SBD,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+SJP,M,NH----------------,1,Men's Normal Hill Individual,Tremplin normal individuel hommes,노멀힐 남자 개인,Men's Normal Hill Individual,Tremplin normal individuel hommes,노멀힐 남자 개인,N,SJM070
+SJP,M,LH----------------,2,Men's Large Hill Individual,Grand tremplin individuel hommes,라지힐 남자 개인,Men's Large Hill Individual,Grand tremplin individuel hommes,라지힐 남자 개인,N,SJM090
+SJP,M,LHTEAM4-----------,3,Men's Team,Par équipes hommes,남자 팀,Men's Team,Par équipes hommes,남자 팀,Y,SJM490
+SJP,W,NH----------------,4,Ladies' Normal Hill Individual,Tremplin normal individuel femmes,노멀힐 여자 개인,Ladies' Normal Hill Individual,Tremplin normal individuel femmes,노멀힐 여자 개인,N,SJW070
+SJP,-,------------------,,Ski Jumping,Saut à ski,스키점프,Ski Jumping,Saut à ski,스키점프,,SJ0000
+SJP,M,------------------,,Men's Ski Jumping,Saut à ski hommes,스키점프 남자경기,Men's Ski Jumping,Saut à ski hommes,스키점프 남자경기,,SJM000
+SJP,W,------------------,,Ladies' Ski Jumping,Saut à ski femmes,스키점프 여자경기,Ladies' Ski Jumping,Saut à ski femmes,스키점프 여자경기,,SJW000
+SJP,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+SKN,M,SINGLES-----------,1,Men,Hommes,남자,Men,Hommes,남자,N,SNM001
+SKN,W,SINGLES-----------,2,Women,Femmes,여자,Women,Femmes,여자,N,SNW001
+SKN,-,------------------,,Skeleton,Skeleton,스켈레톤,Skeleton,Skeleton,스켈레톤,,SN0000
+SKN,M,------------------,,Men's Skeleton,Skeleton hommes,스켈레톤 남자경기,Men's Skeleton,Skeleton hommes,스켈레톤 남자경기,,SNM000
+SKN,W,------------------,,Women's Skeleton,Skeleton femmes,스켈레톤 여자경기,Women's Skeleton,Skeleton femmes,스켈레톤 여자경기,,SNW000
+SKN,-,CANCEL------------,,No competition,Pas de compétition,경기 없음,No competition,Pas de compétition,경기 없음,,
+SKT,-,------------------,,Skating,Patinage,스케이팅,Skating,Patinage,스케이팅,,SK0000
+SSK,M,500M--------------,1,Men's 500m,500 m hommes,남자 500 m,Men's 500m,500 m hommes,남자 500 m,N,SSM205
+SSK,M,1000M-------------,2,Men's 1000m,1 000 m hommes,"남자 1,000 m",Men's 1000m,1 000 m hommes,"남자 1,000 m",N,SSM010
+SSK,M,1500M-------------,3,Men's 1500m,1 500 m hommes,"남자 1,500 m",Men's 1500m,1 500 m hommes,"남자 1,500 m",N,SSM015
+SSK,M,5000M-------------,4,Men's 5000m,5 000 m hommes,"남자 5,000 m",Men's 5000m,5 000 m hommes,"남자 5,000 m",N,SSM050
+SSK,M,10000M------------,5,Men's 10000m,10 000 m hommes,"남자 10,000 m",Men's 10000m,10 000 m hommes,"남자 10,000 m",N,SSM100
+SSK,M,MS----------------,6,Men's Mass Start,Départ groupé hommes,남자 매스스타트,Men's Mass Start,Départ groupé hommes,남자 매스스타트,N,SSM700
+SSK,M,TEAMPU------------,7,Men's Team Pursuit,Poursuite par équipes hommes,남자 팀추월,Men's Team Pursuit,Poursuite par équipes hommes,남자 팀추월,Y,SSM408
+SSK,W,500M--------------,8,Ladies' 500m,500 m femmes,여자 500 m,Ladies' 500m,500 m femmes,여자 500 m,N,SSW205
+SSK,W,1000M-------------,9,Ladies' 1000m,1 000 m femmes,"여자 1,000 m",Ladies' 1000m,1 000 m femmes,"여자 1,000 m",N,SSW010
+SSK,W,1500M-------------,10,Ladies' 1500m,1 500 m femmes,"여자 1,500 m",Ladies' 1500m,1 500 m femmes,"여자 1,500 m",N,SSW015
+SSK,W,3000M-------------,11,Ladies' 3000m,3 000 m femmes,"여자 3,000 m",Ladies' 3000m,3 000 m femmes,"여자 3,000 m",N,SSW030
+SSK,W,5000M-------------,12,Ladies' 5000m,5 000 m femmes,"여자 5,000 m",Ladies' 5000m,5 000 m femmes,"여자 5,000 m",N,SSW050
+SSK,W,MS----------------,13,Ladies' Mass Start,Départ groupé femmes,여자 매스스타트,Ladies' Mass Start,Départ groupé femmes,여자 매스스타트,N,SSW700
+SSK,W,TEAMPU------------,14,Ladies' Team Pursuit,Poursuite par équipes femmes,여자 팀추월,Ladies' Team Pursuit,Poursuite par équipes femmes,여자 팀추월,Y,SSW406
+SSK,-,------------------,,Speed Skating,Patinage de vitesse,스피드 스케이팅,Speed Skating,Patinage de vitesse,스피드 스케이팅,,SS0000
+SSK,-,TEAMPU------------,,Team Pursuit,Poursuite par équipes,팀추월,Team Pursuit,Poursuite par équipes,팀추월,,
+SSK,M,------------------,,Men's Speed Skating,Patinage de vitesse hommes,스피드 스케이팅 남자경기,Men's Speed Skating,Patinage de vitesse hommes,스피드 스케이팅 남자경기,,SSM000
+SSK,W,------------------,,Ladies' Speed Skating,Patinage de vitesse femmes,스피드 스케이팅 여자경기,Ladies' Speed Skating,Patinage de vitesse femmes,스피드 스케이팅 여자경기,,SSW000
+STK,M,500M--------------,1,Men's 500m,500 m hommes,남자 500 m,Men's 500m,500 m hommes,남자 500 m,N,STM005
+STK,M,1000M-------------,2,Men's 1000m,1 000 m hommes,"남자 1,000 m",Men's 1000m,1 000 m hommes,"남자 1,000 m",N,STM010
+STK,M,1500M-------------,3,Men's 1500m,1 500 m hommes,"남자 1,500 m",Men's 1500m,1 500 m hommes,"남자 1,500 m",N,STM015
+STK,M,5000MRY4----------,4,Men's 5000m Relay,Relais 5 000 m hommes,"남자 계주 5,000 m",Men's 5000m Relay,Relais 5 000 m hommes,"남자 계주 5,000 m",Y,STM450
+STK,W,500M--------------,5,Ladies' 500m,500 m femmes,여자 500 m,Ladies' 500m,500 m femmes,여자 500 m,N,STW005
+STK,W,1000M-------------,6,Ladies' 1000m,1 000 m femmes,"여자 1,000 m",Ladies' 1000m,1 000 m femmes,"여자 1,000 m",N,STW010
+STK,W,1500M-------------,7,Ladies' 1500m,1 500 m femmes,"여자 1,500 m",Ladies' 1500m,1 500 m femmes,"여자 1,500 m",N,STW015
+STK,W,3000MRY4----------,8,Ladies' 3000m Relay,Relais 3 000 m femmes,"여자 계주 3,000 m",Ladies' 3000m Relay,Relais 3 000 m femmes,"여자 계주 3,000 m",Y,STW430
+STK,-,------------------,,Short Track Speed Skating,Short-track,쇼트트랙 스피드 스케이팅,Short Track Speed Skating,Short-track,쇼트트랙 스피드 스케이팅,,ST0000
+STK,M,------------------,,Men's Short Track Speed Skating,Short-track hommes,쇼트트랙 스피드 스케이팅 남자경기,Men's Short Track Speed Skating,Short-track hommes,쇼트트랙 스피드 스케이팅 남자경기,,STM000
+STK,W,------------------,,Ladies' Short Track Speed Skating,Short-track femmes,쇼트트랙 스피드 스케이팅 여자경기,Ladies' Short Track Speed Skating,Short-track femmes,쇼트트랙 스피드 스케이팅 여자경기,,STW000
+TRU,-,ALP---------------,,Alpine Skiing,Ski Alpin,알파인 스키,Alpine Skiing,Ski Alpin,알파인 스키,,UT0AST
+TRU,-,BOB---------------,,Bobsleigh,Bobsleigh,봅슬레이,Bobsleigh,Bobsleigh,봅슬레이,,UT0BST
+TRU,-,BTH---------------,,Biathlon,Biathlon,바이애슬론,Biathlon,Biathlon,바이애슬론,,UT0BTT
+TRU,-,CCS---------------,,Cross-Country Skiing,Ski de Fond,크로스컨트리 스키,Cross-Country Skiing,Ski de Fond,크로스컨트리 스키,,UT0CCT
+TRU,-,CUR---------------,,Curling,Curling,컬링,Curling,Curling,컬링,,UT0CUT
+TRU,-,FRS---------------,,Freestyle,Ski Acrobatique,프리스타일 스키,Freestyle,Ski Acrobatique,프리스타일 스키,,UT0FRT
+TRU,-,FSK---------------,,Figure Skating,Patinage Artistique,피겨 스케이팅,Figure Skating,Patinage Artistique,피겨 스케이팅,,UT0FST
+TRU,-,IHO---------------,,Ice Hockey,Hockey sur Glace,아이스 하키,Ice Hockey,Hockey sur Glace,아이스 하키,,UT0IHT
+TRU,-,LUG---------------,,Luge,Luge,루지,Luge,Luge,루지,,UT0LGT
+TRU,-,NCB---------------,,Nordic Combined,Combiné Nordique,노르딕 복합,Nordic Combined,Combiné Nordique,노르딕 복합,,UT0NCT
+TRU,-,SBD---------------,,Snowboard,Snowboard,스노보드,Snowboard,Snowboard,스노보드,,UT0SBT
+TRU,-,SJP---------------,,Ski Jumping,Saut à Ski,스키점프,Ski Jumping,Saut à Ski,스키점프,,UT0SJT
+TRU,-,SKN---------------,,Skeleton,Skeleton,스켈레톤,Skeleton,Skeleton,스켈레톤,,UT0SNT
+TRU,-,SSK---------------,,Speed Skating,Patinage de Vitesse,스피드 스케이팅,Speed Skating,Patinage de Vitesse,스피드 스케이팅,,UT0SST
+TRU,-,STK---------------,,Short Track Speed Skating,Short-track,쇼트트랙,Short Track Speed Skating,Short-track,쇼트트랙,,UT0STT

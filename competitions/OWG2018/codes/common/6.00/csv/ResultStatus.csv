@@ -1,0 +1,9 @@
+Code,Order,ENG Description,FRA Description,KOR Description,Comment
+START_LIST,1,Start List,Liste de départ,스타트 리스트,"Before competition, Start List"
+LIVE,2,Live,En temp réel,라이브,For live updates during competition
+INTERMEDIATE,3,Intermediate,Intermédiaire,휴식,"When competition is stopped, usued at pre-defined points"
+UNCONFIRMED,4,Unconfirmed,Non confirmé,미확정,When the unit is over but not yet unofficial or official
+UNOFFICIAL,5,Unofficial,Non officiel,비공식,"Results of the competition released as soon as the event is over, not waiting any official decision of the International Federation. The correctness of data must be assured"
+OFFICIAL,6,Official,Officiel,공식,"Results of the competition released as soon as the event is officially confirmed taking into account the resolution of the protests, etc."
+PARTIAL,7,Partial,Partiel,중간,"Incomplete list, Final Ranking. Used in PDF"
+PROTESTED,8,Protested,Contesté,소청,After the competition is no longer LIVE and a protest has been lodged

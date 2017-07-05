@@ -14,6 +14,7 @@ class CodesLoader
 
     if file.match(/\/(\w+)_(\w{2})_(\d+\.\d+)\.xls/)
       @games = $1
+      @codes_type = $2
       @version = $3
     end
     @games   = games   || @games
@@ -92,7 +93,7 @@ class CodesLoader
   def write!
     raise "No version specified" if @version.nil? || @version.length == 0
 
-    all_json_path = File.join('competitions', @games, 'codes', @version, 'json', 'all.json')
+    all_json_path = File.join('competitions', @games, 'codes', 'common', @version, 'json', 'all.json')
     all_json = File.exist?(all_json_path) ? JSON.load(File.read(all_json_path)) : {}
 
     @data.each do |name, values|
@@ -120,14 +121,16 @@ class CodesLoader
       end
     end
 
-    File.write(all_json_path, JSON.dump(all_json))
-    puts "Wrote #{all_json_path}"
+    if @codes_type == 'CC'
+      File.write(all_json_path, JSON.dump(all_json))
+      puts "Wrote #{all_json_path}"
+    end
   end
 
   private
 
   def output_path(sheet, type)
-    path = File.join('competitions', @games, 'codes', @version, type, "#{sheet}.#{type}")
+    path = File.join('competitions', @games, 'codes', (@codes_type == 'CC' ? 'common' : 'sport'), @version, type, "#{sheet}.#{type}")
     FileUtils.mkdir_p(File.dirname(path)) rescue nil
     path
   end

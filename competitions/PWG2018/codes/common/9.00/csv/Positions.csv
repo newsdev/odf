@@ -1,0 +1,9 @@
+Discipline,Id,PositionOrder,ENG Description,KOR Description
+CUR,4,1,Fourth,스킵
+CUR,3,2,Third,서드
+CUR,2,3,Second,세컨
+CUR,1,4,Lead,리드
+CUR,A,5,Alternate,대체선수
+ISH,GK,1,Goalkeeper,골키퍼
+ISH,D,2,Defence,디펜스
+ISH,F,3,Forward,포워드

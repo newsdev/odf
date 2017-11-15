@@ -1,0 +1,38 @@
+Id,ENG Description,KOR Description
+clr,Clear sky,맑음(밤)
+drz,Drizzle,이슬비
+dust,Dust,황사
+fewcld,Few clouds,구름 조금
+fog,Fog,안개
+hail,Hail,우박
+haze,Haze,연무
+hlshrd,Hail shower,우박 소나기
+hlshrn,Hail shower,우박 소나기
+hrain,Heavy rain,폭우
+hrshrd,Heavy rain shower,소나기
+hrshrn,Heavy rain shower,강한 소나기
+hsnow,Heavy snow,폭설
+hsshrd,Heavy snow shower,소낙눈
+hsshrn,Heavy snow shower,강한 소낙눈
+lowcld,Low-level cloud,하층운
+lrain,Light rain,비
+lrshrd,Light rain shower,약한 소나기
+lrshrn,Light rain shower,약한 소나기
+lsnow,Light snow,눈
+lsshrd,Light snow shower,약한 소낙눈
+lsshrn,Light snow shower,약한 소낙눈
+medcld,Medium-level cloud,중층운
+mist,Mist,박무
+motcld,Mostly cloudy,구름 많음
+nocond,No condition,기상조건 없음
+ovc,Overcast,흐림
+prtcld,Partly cloudy,구름 조금
+slshrd,Sleet shower,소낙성 진눈깨비 
+slshrn,Sleet shower,소낙성 진눈깨비 
+slt,Sleet,진눈깨비
+sun,Sunny,맑음(낮)
+sunint,Sunny intervals,가끔 맑음
+thshrd,Thundery shower,뇌성 동반 소나기
+thshrn,Thundery shower,뇌성 동반 소나기
+thstrm,Thunder storm,천둥번개
+trpstm,Tropical storm,열대 폭풍우

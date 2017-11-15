@@ -1,0 +1,15 @@
+Id,ENG Description,KOR Description,nonsport,Sport,Eventorder,scheduled,Old DD
+ALP,Alpine Skiing,알파인 스키,N,SI,DATE,Y,AS
+ART,Cultural,문화행사,Y,,DATE,Y,AF
+BTH,Biathlon,바이애슬론,N,BT,DATE,Y,BT
+CCS,Cross-Country Skiing,크로스컨트리 스키,N,NE,DATE,Y,CC
+CER,Ceremonies,의식행사,Y,,DATE,Y,CE
+CUR,Wheelchair Curling,휠체어컬링,N,CU,DATE,Y,CU
+GEN,General,일반,Y,,DATE,N,GL
+IOC,IPC Activities,IPC 엑티비티,Y,,DATE,Y,IA
+ISH,Ice Hockey,아이스하키,N,IH,DATE,Y,IH
+NSK,Nordic Skiing,노르딕 스키,N,,DATE,N,NS
+OLV,Paralympic Villages,패럴림픽 선수촌,Y,,DATE,Y,OV
+PCO,Press Conferences,기자회견,Y,,DATE,Y,PC
+SBD,Snowboard,스노보드,N,SI,DATE,Y,SB
+TRU,Training (Unofficial),연습(비공식),Y,,DATE,Y,UT

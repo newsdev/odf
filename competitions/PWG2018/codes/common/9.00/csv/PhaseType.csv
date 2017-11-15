@@ -1,0 +1,11 @@
+Id,ENG Description,KOR Description,Schedule Type
+0,Opening/Closing Ceremonies,개막식/폐막식,G
+1,Official Training,공식 연습,G
+2,Unofficial Training,비공식 연습,N
+3,Competition,경기,G
+4,Technical Meeting,기술 회의,N
+5,Press Conference,기자회견,N
+6,Medal/Venue Ceremony,메달 시상식/시상식,N
+7,Draw,추첨,N
+8,Others,그 외 일정,N
+9,Team Leaders Meeting,대표자회의,N

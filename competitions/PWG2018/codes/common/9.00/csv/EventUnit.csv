@@ -1,0 +1,1044 @@
+Discipline,Gender,Event,phase,Eventunit,ENG Description,KOR Description,ENG longdescription,KOR longdescription,Level,Order,schedule,medalflag,Eventunittype,cisSchedule,infoSchedule,ENG unit Description,KOR unit Description,Old unit
+ALP,-,------------------,----,--------,Alpine Skiing,알파인 스키,Alpine Skiing,알파인 스키,Discipline,,N,0,NONE,N,N,,,AS0000000
+ALP,-,------------------,----,JAL-----,ALP JAL Local On/Off / KA,ALP JAL Local On/Off / KA,ALP JAL Local On/Off / KA,ALP JAL Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+ALP,-,------------------,----,YAL-----,ALP YAL Local On/Off / KA,ALP YAL Local On/Off / KA,ALP YAL Local On/Off / KA,ALP YAL Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+ALP,-,------------------,MEET,--------,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,N,0,NONE,N,N,Team Captain Meeting,대표자 회의,
+ALP,-,------------------,MEET,000100--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T01
+ALP,-,------------------,MEET,000200--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T02
+ALP,-,------------------,MEET,000300--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T03
+ALP,-,------------------,MEET,000400--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T04
+ALP,-,------------------,MEET,000500--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T05
+ALP,-,------------------,MEET,000600--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T06
+ALP,-,------------------,MEET,000700--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T07
+ALP,-,------------------,MEET,000800--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T08
+ALP,-,------------------,MEET,000900--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T09
+ALP,-,------------------,MEET,001000--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T10
+ALP,-,------------------,MEET,001100--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T11
+ALP,-,------------------,MEET,001200--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T12
+ALP,-,------------------,MEET,001300--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T13
+ALP,-,------------------,MEET,001400--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T14
+ALP,-,------------------,MEET,001500--,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Alpine Skiing Team Captain Meeting,알파인 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,AS0000T15
+ALP,-,CANCEL------------,----,000100--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+ALP,-,CANCEL------------,----,000200--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+ALP,-,CANCEL------------,----,000300--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+ALP,M,------------------,----,--------,Men's Alpine Skiing,알파인 스키 남자,Men's Alpine Skiing,알파인 스키 남자,Gender,,N,0,NONE,N,N,,,ASM000000
+ALP,M,AC----------------,----,--------,Men's Super Combined,남자 슈퍼복합,Men's Super Combined,남자 슈퍼복합,Event,,N,0,NONE,N,N,,,ASM060000
+ALP,M,AC------03030-----,----,--------,"Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각 장애","Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각 장애",Event,,N,0,NONE,N,N,,,ASM360000
+ALP,M,AC------03030-----,DRAW,--------,"Men's Super Combined, Vis Imp, Draw","남자 슈퍼복합, 시각 장애, 추첨","Men's Super Combined, Visually Impaired, Draw","남자 슈퍼복합, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,AC------03030-----,DRAW,000100--,"Men's Super Combined, Vis Imp, Draw","남자 슈퍼복합 활강, 시각 장애","Men's Super Combined, Visually Impaired, Draw","남자 슈퍼복합 활강, 시각 장애",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM360E01
+ALP,M,AC------03030-----,FNL-,--------,"Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각 장애","Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각 장애",Phase,,N,0,NONE,N,N,,,
+ALP,M,AC------03030-----,FNL-,0001DH--,"Men's SC Downhill, Vis Impaired","남자 슈퍼복합 활강, 시각 장애","Men's Super Combined Downhill, Visually Impaired","남자 슈퍼복합 활강, 시각 장애",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASM360A01
+ALP,M,AC------03030-----,FNL-,0001SG--,"Men's SC Super-G, Vis Impaired","남자 슈퍼복합 슈퍼대회전, 시각 장애","Men's Super Combined Super-G, Visually Impaired","남자 슈퍼복합 슈퍼대회전, 시각 장애",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASM360C01
+ALP,M,AC------03030-----,FNL-,0001SL--,"Men's SC Slalom, Visually Impaired","남자 슈퍼복합 회전, 시각 장애","Men's Super Combined Slalom, Visually Impaired","남자 슈퍼복합 회전, 시각 장애",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASM360B01
+ALP,M,AC------03030-----,TRNO,--------,"Men's SC Downhill Training, Vis Imp","남자 슈퍼복합 활강 연습, 시각 장애","Men's Super Combined Downhill Training, Visually Impaired","남자 슈퍼복합 활강 연습, 시각 장애",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASM360O00
+ALP,M,AC------03030-----,TRNO,000100--,"Men's SC Downhill 1st Trng, Vis Imp","남자 슈퍼복합 활강 1차 공식연습, 시각 장애","Men's Super Combined Downhill 1st Training Run, Visually Impaired","남자 슈퍼복합 활강 1차 공식연습, 시각 장애",Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASM360O01
+ALP,M,AC------03030-----,TRNO,000200--,"Men's SC Downhill 2nd Trng, Vis Imp","남자 슈퍼복합 활강 2차 공식연습, 시각 장애","Men's Super Combined Downhill 2nd Training Run, Visually Impaired","남자 슈퍼복합 활강 2차 공식연습, 시각 장애",Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASM360O02
+ALP,M,AC------03030-----,TRNO,000300--,"Men's SC Downhill 3rd Trng, Vis Imp","남자 슈퍼복합 활강 3차 공식연습, 시각 장애","Men's Super Combined Downhill 3rd Training Run, Visually Impaired","남자 슈퍼복합 활강 3차 공식연습, 시각 장애",Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASM360O03
+ALP,M,AC------03030-----,VICT,FLOWER--,"Men's SC, Vis Impaired, Venue Ceremony","남자 슈퍼복합, 시각 장애, 시상식","Men's Super Combined, Visually Impaired, Venue Ceremony","남자 슈퍼복합, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM360M02
+ALP,M,AC------03030-----,VICT,MEDAL---,"Men's SC, Vis Impaired, Victory Ceremony","남자 슈퍼복합, 시각 장애, 메달 시상식","Men's Super Combined, Visually Impaired, Victory Ceremony","남자 슈퍼복합, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM360M01
+ALP,M,AC------09110-----,----,--------,"Men's Super Combined, Standing","남자 슈퍼복합, 입식","Men's Super Combined, Standing","남자 슈퍼복합, 입식",Event,,N,0,NONE,N,N,,,ASM160000
+ALP,M,AC------09110-----,DRAW,--------,"Men's Super Combined, Standing, Draw","남자 슈퍼복합, 입식, 추첨","Men's Super Combined, Standing, Draw","남자 슈퍼복합, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,AC------09110-----,DRAW,000100--,"Men's Super Combined, Standing, Draw","남자 슈퍼복합, 입식, 추첨","Men's Super Combined, Standing, Draw","남자 슈퍼복합, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM160E01
+ALP,M,AC------09110-----,FNL-,--------,"Men's Super Combined, Standing","남자 슈퍼복합, 입식","Men's Super Combined, Standing","남자 슈퍼복합, 입식",Phase,,N,0,NONE,N,N,,,
+ALP,M,AC------09110-----,FNL-,0001DH--,"Men's SC Downhill, Standing","남자 슈퍼복합 활강, 입식","Men's Super Combined Downhill, Standing","남자 슈퍼복합 활강, 입식",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASM160A01
+ALP,M,AC------09110-----,FNL-,0001SG--,"Men's SC Super-G, Standing","남자 슈퍼복합 슈퍼대회전, 입식","Men's Super Combined Super-G, Standing","남자 슈퍼복합 슈퍼대회전, 입식",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASM160C01
+ALP,M,AC------09110-----,FNL-,0001SL--,"Men's SC Slalom, Standing","남자 슈퍼복합 회전, 입식","Men's Super Combined Slalom, Standing","남자 슈퍼복합 회전, 입식",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASM160B01
+ALP,M,AC------09110-----,TRNO,--------,"Men's SC Downhill Training, Standing","남자 슈퍼복합 활강 연습, 입식","Men's Super Combined Downhill Training, Standing","남자 슈퍼복합 활강 연습, 입식",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASM160O00
+ALP,M,AC------09110-----,TRNO,000100--,"Men's SC Downhill 1st Trng, Standing","남자 슈퍼복합 활강 1차 공식연습, 입식","Men's Super Combined Downhill 1st Training Run, Standing","남자 슈퍼복합 활강 1차 공식연습, 입식",Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASM160O01
+ALP,M,AC------09110-----,TRNO,000200--,"Men's SC Downhill 2nd Trng, Standing","남자 슈퍼복합 활강 2차 공식연습, 입식","Men's Super Combined Downhill 2nd Training Run, Standing","남자 슈퍼복합 활강 2차 공식연습, 입식",Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASM160O02
+ALP,M,AC------09110-----,TRNO,000300--,"Men's SC Downhill 3rd Trng, Standing","남자 슈퍼복합 활강 3차 공식연습, 입식","Men's Super Combined Downhill 3rd Training Run, Standing","남자 슈퍼복합 활강 3차 공식연습, 입식",Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASM160O03
+ALP,M,AC------09110-----,VICT,FLOWER--,"Men's SC, Standing, Venue Ceremony","남자 슈퍼복합, 입식, 시상식","Men's Super Combined, Standing, Venue Ceremony","남자 슈퍼복합, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM160M02
+ALP,M,AC------09110-----,VICT,MEDAL---,"Men's SC, Standing, Victory Ceremony","남자 슈퍼복합, 입식, 메달 시상식","Men's Super Combined, Standing, Victory Ceremony","남자 슈퍼복합, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM160M01
+ALP,M,AC------12050-----,----,--------,"Men's Super Combined, Sitting","남자 슈퍼복합, 좌식","Men's Super Combined, Sitting","남자 슈퍼복합, 좌식",Event,,N,0,NONE,N,N,,,ASM260000
+ALP,M,AC------12050-----,DRAW,--------,"Men's Super Combined, Sitting, Draw","남자 슈퍼복합, 좌식, 추첨","Men's Super Combined, Sitting, Draw","남자 슈퍼복합, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,AC------12050-----,DRAW,000100--,"Men's Super Combined, Sitting, Draw","남자 슈퍼복합, 좌식, 추첨","Men's Super Combined, Sitting, Draw","남자 슈퍼복합, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM260E01
+ALP,M,AC------12050-----,FNL-,--------,"Men's Super Combined, Sitting","남자 슈퍼복합, 좌식","Men's Super Combined, Sitting","남자 슈퍼복합, 좌식",Phase,,N,0,NONE,N,N,,,
+ALP,M,AC------12050-----,FNL-,0001DH--,"Men's SC Downhill, Sitting","남자 슈퍼복합 활강, 좌식","Men's Super Combined Downhill, Sitting","남자 슈퍼복합 활강, 좌식",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASM260A01
+ALP,M,AC------12050-----,FNL-,0001SG--,"Men's SC Super-G, Sitting","남자 슈퍼복합 슈퍼대회전, 좌식","Men's Super Combined Super-G, Sitting","남자 슈퍼복합 슈퍼대회전, 좌식",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASM260C01
+ALP,M,AC------12050-----,FNL-,0001SL--,"Men's SC Slalom, Sitting","남자 슈퍼복합 회전, 좌식","Men's Super Combined Slalom, Sitting","남자 슈퍼복합 회전, 좌식",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASM260B01
+ALP,M,AC------12050-----,TRNO,--------,"Men's SC Downhill Training, Sitting","남자 슈퍼복합 활강 연습, 좌식","Men's Super Combined Downhill Training, Sitting","남자 슈퍼복합 활강 연습, 좌식",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASM260O00
+ALP,M,AC------12050-----,TRNO,000100--,"Men's SC Downhill 1st Trng, Sitting","남자 슈퍼복합 활강 1차 공식연습, 좌식","Men's Super Combined Downhill 1st Training Run, Sitting","남자 슈퍼복합 활강 1차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASM260O01
+ALP,M,AC------12050-----,TRNO,000200--,"Men's SC Downhill 2nd Trng, Sitting","남자 슈퍼복합 활강 2차 공식연습, 좌식","Men's Super Combined Downhill 2nd Training Run, Sitting","남자 슈퍼복합 활강 2차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASM260O02
+ALP,M,AC------12050-----,TRNO,000300--,"Men's SC Downhill 3rd Trng, Sitting","남자 슈퍼복합 활강 3차 공식연습, 좌식","Men's Super Combined Downhill 3rd Training Run, Sitting","남자 슈퍼복합 활강 3차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASM260O03
+ALP,M,AC------12050-----,VICT,FLOWER--,"Men's SC, Sitting, Venue Ceremony","남자 슈퍼복합, 좌식, 시상식","Men's Super Combined, Sitting, Venue Ceremony","남자 슈퍼복합, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM260M02
+ALP,M,AC------12050-----,VICT,MEDAL---,"Men's SC, Sitting, Victory Ceremony","남자 슈퍼복합, 좌식, 메달 시상식","Men's Super Combined, Sitting, Victory Ceremony","남자 슈퍼복합, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM260M01
+ALP,M,DH----------------,----,--------,Men's Downhill,남자 활강,Men's Downhill,남자 활강,Event,,N,0,NONE,N,N,,,ASM010000
+ALP,M,DH----------------,TRNO,--------,"Men's Downhill, Training Run","남자 활강, 공식연습","Men's Downhill, Training Run","남자 활강, 공식연습",Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,M,DH----------------,TRNO,000100--,"Men's Downhill, 1st Training Run","남자 활강, 1차 공식연습","Men's Downhill, 1st Training Run","남자 활강, 1차 공식연습",Training,,N,0,NONE,N,N,1st Training Run,1차 공식연습,ASM010O01
+ALP,M,DH----------------,TRNO,000200--,"Men's Downhill, 2nd Training Run","남자 활강, 2차 공식연습","Men's Downhill, 2nd Training Run","남자 활강, 2차 공식연습",Training,,N,0,NONE,N,N,2nd Training Run,2차 공식연습,ASM010O02
+ALP,M,DH----------------,TRNO,000300--,"Men's Downhill, 3rd Training Run","남자 활강, 3차 공식연습","Men's Downhill, 3rd Training Run","남자 활강, 3차 공식연습",Training,,N,0,NONE,N,N,3rd Training Run,3차 공식연습,ASM010O03
+ALP,M,DH------03030-----,----,--------,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Event,,N,0,NONE,N,N,,,ASM310000
+ALP,M,DH------03030-----,DRAW,--------,"Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨","Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,DH------03030-----,DRAW,000100--,"Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨","Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM310E01
+ALP,M,DH------03030-----,DRAW,000200--,"Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨","Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM310E02
+ALP,M,DH------03030-----,DRAW,000300--,"Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨","Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM310E03
+ALP,M,DH------03030-----,DRAW,000400--,"Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨","Men's Downhill, Vis Imp, Draw","남자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM310E04
+ALP,M,DH------03030-----,FNL-,--------,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,M,DH------03030-----,FNL-,000100--,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Men's Downhill - Visually Impaired,남자 활강 - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,ASM310101
+ALP,M,DH------03030-----,FNL-,000101--,Men's Downhill Run 1 - Visually Impaired,남자 활강 1회전 - 시각 장애,Men's Downhill Run 1 - Visually Impaired,남자 활강 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM310111
+ALP,M,DH------03030-----,FNL-,000102--,Men's Downhill Run 2 - Visually Impaired,남자 활강 2회전 - 시각 장애,Men's Downhill Run 2 - Visually Impaired,남자 활강 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM310112
+ALP,M,DH------03030-----,TRNO,--------,Men's Downhill Trng Run - Vis Imp,"남자 활강, 공식연습 - 시각 장애",Men's Downhill Training Run - Visually Impaired,"남자 활강, 공식연습 - 시각 장애",Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,M,DH------03030-----,TRNO,000100--,Men's Downhill 1st Trng Run - Vis Imp,남자 활강 1차 공식연습 - 시각 장애,Men's Downhill 1st Training Run - Visually Impaired,남자 활강 1차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASM310O01
+ALP,M,DH------03030-----,TRNO,000200--,Men's Downhill 2nd Trng Run - Vis Imp,남자 활강 2차 공식연습 - 시각 장애,Men's Downhill 2nd Training Run - Visually Impaired,남자 활강 2차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASM310O02
+ALP,M,DH------03030-----,TRNO,000300--,Men's Downhill 3rd Trng Run - Vis Imp,남자 활강 3차 공식연습 - 시각 장애,Men's Downhill 3rd Training Run - Visually Impaired,남자 활강 3차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASM310O03
+ALP,M,DH------03030-----,VICT,FLOWER--,"Men's Downhill, Vis Imp, Venue Cer.","남자 활강, 시각 장애, 시상식","Men's Downhill, Visually Impaired, Venue Ceremony","남자 활강, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM310M02
+ALP,M,DH------03030-----,VICT,MEDAL---,"Men's Downhill, Vis Imp, Vict. Ceremony","남자 활강, 시각 장애, 메달 시상식","Men's Downhill, Visually Impaired, Victory Ceremony","남자 활강, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM310M01
+ALP,M,DH------09110-----,----,--------,Men's Downhill - Standing ,남자 활강 - 입식 ,Men's Downhill - Standing ,남자 활강 - 입식 ,Event,,N,0,ATH,N,N,,,ASM110000
+ALP,M,DH------09110-----,DRAW,--------,"Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨","Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,DH------09110-----,DRAW,000100--,"Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨","Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM110E01
+ALP,M,DH------09110-----,DRAW,000200--,"Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨","Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM110E02
+ALP,M,DH------09110-----,DRAW,000300--,"Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨","Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM110E03
+ALP,M,DH------09110-----,DRAW,000400--,"Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨","Men's Downhill, Standing, Draw","남자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM110E04
+ALP,M,DH------09110-----,FNL-,--------,Men's Downhill - Standing ,남자 활강 - 입식 ,Men's Downhill - Standing ,남자 활강 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,M,DH------09110-----,FNL-,000100--,Men's Downhill - Standing ,남자 활강 - 입식 ,Men's Downhill - Standing ,남자 활강 - 입식 ,Unit,,Y,1,ATH,Y,Y,,,ASM110101
+ALP,M,DH------09110-----,FNL-,000101--,Men's Downhill Run 1 - Standing,남자 활강 1회전 - 입식,Men's Downhill Run 1 - Standing,남자 활강 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM110111
+ALP,M,DH------09110-----,FNL-,000102--,Men's Downhill Run 2 - Standing,남자 활강 2회전 - 입식,Men's Downhill Run 2 - Standing,남자 활강 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM110112
+ALP,M,DH------09110-----,TRNO,--------,Men's Downhill Trng Run - Standing,남자 활강 공식연습 - 입식,Men's Downhill Training Run - Standing,남자 활강 공식연습 - 입식,Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,M,DH------09110-----,TRNO,000100--,Men's Downhill 1st Trng Run - Standing,남자 활강 1차 공식연습 - 입식,Men's Downhill 1st Training Run - Standing,남자 활강 1차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASM110O01
+ALP,M,DH------09110-----,TRNO,000200--,Men's Downhill 2nd Trng Run - Standing,남자 활강 2차 공식연습 - 입식,Men's Downhill 2nd Training Run - Standing,남자 활강 2차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASM110O02
+ALP,M,DH------09110-----,TRNO,000300--,Men's Downhill 3rd Trng Run - Standing,남자 활강 3차 공식연습 - 입식,Men's Downhill 3rd Training Run - Standing,남자 활강 3차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASM110O03
+ALP,M,DH------09110-----,VICT,FLOWER--,"Men's Downhill, Standing, Venue Cer.","남자 활강, 입식, 시상식","Men's Downhill, Standing, Venue Ceremony","남자 활강, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM110M02
+ALP,M,DH------09110-----,VICT,MEDAL---,"Men's Downhill, Stand, Vict. Ceremony","남자 활강, 입식, 메달 시상식","Men's Downhill, Standing, Victory Ceremony","남자 활강, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM110M01
+ALP,M,DH------12050-----,----,--------,Men's Downhill - Sitting,남자 활강 - 좌식,Men's Downhill - Sitting,남자 활강 - 좌식,Event,,N,0,NONE,N,N,,,ASM210000
+ALP,M,DH------12050-----,DRAW,--------,"Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨","Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,DH------12050-----,DRAW,000100--,"Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨","Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM210E01
+ALP,M,DH------12050-----,DRAW,000200--,"Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨","Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM210E02
+ALP,M,DH------12050-----,DRAW,000300--,"Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨","Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM210E03
+ALP,M,DH------12050-----,DRAW,000400--,"Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨","Men's Downhill, Sitting, Draw","남자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM210E04
+ALP,M,DH------12050-----,FNL-,--------,Men's Downhill - Sitting,남자 활강 - 좌식,Men's Downhill - Sitting,남자 활강 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,M,DH------12050-----,FNL-,000100--,Men's Downhill - Sitting,남자 활강 - 좌식,Men's Downhill - Sitting,남자 활강 - 좌식,Unit,,Y,1,ATH,Y,Y,,,ASM210101
+ALP,M,DH------12050-----,FNL-,000101--,Men's Downhill Run 1 - Sitting,남자 활강 1회전 - 좌식,Men's Downhill Run 1 - Sitting,남자 활강 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM210111
+ALP,M,DH------12050-----,FNL-,000102--,Men's Downhill Run 2 - Sitting,남자 활강 2회전 - 좌식,Men's Downhill Run 2 - Sitting,남자 활강 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM210112
+ALP,M,DH------12050-----,TRNO,--------,Men's Downhill Trng Run - Sitting,남자 활강 공식연습 - 좌식,Men's Downhill Training Run - Sitting,남자 활강 공식연습 - 좌식,Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,M,DH------12050-----,TRNO,000100--,Men's Downhill 1st Trng Run - Sitting,남자 활강 1차 공식연습 - 좌식,Men's Downhill 1st Training Run - Sitting,남자 활강 1차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASM210O01
+ALP,M,DH------12050-----,TRNO,000200--,Men's Downhill 2nd Trng Run - Sitting,남자 활강 2차 공식연습 - 좌식,Men's Downhill 2nd Training Run - Sitting,남자 활강 2차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASM210O02
+ALP,M,DH------12050-----,TRNO,000300--,Men's Downhill 3rd Trng Run - Sitting,남자 활강 3차 공식연습 - 좌식,Men's Downhill 3rd Training Run - Sitting,남자 활강 3차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASM210O03
+ALP,M,DH------12050-----,VICT,FLOWER--,"Men's Downhill, Sitting, Venue Cer.","남자 활강, 좌식, 시상식","Men's Downhill, Sitting, Venue Ceremony","남자 활강, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM210M02
+ALP,M,DH------12050-----,VICT,MEDAL---,"Men's Downhill, Sit, Vict. Ceremony","남자 활강, 좌식, 메달 시상식","Men's Downhill, Sitting, Victory Ceremony","남자 활강, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM210M01
+ALP,M,GS----------------,----,--------,Men's Giant Slalom,남자 대회전,Men's Giant Slalom,남자 대회전,Event,,N,0,NONE,N,N,,,ASM030000
+ALP,M,GS------03030-----,----,--------,Men's Giant Slalom - Visually Impaired,남자 대회전 - 시각 장애,Men's Giant Slalom - Visually Impaired,남자 대회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASM330000
+ALP,M,GS------03030-----,DRAW,--------,"Men's Giant Slalom, Vis Imp, Draw","남자 대회전, 시각 장애, 추첨","Men's Giant Slalom, Visually Impaired, Draw","남자 대회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,GS------03030-----,DRAW,000100--,"Men's Giant Slalom, Vis Imp, Draw","남자 대회전, 시각 장애, 추첨","Men's Giant Slalom, Visually Impaired, Draw","남자 대회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM330E01
+ALP,M,GS------03030-----,FNL-,--------,Men's Giant Slalom - Visually Impaired,남자 대회전 - 시각 장애,Men's Giant Slalom - Visually Impaired,남자 대회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,M,GS------03030-----,FNL-,000100--,Men's Giant Slalom Run 1 - Vis Imp,남자 대회전 1회전 - 시각 장애,Men's Giant Slalom Run 1 - Visually Impaired,남자 대회전 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM330101
+ALP,M,GS------03030-----,FNL-,000200--,Men's Giant Slalom Run 2 - Vis Imp,남자 대회전 2회전 - 시각 장애,Men's Giant Slalom Run 2 - Visually Impaired,남자 대회전 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM330102
+ALP,M,GS------03030-----,VICT,FLOWER--,"Men's Giant Slalom, Vis Imp, Venue Cer.","남자 대회전, 시각 장애, 시상식","Men's Giant Slalom, Visually Impaired, Venue Ceremony","남자 대회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM330M02
+ALP,M,GS------03030-----,VICT,MEDAL---,"Men's G Slalom, Vis Imp, Vict. Ceremony","남자 대회전, 시각 장애, 메달 시상식","Men's Giant Slalom, Visually Impaired, Victory Ceremony","남자 대회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM330M01
+ALP,M,GS------09110-----,----,--------,Men's Giant Slalom - Standing,남자 대회전 - 입식,Men's Giant Slalom - Standing ,남자 대회전 - 입식,Event,,N,0,NONE,N,N,,,ASM130000
+ALP,M,GS------09110-----,DRAW,--------,"Men's Giant Slalom, Standing, Draw","남자 대회전, 입식, 추첨","Men's Giant Slalom, Standing, Draw","남자 대회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,GS------09110-----,DRAW,000100--,"Men's Giant Slalom, Standing, Draw","남자 대회전, 입식, 추첨","Men's Giant Slalom, Standing, Draw","남자 대회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM130E01
+ALP,M,GS------09110-----,FNL-,--------,Men's Giant Slalom - Standing,남자 대회전 - 입식,Men's Giant Slalom - Standing ,남자 대회전 - 입식,Phase,,N,0,NONE,N,N,,,
+ALP,M,GS------09110-----,FNL-,000100--,Men's Giant Slalom Run 1 - Standing,남자 대회전 1회전 - 입식,Men's Giant Slalom Run 1 - Standing,남자 대회전 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM130101
+ALP,M,GS------09110-----,FNL-,000200--,Men's Giant Slalom Run 2 - Standing,남자 대회전 2회전 - 입식,Men's Giant Slalom Run 2 - Standing,남자 대회전 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM130102
+ALP,M,GS------09110-----,VICT,FLOWER--,"Men's Giant Slalom, Standing, Venue Cer.","남자 대회전, 입식, 시상식","Men's Giant Slalom, Standing, Venue Ceremony","남자 대회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM130M02
+ALP,M,GS------09110-----,VICT,MEDAL---,"Men's G Slalom, Stand, Vict. Ceremony","남자 대회전, 입식, 메달 시상식","Men's Giant Slalom, Standing, Victory Ceremony","남자 대회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM130M01
+ALP,M,GS------12050-----,----,--------,Men's Giant Slalom - Sitting,남자 대회전 - 좌식,Men's Giant Slalom - Sitting,남자 대회전 - 좌식,Event,,N,0,NONE,N,N,,,ASM230000
+ALP,M,GS------12050-----,DRAW,--------,"Men's Giant Slalom, Sitting, Draw","남자 대회전, 좌식, 추첨","Men's Giant Slalom, Sitting, Draw","남자 대회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,GS------12050-----,DRAW,000100--,"Men's Giant Slalom, Sitting, Draw","남자 대회전, 좌식, 추첨","Men's Giant Slalom, Sitting, Draw","남자 대회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM230E01
+ALP,M,GS------12050-----,FNL-,--------,Men's Giant Slalom - Sitting,남자 대회전 - 좌식,Men's Giant Slalom - Sitting,남자 대회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,M,GS------12050-----,FNL-,000100--,Men's Giant Slalom Run 1 - Sitting,남자 대회전 1회전 - 좌식,Men's Giant Slalom Run 1 - Sitting,남자 대회전 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM230101
+ALP,M,GS------12050-----,FNL-,000200--,Men's Giant Slalom Run 2 - Sitting,남자 대회전 2회전 - 좌식,Men's Giant Slalom Run 2 - Sitting,남자 대회전 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM230102
+ALP,M,GS------12050-----,VICT,FLOWER--,"Men's Giant Slalom, Sitting, Venue Cer.","남자 대회전, 좌식, 시상식","Men's Giant Slalom, Sitting, Venue Ceremony","남자 대회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM230M02
+ALP,M,GS------12050-----,VICT,MEDAL---,"Men's G Slalom, Sit, Vict. Ceremony","남자 대회전, 좌식, 메달 시상식","Men's Giant Slalom, Sitting, Victory Ceremony","남자 대회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM230M01
+ALP,M,SG----------------,----,--------,Men's Super-G,남자 슈퍼대회전,Men's Super-G,남자 슈퍼대회전,Event,,N,0,NONE,N,N,,,ASM040000
+ALP,M,SG------03030-----,----,--------,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASM340000
+ALP,M,SG------03030-----,DRAW,--------,"Men's Super-G, Vis Imp, Draw","남자 슈퍼대회전, 시각 장애, 추첨","Men's Super-G, Visually Impaired, Draw","남자 슈퍼대회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SG------03030-----,DRAW,000100--,"Men's Super-G, Vis Imp, Draw","남자 슈퍼대회전, 시각 장애, 추첨","Men's Super-G, Visually Impaired, Draw","남자 슈퍼대회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM340E01
+ALP,M,SG------03030-----,FNL-,--------,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,M,SG------03030-----,FNL-,000100--,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Men's Super-G - Visually Impaired,남자 슈퍼대회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,ASM340101
+ALP,M,SG------03030-----,VICT,FLOWER--,"Men's Super-G, Vis Imp, Venue Cer.","남자 슈퍼대회전, 시각 장애, 시상식","Men's Super-G, Visually Impaired, Venue Ceremony","남자 슈퍼대회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM340M02
+ALP,M,SG------03030-----,VICT,MEDAL---,"Men's Super-G, Vis Imp, Vict. Ceremony","남자 슈퍼대회전, 시각 장애, 메달 시상식","Men's Super-G, Visually Impaired, Victory Ceremony","남자 슈퍼대회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM340M01
+ALP,M,SG------09110-----,----,--------,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Event,,N,0,NONE,N,N,,,ASM140000
+ALP,M,SG------09110-----,DRAW,--------,"Men's Super-G, Standing, Draw","남자 슈퍼대회전, 입식, 추첨","Men's Super-G, Standing, Draw","남자 슈퍼대회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SG------09110-----,DRAW,000100--,"Men's Super-G, Standing, Draw","남자 슈퍼대회전, 입식, 추첨","Men's Super-G, Standing, Draw","남자 슈퍼대회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM140E01
+ALP,M,SG------09110-----,FNL-,--------,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,M,SG------09110-----,FNL-,000100--,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Men's Super-G - Standing ,남자 슈퍼대회전 - 입식 ,Unit,,Y,1,ATH,Y,Y,,,ASM140101
+ALP,M,SG------09110-----,VICT,FLOWER--,"Men's Super-G, Standing, Venue Cer.","남자 슈퍼대회전, 입식, 시상식","Men's Super-G, Standing, Venue Ceremony","남자 슈퍼대회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM140M02
+ALP,M,SG------09110-----,VICT,MEDAL---,"Men's Super-G, Stand, Vict. Ceremony","남자 슈퍼대회전, 입식, 메달 시상식","Men's Super-G, Standing, Victory Ceremony","남자 슈퍼대회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM140M01
+ALP,M,SG------12050-----,----,--------,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Event,,N,0,NONE,N,N,,,ASM240000
+ALP,M,SG------12050-----,DRAW,--------,"Men's Super-G, Sitting, Draw","남자 슈퍼대회전, 좌식, 추첨","Men's Super-G, Sitting, Draw","남자 슈퍼대회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SG------12050-----,DRAW,000100--,"Men's Super-G, Sitting, Draw","남자 슈퍼대회전, 좌식, 추첨","Men's Super-G, Sitting, Draw","남자 슈퍼대회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM240E01
+ALP,M,SG------12050-----,FNL-,--------,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,M,SG------12050-----,FNL-,000100--,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Men's Super-G - Sitting,남자 슈퍼대회전 - 좌식,Unit,,Y,1,ATH,Y,Y,,,ASM240101
+ALP,M,SG------12050-----,VICT,FLOWER--,"Men's Super-G, Sitting, Venue Cer.","남자 슈퍼대회전, 좌식, 시상식","Men's Super-G, Sitting, Venue Ceremony","남자 슈퍼대회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM240M02
+ALP,M,SG------12050-----,VICT,MEDAL---,"Men's Super-G, Sitting, Vict. Ceremony","남자 슈퍼대회전, 좌식, 메달 시상식","Men's Super-G, Sitting, Victory Ceremony","남자 슈퍼대회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM240M01
+ALP,M,SL----------------,----,--------,Men's Slalom,남자 회전,Men's Slalom,남자 회전,Event,,N,0,NONE,N,N,,,ASM020000
+ALP,M,SL------03030-----,----,--------,Men's Slalom - Visually Impaired,남자 회전 - 시각 장애,Men's Slalom - Visually Impaired,남자 회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASM320000
+ALP,M,SL------03030-----,DRAW,--------,"Men's Slalom, Vis Imp, Draw","남자 회전, 시각 장애, 추첨","Men's Slalom, Visually Impaired, Draw","남자 회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SL------03030-----,DRAW,000100--,"Men's Slalom, Vis Imp, Draw","남자 회전, 시각 장애, 추첨","Men's Slalom, Visually Impaired, Draw","남자 회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM320E01
+ALP,M,SL------03030-----,FNL-,--------,Men's Slalom - Visually Impaired,남자 회전 - 시각 장애,Men's Slalom - Visually Impaired,남자 회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,M,SL------03030-----,FNL-,000100--,Men's Slalom Run 1 - Visually Impaired,남자 회전 1회전 - 시각 장애,Men's Slalom Run 1 - Visually Impaired,남자 회전 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM320101
+ALP,M,SL------03030-----,FNL-,000200--,Men's Slalom Run 2 - Visually Impaired,남자 회전 2회전 - 시각 장애,Men's Slalom Run 2 - Visually Impaired,남자 회전 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM320102
+ALP,M,SL------03030-----,VICT,FLOWER--,"Men's Slalom, Vis Imp, Venue Cer.","남자 회전, 시각 장애, 시상식","Men's Slalom, Visually Impaired, Venue Ceremony","남자 회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM320M02
+ALP,M,SL------03030-----,VICT,MEDAL---,"Men's Slalom, Vis Imp, Vict. Ceremony","남자 회전, 시각 장애, 메달 시상식","Men's Slalom, Visually Impaired, Victory Ceremony","남자 회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM320M01
+ALP,M,SL------09110-----,----,--------,Men's Slalom - Standing ,남자 회전 - 입식 ,Men's Slalom - Standing ,남자 회전 - 입식 ,Event,,N,0,NONE,N,N,,,ASM120000
+ALP,M,SL------09110-----,DRAW,--------,"Men's Slalom, Standing, Draw","남자 회전, 입식, 추첨","Men's Slalom, Standing, Draw","남자 회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SL------09110-----,DRAW,000100--,"Men's Slalom, Standing, Draw","남자 회전, 입식, 추첨","Men's Slalom, Standing, Draw","남자 회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM120E01
+ALP,M,SL------09110-----,FNL-,--------,Men's Slalom - Standing ,남자 회전 - 입식 ,Men's Slalom - Standing ,남자 회전 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,M,SL------09110-----,FNL-,000100--,Men's Slalom Run 1 - Standing,남자 회전 1회전 - 입식,Men's Slalom Run 1 - Standing,남자 회전 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM120101
+ALP,M,SL------09110-----,FNL-,000200--,Men's Slalom Run 2 - Standing,남자 회전 2회전 - 입식,Men's Slalom Run 2 - Standing,남자 회전 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM120102
+ALP,M,SL------09110-----,VICT,FLOWER--,"Men's Slalom, Standing, Venue Cer.","남자 회전, 입식, 시상식","Men's Slalom, Standing, Venue Ceremony","남자 회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM120M02
+ALP,M,SL------09110-----,VICT,MEDAL---,"Men's Slalom, Standing, Vict. Ceremony","남자 회전, 입식, 메달 시상식","Men's Slalom, Standing, Victory Ceremony","남자 회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM120M01
+ALP,M,SL------12050-----,----,--------,Men's Slalom - Sitting,남자 회전 - 좌식,Men's Slalom - Sitting,남자 회전 - 좌식,Event,,N,0,NONE,N,N,,,ASM220000
+ALP,M,SL------12050-----,DRAW,--------,"Men's Slalom, Sitting, Draw","남자 회전, 좌식, 추첨","Men's Slalom, Sitting, Draw","남자 회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,M,SL------12050-----,DRAW,000100--,"Men's Slalom, Sitting, Draw","남자 회전, 좌식, 추첨","Men's Slalom, Sitting, Draw","남자 회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASM220E01
+ALP,M,SL------12050-----,FNL-,--------,Men's Slalom - Sitting,남자 회전 - 좌식,Men's Slalom - Sitting,남자 회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,M,SL------12050-----,FNL-,000100--,Men's Slalom Run 1 - Sitting,남자 회전 1회전 - 좌식,Men's Slalom Run 1 - Sitting,남자 회전 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASM220101
+ALP,M,SL------12050-----,FNL-,000200--,Men's Slalom Run 2 - Sitting,남자 회전 2회전 - 좌식,Men's Slalom Run 2 - Sitting,남자 회전 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASM220102
+ALP,M,SL------12050-----,VICT,FLOWER--,"Men's Slalom, Sitting, Venue Cer.","남자 회전, 좌식, 시상식","Men's Slalom, Sitting, Venue Ceremony","남자 회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASM220M02
+ALP,M,SL------12050-----,VICT,MEDAL---,"Men's Slalom, Sitting, Vict. Ceremony","남자 회전, 좌식, 메달 시상식","Men's Slalom, Sitting, Victory Ceremony","남자 회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASM220M01
+ALP,W,------------------,----,--------,Women's Alpine Skiing,알파인 스키 여자,Women's Alpine Skiing,알파인 스키 여자,Gender,,N,0,NONE,N,N,,,ASW000000
+ALP,W,AC----------------,----,--------,Women's Super Combined,여자 슈퍼복합,Women's Super Combined,여자 슈퍼복합,Event,,N,0,NONE,N,N,,,ASW060000
+ALP,W,AC------03030-----,----,--------,"Women's Super Combined, Visually Imp",여자 슈퍼복합-시각 장애,"Women's Super Combined, Visually Impaired",여자 슈퍼복합-시각 장애,Event,,N,0,NONE,N,N,,,ASW360000
+ALP,W,AC------03030-----,DRAW,--------,"Women's Super Combined, Vis Imp, Draw","여자 슈퍼복합, 시각 장애, 추첨","Women's Super Combined, Visually Impaired, Draw","여자 슈퍼복합, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,AC------03030-----,DRAW,000100--,"Women's Super Combined, Vis Imp, Draw","여자 슈퍼복합, 시각 장애, 추첨","Women's Super Combined, Visually Impaired, Draw","여자 슈퍼복합, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW360E01
+ALP,W,AC------03030-----,FNL-,--------,"Women's Super Combined, Visually Imp",여자 슈퍼복합-시각 장애,"Women's Super Combined, Visually Impaired",여자 슈퍼복합-시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,W,AC------03030-----,FNL-,0001DH--,"Women's SC Downhill, Vis Impaired","여자 슈퍼복합 활강, 시각 장애","Women's Super Combined Downhill, Visually Impaired","여자 슈퍼복합 활강, 시각 장애",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASW360A01
+ALP,W,AC------03030-----,FNL-,0001SG--,"Women's SC Super-G, Vis Impaired","여자 슈퍼복합 슈퍼대회전, 시각 장애","Women's Super Combined Super-G, Visually Impaired","여자 슈퍼복합 슈퍼대회전, 시각 장애",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASW360C01
+ALP,W,AC------03030-----,FNL-,0001SL--,"Women's SC Slalom, Vis Impaired","여자 슈퍼복합 회전, 시각 장애","Women's Super Combined Slalom, Visually Impaired","여자 슈퍼복합 회전, 시각 장애",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASW360B01
+ALP,W,AC------03030-----,TRNO,--------,"Women's SC Downhill Training, Vis Imp","여자 슈퍼복합 활강 연습, 시각 장애","Women's Super Combined Downhill Training, Visually Impaired","여자 슈퍼복합 활강 연습, 시각 장애",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASW360O00
+ALP,W,AC------03030-----,TRNO,000100--,"Women's SC Downhill 1st Trng, Vis Imp",여자 슈퍼복합 활강 1차 공식연습 시각 장애,"Women's Super Combined Downhill 1st Training Run, Visually Impaired",여자 슈퍼복합 활강 1차 공식연습 시각 장애,Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASW360O01
+ALP,W,AC------03030-----,TRNO,000200--,"Women's SC Downhill 2nd Trng, Vis Imp",여자 슈퍼복합 활강 2차 공식연습 시각 장애,"Women's Super Combined Downhill 2nd Training Run, Visually Impaired",여자 슈퍼복합 활강 2차 공식연습 시각 장애,Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASW360O02
+ALP,W,AC------03030-----,TRNO,000300--,"Women's SC Downhill 3rd Trng, Vis Imp",여자 슈퍼복합 활강 3차 공식연습 시각 장애,"Women's Super Combined Downhill 3rd Training Run, Visually Impaired",여자 슈퍼복합 활강 3차 공식연습 시각 장애,Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASW360O03
+ALP,W,AC------03030-----,VICT,FLOWER--,"Women's SC, Vis Imp, Venue Ceremony","여자 슈퍼복합, 시각 장애, 시상식","Women's Super Combined, Visually Impaired, Venue Ceremony","여자 슈퍼복합, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW360M02
+ALP,W,AC------03030-----,VICT,MEDAL---,"Women's SC, Vis Imp, Victory Ceremony","여자 슈퍼복합, 시각 장애, 메달 시상식","Women's Super Combined, Visually Impaired, Victory Ceremony","여자 슈퍼복합, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW360M01
+ALP,W,AC------09110-----,----,--------,"Women's Super Combined, Standing","여자 슈퍼복합, 입식","Women's Super Combined, Standing","여자 슈퍼복합, 입식",Event,,N,0,NONE,N,N,,,ASW160000
+ALP,W,AC------09110-----,DRAW,--------,"Women's Super Combined, Standing, Draw","여자 슈퍼복합, 입식, 추첨","Women's Super Combined, Standing, Draw","여자 슈퍼복합, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,AC------09110-----,DRAW,000100--,"Women's Super Combined, Standing, Draw","여자 슈퍼복합, 입식, 추첨","Women's Super Combined, Standing, Draw","여자 슈퍼복합, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW160E01
+ALP,W,AC------09110-----,FNL-,--------,"Women's Super Combined, Standing","여자 슈퍼복합, 입식","Women's Super Combined, Standing","여자 슈퍼복합, 입식",Phase,,N,0,NONE,N,N,,,
+ALP,W,AC------09110-----,FNL-,0001DH--,"Women's SC Downhill, Standing","여자 슈퍼복합 활강, 입식","Women's Super Combined Downhill, Standing","여자 슈퍼복합 활강, 입식",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASW160A01
+ALP,W,AC------09110-----,FNL-,0001SG--,"Women's SC Super-G, Standing","여자 슈퍼복합 슈퍼대회전, 입식","Women's Super Combined Super-G, Standing","여자 슈퍼복합 슈퍼대회전, 입식",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASW160C01
+ALP,W,AC------09110-----,FNL-,0001SL--,"Women's SC Slalom, Standing","여자 슈퍼복합 회전, 입식","Women's Super Combined Slalom, Standing","여자 슈퍼복합 회전, 입식",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASW160B01
+ALP,W,AC------09110-----,TRNO,--------,"Women's SC Downhill Training, Standing","여자 슈퍼복합 활강 연습, 입식","Women's Super Combined Downhill Training, Standing","여자 슈퍼복합 활강 연습, 입식",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASW160O00
+ALP,W,AC------09110-----,TRNO,000100--,"Women's SC Downhill 1st Trng, Standing",여자 슈퍼복합 활강 1차 공식연습 입식,"Women's Super Combined Downhill 1st Training Run, Standing",여자 슈퍼복합 활강 1차 공식연습 입식,Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASW160O01
+ALP,W,AC------09110-----,TRNO,000200--,"Women's SC Downhill 2nd Trng, Standing",여자 슈퍼복합 활강 2차 공식연습 입식,"Women's Super Combined Downhill 2nd Training Run, Standing",여자 슈퍼복합 활강 2차 공식연습 입식,Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASW160O02
+ALP,W,AC------09110-----,TRNO,000300--,"Women's SC Downhill 3rd Trng, Standing",여자 슈퍼복합 활강 3차 공식연습 입식,"Women's Super Combined Downhill 3rd Training Run, Standing",여자 슈퍼복합 활강 3차 공식연습 입식,Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASW160O03
+ALP,W,AC------09110-----,VICT,FLOWER--,"Women's SC, Standing, Venue Ceremony","여자 슈퍼복합, 입식, 시상식","Women's Super Combined, Standing, Venue Ceremony","여자 슈퍼복합, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW160M02
+ALP,W,AC------09110-----,VICT,MEDAL---,"Women's SC, Standing, Victory Ceremony","여자 슈퍼복합, 입식, 메달 시상식","Women's Super Combined, Standing, Victory Ceremony","여자 슈퍼복합, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW160M01
+ALP,W,AC------12050-----,----,--------,"Women's Super Combined, Sitting","여자 슈퍼복합, 좌식","Women's Super Combined, Sitting","여자 슈퍼복합, 좌식",Event,,N,0,NONE,N,N,,,ASW260000
+ALP,W,AC------12050-----,DRAW,--------,"Women's Super Combined, Sitting, Draw","여자 슈퍼복합, 좌식, 추첨","Women's Super Combined, Sitting, Draw","여자 슈퍼복합, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,AC------12050-----,DRAW,000100--,"Women's Super Combined, Sitting, Draw","여자 슈퍼복합, 좌식, 추첨","Women's Super Combined, Sitting, Draw","여자 슈퍼복합, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW260E01
+ALP,W,AC------12050-----,FNL-,--------,"Women's Super Combined, Sitting","여자 슈퍼복합, 좌식","Women's Super Combined, Sitting","여자 슈퍼복합, 좌식",Phase,,N,0,NONE,N,N,,,
+ALP,W,AC------12050-----,FNL-,0001DH--,"Women's SC Downhill, Sitting","여자 슈퍼복합 활강, 좌식","Women's Super Combined Downhill, Sitting","여자 슈퍼복합 활강, 좌식",Unit,,Y,0,ATH,Y,Y,Downhill,활강,ASW260A01
+ALP,W,AC------12050-----,FNL-,0001SG--,"Women's SC Super-G, Sitting","여자 슈퍼복합 슈퍼대회전, 좌식","Women's Super Combined Super-G, Sitting","여자 슈퍼복합 슈퍼대회전, 좌식",Unit,,Y,0,ATH,Y,Y,Super-G,대회전,ASW260C01
+ALP,W,AC------12050-----,FNL-,0001SL--,"Women's SC Slalom, Sitting","여자 슈퍼복합 회전, 좌식","Women's Super Combined Slalom, Sitting","여자 슈퍼복합 회전, 좌식",Unit,,Y,1,ATH,Y,Y,Slalom,회전,ASW260B01
+ALP,W,AC------12050-----,TRNO,--------,"Women's SC Downhill Training, Sitting","여자 슈퍼복합 활강 연습, 좌식","Women's Super Combined Downhill Training, Sitting","여자 슈퍼복합 활강 연습, 좌식",Training,,N,0,NONE,N,N,Downhill Training,활강 연습,ASW260O00
+ALP,W,AC------12050-----,TRNO,000100--,"Women's SC Downhill 1st Trng, Sitting","여자 슈퍼복합 활강 1차 공식연습, 좌식","Women's Super Combined Downhill 1st Training Run, Sitting","여자 슈퍼복합 활강 1차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 1st Trng Run,활강 1차 연습,ASW260O01
+ALP,W,AC------12050-----,TRNO,000200--,"Women's SC Downhill 2nd Trng, Sitting","여자 슈퍼복합 활강 2차 공식연습, 좌식","Women's Super Combined Downhill 2nd Training Run, Sitting","여자 슈퍼복합 활강 2차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 2nd Trng Run,활강 2차 연습,ASW260O02
+ALP,W,AC------12050-----,TRNO,000300--,"Women's SC Downhill 3rd Trng, Sitting","여자 슈퍼복합 활강 3차 공식연습, 좌식","Women's Super Combined Downhill 3rd Training Run, Sitting","여자 슈퍼복합 활강 3차 공식연습, 좌식",Training,,Y,0,ATH,Y,Y,Downhill 3rd Trng Run,활강 3차 연습,ASW260O03
+ALP,W,AC------12050-----,VICT,FLOWER--,"Women's SC, Sitting, Venue Ceremony","여자 슈퍼복합, 좌식, 시상식","Women's Super Combined, Sitting, Venue Ceremony","여자 슈퍼복합, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW260M02
+ALP,W,AC------12050-----,VICT,MEDAL---,"Women's SC, Sitting, Victory Ceremony","여자 슈퍼복합, 좌식, 메달 시상식","Women's Super Combined, Sitting, Victory Ceremony","여자 슈퍼복합, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW260M01
+ALP,W,DH----------------,----,--------,Women's Downhill,여자 활강,Women's Downhill,여자 활강,Event,,N,0,NONE,N,N,,,ASW010000
+ALP,W,DH----------------,TRNO,--------,"Women's Downhill, Training Run","여자 활강, 공식연습","Women's Downhill, Training Run","여자 활강, 공식연습",Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,W,DH----------------,TRNO,000100--,"Women's Downhill, 1st Training Run","여자 활강, 1차 공식연습","Women's Downhill, 1st Training Run","여자 활강, 1차 공식연습",Training,,N,0,NONE,N,N,1st Training Run,1차 공식연습,ASW010O01
+ALP,W,DH----------------,TRNO,000200--,"Women's Downhill, 2nd Training Run","여자 활강, 2차 공식연습","Women's Downhill, 2nd Training Run","여자 활강, 2차 공식연습",Training,,N,0,NONE,N,N,2nd Training Run,2차 공식연습,ASW010O02
+ALP,W,DH----------------,TRNO,000300--,"Women's Downhill, 3rd Training Run","여자 활강, 3차 공식연습","Women's Downhill, 3rd Training Run","여자 활강, 3차 공식연습",Training,,N,0,NONE,N,N,3rd Training Run,3차 공식연습,ASW010O03
+ALP,W,DH------03030-----,----,--------,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Event,,N,0,NONE,N,N,,,ASW310000
+ALP,W,DH------03030-----,DRAW,--------,"Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨","Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,DH------03030-----,DRAW,000100--,"Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨","Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW310E01
+ALP,W,DH------03030-----,DRAW,000200--,"Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨","Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW310E02
+ALP,W,DH------03030-----,DRAW,000300--,"Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨","Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW310E03
+ALP,W,DH------03030-----,DRAW,000400--,"Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨","Women's Downhill, Vis Imp, Draw","여자 활강, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW310E04
+ALP,W,DH------03030-----,FNL-,--------,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,W,DH------03030-----,FNL-,000100--,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Women's Downhill - Visually Impaired,여자 활강 - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,ASW310101
+ALP,W,DH------03030-----,FNL-,000101--,Women's Downhill Run 1 - Vis Imp,여자 활강 1회전 - 시각 장애,Women's Downhill Run 1 - Visually Impaired,여자 활강 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW310111
+ALP,W,DH------03030-----,FNL-,000102--,Women's Downhill Run 2 - Vis Imp,여자 활강 2회전 - 시각 장애,Women's Downhill Run 2 - Visually Impaired,여자 활강 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW310112
+ALP,W,DH------03030-----,TRNO,--------,Women's Downhill Trng Run - Vis Imp,여자 활강 공식연습 - 시각 장애,Women's Downhill Training Run - Visually Impaired,여자 활강 공식연습 - 시각 장애,Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,W,DH------03030-----,TRNO,000100--,Women's Downhill 1st Trng Run - Vis Imp,여자 활강 1차 공식연습 - 시각 장애,Women's Downhill 1st Training Run - Visually Impaired,여자 활강 1차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASW310O01
+ALP,W,DH------03030-----,TRNO,000200--,Women's Downhill 2nd Trng Run - Vis Imp,여자 활강 2차 공식연습 - 시각 장애,Women's Downhill 2nd Training Run - Visually Impaired,여자 활강 2차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASW310O02
+ALP,W,DH------03030-----,TRNO,000300--,Women's Downhill 3rd Trng Run - Vis Imp,여자 활강 3차 공식연습 - 시각 장애,Women's Downhill 3rd Training Run - Visually Impaired,여자 활강 3차 공식연습 - 시각 장애,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASW310O03
+ALP,W,DH------03030-----,VICT,FLOWER--,"Women's Downhill, Vis Imp, Venue Cer.","여자 활강, 시각 장애, 시상식","Women's Downhill, Visually Impaired, Venue Ceremony","여자 활강, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW310M02
+ALP,W,DH------03030-----,VICT,MEDAL---,"Women's Downhill, Vis Imp, Vict. Cer.","여자 활강, 시각 장애, 메달 시상식","Women's Downhill, Visually Impaired, Victory Ceremony","여자 활강, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW310M01
+ALP,W,DH------09110-----,----,--------,Women's Downhill - Standing ,여자 활강 - 입식 ,Women's Downhill - Standing ,여자 활강 - 입식 ,Event,,N,0,ATH,N,N,,,ASW110000
+ALP,W,DH------09110-----,DRAW,--------,"Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨","Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,DH------09110-----,DRAW,000100--,"Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨","Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW110E01
+ALP,W,DH------09110-----,DRAW,000200--,"Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨","Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW110E02
+ALP,W,DH------09110-----,DRAW,000300--,"Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨","Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW110E03
+ALP,W,DH------09110-----,DRAW,000400--,"Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨","Women's Downhill, Standing, Draw","여자 활강, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW110E04
+ALP,W,DH------09110-----,FNL-,--------,Women's Downhill - Standing ,여자 활강 - 입식 ,Women's Downhill - Standing ,여자 활강 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,W,DH------09110-----,FNL-,000100--,Women's Downhill - Standing ,여자 활강 - 입식 ,Women's Downhill - Standing ,여자 활강 - 입식 ,Unit,,Y,1,ATH,Y,Y,,,ASW110101
+ALP,W,DH------09110-----,FNL-,000101--,Women's Downhill Run 1 - Standing,여자 활강 1회전 - 입식,Women's Downhill Run 1 - Standing,여자 활강 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW110111
+ALP,W,DH------09110-----,FNL-,000102--,Women's Downhill Run 2 - Standing,여자 활강 2회전 - 입식,Women's Downhill Run 2 - Standing,여자 활강 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW110112
+ALP,W,DH------09110-----,TRNO,--------,Women's Downhill Trng Run - Standing,여자 활강 공식연습 - 입식,Women's Downhill Training Run - Standing,여자 활강 공식연습 - 입식,Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,W,DH------09110-----,TRNO,000100--,Women's Downhill 1st Trng Run - Standing,여자 활강 1차 공식연습 - 입식,Women's Downhill 1st Training Run - Standing,여자 활강 1차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASW110O01
+ALP,W,DH------09110-----,TRNO,000200--,Women's Downhill 2nd Trng Run - Standing,여자 활강 2차 공식연습 - 입식,Women's Downhill 2nd Training Run - Standing,여자 활강 2차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASW110O02
+ALP,W,DH------09110-----,TRNO,000300--,Women's Downhill 3rd Trng Run - Standing,여자 활강 3차 공식연습 - 입식,Women's Downhill 3rd Training Run - Standing,여자 활강 3차 공식연습 - 입식,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASW110O03
+ALP,W,DH------09110-----,VICT,FLOWER--,"Women's Downhill, Standing, Venue Cer.","여자 활강, 입식, 시상식","Women's Downhill, Standing, Venue Ceremony","여자 활강, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW110M02
+ALP,W,DH------09110-----,VICT,MEDAL---,"Women's Downhill, Stand, Vict. Ceremony","여자 활강, 입식, 메달 시상식","Women's Downhill, Standing, Victory Ceremony","여자 활강, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW110M01
+ALP,W,DH------12050-----,----,--------,Women's Downhill - Sitting,여자 활강 - 좌식,Women's Downhill - Sitting,여자 활강 - 좌식,Event,,N,0,NONE,N,N,,,ASW210000
+ALP,W,DH------12050-----,DRAW,--------,"Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨","Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,DH------12050-----,DRAW,000100--,"Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨","Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW210E01
+ALP,W,DH------12050-----,DRAW,000200--,"Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨","Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW210E02
+ALP,W,DH------12050-----,DRAW,000300--,"Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨","Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW210E03
+ALP,W,DH------12050-----,DRAW,000400--,"Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨","Women's Downhill, Sitting, Draw","여자 활강, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW210E04
+ALP,W,DH------12050-----,FNL-,--------,Women's Downhill - Sitting,여자 활강 - 좌식,Women's Downhill - Sitting,여자 활강 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,W,DH------12050-----,FNL-,000100--,Women's Downhill - Sitting,여자 활강 - 좌식,Women's Downhill - Sitting,여자 활강 - 좌식,Unit,,Y,1,ATH,Y,Y,,,ASW210101
+ALP,W,DH------12050-----,FNL-,000101--,Women's Downhill Run 1 - Sitting,여자 활강 1회전 - 좌식,Women's Downhill Run 1 - Sitting,여자 활강 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW210111
+ALP,W,DH------12050-----,FNL-,000102--,Women's Downhill Run 2 - Sitting,여자 활강 2회전 - 좌식,Women's Downhill Run 2 - Sitting,여자 활강 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW210112
+ALP,W,DH------12050-----,TRNO,--------,Women's Downhill Trng Run - Sitting,여자 활강 공식연습 - 좌식,Women's Downhill Training Run - Sitting,여자 활강 공식연습 - 좌식,Training,,N,0,NONE,N,N,Training Run,공식연습,
+ALP,W,DH------12050-----,TRNO,000100--,Women's Downhill 1st Trng Run - Sitting,여자 활강 1차 공식연습 - 좌식,Women's Downhill 1st Training Run - Sitting,여자 활강 1차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,1st Training Run,1차 공식연습,ASW210O01
+ALP,W,DH------12050-----,TRNO,000200--,Women's Downhill 2nd Trng Run - Sitting,여자 활강 2차 공식연습 - 좌식,Women's Downhill 2nd Training Run - Sitting,여자 활강 2차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,2nd Training Run,2차 공식연습,ASW210O02
+ALP,W,DH------12050-----,TRNO,000300--,Women's Downhill 3rd Trng Run - Sitting,여자 활강 3차 공식연습 - 좌식,Women's Downhill 3rd Training Run - Sitting,여자 활강 3차 공식연습 - 좌식,Training,,Y,0,ATH,Y,Y,3rd Training Run,3차 공식연습,ASW210O03
+ALP,W,DH------12050-----,VICT,FLOWER--,"Women's Downhill, Sitting, Venue Cer.","여자 활강, 좌식, 시상식","Women's Downhill, Sitting, Venue Ceremony","여자 활강, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW210M02
+ALP,W,DH------12050-----,VICT,MEDAL---,"Women's Downhill, Sit, Vict. Ceremony","여자 활강, 좌식, 메달 시상식","Women's Downhill, Sitting, Victory Ceremony","여자 활강, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW210M01
+ALP,W,GS----------------,----,--------,Women's Giant Slalom,여자 대회전,Women's Giant Slalom,여자 대회전,Event,,N,0,NONE,N,N,,,ASW030000
+ALP,W,GS------03030-----,----,--------,Women's Giant Slalom - Visually Impaired,여자 대회전 - 시각 장애,Women's Giant Slalom - Visually Impaired,여자 대회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASW330000
+ALP,W,GS------03030-----,DRAW,--------,"Women's Giant Slalom, Vis Imp, Draw","여자 대회전, 시각 장애, 추첨","Women's Giant Slalom, Visually Impaired, Draw","여자 대회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,GS------03030-----,DRAW,000100--,"Women's Giant Slalom, Vis Imp, Draw","여자 대회전, 시각 장애, 추첨","Women's Giant Slalom, Visually Impaired, Draw","여자 대회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW330E01
+ALP,W,GS------03030-----,FNL-,--------,Women's Giant Slalom - Visually Impaired,여자 대회전 - 시각 장애,Women's Giant Slalom - Visually Impaired,여자 대회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,W,GS------03030-----,FNL-,000100--,Women's Giant Slalom Run 1 - Vis Imp,여자 대회전 1회전 - 시각 장애,Women's Giant Slalom Run 1 - Visually Impaired,여자 대회전 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW330101
+ALP,W,GS------03030-----,FNL-,000200--,Women's Giant Slalom Run 2 - Vis Imp,여자 대회전 2회전 - 시각 장애,Women's Giant Slalom Run 2 - Visually Impaired,여자 대회전 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW330102
+ALP,W,GS------03030-----,VICT,FLOWER--,"Women's Giant Slalom, Vis Imp, Venue C.","여자 대회전, 시각 장애, 시상식","Women's Giant Slalom, Visually Impaired, Venue Ceremony","여자 대회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW330M02
+ALP,W,GS------03030-----,VICT,MEDAL---,"Women's G Sl., Vis Imp, Vict. Ceremony","여자 대회전, 시각 장애, 메달 시상식","Women's Giant Slalom, Visually Impaired, Victory Ceremony","여자 대회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW330M01
+ALP,W,GS------09110-----,----,--------,Women's Giant Slalom - Standing ,여자 대회전 - 입식 ,Women's Giant Slalom - Standing ,여자 대회전 - 입식 ,Event,,N,0,NONE,N,N,,,ASW130000
+ALP,W,GS------09110-----,DRAW,--------,"Women's Giant Slalom, Standing, Draw","여자 대회전, 입식, 추첨","Women's Giant Slalom, Standing, Draw","여자 대회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,GS------09110-----,DRAW,000100--,"Women's Giant Slalom, Standing, Draw","여자 대회전, 입식, 추첨","Women's Giant Slalom, Standing, Draw","여자 대회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW130E01
+ALP,W,GS------09110-----,FNL-,--------,Women's Giant Slalom - Standing ,여자 대회전 - 입식 ,Women's Giant Slalom - Standing ,여자 대회전 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,W,GS------09110-----,FNL-,000100--,Women's Giant Slalom Run 1 - Standing,여자 대회전 1회전 - 입식,Women's Giant Slalom Run 1 - Standing,여자 대회전 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW130101
+ALP,W,GS------09110-----,FNL-,000200--,Women's Giant Slalom Run 2 - Standing,여자 대회전 2회전 - 입식,Women's Giant Slalom Run 2 - Standing,여자 대회전 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW130102
+ALP,W,GS------09110-----,VICT,FLOWER--,"Women's Giant Slalom, Standing, Venue C.","여자 대회전, 입식, 시상식","Women's Giant Slalom, Standing, Venue Ceremony","여자 대회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW130M02
+ALP,W,GS------09110-----,VICT,MEDAL---,"Women's G Slalom, Stand, Vict. Ceremony","여자 대회전, 입식, 메달 시상식","Women's Giant Slalom, Standing, Victory Ceremony","여자 대회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW130M01
+ALP,W,GS------12050-----,----,--------,Women's Giant Slalom - Sitting,여자 대회전 - 좌식,Women's Giant Slalom - Sitting,여자 대회전 - 좌식,Event,,N,0,NONE,N,N,,,ASW230000
+ALP,W,GS------12050-----,DRAW,--------,"Women's Giant Slalom, Sitting, Draw","여자 대회전, 좌식, 추첨","Women's Giant Slalom, Sitting, Draw","여자 대회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,GS------12050-----,DRAW,000100--,"Women's Giant Slalom, Sitting, Draw","여자 대회전, 좌식, 추첨","Women's Giant Slalom, Sitting, Draw","여자 대회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW230E01
+ALP,W,GS------12050-----,FNL-,--------,Women's Giant Slalom - Sitting,여자 대회전 - 좌식,Women's Giant Slalom - Sitting,여자 대회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,W,GS------12050-----,FNL-,000100--,Women's Giant Slalom Run 1 - Sitting,여자 대회전 1회전 - 좌식,Women's Giant Slalom Run 1 - Sitting,여자 대회전 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW230101
+ALP,W,GS------12050-----,FNL-,000200--,Women's Giant Slalom Run 2 - Sitting,여자 대회전 2회전 - 좌식,Women's Giant Slalom Run 2 - Sitting,여자 대회전 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW230102
+ALP,W,GS------12050-----,VICT,FLOWER--,"Women's Giant Slalom, Sitting, Venue C.","여자 대회전, 좌식, 시상식","Women's Giant Slalom, Sitting, Venue Ceremony","여자 대회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW230M02
+ALP,W,GS------12050-----,VICT,MEDAL---,"Women's G Slalom, Sit, Vict. Ceremony","여자 대회전, 좌식, 메달 시상식","Women's Giant Slalom, Sitting, Victory Ceremony","여자 대회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW230M01
+ALP,W,SG----------------,----,--------,Women's Super-G,여자 슈퍼대회전,Women's Super-G,여자 슈퍼대회전,Event,,N,0,NONE,N,N,,,ASW040000
+ALP,W,SG------03030-----,----,--------,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASW340000
+ALP,W,SG------03030-----,DRAW,--------,"Women's Super-G, Vis Imp, Draw","여자 슈퍼대회전, 시각 장애, 추첨","Women's Super-G, Visually Impaired, Draw","여자 슈퍼대회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SG------03030-----,DRAW,000100--,"Women's Super-G, Vis Imp, Draw","여자 슈퍼대회전, 시각 장애, 추첨","Women's Super-G, Visually Impaired, Draw","여자 슈퍼대회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW340E01
+ALP,W,SG------03030-----,FNL-,--------,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,W,SG------03030-----,FNL-,000100--,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Women's Super-G - Visually Impaired,여자 슈퍼대회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,ASW340101
+ALP,W,SG------03030-----,VICT,FLOWER--,"Women's Super-G, Vis Imp, Venue Cer.","여자 슈퍼대회전, 시각 장애, 시상식","Women's Super-G, Visually Impaired, Venue Ceremony","여자 슈퍼대회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW340M02
+ALP,W,SG------03030-----,VICT,MEDAL---,"Women's Super-G, Vis Imp, Vict. Ceremony","여자 슈퍼대회전, 시각 장애, 메달 시상식","Women's Super-G, Visually Impaired, Victory Ceremony","여자 슈퍼대회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW340M01
+ALP,W,SG------09110-----,----,--------,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Event,,N,0,NONE,N,N,,,ASW140000
+ALP,W,SG------09110-----,DRAW,--------,"Women's Super-G, Standing, Draw","여자 슈퍼대회전, 입식, 추첨","Women's Super-G, Standing, Draw","여자 슈퍼대회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SG------09110-----,DRAW,000100--,"Women's Super-G, Standing, Draw","여자 슈퍼대회전, 입식, 추첨","Women's Super-G, Standing, Draw","여자 슈퍼대회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW140E01
+ALP,W,SG------09110-----,FNL-,--------,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,W,SG------09110-----,FNL-,000100--,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Women's Super-G - Standing ,여자 슈퍼대회전 - 입식 ,Unit,,Y,1,ATH,Y,Y,,,ASW140101
+ALP,W,SG------09110-----,VICT,FLOWER--,"Women's Super-G, Standing, Venue Cer.","여자 슈퍼대회전, 입식, 시상식","Women's Super-G, Standing, Venue Ceremony","여자 슈퍼대회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW140M02
+ALP,W,SG------09110-----,VICT,MEDAL---,"Women's Super-G, Stand, Vict. Ceremony","여자 슈퍼대회전, 입식, 메달 시상식","Women's Super-G, Standing, Victory Ceremony","여자 슈퍼대회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW140M01
+ALP,W,SG------12050-----,----,--------,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Event,,N,0,NONE,N,N,,,ASW240000
+ALP,W,SG------12050-----,DRAW,--------,"Women's Super-G, Sitting, Draw","여자 슈퍼대회전, 좌식, 추첨","Women's Super-G, Sitting, Draw","여자 슈퍼대회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SG------12050-----,DRAW,000100--,"Women's Super-G, Sitting, Draw","여자 슈퍼대회전, 좌식, 추첨","Women's Super-G, Sitting, Draw","여자 슈퍼대회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW240E01
+ALP,W,SG------12050-----,FNL-,--------,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,W,SG------12050-----,FNL-,000100--,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Women's Super-G - Sitting,여자 슈퍼대회전 - 좌식,Unit,,Y,1,ATH,Y,Y,,,ASW240101
+ALP,W,SG------12050-----,VICT,FLOWER--,"Women's Super-G, Sitting, Venue Cer.","여자 슈퍼대회전, 좌식, 시상식","Women's Super-G, Sitting, Venue Ceremony","여자 슈퍼대회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW240M02
+ALP,W,SG------12050-----,VICT,MEDAL---,"Women's Super-G, Sit, Vict. Ceremony","여자 슈퍼대회전, 좌식, 메달 시상식","Women's Super-G, Sitting, Victory Ceremony","여자 슈퍼대회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW240M01
+ALP,W,SL----------------,----,--------,Women's Slalom,여자 회전,Women's Slalom,여자 회전,Event,,N,0,NONE,N,N,,,ASW020000
+ALP,W,SL------03030-----,----,--------,Women's Slalom - Visually Impaired,여자 회전 - 시각 장애,Women's Slalom - Visually Impaired,여자 회전 - 시각 장애,Event,,N,0,NONE,N,N,,,ASW320000
+ALP,W,SL------03030-----,DRAW,--------,"Women's Slalom, Vis Imp, Draw","여자 회전, 시각 장애, 추첨","Women's Slalom, Visually Impaired, Draw","여자 회전, 시각 장애, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SL------03030-----,DRAW,000100--,"Women's Slalom, Vis Imp, Draw","여자 회전, 시각 장애, 추첨","Women's Slalom, Visually Impaired, Draw","여자 회전, 시각 장애, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW320E01
+ALP,W,SL------03030-----,FNL-,--------,Women's Slalom - Visually Impaired,여자 회전 - 시각 장애,Women's Slalom - Visually Impaired,여자 회전 - 시각 장애,Phase,,N,0,NONE,N,N,,,
+ALP,W,SL------03030-----,FNL-,000100--,Women's Slalom Run 1 - Visually Impaired,여자 회전 1회전 - 시각 장애,Women's Slalom Run 1 - Visually Impaired,여자 회전 1회전 - 시각 장애,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW320101
+ALP,W,SL------03030-----,FNL-,000200--,Women's Slalom Run 2 - Visually Impaired,여자 회전 2회전 - 시각 장애,Women's Slalom Run 2 - Visually Impaired,여자 회전 2회전 - 시각 장애,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW320102
+ALP,W,SL------03030-----,VICT,FLOWER--,"Women's Slalom, Vis Imp, Venue Cer.","여자 회전, 시각 장애, 시상식","Women's Slalom, Visually Impaired, Venue Ceremony","여자 회전, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW320M02
+ALP,W,SL------03030-----,VICT,MEDAL---,"Women's Slalom, Vis Imp, Vict. Ceremony","여자 회전, 시각 장애, 메달 시상식","Women's Slalom, Visually Impaired, Victory Ceremony","여자 회전, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW320M01
+ALP,W,SL------09110-----,----,--------,Women's Slalom - Standing ,여자 회전 - 입식 ,Women's Slalom - Standing ,여자 회전 - 입식 ,Event,,N,0,NONE,N,N,,,ASW120000
+ALP,W,SL------09110-----,DRAW,--------,"Women's Slalom, Standing, Draw","여자 회전, 입식, 추첨","Women's Slalom, Standing, Draw","여자 회전, 입식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SL------09110-----,DRAW,000100--,"Women's Slalom, Standing, Draw","여자 회전, 입식, 추첨","Women's Slalom, Standing, Draw","여자 회전, 입식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW120E01
+ALP,W,SL------09110-----,FNL-,--------,Women's Slalom - Standing ,여자 회전 - 입식 ,Women's Slalom - Standing ,여자 회전 - 입식 ,Phase,,N,0,NONE,N,N,,,
+ALP,W,SL------09110-----,FNL-,000100--,Women's Slalom Run 1 - Standing,여자 회전 1회전 - 입식,Women's Slalom Run 1 - Standing,여자 회전 1회전 - 입식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW120101
+ALP,W,SL------09110-----,FNL-,000200--,Women's Slalom Run 2 - Standing,여자 회전 2회전 - 입식,Women's Slalom Run 2 - Standing,여자 회전 2회전 - 입식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW120102
+ALP,W,SL------09110-----,VICT,FLOWER--,"Women's Slalom, Standing, Venue Cer.","여자 회전, 입식, 시상식","Women's Slalom, Standing, Venue Ceremony","여자 회전, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW120M02
+ALP,W,SL------09110-----,VICT,MEDAL---,"Women's Slalom, Stand, Vict. Ceremony","여자 회전, 입식, 메달 시상식","Women's Slalom, Standing, Victory Ceremony","여자 회전, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW120M01
+ALP,W,SL------12050-----,----,--------,Women's Slalom - Sitting,여자 회전 - 좌식,Women's Slalom - Sitting,여자 회전 - 좌식,Event,,N,0,NONE,N,N,,,ASW220000
+ALP,W,SL------12050-----,DRAW,--------,"Women's Slalom, Sitting, Draw","여자 회전, 좌식, 추첨","Women's Slalom, Sitting, Draw","여자 회전, 좌식, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+ALP,W,SL------12050-----,DRAW,000100--,"Women's Slalom, Sitting, Draw","여자 회전, 좌식, 추첨","Women's Slalom, Sitting, Draw","여자 회전, 좌식, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,ASW220E01
+ALP,W,SL------12050-----,FNL-,--------,Women's Slalom - Sitting,여자 회전 - 좌식,Women's Slalom - Sitting,여자 회전 - 좌식,Phase,,N,0,NONE,N,N,,,
+ALP,W,SL------12050-----,FNL-,000100--,Women's Slalom Run 1 - Sitting,여자 회전 1회전 - 좌식,Women's Slalom Run 1 - Sitting,여자 회전 1회전 - 좌식,Unit,,Y,0,ATH,Y,Y,Run 1,1회전,ASW220101
+ALP,W,SL------12050-----,FNL-,000200--,Women's Slalom Run 2 - Sitting,여자 회전 2회전 - 좌식,Women's Slalom Run 2 - Sitting,여자 회전 2회전 - 좌식,Unit,,Y,1,ATH,Y,Y,Run 2,2회전,ASW220102
+ALP,W,SL------12050-----,VICT,FLOWER--,"Women's Slalom, Sitting, Venue Cer.","여자 회전, 좌식, 시상식","Women's Slalom, Sitting, Venue Ceremony","여자 회전, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,ASW220M02
+ALP,W,SL------12050-----,VICT,MEDAL---,"Women's Slalom, Sit, Vict. Ceremony","여자 회전, 좌식, 메달 시상식","Women's Slalom, Sitting, Victory Ceremony","여자 회전, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,ASW220M01
+BTH,-,------------------,----,--------,Biathlon,바이애슬론,Biathlon,바이애슬론,Discipline,,N,0,NONE,N,N,,,BT0000000
+BTH,-,------------------,----,ABT-----,BTH ABT Local On/Off / KA,BTH ABT Local On/Off / KA,BTH ABT Local On/Off / KA,BTH ABT Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+BTH,-,------------------,MEET,--------,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,N,0,NONE,N,N,Team Captain Meeting,대표자 회의,
+BTH,-,------------------,MEET,000100--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T01
+BTH,-,------------------,MEET,000200--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T02
+BTH,-,------------------,MEET,000300--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T03
+BTH,-,------------------,MEET,000400--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T04
+BTH,-,------------------,MEET,000500--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T05
+BTH,-,------------------,MEET,000600--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T06
+BTH,-,------------------,MEET,000700--,Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Biathlon Team Captain Meeting,"바이애슬론, 대표자회의",Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,BT0000T07
+BTH,-,CANCEL------------,----,000100--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+BTH,-,CANCEL------------,----,000200--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+BTH,-,CANCEL------------,----,000300--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+BTH,M,------------------,----,--------,Men's Biathlon,바이애슬론 남자,Men's Biathlon,바이애슬론 남자,Gender,,N,0,NONE,N,N,,,BTM000000
+BTH,M,12.5KM--03030-----,----,--------,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Event,,N,0,NONE,N,N,,,BTM320000
+BTH,M,12.5KM--03030-----,FNL-,--------,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTM320100
+BTH,M,12.5KM--03030-----,FNL-,000100--,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Men's 12.5km - Visually Impaired,남자 12.5km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTM320101
+BTH,M,12.5KM--03030-----,TRNO,--------,"Men's 12.5km - Vis Imp, Off. Training","남자 12.5km - 시각 장애, 공식 연습","Men's 12.5km - Visually Impaired, Official Training","남자 12.5km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,12.5KM--03030-----,TRNO,000100--,"Men's 12.5km - Vis Imp, Off. Training","남자 12.5km - 시각 장애, 공식 연습","Men's 12.5km - Visually Impaired, Official Training","남자 12.5km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM320O01
+BTH,M,12.5KM--03030-----,VICT,FLOWER--,"Men's 12.5km, Vis Imp, Venue Cer.","남자 12.5km, 시각 장애, 시상식","Men's 12.5km, Visually Impaired, Venue Ceremony","남자 12.5km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM320M02
+BTH,M,12.5KM--03030-----,VICT,MEDAL---,"Men's 12.5km, Vis Imp, Vict. Ceremony","남자 12.5km, 시각 장애, 메달 시상식","Men's 12.5km, Visually Impaired, Victory Ceremony","남자 12.5km, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM320M01
+BTH,M,12.5KM--09070-----,----,--------,Men's 12.5km - Standing,남자 12.5km - 입식,Men's 12.5km - Standing,남자 12.5km - 입식,Event,,N,0,NONE,N,N,,,BTM120000
+BTH,M,12.5KM--09070-----,FNL-,--------,Men's 12.5km - Standing,남자 12.5km - 입식,Men's 12.5km - Standing,남자 12.5km - 입식,Phase,,N,0,NONE,N,N,,,BTM120100
+BTH,M,12.5KM--09070-----,FNL-,000100--,Men's 12.5km - Standing,남자 12.5km - 입식,Men's 12.5km - Standing,남자 12.5km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTM120101
+BTH,M,12.5KM--09070-----,TRNO,--------,"Men's 12.5km - Standing, Off. Training","남자 12.5km - 입식, 공식 연습","Men's 12.5km - Standing, Official Training","남자 12.5km - 입식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,12.5KM--09070-----,TRNO,000100--,"Men's 12.5km - Standing, Off. Training","남자 12.5km - 입식, 공식 연습","Men's 12.5km - Standing, Official Training","남자 12.5km - 입식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM120O01
+BTH,M,12.5KM--09070-----,VICT,FLOWER--,"Men's 12.5km, Standing, Venue Cer.","남자 12.5km, 입식, 시상식","Men's 12.5km, Standing, Venue Ceremony","남자 12.5km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM120M02
+BTH,M,12.5KM--09070-----,VICT,MEDAL---,"Men's 12.5km, Standing, Vict. Ceremony","남자 12.5km, 입식, 메달 시상식","Men's 12.5km, Standing, Victory Ceremony","남자 12.5km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM120M01
+BTH,M,12.5KM--12050-----,----,--------,Men's 12.5km - Sitting,남자 12.5km - 좌식,Men's 12.5km - Sitting,남자 12.5km - 좌식,Event,,N,0,NONE,N,N,,,BTM220000
+BTH,M,12.5KM--12050-----,FNL-,--------,Men's 12.5km - Sitting,남자 12.5km - 좌식,Men's 12.5km - Sitting,남자 12.5km - 좌식,Phase,,N,0,NONE,N,N,,,BTM220100
+BTH,M,12.5KM--12050-----,FNL-,000100--,Men's 12.5km - Sitting,남자 12.5km - 좌식,Men's 12.5km - Sitting,남자 12.5km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTM220101
+BTH,M,12.5KM--12050-----,TRNO,--------,"Men's 12.5km - Sitting, Off. Training","남자 12.5km - 좌식, 공식 연습","Men's 12.5km - Sitting, Official Training","남자 12.5km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,12.5KM--12050-----,TRNO,000100--,"Men's 12.5km - Sitting, Off. Training","남자 12.5km - 좌식, 공식 연습","Men's 12.5km - Sitting, Official Training","남자 12.5km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM220O01
+BTH,M,12.5KM--12050-----,VICT,FLOWER--,"Men's 12.5km, Sitting, Venue Cer.","남자 12.5km, 좌식, 시상식","Men's 12.5km, Sitting, Venue Ceremony","남자 12.5km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM220M02
+BTH,M,12.5KM--12050-----,VICT,MEDAL---,"Men's 12.5km, Sitting, Vict. Ceremony","남자 12.5km, 좌식, 메달 시상식","Men's 12.5km, Sitting, Victory Ceremony","남자 12.5km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM220M01
+BTH,M,15KM----03030-----,----,--------,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Event,,N,0,NONE,N,N,,,BTM330000
+BTH,M,15KM----03030-----,FNL-,--------,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTM330100
+BTH,M,15KM----03030-----,FNL-,000100--,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Men's 15km - Visually Impaired,남자 15km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTM330101
+BTH,M,15KM----03030-----,TRNO,--------,"Men's 15km - Vis Imp, Off. Training","남자 15km - 시각 장애, 공식 연습","Men's 15km - Visually Impaired, Official Training","남자 15km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,15KM----03030-----,TRNO,000100--,"Men's 15km - Vis Imp, Off. Training","남자 15km - 시각 장애, 공식 연습","Men's 15km - Visually Impaired, Official Training","남자 15km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM330O01
+BTH,M,15KM----03030-----,VICT,FLOWER--,"Men's 15km, Vis Imp, Venue Cer.","남자 15km, 시각 장애, 시상식","Men's 15km, Visually Impaired, Venue Ceremony","남자 15km, 시각 장애, 꽃다발 수여식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM330M02
+BTH,M,15KM----03030-----,VICT,MEDAL---,"Men's 15km, Vis Imp, Vict. Ceremony","남자 15km, 시각 장애, 메달 시상식","Men's 15km, Visually Impaired, Victory Ceremony","남자 15km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM330M01
+BTH,M,15KM----09070-----,----,--------,Men's 15km - Standing,남자 15km - 입식,Men's 15km - Standing,남자 15km - 입식,Event,,N,0,NONE,N,N,,,BTM130000
+BTH,M,15KM----09070-----,FNL-,--------,Men's 15km - Standing,남자 15km - 입식,Men's 15km - Standing,남자 15km - 입식,Phase,,N,0,NONE,N,N,,,BTM130100
+BTH,M,15KM----09070-----,FNL-,000100--,Men's 15km - Standing,남자 15km - 입식,Men's 15km - Standing,남자 15km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTM130101
+BTH,M,15KM----09070-----,TRNO,--------,"Men's 15km - Standing, Off. Training","남자 15km - 입식, 공식 연습","Men's 15km - Standing, Official Training","남자 15km - 입식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,15KM----09070-----,TRNO,000100--,"Men's 15km - Standing, Off. Training","남자 15km - 입식, 공식 연습","Men's 15km - Standing, Official Training","남자 15km - 입식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM130O01
+BTH,M,15KM----09070-----,VICT,FLOWER--,"Men's 15km, Standing, Venue Cer.","남자 15km, 입식, 시상식","Men's 15km, Standing, Venue Ceremony","남자 15km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM130M02
+BTH,M,15KM----09070-----,VICT,MEDAL---,"Men's 15km, Standing, Vict. Ceremony","남자 15km, 입식, 메달 시상식","Men's 15km, Standing, Victory Ceremony","남자 15km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM130M01
+BTH,M,15KM----12050-----,----,--------,Men's 15km - Sitting,남자 15km - 좌식,Men's 15km - Sitting,남자 15km - 좌식,Event,,N,0,NONE,N,N,,,BTM230000
+BTH,M,15KM----12050-----,FNL-,--------,Men's 15km - Sitting,남자 15km - 좌식,Men's 15km - Sitting,남자 15km - 좌식,Phase,,N,0,NONE,N,N,,,BTM230100
+BTH,M,15KM----12050-----,FNL-,000100--,Men's 15km - Sitting,남자 15km - 좌식,Men's 15km - Sitting,남자 15km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTM230101
+BTH,M,15KM----12050-----,TRNO,--------,"Men's 15km - Sitting, Off. Training","남자 15km - 좌식, 공식 연습","Men's 15km - Sitting, Official Training","남자 15km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,15KM----12050-----,TRNO,000100--,"Men's 15km - Sitting, Off. Training","남자 15km - 좌식, 공식 연습","Men's 15km - Sitting, Official Training","남자 15km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM230O01
+BTH,M,15KM----12050-----,VICT,FLOWER--,"Men's 15km, Sitting, Venue Cer.","남자 15km, 좌식, 시상식","Men's 15km, Sitting, Venue Ceremony","남자 15km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM230M02
+BTH,M,15KM----12050-----,VICT,MEDAL---,"Men's 15km, Sitting, Vict. Ceremony","남자 15km, 좌식, 메달 시상식","Men's 15km, Sitting, Victory Ceremony","남자 15km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM230M01
+BTH,M,7.5KM---03030-----,----,--------,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Event,,N,0,NONE,N,N,,,BTM310000
+BTH,M,7.5KM---03030-----,FNL-,--------,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTM310100
+BTH,M,7.5KM---03030-----,FNL-,000100--,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Men's 7.5km - Visually Impaired,남자 7.5km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTM310101
+BTH,M,7.5KM---03030-----,TRNO,--------,"Men's 7.5km - Vis Imp, Off. Training","남자 7.5km - 시각 장애, 공식 연습","Men's 7.5km - Visually Impaired, Official Training","남자 7.5km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,7.5KM---03030-----,TRNO,000100--,"Men's 7.5km - Vis Imp, Off. Training","남자 7.5km - 시각 장애, 공식 연습","Men's 7.5km - Visually Impaired, Official Training","남자 7.5km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM310O01
+BTH,M,7.5KM---03030-----,VICT,FLOWER--,"Men's 7.5km, Vis Imp, Venue Cer.","남자 7.5km, 시각 장애, 시상식","Men's 7.5km, Visually Impaired, Venue Ceremony","남자 7.5km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM310M02
+BTH,M,7.5KM---03030-----,VICT,MEDAL---,"Men's 7.5km, Vis Imp, Vict. Ceremony","남자 7.5km, 시각 장애, 메달 시상식","Men's 7.5km, Visually Impaired, Victory Ceremony","남자 7.5km, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM310M01
+BTH,M,7.5KM---09070-----,----,--------,Men's 7.5km - Standing,남자 7.5km - 입식,Men's 7.5km - Standing,남자 7.5km - 입식,Event,,N,0,NONE,N,N,,,BTM110000
+BTH,M,7.5KM---09070-----,FNL-,--------,Men's 7.5km - Standing,남자 7.5km - 입식,Men's 7.5km - Standing,남자 7.5km - 입식,Phase,,N,0,NONE,N,N,,,BTM110100
+BTH,M,7.5KM---09070-----,FNL-,000100--,Men's 7.5km - Standing,남자 7.5km - 입식,Men's 7.5km - Standing,남자 7.5km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTM110101
+BTH,M,7.5KM---09070-----,TRNO,--------,"Men's 7.5km - Standing, Off. Training","남자 7.5km - 입식, 공식 연습","Men's 7.5km - Standing, Official Training","남자 7.5km - 입식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,7.5KM---09070-----,TRNO,000100--,"Men's 7.5km - Standing, Off. Training","남자 7.5km - 입식, 공식 연습","Men's 7.5km - Standing, Official Training","남자 7.5km - 입식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM110O01
+BTH,M,7.5KM---09070-----,VICT,FLOWER--,"Men's 7.5km, Standing, Venue Cer.","남자 7.5km, 입식, 시상식","Men's 7.5km, Standing, Venue Ceremony","남자 7.5km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM110M02
+BTH,M,7.5KM---09070-----,VICT,MEDAL---,"Men's 7.5km, Standing, Vict. Ceremony","남자 7.5km, 입식, 메달 시상식","Men's 7.5km, Standing, Victory Ceremony","남자 7.5km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM110M01
+BTH,M,7.5KM---12050-----,----,--------,Men's 7.5km - Sitting,남자 7.5km - 좌식,Men's 7.5km - Sitting,남자 7.5km - 좌식,Event,,N,0,NONE,N,N,,,BTM210000
+BTH,M,7.5KM---12050-----,FNL-,--------,Men's 7.5km - Sitting,남자 7.5km - 좌식,Men's 7.5km - Sitting,남자 7.5km - 좌식,Phase,,N,0,NONE,N,N,,,BTM210100
+BTH,M,7.5KM---12050-----,FNL-,000100--,Men's 7.5km - Sitting,남자 7.5km - 좌식,Men's 7.5km - Sitting,남자 7.5km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTM210101
+BTH,M,7.5KM---12050-----,TRNO,--------,"Men's 7.5km - Sitting, Off. Training","남자 7.5km - 좌식, 공식 연습","Men's 7.5km - Sitting, Official Training","남자 7.5km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,M,7.5KM---12050-----,TRNO,000100--,"Men's 7.5km - Sitting, Off. Training","남자 7.5km - 좌식, 공식 연습","Men's 7.5km - Sitting, Official Training","남자 7.5km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTM210O01
+BTH,M,7.5KM---12050-----,VICT,FLOWER--,"Men's 7.5km, Sitting, Venue Cer.","남자 7.5km, 좌식, 시상식","Men's 7.5km, Sitting, Venue Ceremony","남자 7.5km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTM210M02
+BTH,M,7.5KM---12050-----,VICT,MEDAL---,"Men's 7.5km, Sitting, Vict. Ceremony","남자 7.5km, 좌식, 메달 시상식","Men's 7.5km, Sitting, Victory Ceremony","남자 7.5km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTM210M01
+BTH,W,------------------,----,--------,Women's Biathlon,바이애슬론 여자,Women's Biathlon,바이애슬론 여자,Gender,,N,0,NONE,N,N,,,BTW000000
+BTH,W,10KM----03030-----,----,--------,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Event,,N,0,NONE,N,N,,,BTW320000
+BTH,W,10KM----03030-----,FNL-,--------,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTW320100
+BTH,W,10KM----03030-----,FNL-,000100--,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Women's 10km - Visually Impaired,여자 10km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTW320101
+BTH,W,10KM----03030-----,TRNO,--------,"Women's 10km - Vis Imp, Off. Training","여자 10km - 시각 장애, 공식 연습","Women's 10km - Visually Impaired, Official Training","여자 10km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,10KM----03030-----,TRNO,000100--,"Women's 10km - Vis Imp, Off. Training","여자 10km - 시각 장애, 공식 연습","Women's 10km - Visually Impaired, Official Training","여자 10km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW320O01
+BTH,W,10KM----03030-----,VICT,FLOWER--,"Women's 10km, Vis Imp, Venue Cer.","여자 10km, 시각 장애, 시상식","Women's 10km, Visually Impaired, Venue Ceremony","여자 10km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW320M02
+BTH,W,10KM----03030-----,VICT,MEDAL---,"Women's 10km, Vis Imp, Vict. Ceremony","여자 10km, 시각 장애, 메달 시상식","Women's 10km, Visually Impaired, Victory Ceremony","여자 10km, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW320M01
+BTH,W,10KM----09070-----,----,--------,Women's 10km - Standing,여자 10km - 입식,Women's 10km - Standing,여자 10km - 입식,Event,,N,0,NONE,N,N,,,BTW120000
+BTH,W,10KM----09070-----,FNL-,--------,Women's 10km - Standing,여자 10km - 입식,Women's 10km - Standing,여자 10km - 입식,Phase,,N,0,NONE,N,N,,,BTW120100
+BTH,W,10KM----09070-----,FNL-,000100--,Women's 10km - Standing,여자 10km - 입식,Women's 10km - Standing,여자 10km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTW120101
+BTH,W,10KM----09070-----,TRNO,--------,"Women's 10km - Standing, Off. Training","여자 10km - 입식, 공식 연습","Women's 10km - Standing, Official Training","여자 10km - 입식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,10KM----09070-----,TRNO,000100--,"Women's 10km - Standing, Off. Training","여자 10km - 입식, 공식 연습","Women's 10km - Standing, Official Training","여자 10km - 입식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW120O01
+BTH,W,10KM----09070-----,VICT,FLOWER--,"Women's 10km, Standing, Venue Cer.","여자 10km, 입식, 시상식","Women's 10km, Standing, Venue Ceremony","여자 10km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW120M02
+BTH,W,10KM----09070-----,VICT,MEDAL---,"Women's 10km, Standing, Vict. Ceremony","여자 10km, 입식, 메달 시상식","Women's 10km, Standing, Victory Ceremony","여자 10km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW120M01
+BTH,W,10KM----12050-----,----,--------,Women's 10km - Sitting,여자 10km - 좌식,Women's 10km - Sitting,여자 10km - 좌식,Event,,N,0,NONE,N,N,,,BTW220000
+BTH,W,10KM----12050-----,FNL-,--------,Women's 10km - Sitting,여자 10km - 좌식,Women's 10km - Sitting,여자 10km - 좌식,Phase,,N,0,NONE,N,N,,,BTW220100
+BTH,W,10KM----12050-----,FNL-,000100--,Women's 10km - Sitting,여자 10km - 좌식,Women's 10km - Sitting,여자 10km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTW220101
+BTH,W,10KM----12050-----,TRNO,--------,"Women's 10km - Sitting, Off. Training","여자 10km - 좌식, 공식 연습","Women's 10km - Sitting, Official Training","여자 10km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,10KM----12050-----,TRNO,000100--,"Women's 10km - Sitting, Off. Training","여자 10km - 좌식, 공식 연습","Women's 10km - Sitting, Official Training","여자 10km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW220O01
+BTH,W,10KM----12050-----,VICT,FLOWER--,"Women's 10km, Sitting, Venue Cer.","여자 10km, 좌식, 시상식","Women's 10km, Sitting, Venue Ceremony","여자 10km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW220M02
+BTH,W,10KM----12050-----,VICT,MEDAL---,"Women's 10km, Sitting, Vict. Ceremony","여자 10km, 좌식, 메달 시상식","Women's 10km, Sitting, Victory Ceremony","여자 10km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW220M01
+BTH,W,12.5KM--03030-----,----,--------,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Event,,N,0,NONE,N,N,,,BTW330000
+BTH,W,12.5KM--03030-----,FNL-,--------,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTW330100
+BTH,W,12.5KM--03030-----,FNL-,000100--,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Women's 12.5km - Visually Impaired,여자 12.5km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTW330101
+BTH,W,12.5KM--03030-----,TRNO,--------,"Women's 12.5km - Vis Imp, Off. Training","여자 12.5km - 시각 장애, 공식 연습","Women's 12.5km - Visually Impaired, Official Training","여자 12.5km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,12.5KM--03030-----,TRNO,000100--,"Women's 12.5km - Vis Imp, Off. Training","여자 12.5km - 시각 장애, 공식 연습","Women's 12.5km - Visually Impaired, Official Training","여자 12.5km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW330O01
+BTH,W,12.5KM--03030-----,VICT,FLOWER--,"Women's 12.5km, Vis Imp, Venue Cer.","여자 12.5km, 시각 장애, 시상식","Women's 12.5km, Visually Impaired, Venue Ceremony","여자 12.5km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW330M02
+BTH,W,12.5KM--03030-----,VICT,MEDAL---,"Women's 12.5km, Vis Imp, Vict. Cer.","여자 12.5km, 시각 장애, 메달 시상식","Women's 12.5km, Visually Impaired, Victory Ceremony","여자 12.5km, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW330M01
+BTH,W,12.5KM--09070-----,----,--------,Women's 12.5km - Standing,여자 12.5km - 입식,Women's 12.5km - Standing,여자 12.5km - 입식,Event,,N,0,NONE,N,N,,,BTW130000
+BTH,W,12.5KM--09070-----,FNL-,--------,Women's 12.5km - Standing,여자 12.5km - 입식,Women's 12.5km - Standing,여자 12.5km - 입식,Phase,,N,0,NONE,N,N,,,BTW130100
+BTH,W,12.5KM--09070-----,FNL-,000100--,Women's 12.5km - Standing,여자 12.5km - 입식,Women's 12.5km - Standing,여자 12.5km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTW130101
+BTH,W,12.5KM--09070-----,TRNO,--------,"Women's 12.5km - Standing, Off. Trng.","여자 12.5km - 입식, 공식 연습.","Women's 12.5km - Standing, Official Training","여자 12.5km - 입식, 공식 연습.",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,12.5KM--09070-----,TRNO,000100--,"Women's 12.5km - Standing, Off. Trng.","여자 12.5km - 입식, 공식 연습.","Women's 12.5km - Standing, Official Training","여자 12.5km - 입식, 공식 연습.",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW130O01
+BTH,W,12.5KM--09070-----,VICT,FLOWER--,"Women's 12.5km, Standing, Venue Cer.","여자 12.5km, 입식, 시상식","Women's 12.5km, Standing, Venue Ceremony","여자 12.5km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW130M02
+BTH,W,12.5KM--09070-----,VICT,MEDAL---,"Women's 12.5km, Standing, Vict. Cer.","여자 12.5km, 입식, 메달 시상식","Women's 12.5km, Standing, Victory Ceremony","여자 12.5km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW130M01
+BTH,W,12.5KM--12050-----,----,--------,Women's 12.5km - Sitting,여자 12.5km - 좌식,Women's 12.5km - Sitting,여자 12.5km - 좌식,Event,,N,0,NONE,N,N,,,BTW230000
+BTH,W,12.5KM--12050-----,FNL-,--------,Women's 12.5km - Sitting,여자 12.5km - 좌식,Women's 12.5km - Sitting,여자 12.5km - 좌식,Phase,,N,0,NONE,N,N,,,BTW230100
+BTH,W,12.5KM--12050-----,FNL-,000100--,Women's 12.5km - Sitting,여자 12.5km - 좌식,Women's 12.5km - Sitting,여자 12.5km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTW230101
+BTH,W,12.5KM--12050-----,TRNO,--------,"Women's 12.5km - Sitting, Off. Training","여자 12.5km - 좌식, 공식 연습","Women's 12.5km - Sitting, Official Training","여자 12.5km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,12.5KM--12050-----,TRNO,000100--,"Women's 12.5km - Sitting, Off. Training","여자 12.5km - 좌식, 공식 연습","Women's 12.5km - Sitting, Official Training","여자 12.5km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW230O01
+BTH,W,12.5KM--12050-----,VICT,FLOWER--,"Women's 12.5km, Sitting, Venue Cer.","여자 12.5km, 좌식, 시상식","Women's 12.5km, Sitting, Venue Ceremony","여자 12.5km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW230M02
+BTH,W,12.5KM--12050-----,VICT,MEDAL---,"Women's 12.5km, Sitting, Vict. Cer.","여자 12.5km, 좌식, 메달 시상식","Women's 12.5km, Sitting, Victory Ceremony","여자 12.5km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW230M01
+BTH,W,6KM-----03030-----,----,--------,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Event,,N,0,NONE,N,N,,,BTW310000
+BTH,W,6KM-----03030-----,FNL-,--------,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Phase,,N,0,NONE,N,N,,,BTW310100
+BTH,W,6KM-----03030-----,FNL-,000100--,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Women's 6km - Visually Impaired,여자 6km - 시각 장애,Unit,,Y,1,ATH,Y,Y,,,BTW310101
+BTH,W,6KM-----03030-----,TRNO,--------,"Women's 6km - Vis Imp, Off. Training","여자 6km - 시각 장애, 공식 연습","Women's 6km - Visually Impaired, Official Training","여자 6km - 시각 장애, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,6KM-----03030-----,TRNO,000100--,"Women's 6km - Vis Imp, Off. Training","여자 6km - 시각 장애, 공식 연습","Women's 6km - Visually Impaired, Official Training","여자 6km - 시각 장애, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW310O01
+BTH,W,6KM-----03030-----,VICT,FLOWER--,"Women's 6km, Vis Imp, Venue Cer.","여자 6km, 시각 장애, 시상식","Women's 6km, Visually Impaired, Venue Ceremony","여자 6km, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW310M02
+BTH,W,6KM-----03030-----,VICT,MEDAL---,"Women's 6km, Vis Imp, Vict. Ceremony","여자 6km, 시각 장애, 메달 시상식","Women's 6km, Visually Impaired, Victory Ceremony","여자 6km, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW310M01
+BTH,W,6KM-----09070-----,----,--------,Women's 6km - Standing,여자 6km - 입식,Women's 6km - Standing,여자 6km - 입식,Event,,N,0,NONE,N,N,,,BTW110000
+BTH,W,6KM-----09070-----,FNL-,--------,Women's 6km - Standing,여자 6km - 입식,Women's 6km - Standing,여자 6km - 입식,Phase,,N,0,NONE,N,N,,,BTW110100
+BTH,W,6KM-----09070-----,FNL-,000100--,Women's 6km - Standing,여자 6km - 입식,Women's 6km - Standing,여자 6km - 입식,Unit,,Y,1,ATH,Y,Y,,,BTW110101
+BTH,W,6KM-----09070-----,TRNO,--------,"Women's 6km - Standing, Off. Training","여자 6km - 입식, 공식 연습","Women's 6km - Standing, Official Training","여자 6km - 입식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,6KM-----09070-----,TRNO,000100--,"Women's 6km - Standing, Off. Training","여자 6km - 입식, 공식 연습","Women's 6km - Standing, Official Training","여자 6km - 입식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW110O01
+BTH,W,6KM-----09070-----,VICT,FLOWER--,"Women's 6km, Standing, Venue Cer.","여자 6km, 입식, 시상식","Women's 6km, Standing, Venue Ceremony","여자 6km, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW110M02
+BTH,W,6KM-----09070-----,VICT,MEDAL---,"Women's 6km, Standing, Vict. Ceremony","여자 6km, 입식, 메달 시상식","Women's 6km, Standing, Victory Ceremony","여자 6km, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW110M01
+BTH,W,6KM-----12050-----,----,--------,Women's 6km - Sitting,여자 6km - 좌식,Women's 6km - Sitting,여자 6km - 좌식,Event,,N,0,NONE,N,N,,,BTW210000
+BTH,W,6KM-----12050-----,FNL-,--------,Women's 6km - Sitting,여자 6km - 좌식,Women's 6km - Sitting,여자 6km - 좌식,Phase,,N,0,NONE,N,N,,,BTW210100
+BTH,W,6KM-----12050-----,FNL-,000100--,Women's 6km - Sitting,여자 6km - 좌식,Women's 6km - Sitting,여자 6km - 좌식,Unit,,Y,1,ATH,Y,Y,,,BTW210101
+BTH,W,6KM-----12050-----,TRNO,--------,"Women's 6km - Sitting, Off. Training","여자 6km - 좌식, 공식 연습","Women's 6km - Sitting, Official Training","여자 6km - 좌식, 공식 연습",Training,,N,0,NONE,N,N,Official Training,공식 연습,
+BTH,W,6KM-----12050-----,TRNO,000100--,"Women's 6km - Sitting, Off. Training","여자 6km - 좌식, 공식 연습","Women's 6km - Sitting, Official Training","여자 6km - 좌식, 공식 연습",Training,,Y,0,NONE,N,Y,Official Training,공식 연습,BTW210O01
+BTH,W,6KM-----12050-----,VICT,FLOWER--,"Women's 6km, Sitting, Venue Cer.","여자 6km, 좌식, 시상식","Women's 6km, Sitting, Venue Ceremony","여자 6km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,BTW210M02
+BTH,W,6KM-----12050-----,VICT,MEDAL---,"Women's 6km, Sitting, Vict. Ceremony","여자 6km, 좌식, 메달 시상식","Women's 6km, Sitting, Victory Ceremony","여자 6km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,BTW210M01
+CCS,-,------------------,----,--------,Cross-Country Skiing,크로스컨트리 스키,Cross-Country Skiing,크로스컨트리 스키,Discipline,,N,0,NONE,N,N,,,CC0000000
+CCS,-,------------------,----,ACC-----,CCS ACC  Local On/Off / KA,CCS ACC  Local On/Off / KA,CCS ACC  Local On/Off / KA,CCS ACC  Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+CCS,-,------------------,MEET,--------,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,N,0,NONE,N,N,Team Captain Meeting,대표자 회의,
+CCS,-,------------------,MEET,000100--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T01
+CCS,-,------------------,MEET,000200--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T02
+CCS,-,------------------,MEET,000300--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T03
+CCS,-,------------------,MEET,000400--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T04
+CCS,-,------------------,MEET,000500--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T05
+CCS,-,------------------,MEET,000600--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T06
+CCS,-,------------------,MEET,000700--,Cross-Country Skiing TCM,크로스컨트리 스키 대표자회의,Cross-Country Skiing Team Captain Meeting,크로스컨트리 스키 대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,대표자 회의,CC0000T07
+CCS,-,CANCEL------------,----,000100--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+CCS,-,CANCEL------------,----,000200--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+CCS,-,CANCEL------------,----,000300--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+CCS,M,------------------,----,--------,Men's Cross-Country Skiing,크로스컨트리 스키 남자경기,Men's Cross-Country Skiing,크로스컨트리 스키 남자경기,Gender,,N,0,NONE,N,N,,,CCM000000
+CCS,M,10KM----03030-----,----,--------,"Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애","Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애",Event,,N,0,NONE,N,N,,,CCM310000
+CCS,M,10KM----03030-----,FNL-,--------,"Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애","Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애",Phase,,N,0,NONE,N,N,,,CCM310100
+CCS,M,10KM----03030-----,FNL-,000100--,"Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애","Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애",Unit,,Y,1,ATH,Y,Y,,,CCM310101
+CCS,M,10KM----03030-----,VICT,FLOWER--,"Men's 10km Classic, Vis Imp, Venue Cer.","남자 10km 클래식, 시각 장애, 시상식","Men's 10km Classic, Visually Impaired, Venue Ceremony","남자 10km 클래식, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM310M02
+CCS,M,10KM----03030-----,VICT,MEDAL---,"Men's 10km Classic, Vis Imp, Vict. Cer.","남자 10km 클래식, 시각 장애, 메달 시상식","Men's 10km Classic, Visually Impaired, Victory Ceremony","남자 10km 클래식, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM310M01
+CCS,M,10KM----12050-----,----,--------,"Men's 10km Classic, Standing","남자 10km 클래식, 입식","Men's 10km Classic, Standing","남자 10km 클래식, 입식",Event,,N,0,NONE,N,N,,,CCM110000
+CCS,M,10KM----12050-----,FNL-,--------,"Men's 10km Classic, Standing","남자 10km 클래식, 입식","Men's 10km Classic, Standing","남자 10km 클래식, 입식",Phase,,N,0,NONE,N,N,,,CCM110100
+CCS,M,10KM----12050-----,FNL-,000100--,"Men's 10km Classic, Standing","남자 10km 클래식, 입식","Men's 10km Classic, Standing","남자 10km 클래식, 입식",Unit,,Y,1,ATH,Y,Y,,,CCM110101
+CCS,M,10KM----12050-----,VICT,FLOWER--,"Men's 10km Classic, Standing, Venue Cer.","남자 10km 클래식, 입식, 시상식","Men's 10km Classic, Standing, Venue Ceremony","남자 10km 클래식, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM110M02
+CCS,M,10KM----12050-----,VICT,MEDAL---,"Men's 10km Classic, Standing, Vict. Cer.","남자 10km 클래식, 입식, 메달 시상식","Men's 10km Classic, Standing, Victory Ceremony","남자 10km 클래식, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM110M01
+CCS,M,15KM----09070-----,----,--------,"Men's 15km, Sitting","남자 15km, 좌식","Men's 15km, Sitting","남자 15km, 좌식",Event,,N,0,NONE,N,N,,,CCM220000
+CCS,M,15KM----09070-----,FNL-,--------,"Men's 15km, Sitting","남자 15km, 좌식","Men's 15km, Sitting","남자 15km, 좌식",Phase,,N,0,NONE,N,N,,,CCM220100
+CCS,M,15KM----09070-----,FNL-,000100--,"Men's 15km, Sitting","남자 15km, 좌식","Men's 15km, Sitting","남자 15km, 좌식",Unit,,Y,1,ATH,Y,Y,,,CCM220101
+CCS,M,15KM----09070-----,VICT,FLOWER--,"Men's 15km, Sitting, Venue Ceremony","남자 15km, 좌식, 시상식","Men's 15km, Sitting, Venue Ceremony","남자 15km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM220M02
+CCS,M,15KM----09070-----,VICT,MEDAL---,"Men's 15km, Sitting, Victory Ceremony","남자 15km, 좌식, 메달 시상식","Men's 15km, Sitting, Victory Ceremony","남자 15km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM220M01
+CCS,M,20KM----03030-----,----,--------,"Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애","Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애",Event,,N,0,NONE,N,N,,,CCM320000
+CCS,M,20KM----03030-----,FNL-,--------,"Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애","Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애",Phase,,N,0,NONE,N,N,,,CCM320100
+CCS,M,20KM----03030-----,FNL-,000100--,"Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애","Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애",Unit,,Y,1,ATH,Y,Y,,,CCM320101
+CCS,M,20KM----03030-----,VICT,FLOWER--,"Men's 20km Free, Vis Imp, Venue Ceremony","남자 20km 프리, 시각 장애, 시상식","Men's 20km Free, Visually Impaired, Venue Ceremony","남자 20km 프리, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM320M02
+CCS,M,20KM----03030-----,VICT,MEDAL---,"Men's 20km Free, Vis Imp, Vict. Ceremony","남자 20km 프리, 시각 장애, 메달 시상식","Men's 20km Free, Visually Impaired, Victory Ceremony","남자 20km 프리, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM320M01
+CCS,M,20KM----12050-----,----,--------,"Men's 20km Free, Standing","남자 20km 프리, 입식","Men's 20km Free, Standing","남자 20km 프리, 입식",Event,,N,0,NONE,N,N,,,CCM120000
+CCS,M,20KM----12050-----,FNL-,--------,"Men's 20km Free, Standing","남자 20km 프리, 입식","Men's 20km Free, Standing","남자 20km 프리, 입식",Phase,,N,0,NONE,N,N,,,CCM120100
+CCS,M,20KM----12050-----,FNL-,000100--,"Men's 20km Free, Standing","남자 20km 프리, 입식","Men's 20km Free, Standing","남자 20km 프리, 입식",Unit,,Y,1,ATH,Y,Y,,,CCM120101
+CCS,M,20KM----12050-----,VICT,FLOWER--,"Men's 20km Free, Standing, Venue Cer.","남자 20km 프리, 입식, 시상식","Men's 20km Free, Standing, Venue Ceremony","남자 20km 프리, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM120M02
+CCS,M,20KM----12050-----,VICT,MEDAL---,"Men's 20km Free, Standing, Vict. Cer.","남자 20km 프리, 입식, 메달 시상식","Men's 20km Free, Standing, Victory Ceremony","남자 20km 프리, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM120M01
+CCS,M,7.5KM---09070-----,----,--------,"Men's 7.5km, Sitting","남자 7.5km, 좌식","Men's 7.5km, Sitting","남자 7.5km, 좌식",Event,,N,0,NONE,N,N,,,
+CCS,M,7.5KM---09070-----,FNL-,--------,"Men's 7.5km, Sitting","남자 7.5km, 좌식","Men's 7.5km, Sitting","남자 7.5km, 좌식",Phase,,N,0,NONE,N,N,,,
+CCS,M,7.5KM---09070-----,FNL-,000100--,"Men's 7.5km, Sitting","남자 7.5km, 좌식","Men's 7.5km, Sitting","남자 7.5km, 좌식",Unit,,Y,1,ATH,Y,Y,,,
+CCS,M,7.5KM---09070-----,VICT,FLOWER--,"Men's 7.5km, Sitting, Venue Ceremony","남자 7.5km, 좌식, 시상식","Men's 7.5km, Sitting, Venue Ceremony","남자 7.5km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+CCS,M,7.5KM---09070-----,VICT,MEDAL---,"Men's 7.5km, Sitting, Victory Ceremony","남자 7.5km, 좌식, 메달 시상식","Men's 7.5km, Sitting, Victory Ceremony","남자 7.5km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+CCS,M,SPRINT--03030-----,----,--------,"Men's 1.5km Sprint Classic, Vis Imp","남자 1.5km 스프린트 클래식, 시각 장애","Men's 1.5km Sprint Classic, Visually Impaired","남자 1.5km 스프린트 클래식, 시각 장애",Event,,N,0,NONE,N,N,,,CCM302000
+CCS,M,SPRINT--03030-----,FNL-,--------,"M 1.5km Sprint Classic Finals, Vis Imp","남자 1.5km 스프린트 클래식 결승, 시각 장애","Men's 1.5km Sprint Classic Finals, Visually Impaired","남자 1.5km 스프린트 클래식 결승, 시각 장애",Phase,,N,0,NONE,N,N,Finals,결승,CCM302100
+CCS,M,SPRINT--03030-----,FNL-,000100--,"M 1.5km Sprint Classic Final, Vis Imp","남자 1.5km 스프린트 클래식 결승, 시각 장애","Men's 1.5km Sprint Classic Final, Visually Impaired","남자 1.5km 스프린트 클래식 결승, 시각 장애",Unit,,Y,1,ATH,Y,Y,Final,결승,CCM302101
+CCS,M,SPRINT--03030-----,QUAL,--------,"M 1.5km Sprint Classic Qualif, Vis Imp",남자 1.5km 스프린트 클래식 예선 시각 장애,"Men's 1.5km Sprint Classic Qualification, Visually Impaired",남자 1.5km 스프린트 클래식 예선 시각 장애,Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,M,SPRINT--03030-----,QUAL,000100--,"M 1.5km Sprint Classic Qualif, Vis Imp",남자 1.5km 스프린트 클래식 예선 시각 장애,"Men's 1.5km Sprint Classic Qualification, Visually Impaired",남자 1.5km 스프린트 클래식 예선 시각 장애,Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCM302901
+CCS,M,SPRINT--03030-----,SFNL,--------,"M 1.5km Sprint Classic Semif, Vis Imp","남자 1.5km 스프린트 클래식 준결승, 시각 장애","Men's 1.5km Sprint Classic Semifinals, Visually Impaired","남자 1.5km 스프린트 클래식 준결승, 시각 장애",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCM302200
+CCS,M,SPRINT--03030-----,SFNL,000100--,"M 1.5km Sprint Classic SF1, Vis Imp","남자 1.5km 스프린트 클래식 준결승 1, 시각 장애","Men's 1.5km Sprint Classic Semifinal 1, Visually Impaired","남자 1.5km 스프린트 클래식 준결승 1, 시각 장애",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCM302201
+CCS,M,SPRINT--03030-----,SFNL,000200--,"M 1.5km Sprint Classic SF2, Vis Imp","남자 1.5km 스프린트 클래식 준결승 2, 시각 장애","Men's 1.5km Sprint Classic Semifinal 2, Visually Impaired","남자 1.5km 스프린트 클래식 준결승 2, 시각 장애",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCM302202
+CCS,M,SPRINT--03030-----,VICT,FLOWER--,"M 1.5km Sprint Classic, Vis Imp, Venue C","남자 1.5km 스프린트 클래식, 시각 장애, 시상식","Men's 1.5km Sprint Classic, Visually Impaired, Venue Ceremony","남자 1.5km 스프린트 클래식, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM302M02
+CCS,M,SPRINT--03030-----,VICT,MEDAL---,"M 1.5km Sprint Classic, Vis Imp, Vict. C","남자 1.5km 스프린트 클래식, 시각 장애, 메달 시상식","Men's 1.5km Sprint Classic, Visually Impaired, Victory Ceremony","남자 1.5km 스프린트 클래식, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM302M01
+CCS,M,SPRINT--09070-----,----,--------,"Men's 1.1km Sprint, Sitting","남자 1.1km 스프린트, 좌식",Men's 1.1km Sprint Sitting,"남자 1.1km 스프린트, 좌식",Event,,N,0,NONE,N,N,,,CCM202000
+CCS,M,SPRINT--09070-----,FNL-,--------,"Men's 1.1km Sprint Finals, Sitting","남자 1.1km 스프린트 결승, 좌식","Men's 1.1km Sprint Finals, Sitting","남자 1.1km 스프린트 결승, 좌식",Phase,,N,0,NONE,N,N,Finals,결승,CCM202100
+CCS,M,SPRINT--09070-----,FNL-,000100--,"Men's 1.1km Sprint Final, Sitting","남자 1.1km 스프린트 결승, 좌식","Men's 1.1km Sprint Final, Sitting","남자 1.1km 스프린트 결승, 좌식",Unit,,Y,1,ATH,Y,Y,Final,결승,CCM202101
+CCS,M,SPRINT--09070-----,QUAL,--------,"Men's 1.1km Sprint Qualif, Sitting","남자 1.1km 스프린트 예선, 좌식","Men's 1.1km Sprint Qualification, Sitting","남자 1.1km 스프린트 예선, 좌식",Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,M,SPRINT--09070-----,QUAL,000100--,"Men's 1.1km Sprint Qualif, Sitting","남자 1.1km 스프린트 예선, 좌식","Men's 1.1km Sprint Qualification, Sitting","남자 1.1km 스프린트 예선, 좌식",Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCM202901
+CCS,M,SPRINT--09070-----,SFNL,--------,"Men's 1.1km Sprint Semifinals, Sitting","남자 1.1km 스프린트 준결승, 좌식","Men's 1.1km Sprint Semifinals, Sitting","남자 1.1km 스프린트 준결승, 좌식",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCM202200
+CCS,M,SPRINT--09070-----,SFNL,000100--,"Men's 1.1km Sprint Semifinal 1, Sitting","남자 1.1km 스프린트 준결승 1, 좌식","Men's 1.1km Sprint Semifinal 1, Sitting","남자 1.1km 스프린트 준결승 1, 좌식",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCM202201
+CCS,M,SPRINT--09070-----,SFNL,000200--,"Men's 1.1km Sprint Semifinal 2, Sitting","남자 1.1km 스프린트 준결승 2, 좌식","Men's 1.1km Sprint Semifinal 2, Sitting","남자 1.1km 스프린트 준결승 2, 좌식",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCM202202
+CCS,M,SPRINT--09070-----,VICT,FLOWER--,"Men's 1.1km Sprint, Sitting, Venue Cer.","남자 1.1km 스프린트, 좌식, 시상식","Men's 1.1km Sprint, Sitting, Venue Ceremony","남자 1.1km 스프린트, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM202M02
+CCS,M,SPRINT--09070-----,VICT,MEDAL---,"Men's 1.1km Sprint, Sitting, Vict. Cer.","남자 1.1km 스프린트, 좌식, 메달 시상식","Men's 1.1km Sprint Sitting, Victory Ceremony","남자 1.1km 스프린트, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM202M01
+CCS,M,SPRINT--12050-----,----,--------,"Men's 1.5km Sprint Classic, Standing","남자 1.5km 스프린트 클래식, 입식","Men's 1.5km Sprint Classic, Standing","남자 1.5km 스프린트 클래식, 입식",Event,,N,0,NONE,N,N,,,CCM102000
+CCS,M,SPRINT--12050-----,FNL-,--------,"M 1.5km Sprint Classic Finals, Standing","남자 1.5km 스프린트 클래식 결승, 입식","Men's 1.5km Sprint Classic Finals, Standing","남자 1.5km 스프린트 클래식 결승, 입식",Phase,,N,0,NONE,N,N,Finals,결승,CCM102100
+CCS,M,SPRINT--12050-----,FNL-,000100--,"M 1.5km Sprint Classic Final, Standing","남자 1.5km 스프린트 클래식 결승, 입식","Men's 1.5km Sprint Classic Final, Standing","남자 1.5km 스프린트 클래식 결승, 입식",Unit,,Y,1,ATH,Y,Y,Final,결승,CCM102101
+CCS,M,SPRINT--12050-----,QUAL,--------,"M 1.5km Sprint Classic Qualif, Standing","남자 1.5km 스프린트 클래식 예선, 입식","Men's 1.5km Sprint Classic Qualification, Standing","남자 1.5km 스프린트 클래식 예선, 입식",Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,M,SPRINT--12050-----,QUAL,000100--,"M 1.5km Sprint Classic Qualif, Standing","남자 1.5km 스프린트 클래식 예선, 입식","Men's 1.5km Sprint Classic Qualification, Standing","남자 1.5km 스프린트 클래식 예선, 입식",Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCM102901
+CCS,M,SPRINT--12050-----,SFNL,--------,"M 1.5km Sprint Classic Semif, Standing","남자 1.5km 스프린트 클래식 준결승, 입식","Men's 1.5km Sprint Classic Semifinals, Standing","남자 1.5km 스프린트 클래식 준결승, 입식",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCM102200
+CCS,M,SPRINT--12050-----,SFNL,000100--,"M 1.5km Sprint Classic SF1, Standing","남자 1.5km 스프린트 클래식 준결승1, 입식","Men's 1.5km Sprint Classic Semifinal 1, Standing","남자 1.5km 스프린트 클래식 준결승1, 입식",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCM102201
+CCS,M,SPRINT--12050-----,SFNL,000200--,"M 1.5km Sprint Classic SF2, Standing","남자 1.5km 스프린트 클래식 준결승2, 입식","Men's 1.5km Sprint Classic Semifinal 2, Standing","남자 1.5km 스프린트 클래식 준결승2, 입식",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCM102202
+CCS,M,SPRINT--12050-----,VICT,FLOWER--,"M 1.5km Sprint Classic, Standing, Venue","남자 1.5km 스프린트 클래식, 입식, 시상식","Men's 1.5km Sprint Classic, Standing, Venue Ceremony","남자 1.5km 스프린트 클래식, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCM102M02
+CCS,M,SPRINT--12050-----,VICT,MEDAL---,"M 1.5km Sprint Classic, Standing, Vict C","남자 1.5km 스프린트 클래식, 입식, 메달 시상식","Men's 1.5km Sprint Classic, Standing, Victory Ceremony","남자 1.5km 스프린트 클래식, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCM102M01
+CCS,O,4X2.5KM-12150-----,----,--------,4x2.5km Open Relay,4x2.5km 오픈 계주,4x2.5km Open Relay,4x2.5km 오픈 계주,Event,,N,0,TEAM,N,N,,,CCX402000
+CCS,O,4X2.5KM-12150-----,FNL-,--------,4x2.5km Open Relay,4x2.5km 오픈 계주,4x2.5km Open Relay,4x2.5km 오픈 계주,Phase,,N,0,TEAM,N,N,,,CCX402100
+CCS,O,4X2.5KM-12150-----,FNL-,000100--,4x2.5km Open Relay,4x2.5km 오픈 계주,4x2.5km Open Relay,4x2.5km 오픈 계주,Unit,,Y,1,TEAM,Y,Y,,,CCX402101
+CCS,O,4X2.5KM-12150-----,VICT,FLOWER--,"4x2.5km Open Relay, Venue Ceremony","4x2.5km 오픈 계주, 시상식","4x2.5km Open Relay, Venue Ceremony","4x2.5km 오픈 계주, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCX402M02
+CCS,O,4X2.5KM-12150-----,VICT,MEDAL---,"4x2.5km Open Relay, Victory Ceremony","4x2.5km 오픈 계주, 메달 시상식","4x2.5km Open Relay, Victory Ceremony","4x2.5km 오픈 계주, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCX402M01
+CCS,W,------------------,----,--------,Women's Cross-Country Skiing,크로스컨트리 스키 여자경기,Women's Cross-Country Skiing,크로스컨트리 스키 여자경기,Gender,,N,0,NONE,N,N,,,CCW000000
+CCS,W,12KM----09070-----,----,--------,"Women's 12km, Sitting","여자 12km, 좌식","Women's 12km, Sitting","여자 12km, 좌식",Event,,N,0,NONE,N,N,,,CCW215000
+CCS,W,12KM----09070-----,FNL-,--------,"Women's 12km, Sitting","여자 12km, 좌식","Women's 12km, Sitting","여자 12km, 좌식",Phase,,N,0,NONE,N,N,,,CCW215100
+CCS,W,12KM----09070-----,FNL-,000100--,"Women's 12km, Sitting","여자 12km, 좌식","Women's 12km, Sitting","여자 12km, 좌식",Unit,,Y,1,ATH,Y,Y,,,CCW215101
+CCS,W,12KM----09070-----,VICT,FLOWER--,"Women's 12km, Sitting, Venue Ceremony","여자 12km, 좌식, 시상식","Women's 12km, Sitting, Venue Ceremony","여자 12km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW215M02
+CCS,W,12KM----09070-----,VICT,MEDAL---,"Women's 12km, Sitting, Victory Ceremony","여자 12km, 좌식, 메달 시상식","Women's 12km, Sitting, Victory Ceremony","여자 12km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW215M01
+CCS,W,15KM----03030-----,----,--------,"Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애","Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애",Event,,N,0,NONE,N,N,,,CCW315000
+CCS,W,15KM----03030-----,FNL-,--------,"Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애","Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애",Phase,,N,0,NONE,N,N,,,CCW315100
+CCS,W,15KM----03030-----,FNL-,000100--,"Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애","Women's 15km Free, Visually Impaired","여자 15km 프리, 시각 장애",Unit,,Y,1,ATH,Y,Y,,,CCW315101
+CCS,W,15KM----03030-----,VICT,FLOWER--,"Women's 15km Free, Vis Imp, Venue Cer.","여자 15km 프리, 시각 장애, 시상식","Women's 15km Free, Visually Impaired, Venue Ceremony","여자 15km 프리, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW315M02
+CCS,W,15KM----03030-----,VICT,MEDAL---,"Women's 15km Free, Vis Imp, Vict. Cer.","여자 15km 프리, 시각 장애, 메달 시상식","Women's 15km Free, Visually Impaired, Victory Ceremony","여자 15km 프리, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW315M01
+CCS,W,15KM----12050-----,----,--------,"Women's 15km Free, Standing","여자 15km 프리, 입식","Women's 15km Free, Standing","여자 15km 프리, 입식",Event,,N,0,NONE,N,N,,,CCW115000
+CCS,W,15KM----12050-----,FNL-,--------,"Women's 15km Free, Standing","여자 15km 프리, 입식","Women's 15km Free, Standing","여자 15km 프리, 입식",Phase,,N,0,NONE,N,N,,,CCW115100
+CCS,W,15KM----12050-----,FNL-,000100--,"Women's 15km Free, Standing","여자 15km 프리, 입식","Women's 15km Free, Standing","여자 15km 프리, 입식",Unit,,Y,1,ATH,Y,Y,,,CCW115101
+CCS,W,15KM----12050-----,VICT,FLOWER--,"Women's 15km Free, Standing, Venue Cer.","여자 15km 프리, 입식, 시상식","Women's 15km Free, Standing, Venue Ceremony","여자 15km 프리, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW115M02
+CCS,W,15KM----12050-----,VICT,MEDAL---,"Women's 15km Free, Standing, Vict. Cer.","여자 15km 프리, 입식, 메달 시상식","Women's 15km Free, Standing, Victory Ceremony","여자 15km 프리, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW115M01
+CCS,W,5KM-----09070-----,----,--------,"Women's 5km, Sitting","여자 5km, 좌식","Women's 5km, Sitting","여자 5km, 좌식",Event,,N,0,NONE,N,N,,,
+CCS,W,5KM-----09070-----,FNL-,--------,"Women's 5km, Sitting","여자 5km, 좌식","Women's 5km, Sitting","여자 5km, 좌식",Phase,,N,0,NONE,N,N,,,
+CCS,W,5KM-----09070-----,FNL-,000100--,"Women's 5km, Sitting","여자 5km, 좌식","Women's 5km, Sitting","여자 5km, 좌식",Unit,,Y,1,ATH,Y,Y,,,
+CCS,W,5KM-----09070-----,VICT,FLOWER--,"Women's 5km, Sitting, Venue Ceremony","여자 5km, 좌식, 시상식","Women's 5km, Sitting, Venue Ceremony","여자 5km, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+CCS,W,5KM-----09070-----,VICT,MEDAL---,"Women's 5km, Sitting, Victory Ceremony","여자 5km, 좌식, 메달 시상식","Women's 5km, Sitting, Victory Ceremony","여자 5km, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+CCS,W,7.5KM---03030-----,----,--------,"Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애","Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애",Event,,N,0,NONE,N,N,,,
+CCS,W,7.5KM---03030-----,FNL-,--------,"Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애","Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애",Phase,,N,0,NONE,N,N,,,
+CCS,W,7.5KM---03030-----,FNL-,000100--,"Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애","Women's 7.5km Classic, Visually Impaired","여자 7.5km 클래식, 시각 장애",Unit,,Y,1,ATH,Y,Y,,,
+CCS,W,7.5KM---03030-----,VICT,FLOWER--,"Women's 7.5km Classic, Vis Imp, Venue C","여자 7.5km 클래식, 시각 장애, 시상식","Women's 7.5km Classic, Visually Impaired, Venue Ceremony","여자 7.5km 클래식, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+CCS,W,7.5KM---03030-----,VICT,MEDAL---,"Women's 7.5km Classic, Vis Imp, Vict Cer","여자 7.5km 클래식, 시각 장애, 메달 시상식","Women's 7.5km Classic, Visually Impaired, Victory Ceremony","여자 7.5km 클래식, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+CCS,W,7.5KM---12050-----,----,--------,"Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식","Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식",Event,,N,0,NONE,N,N,,,
+CCS,W,7.5KM---12050-----,FNL-,--------,"Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식","Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식",Phase,,N,0,NONE,N,N,,,
+CCS,W,7.5KM---12050-----,FNL-,000100--,"Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식","Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식",Unit,,Y,1,ATH,Y,Y,,,
+CCS,W,7.5KM---12050-----,VICT,FLOWER--,"Women's 7.5km Classic, Standing, Venue C","여자 7.5km 클래식, 입식, 시상식","Women's 7.5km Classic, Standing, Venue Ceremony","여자 7.5km 클래식, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+CCS,W,7.5KM---12050-----,VICT,MEDAL---,"Women's 7.5km Classic, Standing, Vict. C","여자 7.5km 클래식, 입식, 메달 시상식","Women's 7.5km Classic, Standing, Victory Ceremony","여자 7.5km 클래식, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+CCS,W,SPRINT--03030-----,----,--------,"Women's 1.5km Sprint Classic, Vis Imp","여자 1.5km 스프린트 클래식, 시각 장애","Women's 1.5km Sprint Classic, Visually Impaired","여자 1.5km 스프린트 클래식, 시각 장애",Event,,N,0,NONE,N,N,,,CCW302000
+CCS,W,SPRINT--03030-----,FNL-,--------,"W 1.5km Sprint Classic Finals, Vis Imp","여자 1.5km 스프린트 클래식 결승, 시각 장애","Women's 1.5km Sprint Classic Finals, Visually Impaired","여자 1.5km 스프린트 클래식 결승, 시각 장애",Phase,,N,0,NONE,N,N,Finals,결승,CCW302100
+CCS,W,SPRINT--03030-----,FNL-,000100--,"W 1.5km Sprint Classic Final, Vis Imp","여자 1.5km 스프린트 클래식 결승, 시각 장애","Women's 1.5km Sprint Classic Final, Visually Impaired","여자 1.5km 스프린트 클래식 결승, 시각 장애",Unit,,Y,1,ATH,Y,Y,Final,결승,CCW302101
+CCS,W,SPRINT--03030-----,QUAL,--------,"W 1.5km Sprint Classic Qualif, Vis Imp",여자 1.5km 스프린트 클래식 예선 시각 장애,"Women's 1.5km Sprint Classic Qualification, Visually Impaired",여자 1.5km 스프린트 클래식 예선 시각 장애,Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,W,SPRINT--03030-----,QUAL,000100--,"W 1.5km Sprint Classic Qualif, Vis Imp",여자 1.5km 스프린트 클래식 예선 시각 장애,"Women's 1.5km Sprint Classic Qualification, Visually Impaired",여자 1.5km 스프린트 클래식 예선 시각 장애,Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCW302901
+CCS,W,SPRINT--03030-----,SFNL,--------,"W 1.5km Sprint Classic Semif, Vis Imp","여자 1.5km 스프린트 클래식 준결승, 시각 장애","Women's 1.5km Sprint Classic Semifinals, Visually Impaired","여자 1.5km 스프린트 클래식 준결승, 시각 장애",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCW302200
+CCS,W,SPRINT--03030-----,SFNL,000100--,"W 1.5km Sprint Classic SF1, Vis Imp","여자 1.5km 스프린트 클래식 준결승 1, 시각 장애","Women's 1.5km Sprint Classic Semifinal 1, Visually Impaired","여자 1.5km 스프린트 클래식 준결승 1, 시각 장애",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCW302201
+CCS,W,SPRINT--03030-----,SFNL,000200--,"W 1.5km Sprint Classic SF2, Vis Imp","여자 1.5km 스프린트 클래식 준결승 2, 시각 장애","Women's 1.5km Sprint Classic Semifinal 2, Visually Impaired","여자 1.5km 스프린트 클래식 준결승 2, 시각 장애",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCW302202
+CCS,W,SPRINT--03030-----,VICT,FLOWER--,"W 1.5km Sprint Classic, Vis Imp, Venue C","여자 1.5km 스프린트 클래식, 시각 장애, 시상식","Women's 1.5km Sprint Classic, Visually Impaired, Venue Ceremony","여자 1.5km 스프린트 클래식, 시각 장애, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW302M02
+CCS,W,SPRINT--03030-----,VICT,MEDAL---,"W 1.5km Sprint Classic, Vis Imp, Vict. C","여자 1.5km 스프린트 클래식, 시각 장애, 메달 시상식","Women's 1.5km Sprint Classic, Visually Impaired, Victory Ceremony","여자 1.5km 스프린트 클래식, 시각 장애, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW302M01
+CCS,W,SPRINT--09070-----,----,--------,"Women's 1.1km Sprint, Sitting","여자 1.1km 스프린트, 좌식","Women's 1.1km Sprint, Sitting","여자 1.1km 스프린트, 좌식",Event,,N,0,NONE,N,N,,,CCW202000
+CCS,W,SPRINT--09070-----,FNL-,--------,"Women's 1.1km Sprint Finals, Sitting","여자 1.1km 스프린트 결승, 좌식","Women's 1.1km Sprint Finals, Sitting","여자 1.1km 스프린트 결승, 좌식",Phase,,N,0,NONE,N,N,Finals,결승,CCW202100
+CCS,W,SPRINT--09070-----,FNL-,000100--,"Women's 1.1km Sprint Final, Sitting","여자 1.1km 스프린트 결승, 좌식","Women's 1.1km Sprint Final, Sitting","여자 1.1km 스프린트 결승, 좌식",Unit,,Y,1,ATH,Y,Y,Final,결승,CCW202101
+CCS,W,SPRINT--09070-----,QUAL,--------,"Women's 1.1km Sprint Qualif, Sitting","여자 1.1km 스프린트 예선, 좌식","Women's 1.1km Sprint Qualification, Sitting","여자 1.1km 스프린트 예선, 좌식",Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,W,SPRINT--09070-----,QUAL,000100--,"Women's 1.1km Sprint Qualif, Sitting","여자 1.1km 스프린트 예선, 좌식","Women's 1.1km Sprint Qualification, Sitting","여자 1.1km 스프린트 예선, 좌식",Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCW202901
+CCS,W,SPRINT--09070-----,SFNL,--------,"Women's 1.1km Sprint Semif, Sitting","여자 1.1km 스프린트 준결승, 좌식","Women's 1.1km Sprint Semifinals, Sitting","여자 1.1km 스프린트 준결승, 좌식",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCW202200
+CCS,W,SPRINT--09070-----,SFNL,000100--,"Women's 1.1km Sprint SF1, Sitting","여자 1.1km 스프린트 준결승 1, 좌식","Women's 1.1km Sprint Semifinal 1, Sitting","여자 1.1km 스프린트 준결승 1, 좌식",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCW202201
+CCS,W,SPRINT--09070-----,SFNL,000200--,"Women's 1.1km Sprint SF2, Sitting","여자 1.1km 스프린트 준결승 2, 좌식","Women's 1.1km Sprint Semifinal 2, Sitting","여자 1.1km 스프린트 준결승 2, 좌식",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCW202202
+CCS,W,SPRINT--09070-----,VICT,FLOWER--,"Women's 1.1km Sprint, Sitting, Venue Cer","여자 1.1km 스프린트, 좌식, 시상식","Women's 1.1km Sprint, Sitting, Venue Ceremony","여자 1.1km 스프린트, 좌식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW202M02
+CCS,W,SPRINT--09070-----,VICT,MEDAL---,"Women's 1.1km Sprint, Sitting, Vict. Cer","여자 1.1km 스프린트, 좌식, 메달 시상식","Women's 1.1km Sprint, Sitting, Victory Ceremony","여자 1.1km 스프린트, 좌식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW202M01
+CCS,W,SPRINT--12050-----,----,--------,"Women's 1.5km Sprint Classic, Standing","여자 1.5km 스프린트 클래식, 입식","Women's 1.5km Sprint Classic, Standing","여자 1.5km 스프린트 클래식, 입식",Event,,N,0,NONE,N,N,,,CCW102000
+CCS,W,SPRINT--12050-----,FNL-,--------,"W 1.5km Sprint Classic Finals, Standing","여자 1.5km 스프린트 클래식 결승, 입식","Women's 1.5km Sprint Classic Finals, Standing","여자 1.5km 스프린트 클래식 결승, 입식",Phase,,N,0,NONE,N,N,Finals,결승,CCW102100
+CCS,W,SPRINT--12050-----,FNL-,000100--,"W 1.5km Sprint Classic Final, Standing","여자 1.5km 스프린트 클래식 결승, 입식","Women's 1.5km Sprint Classic Final, Standing","여자 1.5km 스프린트 클래식 결승, 입식",Unit,,Y,1,ATH,Y,Y,Final,결승,CCW102101
+CCS,W,SPRINT--12050-----,QUAL,--------,"W 1.5km Sprint Classic Qualif, Standing","여자 1.5km 스프린트 클래식 예선, 입식","Women's 1.5km Sprint Classic Qualification, Standing","여자 1.5km 스프린트 클래식 예선, 입식",Phase,,N,0,NONE,N,N,Qualification,예선,
+CCS,W,SPRINT--12050-----,QUAL,000100--,"W 1.5km Sprint Classic Qualif, Standing","여자 1.5km 스프린트 클래식 예선, 입식","Women's 1.5km Sprint Classic Qualification, Standing","여자 1.5km 스프린트 클래식 예선, 입식",Unit,,Y,0,ATH,Y,Y,Qualification,예선,CCW102901
+CCS,W,SPRINT--12050-----,SFNL,--------,"W 1.5km Sprint Classic Semif, Standing","여자 1.5km 스프린트 클래식 준결승, 입식","Women's 1.5km Sprint Classic Semifinals, Standing","여자 1.5km 스프린트 클래식 준결승, 입식",Phase,,N,0,ATH,N,N,Semifinals,준결승,CCW102200
+CCS,W,SPRINT--12050-----,SFNL,000100--,"W 1.5km Sprint Classic SF1, Standing","여자 1.5km 스프린트 클래식 준결승 1, 입식","Women's 1.5km Sprint Classic Semifinal 1, Standing","여자 1.5km 스프린트 클래식 준결승 1, 입식",Unit,,Y,0,ATH,Y,Y,Semifinal 1,준결승 1,CCW102201
+CCS,W,SPRINT--12050-----,SFNL,000200--,"W 1.5km Sprint Classic SF2, Standing","여자 1.5km 스프린트 클래식 준결승 2, 입식","Women's 1.5km Sprint Classic Semifinal 2, Standing","여자 1.5km 스프린트 클래식 준결승 2, 입식",Unit,,Y,0,ATH,Y,Y,Semifinal 2,준결승 2,CCW102202
+CCS,W,SPRINT--12050-----,VICT,FLOWER--,"W 1.5km Sprint Classic, Standing, Venue","여자 1.5km 스프린트 클래식, 입식, 시상식","Women's 1.5km Sprint Classic, Standing, Venue Ceremony","여자 1.5km 스프린트 클래식, 입식, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCW102M02
+CCS,W,SPRINT--12050-----,VICT,MEDAL---,"W 1.5km Sprint Classic, Standing, Vict C","여자 1.5km 스프린트 클래식, 입식, 메달 시상식","Women's 1.5km Sprint Classic, Standing, Victory Ceremony","여자 1.5km 스프린트 클래식, 입식, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCW102M01
+CCS,X,4X2.5KM-12150-----,----,--------,4x2.5km Mixed Relay,4x2.5km 혼성 계주,4x2.5km Mixed Relay,4x2.5km 혼성 계주,Event,,N,0,TEAM,N,N,,,CCX401000
+CCS,X,4X2.5KM-12150-----,FNL-,--------,4x2.5km Mixed Relay,4x2.5km 혼성 계주,4x2.5km Mixed Relay,4x2.5km 혼성 계주,Phase,,N,0,TEAM,N,N,,,CCX401100
+CCS,X,4X2.5KM-12150-----,FNL-,000100--,4x2.5km Mixed Relay,4x2.5km 혼성 계주,4x2.5km Mixed Relay,4x2.5km 혼성 계주,Unit,,Y,1,TEAM,Y,Y,,,CCX401101
+CCS,X,4X2.5KM-12150-----,VICT,FLOWER--,"4x2.5km Mixed Relay, Venue Ceremony","4x2.5km 혼성 계주, 시상식","4x2.5km Mixed Relay, Venue Ceremony","4x2.5km 혼성 계주, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CCX401M02
+CCS,X,4X2.5KM-12150-----,VICT,MEDAL---,"4x2.5km Mixed Relay, Victory Ceremony","4x2.5km 혼성 계주, 메달 시상식","4x2.5km Mixed Relay, Victory Ceremony","4x2.5km 혼성 계주, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CCX401M01
+CUR,-,------------------,----,--------,Wheelchair Curling,휠체어컬링,Wheelchair Curling,휠체어컬링,Discipline,,N,0,HTEAM,N,N,,,CU0000000
+CUR,-,------------------,----,GCC-----,CUR GCC Local On/Off / KA,CUR GCC Local On/Off / KA,CUR GCC Local On/Off / KA,CUR GCC Local On/Off / KA,Venue,,N,0,NONE,N,N,,,CU0SCV000
+CUR,-,------------------,MEET,--------,Team Meeting,대표자회의,Team Meeting,대표자회의,Meeting,,N,0,NONE,N,N,Team Meeting,대표자 회의,
+CUR,-,------------------,MEET,000100--,Team Meeting,대표자회의,Team Meeting,대표자회의,Meeting,,Y,0,NONE,N,Y,Team Meeting,대표자 회의,CU0000T01
+CUR,X,TEAM4---00000-----,----,--------,Mixed,혼성,Mixed,혼성,Event,,N,0,HTEAM,N,N,,,CUX400000
+CUR,X,TEAM4---00000-----,FNL-,--------,Finals,결승,Finals,결승,Phase,,N,0,HTEAM,N,N,Finals,결승,CUX400100
+CUR,X,TEAM4---00000-----,FNL-,000100--,Gold Medal Game,금메달 경기,Gold Medal Game,금메달 경기,Session,,N,0,NONE,N,N,Gold Medal Game,금메달 경기,CUX400Z49
+CUR,X,TEAM4---00000-----,FNL-,000101--,Gold Medal Game,금메달 경기,Gold Medal Game,금메달 경기,Unit,,Y,1,HTEAM,Y,Y,Gold Medal Game,금메달 경기,CUX400101
+CUR,X,TEAM4---00000-----,FNL-,000102--,Bronze Medal Game,3-4위전,Bronze Medal Game,3-4위전,Unit,,Y,2,HTEAM,Y,Y,Bronze Medal Game,3-4위전,CUX400102
+CUR,X,TEAM4---00000-----,FNL-,000200--,Bronze Medal Game,3-4위전,Bronze Medal Game,3-4위전,Session,,N,0,NONE,N,N,Bronze Medal Game,3-4위전,
+CUR,X,TEAM4---00000-----,FNL-,000201--,Bronze Medal Game,3-4위전,Bronze Medal Game,3-4위전,Unit,,Y,2,HTEAM,Y,Y,Bronze Medal Game,3-4위전,
+CUR,X,TEAM4---00000-----,PAGE,--------,Page Play-offs,플레이 오프,Page Play-offs,플레이 오프,Phase,,N,0,HTEAM,N,N,Page Play-offs,플레이 오프,
+CUR,X,TEAM4---00000-----,PAGE,0001----,Page Play-off 1v2,플레이 오프 1v2,Page Play-off 1v2,플레이 오프 1v2,Unit,,Y,0,HTEAM,Y,Y,Page Play-off 1v2,플레이 오프 1v2,
+CUR,X,TEAM4---00000-----,PAGE,0002----,Page Play-off 3v4,플레이 오프 3v4,Page Play-off 3v4,플레이 오프 3v4,Unit,,Y,0,HTEAM,Y,Y,Page Play-off 3v4,플레이 오프 3v4,
+CUR,X,TEAM4---00000-----,PREL,--------,Round Robin,예선,Round Robin,예선,Phase,,N,0,HTEAM,N,N,Round Robin,예선,CUX400900
+CUR,X,TEAM4---00000-----,PREL,000100--,Round Robin Session 1,예선 세션 1,Round Robin Session 1,예선 세션 1,Session,,N,0,NONE,N,N,Round Robin Session 1,예선 세션 1,CUX400Z01
+CUR,X,TEAM4---00000-----,PREL,000101--,Round Robin Session 1,예선 세션 1,Round Robin Session 1,예선 세션 1,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 1,예선 세션 1,CUX400901
+CUR,X,TEAM4---00000-----,PREL,000102--,Round Robin Session 1,예선 세션 1,Round Robin Session 1,예선 세션 1,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 1,예선 세션 1,CUX400902
+CUR,X,TEAM4---00000-----,PREL,000103--,Round Robin Session 1,예선 세션 1,Round Robin Session 1,예선 세션 1,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 1,예선 세션 1,CUX400903
+CUR,X,TEAM4---00000-----,PREL,000104--,Round Robin Session 1,예선 세션 1,Round Robin Session 1,예선 세션 1,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 1,예선 세션 1,CUX400904
+CUR,X,TEAM4---00000-----,PREL,000200--,Round Robin Session 2,예선 세션 2,Round Robin Session 2,예선 세션 2,Session,,N,0,NONE,N,N,Round Robin Session 2,예선 세션 2,CUX400Z02
+CUR,X,TEAM4---00000-----,PREL,000201--,Round Robin Session 2,예선 세션 2,Round Robin Session 2,예선 세션 2,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 2,예선 세션 2,CUX400905
+CUR,X,TEAM4---00000-----,PREL,000202--,Round Robin Session 2,예선 세션 2,Round Robin Session 2,예선 세션 2,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 2,예선 세션 2,CUX400906
+CUR,X,TEAM4---00000-----,PREL,000203--,Round Robin Session 2,예선 세션 2,Round Robin Session 2,예선 세션 2,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 2,예선 세션 2,CUX400907
+CUR,X,TEAM4---00000-----,PREL,000204--,Round Robin Session 2,예선 세션 2,Round Robin Session 2,예선 세션 2,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 2,예선 세션 2,CUX400908
+CUR,X,TEAM4---00000-----,PREL,000300--,Round Robin Session 3,예선 세션 3,Round Robin Session 3,예선 세션 3,Session,,N,0,NONE,N,N,Round Robin Session 3,예선 세션 3,CUX400Z03
+CUR,X,TEAM4---00000-----,PREL,000301--,Round Robin Session 3,예선 세션 3,Round Robin Session 3,예선 세션 3,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 3,예선 세션 3,CUX400909
+CUR,X,TEAM4---00000-----,PREL,000302--,Round Robin Session 3,예선 세션 3,Round Robin Session 3,예선 세션 3,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 3,예선 세션 3,CUX400910
+CUR,X,TEAM4---00000-----,PREL,000303--,Round Robin Session 3,예선 세션 3,Round Robin Session 3,예선 세션 3,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 3,예선 세션 3,CUX400911
+CUR,X,TEAM4---00000-----,PREL,000304--,Round Robin Session 3,예선 세션 3,Round Robin Session 3,예선 세션 3,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 3,예선 세션 3,CUX400912
+CUR,X,TEAM4---00000-----,PREL,000400--,Round Robin Session 4,예선 세션 4,Round Robin Session 4,예선 세션 4,Session,,N,0,NONE,N,N,Round Robin Session 4,예선 세션 4,CUX400Z04
+CUR,X,TEAM4---00000-----,PREL,000401--,Round Robin Session 4,예선 세션 4,Round Robin Session 4,예선 세션 4,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 4,예선 세션 4,CUX400913
+CUR,X,TEAM4---00000-----,PREL,000402--,Round Robin Session 4,예선 세션 4,Round Robin Session 4,예선 세션 4,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 4,예선 세션 4,CUX400914
+CUR,X,TEAM4---00000-----,PREL,000403--,Round Robin Session 4,예선 세션 4,Round Robin Session 4,예선 세션 4,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 4,예선 세션 4,CUX400915
+CUR,X,TEAM4---00000-----,PREL,000404--,Round Robin Session 4,예선 세션 4,Round Robin Session 4,예선 세션 4,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 4,예선 세션 4,CUX400916
+CUR,X,TEAM4---00000-----,PREL,000500--,Round Robin Session 5,예선 세션 5,Round Robin Session 5,예선 세션 5,Session,,N,0,NONE,N,N,Round Robin Session 5,예선 세션 5,CUX400Z05
+CUR,X,TEAM4---00000-----,PREL,000501--,Round Robin Session 5,예선 세션 5,Round Robin Session 5,예선 세션 5,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 5,예선 세션 5,CUX400917
+CUR,X,TEAM4---00000-----,PREL,000502--,Round Robin Session 5,예선 세션 5,Round Robin Session 5,예선 세션 5,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 5,예선 세션 5,CUX400918
+CUR,X,TEAM4---00000-----,PREL,000503--,Round Robin Session 5,예선 세션 5,Round Robin Session 5,예선 세션 5,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 5,예선 세션 5,CUX400919
+CUR,X,TEAM4---00000-----,PREL,000504--,Round Robin Session 5,예선 세션 5,Round Robin Session 5,예선 세션 5,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 5,예선 세션 5,CUX400920
+CUR,X,TEAM4---00000-----,PREL,000600--,Round Robin Session 6,예선 세션 6,Round Robin Session 6,예선 세션 6,Session,,N,0,NONE,N,N,Round Robin Session 6,예선 세션 6,CUX400Z06
+CUR,X,TEAM4---00000-----,PREL,000601--,Round Robin Session 6,예선 세션 6,Round Robin Session 6,예선 세션 6,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 6,예선 세션 6,CUX400921
+CUR,X,TEAM4---00000-----,PREL,000602--,Round Robin Session 6,예선 세션 6,Round Robin Session 6,예선 세션 6,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 6,예선 세션 6,CUX400922
+CUR,X,TEAM4---00000-----,PREL,000603--,Round Robin Session 6,예선 세션 6,Round Robin Session 6,예선 세션 6,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 6,예선 세션 6,CUX400923
+CUR,X,TEAM4---00000-----,PREL,000604--,Round Robin Session 6,예선 세션 6,Round Robin Session 6,예선 세션 6,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 6,예선 세션 6,CUX400924
+CUR,X,TEAM4---00000-----,PREL,000700--,Round Robin Session 7,예선 세션 7,Round Robin Session 7,예선 세션 7,Session,,N,0,NONE,N,N,Round Robin Session 7,예선 세션 7,CUX400Z07
+CUR,X,TEAM4---00000-----,PREL,000701--,Round Robin Session 7,예선 세션 7,Round Robin Session 7,예선 세션 7,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 7,예선 세션 7,CUX400925
+CUR,X,TEAM4---00000-----,PREL,000702--,Round Robin Session 7,예선 세션 7,Round Robin Session 7,예선 세션 7,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 7,예선 세션 7,CUX400926
+CUR,X,TEAM4---00000-----,PREL,000703--,Round Robin Session 7,예선 세션 7,Round Robin Session 7,예선 세션 7,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 7,예선 세션 7,CUX400927
+CUR,X,TEAM4---00000-----,PREL,000704--,Round Robin Session 7,예선 세션 7,Round Robin Session 7,예선 세션 7,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 7,예선 세션 7,CUX400928
+CUR,X,TEAM4---00000-----,PREL,000800--,Round Robin Session 8,예선 세션 8,Round Robin Session 8,예선 세션 8,Session,,N,0,NONE,N,N,Round Robin Session 8,예선 세션 8,CUX400Z08
+CUR,X,TEAM4---00000-----,PREL,000801--,Round Robin Session 8,예선 세션 8,Round Robin Session 8,예선 세션 8,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 8,예선 세션 8,CUX400929
+CUR,X,TEAM4---00000-----,PREL,000802--,Round Robin Session 8,예선 세션 8,Round Robin Session 8,예선 세션 8,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 8,예선 세션 8,CUX400930
+CUR,X,TEAM4---00000-----,PREL,000803--,Round Robin Session 8,예선 세션 8,Round Robin Session 8,예선 세션 8,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 8,예선 세션 8,CUX400931
+CUR,X,TEAM4---00000-----,PREL,000804--,Round Robin Session 8,예선 세션 8,Round Robin Session 8,예선 세션 8,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 8,예선 세션 8,CUX400932
+CUR,X,TEAM4---00000-----,PREL,000900--,Round Robin Session 9,예선 세션 9,Round Robin Session 9,예선 세션 9,Session,,N,0,NONE,N,N,Round Robin Session 9,예선 세션 9,CUX400Z09
+CUR,X,TEAM4---00000-----,PREL,000901--,Round Robin Session 9,예선 세션 9,Round Robin Session 9,예선 세션 9,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 9,예선 세션 9,CUX400933
+CUR,X,TEAM4---00000-----,PREL,000902--,Round Robin Session 9,예선 세션 9,Round Robin Session 9,예선 세션 9,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 9,예선 세션 9,CUX400934
+CUR,X,TEAM4---00000-----,PREL,000903--,Round Robin Session 9,예선 세션 9,Round Robin Session 9,예선 세션 9,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 9,예선 세션 9,CUX400935
+CUR,X,TEAM4---00000-----,PREL,000904--,Round Robin Session 9,예선 세션 9,Round Robin Session 9,예선 세션 9,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 9,예선 세션 9,CUX400936
+CUR,X,TEAM4---00000-----,PREL,001000--,Round Robin Session 10,예선 세션 10,Round Robin Session 10,예선 세션 10,Session,,N,0,NONE,N,N,Round Robin Session 10,예선 세션 10,CUX400Z10
+CUR,X,TEAM4---00000-----,PREL,001001--,Round Robin Session 10,예선 세션 10,Round Robin Session 10,예선 세션 10,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 10,예선 세션 10,CUX400937
+CUR,X,TEAM4---00000-----,PREL,001002--,Round Robin Session 10,예선 세션 10,Round Robin Session 10,예선 세션 10,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 10,예선 세션 10,CUX400938
+CUR,X,TEAM4---00000-----,PREL,001003--,Round Robin Session 10,예선 세션 10,Round Robin Session 10,예선 세션 10,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 10,예선 세션 10,CUX400939
+CUR,X,TEAM4---00000-----,PREL,001004--,Round Robin Session 10,예선 세션 10,Round Robin Session 10,예선 세션 10,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 10,예선 세션 10,CUX400940
+CUR,X,TEAM4---00000-----,PREL,001100--,Round Robin Session 11,예선 세션 11,Round Robin Session 11,예선 세션 11,Session,,N,0,NONE,N,N,Round Robin Session 11,예선 세션 11,CUX400Z11
+CUR,X,TEAM4---00000-----,PREL,001101--,Round Robin Session 11,예선 세션 11,Round Robin Session 11,예선 세션 11,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 11,예선 세션 11,CUX400941
+CUR,X,TEAM4---00000-----,PREL,001102--,Round Robin Session 11,예선 세션 11,Round Robin Session 11,예선 세션 11,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 11,예선 세션 11,CUX400942
+CUR,X,TEAM4---00000-----,PREL,001103--,Round Robin Session 11,예선 세션 11,Round Robin Session 11,예선 세션 11,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 11,예선 세션 11,CUX400943
+CUR,X,TEAM4---00000-----,PREL,001104--,Round Robin Session 11,예선 세션 11,Round Robin Session 11,예선 세션 11,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 11,예선 세션 11,CUX400944
+CUR,X,TEAM4---00000-----,PREL,001200--,Round Robin Session 12,예선 세션 12,Round Robin Session 12,예선 세션 12,Session,,N,0,NONE,N,N,Round Robin Session 12,예선 세션 12,CUX400Z12
+CUR,X,TEAM4---00000-----,PREL,001201--,Round Robin Session 12,예선 세션 12,Round Robin Session 12,예선 세션 12,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 12,예선 세션 12,CUX400945
+CUR,X,TEAM4---00000-----,PREL,001202--,Round Robin Session 12,예선 세션 12,Round Robin Session 12,예선 세션 12,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 12,예선 세션 12,CUX400946
+CUR,X,TEAM4---00000-----,PREL,001203--,Round Robin Session 12,예선 세션 12,Round Robin Session 12,예선 세션 12,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 12,예선 세션 12,CUX400947
+CUR,X,TEAM4---00000-----,PREL,001204--,Round Robin Session 12,예선 세션 12,Round Robin Session 12,예선 세션 12,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 12,예선 세션 12,CUX400948
+CUR,X,TEAM4---00000-----,PREL,001300--,Round Robin Session 13,예선 세션 13,Round Robin Session 13,예선 세션 13,Session,,N,0,NONE,N,N,Round Robin Session 13,예선 세션 13,
+CUR,X,TEAM4---00000-----,PREL,001301--,Round Robin Session 13,예선 세션 13,Round Robin Session 13,예선 세션 13,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 13,예선 세션 13,
+CUR,X,TEAM4---00000-----,PREL,001302--,Round Robin Session 13,예선 세션 13,Round Robin Session 13,예선 세션 13,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 13,예선 세션 13,
+CUR,X,TEAM4---00000-----,PREL,001303--,Round Robin Session 13,예선 세션 13,Round Robin Session 13,예선 세션 13,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 13,예선 세션 13,
+CUR,X,TEAM4---00000-----,PREL,001304--,Round Robin Session 13,예선 세션 13,Round Robin Session 13,예선 세션 13,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 13,예선 세션 13,
+CUR,X,TEAM4---00000-----,PREL,001400--,Round Robin Session 14,예선 세션 14,Round Robin Session 14,예선 세션 14,Session,,N,0,NONE,N,N,Round Robin Session 14,예선 세션 14,
+CUR,X,TEAM4---00000-----,PREL,001401--,Round Robin Session 14,예선 세션 14,Round Robin Session 14,예선 세션 14,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 14,예선 세션 14,
+CUR,X,TEAM4---00000-----,PREL,001402--,Round Robin Session 14,예선 세션 14,Round Robin Session 14,예선 세션 14,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 14,예선 세션 14,
+CUR,X,TEAM4---00000-----,PREL,001403--,Round Robin Session 14,예선 세션 14,Round Robin Session 14,예선 세션 14,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 14,예선 세션 14,
+CUR,X,TEAM4---00000-----,PREL,001404--,Round Robin Session 14,예선 세션 14,Round Robin Session 14,예선 세션 14,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 14,예선 세션 14,
+CUR,X,TEAM4---00000-----,PREL,001500--,Round Robin Session 15,예선 세션 15,Round Robin Session 15,예선 세션 15,Session,,N,0,NONE,N,N,Round Robin Session 15,예선 세션 15,
+CUR,X,TEAM4---00000-----,PREL,001501--,Round Robin Session 15,예선 세션 15,Round Robin Session 15,예선 세션 15,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 15,예선 세션 15,
+CUR,X,TEAM4---00000-----,PREL,001502--,Round Robin Session 15,예선 세션 15,Round Robin Session 15,예선 세션 15,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 15,예선 세션 15,
+CUR,X,TEAM4---00000-----,PREL,001503--,Round Robin Session 15,예선 세션 15,Round Robin Session 15,예선 세션 15,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 15,예선 세션 15,
+CUR,X,TEAM4---00000-----,PREL,001504--,Round Robin Session 15,예선 세션 15,Round Robin Session 15,예선 세션 15,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 15,예선 세션 15,
+CUR,X,TEAM4---00000-----,PREL,001600--,Round Robin Session 16,예선 세션 16,Round Robin Session 16,예선 세션 16,Session,,N,0,NONE,N,N,Round Robin Session 16,예선 세션 16,
+CUR,X,TEAM4---00000-----,PREL,001601--,Round Robin Session 16,예선 세션 16,Round Robin Session 16,예선 세션 16,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 16,예선 세션 16,
+CUR,X,TEAM4---00000-----,PREL,001602--,Round Robin Session 16,예선 세션 16,Round Robin Session 16,예선 세션 16,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 16,예선 세션 16,
+CUR,X,TEAM4---00000-----,PREL,001603--,Round Robin Session 16,예선 세션 16,Round Robin Session 16,예선 세션 16,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 16,예선 세션 16,
+CUR,X,TEAM4---00000-----,PREL,001604--,Round Robin Session 16,예선 세션 16,Round Robin Session 16,예선 세션 16,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 16,예선 세션 16,
+CUR,X,TEAM4---00000-----,PREL,001700--,Round Robin Session 17,예선 세션 17,Round Robin Session 17,예선 세션 17,Session,,N,0,NONE,N,N,Round Robin Session 17,예선 세션 17,
+CUR,X,TEAM4---00000-----,PREL,001701--,Round Robin Session 17,예선 세션 17,Round Robin Session 17,예선 세션 17,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 17,예선 세션 17,
+CUR,X,TEAM4---00000-----,PREL,001702--,Round Robin Session 17,예선 세션 17,Round Robin Session 17,예선 세션 17,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 17,예선 세션 17,
+CUR,X,TEAM4---00000-----,PREL,001703--,Round Robin Session 17,예선 세션 17,Round Robin Session 17,예선 세션 17,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 17,예선 세션 17,
+CUR,X,TEAM4---00000-----,PREL,001704--,Round Robin Session 17,예선 세션 17,Round Robin Session 17,예선 세션 17,Unit,,Y,0,HTEAM,Y,Y,Round Robin Session 17,예선 세션 17,
+CUR,X,TEAM4---00000-----,SFNL,--------,Semi-finals,준결승,Semi-finals,준결승,Phase,,N,0,HTEAM,N,N,Semi-finals,준결승,CUX400200
+CUR,X,TEAM4---00000-----,SFNL,000100--,Semi-finals Session,준결승,Semi-finals Session,준결승,Session,,N,0,NONE,N,N,Semi-finals Session,준결승,CUX400Z46
+CUR,X,TEAM4---00000-----,SFNL,000101--,Semi-final,준결승,Semi-final,준결승,Unit,,Y,0,HTEAM,Y,Y,Semi-final,준결승,CUX400201
+CUR,X,TEAM4---00000-----,SFNL,000102--,Semi-final,준결승,Semi-final,준결승,Unit,,Y,0,HTEAM,Y,Y,Semi-final,준결승,CUX400202
+CUR,X,TEAM4---00000-----,TB--,--------,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Phase,,N,0,HTEAM,N,N,Tie-breaker Games,타이 브레이커,
+CUR,X,TEAM4---00000-----,TB--,000100--,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Session,,N,0,NONE,N,N,Tie-breaker Games,타이 브레이커,CUX400Z31
+CUR,X,TEAM4---00000-----,TB--,000101--,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Unit,,Y,0,HTEAM,Y,Y,Tie-breaker Games,타이 브레이커,CUX400981
+CUR,X,TEAM4---00000-----,TB--,000102--,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Unit,,Y,0,HTEAM,Y,Y,Tie-breaker Games,타이 브레이커,CUX400982
+CUR,X,TEAM4---00000-----,TB--,000103--,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Unit,,Y,0,HTEAM,Y,Y,Tie-breaker Games,타이 브레이커,CUX400983
+CUR,X,TEAM4---00000-----,TB--,000104--,Tie-breaker Games,타이 브레이커,Tie-breaker Games,타이 브레이커,Unit,,Y,0,HTEAM,Y,Y,Tie-breaker Games,타이 브레이커,CUX400984
+CUR,X,TEAM4---00000-----,TBIF,000100--,Tie-breaker Games (if required),타이 브레이커 (필요시),Tie-breaker Games (if required),타이 브레이커 (필요시),Session,,Y,0,NONE,Y,Y,Tie-breaker Games,타이 브레이커,
+CUR,X,TEAM4---00000-----,VICT,FLOWER--,"Mixed, Venue Ceremony","혼성, 시상식","Mixed, Venue Ceremony","혼성, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,CUX400M02
+CUR,X,TEAM4---00000-----,VICT,MEDAL---,"Mixed, Victory Ceremony","혼성, 메달 시상식","Mixed, Victory Ceremony","혼성, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,CUX400M01
+GEN,-,------------------,----,--------,General,일반,General,일반,Discipline,,N,0,NONE,N,N,,,GL0000000
+GEN,-,------------------,----,ABT-----,Alpensia Biathlon Centre,알펜시아 바이애슬론 센터,Alpensia Biathlon Centre,알펜시아 바이애슬론 센터,N/A,,N,0,NONE,N,N,,,
+GEN,-,------------------,----,ACC-----,Alpensia Cross-Country Skiing Centre,알펜시아 크로스컨트리 센터,Alpensia Cross-Country Skiing Centre,알펜시아 크로스컨트리 센터,N/A,,N,0,NONE,N,N,,,
+GEN,-,------------------,----,GCC-----,Gangneung Curling Centre,강릉 컬링 센터,Gangneung Curling Centre,강릉 컬링 센터,N/A,,N,0,NONE,N,N,,,
+GEN,-,------------------,----,GHC-----,Gangneung Hockey Centre,강릉 하키 센터,Gangneung Hockey Centre,강릉 하키 센터,N/A,,N,0,NONE,N,N,,,
+GEN,-,------------------,----,JAL-----,Jeongseon Alpine Centre,정선 알파인 경기장,Jeongseon Alpine Centre,정선 알파인 경기장,N/A,,N,0,NONE,N,N,,,
+GEN,-,------------------,----,YAL-----,Yongpyong Alpine Centre,용평 알파인 경기장,Yongpyong Alpine Centre,용평 알파인 경기장,N/A,,N,0,NONE,N,N,,,
+ISH,-,------------------,----,--------,Ice Hockey,아이스하키,Ice Hockey,아이스하키,Discipline,,N,0,HTEAM,N,N,,,IH0000000
+ISH,-,------------------,----,GHC-----,ISH GHC Local On/Off / KA,ISH GHC Local On/Off / KA,ISH GHC Local On/Off / KA,ISH GHC Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+ISH,-,------------------,DRAW,--------,Ice Hockey Draw,아이스하키 추첨,Ice Hockey Draw,아이스하키 추첨,Draw,,N,0,NONE,N,N,Draw,추첨,
+ISH,-,------------------,DRAW,000100--,Ice Hockey Draw,아이스하키 추첨,Ice Hockey Draw,아이스하키 추첨,Draw,,Y,0,NONE,N,Y,Draw,추첨,IH0000E01
+ISH,-,------------------,MEET,--------,Ice Hockey Team Captain Meeting,아이스하키 팀대표자회의,Ice Hockey Team Captain Meeting,아이스하키 팀대표자회의,Meeting,,N,0,NONE,N,N,Team Captain Meeting,팀대표자회의,
+ISH,-,------------------,MEET,000100--,Ice Hockey Team Captain Meeting,아이스하키 팀대표자회의,Ice Hockey Team Captain Meeting,아이스하키 팀대표자회의,Meeting,,Y,0,NONE,N,Y,Team Captain Meeting,팀대표자 회의,IH0000T01
+ISH,-,------------------,MEET,000200--,TRIM Meeting,경기규정 회의,TRIM Meeting,경기규정 회의,Meeting,,Y,0,NONE,N,Y,TRIM Meeting,경기규정 회의,IHX000T02
+ISH,-,------------------,MEET,000300--,Passport Control Meeting,국적확인 회의,Passport Control Meeting,국적확인 회의,Meeting,,Y,0,NONE,N,Y,Passport Control Meeting,국적확인 회의,IHX000T03
+ISH,-,------------------,MEET,000400--,Medical Personnel Meeting,팀닥터 회의,Medical Personnel Meeting,팀닥터 회의,Meeting,,Y,0,NONE,N,Y,Medical Personnel Meeting,팀닥터 회의,IHX000T01
+ISH,-,------------------,MEET,001000--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,Y,0,NONE,N,Y,Directorate Meeting,팀대표자 회의,IHX000T10
+ISH,-,------------------,MEET,001100--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,Y,0,NONE,N,Y,Directorate Meeting,팀대표자 회의,IHX000T11
+ISH,-,------------------,MEET,001200--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,Y,0,NONE,N,Y,Directorate Meeting,팀대표자 회의,IHX000T12
+ISH,-,------------------,MEET,001300--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,Y,0,NONE,N,Y,Directorate Meeting,팀대표자 회의,IHX000T13
+ISH,-,------------------,MEET,001400--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T14
+ISH,-,------------------,MEET,001500--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T15
+ISH,-,------------------,MEET,001600--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T16
+ISH,-,------------------,MEET,001700--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T17
+ISH,-,------------------,MEET,001800--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T18
+ISH,-,------------------,MEET,001900--,Directorate Meeting,팀대표자 회의,Directorate Meeting,팀대표자 회의,Meeting,,N,0,NONE,N,N,Directorate Meeting,팀대표자 회의,IHX000T19
+ISH,O,TEAM6---00000-----,----,--------,Mixed,혼성,Mixed,혼성,Event,,N,0,HTEAM,N,N,,,IHX400000
+ISH,O,TEAM6---00000-----,FNL-,--------,Play-offs,플레이오프,Play-offs,플레이오프,Phase,,N,0,HTEAM,N,N,Play-offs,플레이오프,IHX400100
+ISH,O,TEAM6---00000-----,FNL-,000100--,Gold Medal Game,금메달 경기,Gold Medal Game,금메달 경기,Unit,,Y,1,HTEAM,Y,Y,Gold Medal Game,금메달 경기,IHX400101
+ISH,O,TEAM6---00000-----,FNL-,000200--,Bronze Medal Game,동메달 경기,Bronze Medal Game,동메달 경기,Unit,,Y,2,HTEAM,Y,Y,Bronze Medal Game,동메달 경기,IHX400102
+ISH,O,TEAM6---00000-----,FNL-,000300--,Classification Games (5-6),순위결정전 (5-6),Classification Games (5-6),순위결정전 (5-6),Unit,,Y,0,HTEAM,Y,Y,Classification Games (5-6),순위결정전 (5-6),IHX400103
+ISH,O,TEAM6---00000-----,FNL-,000400--,Classification Games (7-8),순위결정전 (7-8),Classification Games (7-8),순위결정전 (7-8),Unit,,Y,0,HTEAM,Y,Y,Classification Games (7-8),순위결정전 (7-8),IHX400104
+ISH,O,TEAM6---00000-----,GPA-,--------,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Phase,,N,0,HTEAM,N,N,Preliminary Round - Group A,조별 예선 - A 조,IHX400A00
+ISH,O,TEAM6---00000-----,GPA-,000100--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A01
+ISH,O,TEAM6---00000-----,GPA-,000200--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A02
+ISH,O,TEAM6---00000-----,GPA-,000300--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A03
+ISH,O,TEAM6---00000-----,GPA-,000400--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A04
+ISH,O,TEAM6---00000-----,GPA-,000500--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A05
+ISH,O,TEAM6---00000-----,GPA-,000600--,Preliminary Round - Group A,조별 예선 - A 조,Preliminary Round - Group A,조별 예선 - A 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group A,조별 예선 - A 조,IHX400A06
+ISH,O,TEAM6---00000-----,GPB-,--------,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Phase,,N,0,HTEAM,N,N,Preliminary Round - Group B,조별 예선 - B 조,IHX400B00
+ISH,O,TEAM6---00000-----,GPB-,000100--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B01
+ISH,O,TEAM6---00000-----,GPB-,000200--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B02
+ISH,O,TEAM6---00000-----,GPB-,000300--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B03
+ISH,O,TEAM6---00000-----,GPB-,000400--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B04
+ISH,O,TEAM6---00000-----,GPB-,000500--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B05
+ISH,O,TEAM6---00000-----,GPB-,000600--,Preliminary Round - Group B,조별 예선 - B 조,Preliminary Round - Group B,조별 예선 - B 조,Unit,,Y,0,HTEAM,Y,Y,Preliminary Round - Group B,조별 예선 - B 조,IHX400B06
+ISH,O,TEAM6---00000-----,PREL,--------,Preliminary round,조별 예선,Preliminary round,조별 예선,Phase,,N,0,HTEAM,N,N,Preliminary round,조별 예선,IHX400900
+ISH,O,TEAM6---00000-----,SFNL,--------,Play-offs Semifinals,준결승,Play-offs Semifinals,준결승,Phase,,N,0,HTEAM,N,N,Play-offs Semifinals,준결승,
+ISH,O,TEAM6---00000-----,SFNL,000100--,Play-offs Semifinals,준결승,Play-offs Semifinals,준결승,Unit,,Y,0,HTEAM,Y,Y,Play-offs Semifinals,준결승,IHX400201
+ISH,O,TEAM6---00000-----,SFNL,000200--,Play-offs Semifinals,준결승,Play-offs Semifinals,준결승,Unit,,Y,0,HTEAM,Y,Y,Play-offs Semifinals,준결승,IHX400202
+ISH,O,TEAM6---00000-----,SF5-,--------,Classification Games (5-8),순위결정전 (5-8),Classification Games (5-8),순위결정전 (5-8),Phase,,N,0,HTEAM,N,N,Classification Games (5-8),순위결정전 (5-8),
+ISH,O,TEAM6---00000-----,SF5-,000100--,Classification Games (5-8),순위결정전 (5-8),Classification Games (5-8),순위결정전 (5-8),Unit,,Y,0,HTEAM,Y,Y,Classification Games (5-8),순위결정전 (5-8),IHX400203
+ISH,O,TEAM6---00000-----,SF5-,000200--,Classification Games (5-8),순위결정전 (5-8),Classification Games (5-8),순위결정전 (5-8),Unit,,Y,0,HTEAM,Y,Y,Classification Games (5-8),순위결정전 (5-8),IHX400204
+ISH,O,TEAM6---00000-----,TEAM,01------,Team # 1,팀 1,Team # 1,팀 1,Team,,N,0,NONE,N,N,Team # 1,팀 1,
+ISH,O,TEAM6---00000-----,TEAM,02------,Team # 2,팀 2,Team # 2,팀 2,Team,,N,0,NONE,N,N,Team # 2,팀 2,
+ISH,O,TEAM6---00000-----,TEAM,03------,Team # 3,팀 3,Team # 3,팀 3,Team,,N,0,NONE,N,N,Team # 3,팀 3,
+ISH,O,TEAM6---00000-----,TEAM,04------,Team # 4,팀 4,Team # 4,팀 4,Team,,N,0,NONE,N,N,Team # 4,팀 4,
+ISH,O,TEAM6---00000-----,TEAM,05------,Team # 5,팀 5,Team # 5,팀 5,Team,,N,0,NONE,N,N,Team # 5,팀 5,
+ISH,O,TEAM6---00000-----,TEAM,06------,Team # 6,팀 6,Team # 6,팀 6,Team,,N,0,NONE,N,N,Team # 6,팀 6,
+ISH,O,TEAM6---00000-----,TEAM,07------,Team # 7,팀 7,Team # 7,팀 7,Team,,N,0,NONE,N,N,Team # 7,팀 7,
+ISH,O,TEAM6---00000-----,TEAM,08------,Team # 8,팀 8,Team # 8,팀 8,Team,,N,0,NONE,N,N,Team # 8,팀 8,
+ISH,O,TEAM6---00000-----,VICT,FLOWER--,Ice Hockey Venue Ceremony,아이스하키 시상식,Ice Hockey Venue Ceremony,아이스하키 시상식,Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,IHX400M02
+ISH,O,TEAM6---00000-----,VICT,MEDAL---,Ice Hockey Victory Ceremony,아이스하키 메달 시상식,Ice Hockey Victory Ceremony,아이스하키 메달 시상식,Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,IHX400M01
+NSK,-,------------------,----,--------,Nordic Skiing,장애인 노르딕 스키,Nordic Skiing,장애인 노르딕 스키,Discipline,,N,0,NONE,N,N,,,NS0000000
+SBD,-,------------------,----,--------,Snowboard,스노보드,Snowboard,스노보드,Discipline,,N,0,NONE,N,N,,,
+SBD,-,------------------,----,JAL-----,SBD JAL Local On/Off / KA,SBD JAL Local On/Off / KA,SBD JAL Local On/Off / KA,SBD JAL Local On/Off / KA,Venue,,N,0,NONE,N,N,,,
+SBD,-,------------------,MEET,--------,"Snowboard, Team Captain Meeting",스노보드 대표자회의,"Snowboard, Team Captain Meeting",스노보드 대표자회의,Meeting,,N,0,NONE,N,N,Team Captain Meeting,대표자 회의,
+SBD,-,------------------,MEET,000100--,"Snowboard, Team Captain Meeting",스노보드 대표자회의,"Snowboard, Team Captain Meeting",스노보드 대표자회의,Meeting,,N,0,NONE,N,N,Team Captain Meeting,대표자 회의,
+SBD,-,CANCEL------------,----,000100--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+SBD,-,CANCEL------------,----,000200--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+SBD,-,CANCEL------------,----,000300--,No competition,경기 없음,No competition,경기 없음,Unit,,Y,0,NONE,Y,Y,,,
+SBD,M,------------------,----,--------,Men's Snowboard,남자 스노보드,Men's Snowboard,남자 스노보드,Gender,,N,0,NONE,N,N,,,
+SBD,M,BSL---------------,----,--------,Men's Banked Slalom,남자 뱅크드 슬라롬,Men's Banked Slalom,남자 뱅크드 슬라롬,Event,,N,0,NONE,N,N,,,
+SBD,M,BSL---------------,TRNO,--------,"Men's Banked Slalom, Training","남자 뱅크드 슬라롬, 연습","Men's Banked Slalom, Training","남자 뱅크드 슬라롬, 연습",Training,,N,0,NONE,N,N,,,
+SBD,M,BSL---------------,TRNO,000100--,"Men's Banked Slalom, Training","남자 뱅크드 슬라롬, 연습","Men's Banked Slalom, Training","남자 뱅크드 슬라롬, 연습",Training,,Y,0,ATH,N,Y,,,
+SBD,M,BSL-----01010-----,----,--------,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL,Event,,N,0,NONE,N,N,,,
+SBD,M,BSL-----01010-----,DRAW,--------,"Men's Banked Slalom SB-UL, Draw","남자 뱅크드 슬라롬 SB-UL, 추첨","Men's Banked Slalom SB-UL, Draw","남자 뱅크드 슬라롬 SB-UL, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,BSL-----01010-----,DRAW,000100--,"Men's Banked Slalom SB-UL, Draw","남자 뱅크드 슬라롬 SB-UL, 추첨","Men's Banked Slalom SB-UL, Draw","남자 뱅크드 슬라롬 SB-UL, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,BSL-----01010-----,FNL-,--------,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL,Phase,,N,0,NONE,N,N,,,
+SBD,M,BSL-----01010-----,FNL-,000100--,Men's Banked Slalom SB-UL Run 1,남자 뱅크드 슬라롬 SB-UL 1회전,Men's Banked Slalom SB-UL Run 1,남자 뱅크드 슬라롬 SB-UL 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,M,BSL-----01010-----,FNL-,000200--,Men's Banked Slalom SB-UL Run 2,남자 뱅크드 슬라롬 SB-UL 2회전,Men's Banked Slalom SB-UL Run 2,남자 뱅크드 슬라롬 SB-UL 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,M,BSL-----01010-----,FNL-,000300--,Men's Banked Slalom SB-UL Run 3,남자 뱅크드 슬라롬 SB-UL 3회전,Men's Banked Slalom SB-UL Run 3,남자 뱅크드 슬라롬 SB-UL 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,M,BSL-----01010-----,VICT,FLOWER--,"Men's Banked Slalom SB-UL, Venue Cer.","남자 뱅크드 슬라롬 SB-UL, 시상식","Men's Banked Slalom SB-UL, Venue Ceremony","남자 뱅크드 슬라롬 SB-UL, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,BSL-----01010-----,VICT,MEDAL---,"Men's Banked Slalom SB-UL, Vict. Cer.","남자 뱅크드 슬라롬 SB-UL, 메달 시상식","Men's Banked Slalom SB-UL, Victory Ceremony","남자 뱅크드 슬라롬 SB-UL, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,M,BSL-----10010-----,----,--------,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1,Event,,N,0,NONE,N,N,,,
+SBD,M,BSL-----10010-----,DRAW,--------,"Men's Banked Slalom SB-LL1, Draw","남자 뱅크드 슬라롬 SB-LL1, 추첨","Men's Banked Slalom SB-LL1, Draw","남자 뱅크드 슬라롬 SB-LL1, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,BSL-----10010-----,DRAW,000100--,"Men's Banked Slalom SB-LL1, Draw","남자 뱅크드 슬라롬 SB-LL1, 추첨","Men's Banked Slalom SB-LL1, Draw","남자 뱅크드 슬라롬 SB-LL1, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,BSL-----10010-----,FNL-,--------,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1,Phase,,N,0,NONE,N,N,,,
+SBD,M,BSL-----10010-----,FNL-,000100--,Men's Banked Slalom SB-LL1 Run 1,남자 뱅크드 슬라롬 SB-LL1 1회전,Men's Banked Slalom SB-LL1 Run 1,남자 뱅크드 슬라롬 SB-LL1 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,M,BSL-----10010-----,FNL-,000200--,Men's Banked Slalom SB-LL1 Run 2,남자 뱅크드 슬라롬 SB-LL1 2회전,Men's Banked Slalom SB-LL1 Run 2,남자 뱅크드 슬라롬 SB-LL1 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,M,BSL-----10010-----,FNL-,000300--,Men's Banked Slalom SB-LL1 Run 3,남자 뱅크드 슬라롬 SB-LL1 3회전,Men's Banked Slalom SB-LL1 Run 3,남자 뱅크드 슬라롬 SB-LL1 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,M,BSL-----10010-----,VICT,FLOWER--,"Men's Banked Slalom SB-LL1, Venue Cer.","남자 뱅크드 슬라롬 SB-LL1, 시상식","Men's Banked Slalom SB-LL1, Venue Ceremony","남자 뱅크드 슬라롬 SB-LL1, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,BSL-----10010-----,VICT,MEDAL---,"Men's Banked Slalom SB-LL1, Vict. Cer.","남자 뱅크드 슬라롬 SB-LL1, 메달 시상식","Men's Banked Slalom SB-LL1, Victory Ceremony","남자 뱅크드 슬라롬 SB-LL1, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,M,BSL-----20010-----,----,--------,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2,Event,,N,0,NONE,N,N,,,
+SBD,M,BSL-----20010-----,DRAW,--------,"Men's Banked Slalom SB-LL2, Draw","남자 뱅크드 슬라롬 SB-LL2, 추첨","Men's Banked Slalom SB-LL2, Draw","남자 뱅크드 슬라롬 SB-LL2, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,BSL-----20010-----,DRAW,000100--,"Men's Banked Slalom SB-LL2, Draw","남자 뱅크드 슬라롬 SB-LL2, 추첨","Men's Banked Slalom SB-LL2, Draw","남자 뱅크드 슬라롬 SB-LL2, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,BSL-----20010-----,FNL-,--------,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2,Phase,,N,0,NONE,N,N,,,
+SBD,M,BSL-----20010-----,FNL-,000100--,Men's Banked Slalom SB-LL2 Run 1,남자 뱅크드 슬라롬 SB-LL2 1회전,Men's Banked Slalom SB-LL2 Run 1,남자 뱅크드 슬라롬 SB-LL2 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,M,BSL-----20010-----,FNL-,000200--,Men's Banked Slalom SB-LL2 Run 2,남자 뱅크드 슬라롬 SB-LL2 2회전,Men's Banked Slalom SB-LL2 Run 2,남자 뱅크드 슬라롬 SB-LL2 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,M,BSL-----20010-----,FNL-,000300--,Men's Banked Slalom SB-LL2 Run 3,남자 뱅크드 슬라롬 SB-LL2 3회전,Men's Banked Slalom SB-LL2 Run 3,남자 뱅크드 슬라롬 SB-LL2 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,M,BSL-----20010-----,VICT,FLOWER--,"Men's Banked Slalom SB-LL2, Venue Cer.","남자 뱅크드 슬라롬 SB-LL2, 시상식","Men's Banked Slalom SB-LL2, Venue Ceremony","남자 뱅크드 슬라롬 SB-LL2, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,BSL-----20010-----,VICT,MEDAL---,"Men's Banked Slalom SB-LL2, Vict. Cer.","남자 뱅크드 슬라롬 SB-LL2, 메달 시상식","Men's Banked Slalom SB-LL2, Victory Ceremony","남자 뱅크드 슬라롬 SB-LL2, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,M,SBX---------------,----,--------,Men's Snowboard Cross,남자 스노보드 크로스,Men's Snowboard Cross,남자 스노보드 크로스,Event,,N,0,NONE,N,N,,,ASM090000
+SBD,M,SBX---------------,TRNO,--------,Men's SB Cross - Training,남자 스노보드 크로스 - 연습,Men's Snowboard Cross - Training,남자 스노보드 크로스 - 연습,Training,,N,0,NONE,N,N,Training,공식 연습,ASM190O00
+SBD,M,SBX---------------,TRNO,000100--,Men's SB Cross - 1st Trng Run,남자 스노보드 크로스 - 1차 공식연습,Men's Snowboard Cross - 1st Training Run,남자 스노보드 크로스 - 1차 공식연습,Training,,Y,0,ATH,N,Y,1st Training Run,1차 공식연습,ASM190O01
+SBD,M,SBX---------------,TRNO,000200--,Men's SB Cross - 2nd Trng Run,남자 스노보드 크로스 - 2차 공식연습,Men's Snowboard Cross - 2nd Training Run,남자 스노보드 크로스 - 2차 공식연습,Training,,Y,0,ATH,N,Y,2nd Training Run,2차 공식연습,ASM190O02
+SBD,M,SBX---------------,TRNO,000300--,Men's SB Cross - 3rd Trng Run,남자 스노보드 크로스 - 3차 공식연습,Men's Snowboard Cross - 3rd Training Run,남자 스노보드 크로스 - 3차 공식연습,Training,,Y,0,ATH,N,Y,3rd Training Run,3차 공식연습,ASM190O03
+SBD,M,SBX-----01010-----,----,--------,Men's Snowboard Cross SB-UL,남자 스노보드 크로스 SB-UL,Men's Snowboard Cross SB-UL,남자 스노보드 크로스 SB-UL,Event,,N,0,NONE,N,N,,,
+SBD,M,SBX-----01010-----,8FNL,--------,Men's SBX 1/8 Finals SB-UL,남자 SBX 1/8 결승 SB-UL,Men's Snowboard Cross 1/8 Finals SB-UL,남자 SBX 1/8 결승 SB-UL,Phase,,N,0,NONE,N,N,1/8 Finals,8강전,
+SBD,M,SBX-----01010-----,8FNL,000100--,Men's SBX 1/8 Final 1 SB-UL,남자 SBX 1/8 결승 1 SB-UL,Men's Snowboard Cross 1/8 Final 1 SB-UL,남자 SBX 1/8 결승 1 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 1,8강전 1,
+SBD,M,SBX-----01010-----,8FNL,000200--,Men's SBX 1/8 Final 2 SB-UL,남자 SBX 1/8 결승 2 SB-UL,Men's Snowboard Cross 1/8 Final 2 SB-UL,남자 SBX 1/8 결승 2 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 2,8강전 2,
+SBD,M,SBX-----01010-----,8FNL,000300--,Men's SBX 1/8 Final 3 SB-UL,남자 SBX 1/8 결승 3 SB-UL,Men's Snowboard Cross 1/8 Final 3 SB-UL,남자 SBX 1/8 결승 3 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 3,8강전 3,
+SBD,M,SBX-----01010-----,8FNL,000400--,Men's SBX 1/8 Final 4 SB-UL,남자 SBX 1/8 결승 4 SB-UL,Men's Snowboard Cross 1/8 Final 4 SB-UL,남자 SBX 1/8 결승 4 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 4,8강전 4,
+SBD,M,SBX-----01010-----,8FNL,000500--,Men's SBX 1/8 Final 5 SB-UL,남자 SBX 1/8 결승 5 SB-UL,Men's Snowboard Cross 1/8 Final 5 SB-UL,남자 SBX 1/8 결승 5 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 5,8강전 5,
+SBD,M,SBX-----01010-----,8FNL,000600--,Men's SBX 1/8 Final 6 SB-UL,남자 SBX 1/8 결승 6 SB-UL,Men's Snowboard Cross 1/8 Final 6 SB-UL,남자 SBX 1/8 결승 6 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 6,8강전 6,
+SBD,M,SBX-----01010-----,8FNL,000700--,Men's SBX 1/8 Final 7 SB-UL,남자 SBX 1/8 결승 7 SB-UL,Men's Snowboard Cross 1/8 Final 7 SB-UL,남자 SBX 1/8 결승 7 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 7,8강전 7,
+SBD,M,SBX-----01010-----,8FNL,000800--,Men's SBX 1/8 Final 8 SB-UL,남자 SBX 1/8 결승 8 SB-UL,Men's Snowboard Cross 1/8 Final 8 SB-UL,남자 SBX 1/8 결승 8 SB-UL,Unit,,Y,0,HATH,Y,Y,1/8 Final 8,8강전 8,
+SBD,M,SBX-----01010-----,DRAW,--------,"Men's Snowboard Cross SB-UL, Draw","남자 스노보드 크로스 SB-UL, 추첨","Men's Snowboard Cross SB-UL, Draw","남자 스노보드 크로스 SB-UL, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,SBX-----01010-----,DRAW,000100--,"Men's Snowboard Cross SB-UL, Draw","남자 스노보드 크로스 SB-UL, 추첨","Men's Snowboard Cross SB-UL, Draw","남자 스노보드 크로스 SB-UL, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,SBX-----01010-----,FNL-,--------,Men's SBX Finals SB-UL,남자 SBX 결승 SB-UL,Men's Snowboard Cross Finals SB-UL,남자 SBX 결승 SB-UL,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,M,SBX-----01010-----,FNL-,000100--,Men's SBX Gold Medal Match SB-UL,남자 SBX 금메달 경기 SB-UL,Men's Snowboard Cross Gold Medal Match SB-UL,남자 SBX 금메달 경기 SB-UL,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,M,SBX-----01010-----,FNL-,000200--,Men's SBX Bronze Medal Match SB-UL,남자 SBX 동메달 경기 SB-UL,Men's Snowboard Cross Bronze Medal Match SB-UL,남자 SBX 동메달 경기 SB-UL,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,M,SBX-----01010-----,QFNL,--------,Men's SBX Quarterfinals SB-UL,남자 SBX 준결승 SB-UL,Men's Snowboard Cross Quarterfinals SB-UL,남자 SBX 준결승 SB-UL,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,M,SBX-----01010-----,QFNL,000100--,Men's SBX Quarterfinal 1 SB-UL,남자 SBX 준결승 1 SB-UL,Men's Snowboard Cross Quarterfinal 1 SB-UL,남자 SBX 준결승 1 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,M,SBX-----01010-----,QFNL,000200--,Men's SBX Quarterfinal 2 SB-UL,남자 SBX 준결승 2 SB-UL,Men's Snowboard Cross Quarterfinal 2 SB-UL,남자 SBX 준결승 2 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,M,SBX-----01010-----,QFNL,000300--,Men's SBX Quarterfinal 3 SB-UL,남자 SBX 준결승 3 SB-UL,Men's Snowboard Cross Quarterfinal 3 SB-UL,남자 SBX 준결승 3 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,M,SBX-----01010-----,QFNL,000400--,Men's SBX Quarterfinal 4 SB-UL,남자 SBX 준결승 4 SB-UL,Men's Snowboard Cross Quarterfinal 4 SB-UL,남자 SBX 준결승 4 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,M,SBX-----01010-----,QUAL,--------,Men's Snowboard Cross Qual SB-UL,남자 스노보드 크로스 예선 SB-UL,Men's Snowboard Cross Qualification SB-UL,남자 스노보드 크로스 예선 SB-UL,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,M,SBX-----01010-----,QUAL,000100--,"Men's Snowboard Cross Qual SB-UL, Run 1","남자 스노보드 크로스 예선 SB-UL, 1회전","Men's Snowboard Cross Qualification SB-UL, Run 1","남자 스노보드 크로스 예선 SB-UL, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,M,SBX-----01010-----,QUAL,000200--,"Men's Snowboard Cross Qual SB-UL, Run 2","남자 스노보드 크로스 예선 SB-UL, 2회전","Men's Snowboard Cross Qualification SB-UL, Run 2","남자 스노보드 크로스 예선 SB-UL, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,M,SBX-----01010-----,QUAL,000300--,"Men's Snowboard Cross Qual SB-UL, Run 3","남자 스노보드 크로스 예선 SB-UL, 3회전","Men's Snowboard Cross Qualification SB-UL, Run 3","남자 스노보드 크로스 예선 SB-UL, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,M,SBX-----01010-----,SFNL,--------,Men's SBX Semifinals SB-UL,남자 SBX 준결승 SB-UL,Men's Snowboard Cross Semifinals SB-UL,남자 SBX 준결승 SB-UL,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,M,SBX-----01010-----,SFNL,000100--,Men's SBX Semifinal 1 SB-UL,남자 SBX 준결승 1 SB-UL,Men's Snowboard Cross Semifinal 1 SB-UL,남자 SBX 준결승 1 SB-UL,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,M,SBX-----01010-----,SFNL,000200--,Men's SBX Semifinal 2 SB-UL,남자 SBX 준결승 2 SB-UL,Men's Snowboard Cross Semifinal 2 SB-UL,남자 SBX 준결승 2 SB-UL,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,M,SBX-----01010-----,VICT,FLOWER--,"Men's Snowboard Cross SB-UL, Venue Cer.","남자 스노보드 크로스 SB-UL, 시상식","Men's Snowboard Cross SB-UL, Venue Ceremony","남자 스노보드 크로스 SB-UL, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,SBX-----01010-----,VICT,MEDAL---,"Men's Snowboard Cross SB-UL, Vict. Cer.","남자 스노보드 크로스 SB-UL, 메달 시상식","Men's Snowboard Cross SB-UL, Victory Ceremony","남자 스노보드 크로스 SB-UL, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,M,SBX-----10010-----,----,--------,Men's Snowboard Cross SB-LL1,남자 스노보드 크로스 SB-LL1,Men's Snowboard Cross SB-LL1,남자 스노보드 크로스 SB-LL1,Event,,N,0,NONE,N,N,,,
+SBD,M,SBX-----10010-----,8FNL,--------,Men's SBX 1/8 Finals SB-LL1,남자 SBX 1/8 결승 SB-LL1,Men's Snowboard Cross 1/8 Finals SB-LL1,남자 SBX 1/8 결승 SB-LL1,Phase,,N,0,NONE,N,N,1/8 Finals,8강전,
+SBD,M,SBX-----10010-----,8FNL,000100--,Men's SBX 1/8 Final 1 SB-LL1,남자 SBX 1/8 결승 1 SB-LL1,Men's Snowboard Cross 1/8 Final 1 SB-LL1,남자 SBX 1/8 결승 1 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 1,8강전 1,
+SBD,M,SBX-----10010-----,8FNL,000200--,Men's SBX 1/8 Final 2 SB-LL1,남자 SBX 1/8 결승 2 SB-LL1,Men's Snowboard Cross 1/8 Final 2 SB-LL1,남자 SBX 1/8 결승 2 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 2,8강전 2,
+SBD,M,SBX-----10010-----,8FNL,000300--,Men's SBX 1/8 Final 3 SB-LL1,남자 SBX 1/8 결승 3 SB-LL1,Men's Snowboard Cross 1/8 Final 3 SB-LL1,남자 SBX 1/8 결승 3 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 3,8강전 3,
+SBD,M,SBX-----10010-----,8FNL,000400--,Men's SBX 1/8 Final 4 SB-LL1,남자 SBX 1/8 결승 4 SB-LL1,Men's Snowboard Cross 1/8 Final 4 SB-LL1,남자 SBX 1/8 결승 4 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 4,8강전 4,
+SBD,M,SBX-----10010-----,8FNL,000500--,Men's SBX 1/8 Final 5 SB-LL1,남자 SBX 1/8 결승 5 SB-LL1,Men's Snowboard Cross 1/8 Final 5 SB-LL1,남자 SBX 1/8 결승 5 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 5,8강전 5,
+SBD,M,SBX-----10010-----,8FNL,000600--,Men's SBX 1/8 Final 6 SB-LL1,남자 SBX 1/8 결승 6 SB-LL1,Men's Snowboard Cross 1/8 Final 6 SB-LL1,남자 SBX 1/8 결승 6 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 6,8강전 6,
+SBD,M,SBX-----10010-----,8FNL,000700--,Men's SBX 1/8 Final 7 SB-LL1,남자 SBX 1/8 결승 7 SB-LL1,Men's Snowboard Cross 1/8 Final 7 SB-LL1,남자 SBX 1/8 결승 7 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 7,8강전 7,
+SBD,M,SBX-----10010-----,8FNL,000800--,Men's SBX 1/8 Final 8 SB-LL1,남자 SBX 1/8 결승 8 SB-LL1,Men's Snowboard Cross 1/8 Final 8 SB-LL1,남자 SBX 1/8 결승 8 SB-LL1,Unit,,Y,0,HATH,Y,Y,1/8 Final 8,8강전 8,
+SBD,M,SBX-----10010-----,DRAW,--------,"Men's Snowboard Cross SB-LL1, Draw","남자 스노보드 크로스 SB-LL1, 추첨","Men's Snowboard Cross SB-LL1, Draw","남자 스노보드 크로스 SB-LL1, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,SBX-----10010-----,DRAW,000100--,"Men's Snowboard Cross SB-LL1, Draw","남자 스노보드 크로스 SB-LL1, 추첨","Men's Snowboard Cross SB-LL1, Draw","남자 스노보드 크로스 SB-LL1, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,SBX-----10010-----,FNL-,--------,Men's SBX Finals SB-LL1,남자 SBX 결승 SB-LL1,Men's Snowboard Cross Finals SB-LL1,남자 SBX 결승 SB-LL1,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,M,SBX-----10010-----,FNL-,000100--,Men's SBX Gold Medal Match SB-LL1,남자 SBX 금메달 경기 SB-LL1,Men's Snowboard Cross Gold Medal Match SB-LL1,남자 SBX 금메달 경기 SB-LL1,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,M,SBX-----10010-----,FNL-,000200--,Men's SBX Bronze Medal Match SB-LL1,남자 SBX 동메달 경기 SB-LL1,Men's Snowboard Cross Bronze Medal Match SB-LL1,남자 SBX 동메달 경기 SB-LL1,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,M,SBX-----10010-----,QFNL,--------,Men's SBX Quarterfinals SB-LL1,남자 SBX 8강 SB-LL1,Men's Snowboard Cross Quarterfinals SB-LL1,남자 SBX 8강 SB-LL1,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,M,SBX-----10010-----,QFNL,000100--,Men's SBX Quarterfinal 1 SB-LL1,남자 SBX 8강 SB-LL1,Men's Snowboard Cross Quarterfinal 1 SB-LL1,남자 SBX 8강 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,M,SBX-----10010-----,QFNL,000200--,Men's SBX Quarterfinal 2 SB-LL1,남자 SBX 8강 2 SB-LL1,Men's Snowboard Cross Quarterfinal 2 SB-LL1,남자 SBX 8강 2 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,M,SBX-----10010-----,QFNL,000300--,Men's SBX Quarterfinal 3 SB-LL1,남자 SBX 8강 3 SB-LL1,Men's Snowboard Cross Quarterfinal 3 SB-LL1,남자 SBX 8강 3 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,M,SBX-----10010-----,QFNL,000400--,Men's SBX Quarterfinal 4 SB-LL1,남자 SBX 8강 4 SB-LL1,Men's Snowboard Cross Quarterfinal 4 SB-LL1,남자 SBX 8강 4 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,M,SBX-----10010-----,QUAL,--------,Men's Snowboard Cross Qual SB-LL1,남자 스노보드 크로스 예선 SB-LL1,Men's Snowboard Cross Qualification SB-LL1,남자 스노보드 크로스 예선 SB-LL1,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,M,SBX-----10010-----,QUAL,000100--,"Men's Snowboard Cross Qual SB-LL1, Run 1","남자 스노보드 크로스 예선 SB-LL1, 1회전","Men's Snowboard Cross Qualification SB-LL1, Run 1","남자 스노보드 크로스 예선 SB-LL1, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,M,SBX-----10010-----,QUAL,000200--,"Men's Snowboard Cross Qual SB-LL1, Run 2","남자 스노보드 크로스 예선 SB-LL1, 2회전","Men's Snowboard Cross Qualification SB-LL1, Run 2","남자 스노보드 크로스 예선 SB-LL1, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,M,SBX-----10010-----,QUAL,000300--,"Men's Snowboard Cross Qual SB-LL1, Run 3","남자 스노보드 크로스 예선 SB-LL1, 3회전","Men's Snowboard Cross Qualification SB-LL1, Run 3","남자 스노보드 크로스 예선 SB-LL1, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,M,SBX-----10010-----,SFNL,--------,Men's SBX Semifinals SB-LL1,남자 SBX 준결승 SB-LL1,Men's Snowboard Cross Semifinals SB-LL1,남자 SBX 준결승 SB-LL1,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,M,SBX-----10010-----,SFNL,000100--,Men's SBX Semifinal 1 SB-LL1,남자 SBX 준결승 1 SB-LL1,Men's Snowboard Cross Semifinal 1 SB-LL1,남자 SBX 준결승 1 SB-LL1,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,M,SBX-----10010-----,SFNL,000200--,Men's SBX Semifinal 2 SB-LL1,남자 SBX 준결승 2 SB-LL1,Men's Snowboard Cross Semifinal 2 SB-LL1,남자 SBX 준결승 2 SB-LL1,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,M,SBX-----10010-----,VICT,FLOWER--,"Men's Snowboard Cross SB-LL1, Venue Cer.","남자 스노보드 크로스 SB-LL1, 시상식","Men's Snowboard Cross SB-LL1, Venue Ceremony","남자 스노보드 크로스 SB-LL1, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,SBX-----10010-----,VICT,MEDAL---,"Men's Snowboard Cross SB-LL1, Vict. Cer.","남자 스노보드 크로스 SB-LL1, 메달 시상식","Men's Snowboard Cross SB-LL1, Victory Ceremony","남자 스노보드 크로스 SB-LL1, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,M,SBX-----20010-----,----,--------,Men's Snowboard Cross SB-LL2,남자 스노보드 크로스 SB-LL2,Men's Snowboard Cross SB-LL2,남자 스노보드 크로스 SB-LL2,Event,,N,0,NONE,N,N,,,
+SBD,M,SBX-----20010-----,8FNL,--------,Men's SBX 1/8 Finals SB-LL2,남자 SBX 1/8 결승 SB-LL2,Men's Snowboard Cross 1/8 Finals SB-LL2,남자 SBX 1/8 결승 SB-LL2,Phase,,N,0,NONE,N,N,1/8 Finals,8강전,
+SBD,M,SBX-----20010-----,8FNL,000100--,Men's SBX 1/8 Final 1 SB-LL2,남자 SBX 1/8 결승 1 SB-LL2,Men's Snowboard Cross 1/8 Final 1 SB-LL2,남자 SBX 1/8 결승 1 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 1,8강전 1,
+SBD,M,SBX-----20010-----,8FNL,000200--,Men's SBX 1/8 Final 2 SB-LL2,남자 SBX 1/8 결승 2 SB-LL2,Men's Snowboard Cross 1/8 Final 2 SB-LL2,남자 SBX 1/8 결승 2 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 2,8강전 2,
+SBD,M,SBX-----20010-----,8FNL,000300--,Men's SBX 1/8 Final 3 SB-LL2,남자 SBX 1/8 결승 3 SB-LL2,Men's Snowboard Cross 1/8 Final 3 SB-LL2,남자 SBX 1/8 결승 3 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 3,8강전 3,
+SBD,M,SBX-----20010-----,8FNL,000400--,Men's SBX 1/8 Final 4 SB-LL2,남자 SBX 1/8 결승 4 SB-LL2,Men's Snowboard Cross 1/8 Final 4 SB-LL2,남자 SBX 1/8 결승 4 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 4,8강전 4,
+SBD,M,SBX-----20010-----,8FNL,000500--,Men's SBX 1/8 Final 5 SB-LL2,남자 SBX 1/8 결승 5 SB-LL2,Men's Snowboard Cross 1/8 Final 5 SB-LL2,남자 SBX 1/8 결승 5 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 5,8강전 5,
+SBD,M,SBX-----20010-----,8FNL,000600--,Men's SBX 1/8 Final 6 SB-LL2,남자 SBX 1/8 결승 6 SB-LL2,Men's Snowboard Cross 1/8 Final 6 SB-LL2,남자 SBX 1/8 결승 6 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 6,8강전 6,
+SBD,M,SBX-----20010-----,8FNL,000700--,Men's SBX 1/8 Final 7 SB-LL2,남자 SBX 1/8 결승 7 SB-LL2,Men's Snowboard Cross 1/8 Final 7 SB-LL2,남자 SBX 1/8 결승 7 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 7,8강전 7,
+SBD,M,SBX-----20010-----,8FNL,000800--,Men's SBX 1/8 Final 8 SB-LL2,남자 SBX 1/8 결승 8 SB-LL2,Men's Snowboard Cross 1/8 Final 8 SB-LL2,남자 SBX 1/8 결승 8 SB-LL2,Unit,,Y,0,HATH,Y,Y,1/8 Final 8,8강전 8,
+SBD,M,SBX-----20010-----,DRAW,--------,"Men's Snowboard Cross SB-LL2, Draw","남자 스노보드 크로스 SB-LL2, 추첨","Men's Snowboard Cross SB-LL2, Draw","남자 스노보드 크로스 SB-LL2, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,M,SBX-----20010-----,DRAW,000100--,"Men's Snowboard Cross SB-LL2, Draw","남자 스노보드 크로스 SB-LL2, 추첨","Men's Snowboard Cross SB-LL2, Draw","남자 스노보드 크로스 SB-LL2, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,M,SBX-----20010-----,FNL-,--------,Men's SBX Finals SB-LL2,남자 SBX 결승 SB-LL2,Men's Snowboard Cross Finals SB-LL2,남자 SBX 결승 SB-LL2,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,M,SBX-----20010-----,FNL-,000100--,Men's SBX Gold Medal Match SB-LL2,남자 SBX 금메달 경기 SB-LL2,Men's Snowboard Cross Gold Medal Match SB-LL2,남자 SBX 금메달 경기 SB-LL2,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,M,SBX-----20010-----,FNL-,000200--,Men's SBX Bronze Medal Match SB-LL2,남자 SBX 동메달 경기 SB-LL2,Men's Snowboard Cross Bronze Medal Match SB-LL2,남자 SBX 동메달 경기 SB-LL2,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,M,SBX-----20010-----,QFNL,--------,Men's SBX Quarterfinals SB-LL2,남자 SBX 8강 SB-LL2,Men's Snowboard Cross Quarterfinals SB-LL2,남자 SBX 8강 SB-LL2,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,M,SBX-----20010-----,QFNL,000100--,Men's SBX Quarterfinal 1 SB-LL2,남자 SBX 8강 1 SB-LL2,Men's Snowboard Cross Quarterfinal 1 SB-LL2,남자 SBX 8강 1 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,M,SBX-----20010-----,QFNL,000200--,Men's SBX Quarterfinal 2 SB-LL2,남자 SBX 8강 2 SB-LL2,Men's Snowboard Cross Quarterfinal 2 SB-LL2,남자 SBX 8강 2 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,M,SBX-----20010-----,QFNL,000300--,Men's SBX Quarterfinal 3 SB-LL2,남자 SBX 8강 3 SB-LL2,Men's Snowboard Cross Quarterfinal 3 SB-LL2,남자 SBX 8강 3 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,M,SBX-----20010-----,QFNL,000400--,Men's SBX Quarterfinal 4 SB-LL2,남자 SBX 8강 4 SB-LL2,Men's Snowboard Cross Quarterfinal 4 SB-LL2,남자 SBX 8강 4 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,M,SBX-----20010-----,QUAL,--------,Men's Snowboard Cross Qual SB-LL2,남자 스노보드 크로스 예선 SB-LL2,Men's Snowboard Cross Qualification SB-LL2,남자 스노보드 크로스 예선 SB-LL2,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,M,SBX-----20010-----,QUAL,000100--,"Men's Snowboard Cross Qual SB-LL2, Run 1","남자 스노보드 크로스 예선 SB-LL2, 1회전","Men's Snowboard Cross Qualification SB-LL2, Run 1","남자 스노보드 크로스 예선 SB-LL2, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,M,SBX-----20010-----,QUAL,000200--,"Men's Snowboard Cross Qual SB-LL2, Run 2","남자 스노보드 크로스 예선 SB-LL2, 2회전","Men's Snowboard Cross Qualification SB-LL2, Run 2","남자 스노보드 크로스 예선 SB-LL2, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,M,SBX-----20010-----,QUAL,000300--,"Men's Snowboard Cross Qual SB-LL2, Run 3","남자 스노보드 크로스 예선 SB-LL2, 3회전","Men's Snowboard Cross Qualification SB-LL2, Run 3","남자 스노보드 크로스 예선 SB-LL2, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,M,SBX-----20010-----,SFNL,--------,Men's SBX Semifinals SB-LL2,남자 SBX 준결승 SB-LL2,Men's Snowboard Cross Semifinals SB-LL2,남자 SBX 준결승 SB-LL2,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,M,SBX-----20010-----,SFNL,000100--,Men's SBX Semifinal 1 SB-LL2,남자 SBX 준결승 1 SB-LL2,Men's Snowboard Cross Semifinal 1 SB-LL2,남자 SBX 준결승 1 SB-LL2,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,M,SBX-----20010-----,SFNL,000200--,Men's SBX Semifinal 2 SB-LL2,남자 SBX 준결승 2 SB-LL2,Men's Snowboard Cross Semifinal 2 SB-LL2,남자 SBX 준결승 2 SB-LL2,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,M,SBX-----20010-----,VICT,FLOWER--,"Men's Snowboard Cross SB-LL2, Venue Cer.","남자 스노보드 크로스 SB-LL2, 시상식","Men's Snowboard Cross SB-LL2, Venue Ceremony","남자 스노보드 크로스 SB-LL2, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,M,SBX-----20010-----,VICT,MEDAL---,"Men's Snowboard Cross SB-LL2, Vict. Cer.","남자 스노보드 크로스 SB-LL2, 메달 시상식","Men's Snowboard Cross SB-LL2, Victory Ceremony","남자 스노보드 크로스 SB-LL2, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,------------------,----,--------,Women's Snowboard,여자 스노보드,Women's Snowboard,여자 스노보드,Gender,,N,0,NONE,N,N,,,
+SBD,W,BSL---------------,----,--------,Women's Banked Slalom,여자 뱅크드 슬라롬 ,Women's Banked Slalom,여자 뱅크드 슬라롬 ,Event,,N,0,NONE,N,N,,,
+SBD,W,BSL---------------,TRNO,--------,"Women's Banked Slalom, Training","여자 뱅크드 슬라롬, 연습","Women's Banked Slalom, Training","여자 뱅크드 슬라롬, 연습",Training,,N,0,NONE,N,N,Training,공식 연습,
+SBD,W,BSL---------------,TRNO,000100--,"Women's Banked Slalom, Training","여자 뱅크드 슬라롬, 연습","Women's Banked Slalom, Training","여자 뱅크드 슬라롬, 연습",Training,,Y,0,ATH,N,Y,Training,공식 연습,
+SBD,W,BSL-----01010-----,----,--------,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL,Event,,N,0,NONE,N,N,,,
+SBD,W,BSL-----01010-----,DRAW,--------,"Women's Banked Slalom SB-UL, Draw","여자 뱅크드 슬라롬 SB-UL, 추첨","Women's Banked Slalom SB-UL, Draw","여자 뱅크드 슬라롬 SB-UL, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,BSL-----01010-----,DRAW,000100--,"Women's Banked Slalom SB-UL, Draw","여자 뱅크드 슬라롬 SB-UL, 추첨","Women's Banked Slalom SB-UL, Draw","여자 뱅크드 슬라롬 SB-UL, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,BSL-----01010-----,FNL-,--------,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL,Phase,,N,0,NONE,N,N,,,
+SBD,W,BSL-----01010-----,FNL-,000100--,Women's Banked Slalom SB-UL Run 1,여자 뱅크드 슬라롬 SB-UL 1회전,Women's Banked Slalom SB-UL Run 1,여자 뱅크드 슬라롬 SB-UL 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,W,BSL-----01010-----,FNL-,000200--,Women's Banked Slalom SB-UL Run 2,여자 뱅크드 슬라롬 SB-UL 2회전,Women's Banked Slalom SB-UL Run 2,여자 뱅크드 슬라롬 SB-UL 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,W,BSL-----01010-----,FNL-,000300--,Women's Banked Slalom SB-UL Run 3,여자 뱅크드 슬라롬 SB-UL 3회전,Women's Banked Slalom SB-UL Run 3,여자 뱅크드 슬라롬 SB-UL 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,W,BSL-----01010-----,VICT,FLOWER--,"Women's Banked Slalom SB-UL, Venue Cer.","여자 뱅크드 슬라롬 SB-UL, 시상식","Women's Banked Slalom SB-UL, Venue Ceremony","여자 뱅크드 슬라롬 SB-UL, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,BSL-----01010-----,VICT,MEDAL---,"Women's Banked Slalom SB-UL, Vict. Cer.","여자 뱅크드 슬라롬 SB-UL, 메달 시상식","Women's Banked Slalom SB-UL, Victory Ceremony","여자 뱅크드 슬라롬 SB-UL, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,BSL-----10010-----,----,--------,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1,Event,,N,0,NONE,N,N,,,
+SBD,W,BSL-----10010-----,DRAW,--------,"Women's Banked Slalom SB-LL1, Draw","여자 뱅크드 슬라롬 SB-LL1, 추첨","Women's Banked Slalom SB-LL1, Draw","여자 뱅크드 슬라롬 SB-LL1, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,BSL-----10010-----,DRAW,000100--,"Women's Banked Slalom SB-LL1, Draw","여자 뱅크드 슬라롬 SB-LL1, 추첨","Women's Banked Slalom SB-LL1, Draw","여자 뱅크드 슬라롬 SB-LL1, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,BSL-----10010-----,FNL-,--------,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1,Phase,,N,0,NONE,N,N,,,
+SBD,W,BSL-----10010-----,FNL-,000100--,Women's Banked Slalom SB-LL1 Run 1,여자 뱅크드 슬라롬 SB-LL1 1회전,Women's Banked Slalom SB-LL1 Run 1,여자 뱅크드 슬라롬 SB-LL1 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,W,BSL-----10010-----,FNL-,000200--,Women's Banked Slalom SB-LL1 Run 2,여자 뱅크드 슬라롬 SB-LL1 2회전,Women's Banked Slalom SB-LL1 Run 2,여자 뱅크드 슬라롬 SB-LL1 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,W,BSL-----10010-----,FNL-,000300--,Women's Banked Slalom SB-LL1 Run 3,여자 뱅크드 슬라롬 SB-LL1 3회전,Women's Banked Slalom SB-LL1 Run 3,여자 뱅크드 슬라롬 SB-LL1 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,W,BSL-----10010-----,VICT,FLOWER--,"Women's Banked Slalom SB-LL1, Venue Cer.","여자 뱅크드 슬라롬 SB-LL1, 시상식","Women's Banked Slalom SB-LL1, Venue Ceremony","여자 뱅크드 슬라롬 SB-LL1, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,BSL-----10010-----,VICT,MEDAL---,"Women's Banked Slalom SB-LL1, Vict. Cer.","여자 뱅크드 슬라롬 SB-LL1, 메달 시상식","Women's Banked Slalom SB-LL1, Victory Ceremony","여자 뱅크드 슬라롬 SB-LL1, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,BSL-----20010-----,----,--------,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2,Event,,N,0,NONE,N,N,,,
+SBD,W,BSL-----20010-----,DRAW,--------,"Women's Banked Slalom SB-LL2, Draw","여자 뱅크드 슬라롬 SB-LL2, 추첨","Women's Banked Slalom SB-LL2, Draw","여자 뱅크드 슬라롬 SB-LL2, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,BSL-----20010-----,DRAW,000100--,"Women's Banked Slalom SB-LL2, Draw","여자 뱅크드 슬라롬 SB-LL2, 추첨","Women's Banked Slalom SB-LL2, Draw","여자 뱅크드 슬라롬 SB-LL2, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,BSL-----20010-----,FNL-,--------,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2,Phase,,N,0,NONE,N,N,,,
+SBD,W,BSL-----20010-----,FNL-,000100--,Women's Banked Slalom SB-LL2 Run 1,여자 뱅크드 슬라롬 SB-LL2 1회전,Women's Banked Slalom SB-LL2 Run 1,여자 뱅크드 슬라롬 SB-LL2 1회전,Unit,,Y,0,ATH,Y,Y,Run 1,런 1,
+SBD,W,BSL-----20010-----,FNL-,000200--,Women's Banked Slalom SB-LL2 Run 2,여자 뱅크드 슬라롬 SB-LL2 2회전,Women's Banked Slalom SB-LL2 Run 2,여자 뱅크드 슬라롬 SB-LL2 2회전,Unit,,Y,0,ATH,Y,Y,Run 2,런 2,
+SBD,W,BSL-----20010-----,FNL-,000300--,Women's Banked Slalom SB-LL2 Run 3,여자 뱅크드 슬라롬 SB-LL2 3회전,Women's Banked Slalom SB-LL2 Run 3,여자 뱅크드 슬라롬 SB-LL2 3회전,Unit,,Y,1,ATH,Y,Y,Run 3,런 3,
+SBD,W,BSL-----20010-----,VICT,FLOWER--,"Women's Banked Slalom SB-LL2, Venue Cer.","여자 뱅크드 슬라롬 SB-LL2, 시상식","Women's Banked Slalom SB-LL2, Venue Ceremony","여자 뱅크드 슬라롬 SB-LL2, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,BSL-----20010-----,VICT,MEDAL---,"Women's Banked Slalom SB-LL2, Vict. Cer.","여자 뱅크드 슬라롬 SB-LL2, 메달 시상식","Women's Banked Slalom SB-LL2, Victory Ceremony","여자 뱅크드 슬라롬 SB-LL2, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,SBX---------------,----,--------,Women's Snowboard Cross,여자 스노보드 크로스,Women's Snowboard Cross,여자 스노보드 크로스,Event,,N,0,NONE,N,N,,,ASW090000
+SBD,W,SBX---------------,TRNO,--------,Women's SB Cross - Training,여자 스노보드 크로스 - 연습,Women's Snowboard Cross - Training,여자 스노보드 크로스 - 연습,Training,,N,0,NONE,N,N,Training,공식 연습,ASW190O00
+SBD,W,SBX---------------,TRNO,000100--,Women's SB Cross - 1st Trng Run,여자 스노보드 크로스 - 1차 공식연습,Women's Snowboard Cross - 1st Training Run,여자 스노보드 크로스 - 1차 공식연습,Training,,Y,0,ATH,N,Y,1st Training Run,1차 공식연습,ASW190O01
+SBD,W,SBX---------------,TRNO,000200--,Women's SB Cross - 2nd Trng Run,여자 스노보드 크로스 - 2차 공식연습,Women's Snowboard Cross - 2nd Training Run,여자 스노보드 크로스 - 2차 공식연습,Training,,Y,0,ATH,N,Y,2nd Training Run,2차 공식연습,ASW190O02
+SBD,W,SBX---------------,TRNO,000300--,Women's SB Cross - 3rd Trng Run,여자 스노보드 크로스 - 3차 공식연습,Women's Snowboard Cross - 3rd Training Run,여자 스노보드 크로스 - 3차 공식연습,Training,,Y,0,ATH,N,Y,3rd Training Run,3차 공식연습,ASW190O03
+SBD,W,SBX-----01010-----,----,--------,Women's Snowboard Cross SB-UL,여자 스노보드 크로스 SB-UL,Women's Snowboard Cross SB-UL,여자 스노보드 크로스 SB-UL,Event,,N,0,NONE,N,N,,,
+SBD,W,SBX-----01010-----,DRAW,--------,"Women's Snowboard Cross SB-UL, Draw","여자 스노보드 크로스 SB-UL, 추첨","Women's Snowboard Cross SB-UL, Draw","여자 스노보드 크로스 SB-UL, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,SBX-----01010-----,DRAW,000100--,"Women's Snowboard Cross SB-UL, Draw","여자 스노보드 크로스 SB-UL, 추첨","Women's Snowboard Cross SB-UL, Draw","여자 스노보드 크로스 SB-UL, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,SBX-----01010-----,FNL-,--------,Women's SBX Finals SB-UL,여자 SBX 결승 SB-UL,Women's Snowboard Cross Finals SB-UL,여자 SBX 결승 SB-UL,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,W,SBX-----01010-----,FNL-,000100--,Women's SBX Gold Medal Match SB-UL,여자 SBX 금메달 경기 SB-UL,Women's Snowboard Cross Gold Medal Match SB-UL,여자 SBX 금메달 경기 SB-UL,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,W,SBX-----01010-----,FNL-,000200--,Women's SBX Bronze Medal Match SB-UL,여자 SBX 동메달 경기 SB-UL,Women's Snowboard Cross Bronze Medal Match SB-UL,여자 SBX 동메달 경기 SB-UL,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,W,SBX-----01010-----,QFNL,--------,Women's SBX Quarterfinals SB-UL,여자 SBX 8강 SB-UL,Women's Snowboard Cross Quarterfinals SB-UL,여자 SBX 8강 SB-UL,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,W,SBX-----01010-----,QFNL,000100--,Women's SBX Quarterfinal 1 SB-UL,여자 SBX 8강 1 SB-UL,Women's Snowboard Cross Quarterfinal 1 SB-UL,여자 SBX 8강 1 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,W,SBX-----01010-----,QFNL,000200--,Women's SBX Quarterfinal 2 SB-UL,여자 SBX 8강 2 SB-UL,Women's Snowboard Cross Quarterfinal 2 SB-UL,여자 SBX 8강 2 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,W,SBX-----01010-----,QFNL,000300--,Women's SBX Quarterfinal 3 SB-UL,여자 SBX 8강 3 SB-UL,Women's Snowboard Cross Quarterfinal 3 SB-UL,여자 SBX 8강 3 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,W,SBX-----01010-----,QFNL,000400--,Women's SBX Quarterfinal 4 SB-UL,여자 SBX 8강 4 SB-UL,Women's Snowboard Cross Quarterfinal 4 SB-UL,여자 SBX 8강 4 SB-UL,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,W,SBX-----01010-----,QUAL,--------,Women's Snowboard Cross Qual SB-UL,여자 스노보드 크로스 예선 SB-UL,Women's Snowboard Cross Qualification SB-UL,여자 스노보드 크로스 예선 SB-UL,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,W,SBX-----01010-----,QUAL,000100--,"Women's Snowboard Cross Qual SB-UL,Run 1","여자 스노보드 크로스 예선 SB-UL, 1회전","Women's Snowboard Cross Qualification SB-UL, Run 1","여자 스노보드 크로스 예선 SB-UL, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,W,SBX-----01010-----,QUAL,000200--,"Women's Snowboard Cross Qual SB-UL,Run 2","여자 스노보드 크로스 예선 SB-UL, 2회전","Women's Snowboard Cross Qualification SB-UL, Run 2","여자 스노보드 크로스 예선 SB-UL, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,W,SBX-----01010-----,QUAL,000300--,"Women's Snowboard Cross Qual SB-UL,Run 3","여자 스노보드 크로스 예선 SB-UL, 3회전","Women's Snowboard Cross Qualification SB-UL, Run 3","여자 스노보드 크로스 예선 SB-UL, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,W,SBX-----01010-----,SFNL,--------,Women's SBX Semifinals SB-UL,여자 SBX 준결승 SB-UL,Women's Snowboard Cross Semifinals SB-UL,여자 SBX 준결승 SB-UL,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,W,SBX-----01010-----,SFNL,000100--,Women's SBX Semifinal 1 SB-UL,여자 SBX 준결승 1 SB-UL,Women's Snowboard Cross Semifinal 1 SB-UL,여자 SBX 준결승 1 SB-UL,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,W,SBX-----01010-----,SFNL,000200--,Women's SBX Semifinal 2 SB-UL,여자 SBX 준결승 2 SB-UL,Women's Snowboard Cross Semifinal 2 SB-UL,여자 SBX 준결승 2 SB-UL,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,W,SBX-----01010-----,VICT,FLOWER--,"Women's Snowboard Cross SB-UL, Venue C.","여자 스노보드 크로스 SB-UL, 시상식","Women's Snowboard Cross SB-UL, Venue Ceremony","여자 스노보드 크로스 SB-UL, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,SBX-----01010-----,VICT,MEDAL---,"Women's Snowboard Cross SB-UL, Vict Cer","여자 스노보드 크로스 SB-UL, 메달 시상식","Women's Snowboard Cross SB-UL, Victory Ceremony","여자 스노보드 크로스 SB-UL, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,SBX-----10010-----,----,--------,Women's Snowboard Cross SB-LL1,여자 스노보드 크로스 SB-LL1,Women's Snowboard Cross SB-LL1,여자 스노보드 크로스 SB-LL1,Event,,N,0,NONE,N,N,,,
+SBD,W,SBX-----10010-----,DRAW,--------,"Women's Snowboard Cross SB-LL1, Draw","여자 스노보드 크로스 SB-LL1, 추첨","Women's Snowboard Cross SB-LL1, Draw","여자 스노보드 크로스 SB-LL1, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,SBX-----10010-----,DRAW,000100--,"Women's Snowboard Cross SB-LL1, Draw","여자 스노보드 크로스 SB-LL1, 추첨","Women's Snowboard Cross SB-LL1, Draw","여자 스노보드 크로스 SB-LL1, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,SBX-----10010-----,FNL-,--------,Women's SBX Finals SB-LL1,여자 SBX 결승 SB-LL1,Women's Snowboard Cross Finals SB-LL1,여자 SBX 결승 SB-LL1,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,W,SBX-----10010-----,FNL-,000100--,Women's SBX Gold Medal Match SB-LL1,여자 SBX 금메달 경기 SB-LL1,Women's Snowboard Cross Gold Medal Match SB-LL1,여자 SBX 금메달 경기 SB-LL1,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,W,SBX-----10010-----,FNL-,000200--,Women's SBX Bronze Medal Match SB-LL1,여자 SBX 동메달 경기 SB-LL1,Women's Snowboard Cross Bronze Medal Match SB-LL1,여자 SBX 동메달 경기 SB-LL1,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,W,SBX-----10010-----,QFNL,--------,Women's SBX Quarterfinals SB-LL1,여자 SBX 8강 SB-LL1,Women's Snowboard Cross Quarterfinals SB-LL1,여자 SBX 8강 SB-LL1,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,W,SBX-----10010-----,QFNL,000100--,Women's SBX Quarterfinal 1 SB-LL1,여자 SBX 8강 1 SB-LL1,Women's Snowboard Cross Quarterfinal 1 SB-LL1,여자 SBX 8강 1 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,W,SBX-----10010-----,QFNL,000200--,Women's SBX Quarterfinal 2 SB-LL1,여자 SBX 8강 2 SB-LL1,Women's Snowboard Cross Quarterfinal 2 SB-LL1,여자 SBX 8강 2 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,W,SBX-----10010-----,QFNL,000300--,Women's SBX Quarterfinal 3 SB-LL1,여자 SBX 8강 3 SB-LL1,Women's Snowboard Cross Quarterfinal 3 SB-LL1,여자 SBX 8강 3 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,W,SBX-----10010-----,QFNL,000400--,Women's SBX Quarterfinal 4 SB-LL1,여자 SBX 8강 4 SB-LL1,Women's Snowboard Cross Quarterfinal 4 SB-LL1,여자 SBX 8강 4 SB-LL1,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,W,SBX-----10010-----,QUAL,--------,Women's Snowboard Cross Qual SB-LL1,여자 스노보드 크로스 예선 SB-LL1,Women's Snowboard Cross Qualification SB-LL1,여자 스노보드 크로스 예선 SB-LL1,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,W,SBX-----10010-----,QUAL,000100--,"Women's SBX Qual SB-LL1, Run 1","여자 SBX 예선 SB-LL1, 1회전","Women's Snowboard Cross Qualification SB-LL1, Run 1","여자 SBX 예선 SB-LL1, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,W,SBX-----10010-----,QUAL,000200--,"Women's SBX Qual SB-LL1, Run 2","여자 SBX 예선 SB-LL1, 2회전","Women's Snowboard Cross Qualification SB-LL1, Run 2","여자 SBX 예선 SB-LL1, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,W,SBX-----10010-----,QUAL,000300--,"Women's SBX Qual SB-LL1, Run 3","여자 SBX 예선 SB-LL1, 3회전","Women's Snowboard Cross Qualification SB-LL1, Run 3","여자 SBX 예선 SB-LL1, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,W,SBX-----10010-----,SFNL,--------,Women's SBX Semifinals SB-LL1,여자 SBX 준결승 SB-LL1,Women's Snowboard Cross Semifinals SB-LL1,여자 SBX 준결승 SB-LL1,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,W,SBX-----10010-----,SFNL,000100--,Women's SBX Semifinal 1 SB-LL1,여자 SBX 준결승 1 SB-LL1,Women's Snowboard Cross Semifinal 1 SB-LL1,여자 SBX 준결승 1 SB-LL1,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,W,SBX-----10010-----,SFNL,000200--,Women's SBX Semifinal 2 SB-LL1,여자 SBX 준결승 2 SB-LL1,Women's Snowboard Cross Semifinal 2 SB-LL1,여자 SBX 준결승 2 SB-LL1,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,W,SBX-----10010-----,VICT,FLOWER--,"Women's Snowboard Cross SB-LL1, Venue C.","여자 스노보드 크로스 SB-LL1, 시상식","Women's Snowboard Cross SB-LL1, Venue Ceremony","여자 스노보드 크로스 SB-LL1, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,SBX-----10010-----,VICT,MEDAL---,"Women's Snowboard Cross SB-LL1, Vict Cer","여자 스노보드 크로스 SB-LL1, 메달 시상식","Women's Snowboard Cross SB-LL1, Victory Ceremony","여자 스노보드 크로스 SB-LL1, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,
+SBD,W,SBX-----20010-----,----,--------,Women's Snowboard Cross SB-LL2,여자 스노보드 크로스 SB-LL2,Women's Snowboard Cross SB-LL2,여자 스노보드 크로스 SB-LL2,Event,,N,0,NONE,N,N,,,
+SBD,W,SBX-----20010-----,DRAW,--------,"Women's Snowboard Cross SB-LL2, Draw","여자 스노보드 크로스 SB-LL2, 추첨","Women's Snowboard Cross SB-LL2, Draw","여자 스노보드 크로스 SB-LL2, 추첨",Draw,,N,0,NONE,N,N,Draw,추첨,
+SBD,W,SBX-----20010-----,DRAW,000100--,"Women's Snowboard Cross SB-LL2, Draw","여자 스노보드 크로스 SB-LL2, 추첨","Women's Snowboard Cross SB-LL2, Draw","여자 스노보드 크로스 SB-LL2, 추첨",Draw,,Y,0,NONE,N,Y,Draw,추첨,
+SBD,W,SBX-----20010-----,FNL-,--------,Women's SBX Finals SB-LL2,여자 SBX 결승 SB-LL2,Women's Snowboard Cross Finals SB-LL2,여자 SBX 결승 SB-LL2,Phase,,N,0,NONE,N,N,Finals,결승,
+SBD,W,SBX-----20010-----,FNL-,000100--,Women's SBX Gold Medal Match SB-LL2,여자 SBX 금메달 경기 SB-LL2,Women's Snowboard Cross Gold Medal Match SB-LL2,여자 SBX 금메달 경기 SB-LL2,Unit,,Y,1,HATH,Y,Y,Gold Medal Match,금메달 경기,
+SBD,W,SBX-----20010-----,FNL-,000200--,Women's SBX Bronze Medal Match SB-LL2,여자 SBX 동메달 경기 SB-LL2,Women's Snowboard Cross Bronze Medal Match SB-LL2,여자 SBX 동메달 경기 SB-LL2,Unit,,Y,2,HATH,Y,Y,Bronze Medal Match,동메달 경기,
+SBD,W,SBX-----20010-----,QFNL,--------,Women's SBX Quarterfinals SB-LL2,여자 SBX 8강승 SB-LL2,Women's Snowboard Cross Quarterfinals SB-LL2,여자 SBX 8강승 SB-LL2,Phase,,N,0,NONE,N,N,Quarterfinals,준준결승,
+SBD,W,SBX-----20010-----,QFNL,000100--,Women's SBX Quarterfinal 1 SB-LL2,여자 SBX 8강 1 SB-LL2,Women's Snowboard Cross Quarterfinal 1 SB-LL2,여자 SBX 8강 1 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 1,준준결승 1,
+SBD,W,SBX-----20010-----,QFNL,000200--,Women's SBX Quarterfinal 2 SB-LL2,여자 SBX 8강 2 SB-LL2,Women's Snowboard Cross Quarterfinal 2 SB-LL2,여자 SBX 8강 2 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 2,준준결승 2,
+SBD,W,SBX-----20010-----,QFNL,000300--,Women's SBX Quarterfinal 3 SB-LL2,여자 SBX 8강 3 SB-LL2,Women's Snowboard Cross Quarterfinal 3 SB-LL2,여자 SBX 8강 3 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 3,준준결승 3,
+SBD,W,SBX-----20010-----,QFNL,000400--,Women's SBX Quarterfinal 4 SB-LL2,여자 SBX 8강 4 SB-LL2,Women's Snowboard Cross Quarterfinal 4 SB-LL2,여자 SBX 8강 4 SB-LL2,Unit,,Y,0,HATH,Y,Y,Quarterfinal 4,준준결승 4,
+SBD,W,SBX-----20010-----,QUAL,--------,Women's Snowboard Cross Qual SB-LL2,여자 스노보드 크로스 예선 SB-LL2,Women's Snowboard Cross Qualification SB-LL2,여자 스노보드 크로스 예선 SB-LL2,Phase,,N,0,NONE,N,N,Qualification,예선,
+SBD,W,SBX-----20010-----,QUAL,000100--,"Women's SBX Qual SB-LL2, Run 1","여자 SBX 예선 SB-LL2, 1회전","Women's Snowboard Cross Qualification SB-LL2, Run 1","여자 SBX 예선 SB-LL2, 1회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 1,예선 런 1,
+SBD,W,SBX-----20010-----,QUAL,000200--,"Women's SBX Qual SB-LL2, Run 2","여자 SBX 예선 SB-LL2, 2회전","Women's Snowboard Cross Qualification SB-LL2, Run 2","여자 SBX 예선 SB-LL2, 2회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 2,예선 런 2,
+SBD,W,SBX-----20010-----,QUAL,000300--,"Women's SBX Qual SB-LL2, Run 3","여자 SBX 예선 SB-LL2, 3회전","Women's Snowboard Cross Qualification SB-LL2, Run 3","여자 SBX 예선 SB-LL2, 3회전",Unit,,Y,0,ATH,Y,Y,Qualification Run 3,예선 런 3,
+SBD,W,SBX-----20010-----,SFNL,--------,Women's SBX Semifinals SB-LL2,여자 SBX 준결승 SB-LL2,Women's Snowboard Cross Semifinals SB-LL2,여자 SBX 준결승 SB-LL2,Phase,,N,0,NONE,N,N,Semifinals,준결승,
+SBD,W,SBX-----20010-----,SFNL,000100--,Women's SBX Semifinal 1 SB-LL2,여자 SBX 준결승 1 SB-LL2,Women's Snowboard Cross Semifinal 1 SB-LL2,여자 SBX 준결승 1 SB-LL2,Unit,,Y,0,HATH,Y,Y,Semifinal 1,준결승 1,
+SBD,W,SBX-----20010-----,SFNL,000200--,Women's SBX Semifinal 2 SB-LL2,여자 SBX 준결승 2 SB-LL2,Women's Snowboard Cross Semifinal 2 SB-LL2,여자 SBX 준결승 2 SB-LL2,Unit,,Y,0,HATH,Y,Y,Semifinal 2,준결승 2,
+SBD,W,SBX-----20010-----,VICT,FLOWER--,"Women's Snowboard Cross SB-LL2, Venue C.","여자 스노보드 크로스 SB-LL2, 시상식","Women's Snowboard Cross SB-LL2, Venue Ceremony","여자 스노보드 크로스 SB-LL2, 시상식",Medal,,Y,0,NONE,N,Y,Venue Ceremony,시상식,
+SBD,W,SBX-----20010-----,VICT,MEDAL---,"Women's Snowboard Cross SB-LL2, Vict Cer","여자 스노보드 크로스 SB-LL2, 메달 시상식","Women's Snowboard Cross SB-LL2, Victory Ceremony","여자 스노보드 크로스 SB-LL2, 메달 시상식",Medal,,Y,0,NONE,N,Y,Victory Ceremony,메달 시상식,

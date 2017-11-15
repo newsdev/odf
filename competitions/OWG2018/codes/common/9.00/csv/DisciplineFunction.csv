@@ -1,0 +1,202 @@
+Function,Discipline,Order,Category,ENG Description,FRA Description,KOR Description,Partic,Results
+AA01,ALP,0,A,Athlete,Athlète,선수,Y,Y
+AR,ALP,3,J,Assistant Referee,Arbitre assistant,어시스턴트 레프리,,
+COMP_CHF,ALP,4,J,Chief of Race,Directeur de la compétition,경기위원장,,
+CRS_SET,ALP,7,J,Course Setter,Traceur,코스 세터,,
+FSH_RE,ALP,6,J,Finish Referee,Juge d'arrivée,피니시 레프리,,
+OFFIC,ALP,,S,Technical Official,Officiel technique,기술 임원,,
+RE,ALP,2,J,Referee,Arbitre,레프리,,
+STR_RE,ALP,5,J,Start Referee,Juge au départ,스타트 레프리,,
+TCH_DEL,ALP,1,J,FIS Technical Delegate,Délégué technique FIS,FIS 기술대표(TD),,
+TM_MGR,ALP,,T,Team Leader,Chef d'équipe,팀 리더,,
+TM_OFFIC,ALP,,T,Team Official,Officiel d'équipe,팀 임원,,
+AA01,BOB,0,A,Athlete,Athlète,선수,Y,Y
+JUR_AST,BOB,,J,Jury Assistant,Juge adjoint,부 심판,,
+JUR_ME,BOB,,J,Member of the Jury,Membre du corps arbitral,심판위원,,
+JUR_PR,BOB,,J,President of the Jury,Président du corps arbitral,심판위원장,,
+OFFIC,BOB,,J,Technical Official,Officiel technique,기술임원,,
+P02,BOB,,C,Training Partner,Partenaire d'entraînement,훈련 파트너,Y,N
+P03,BOB,,A,Alternate Athlete,Athlète remplaçant,대체 선수,Y,N
+RCE_DIR,BOB,,J,Race Director,Directeur de course,레이스 디렉터,,
+TCH_DEL,BOB,,J,Technical Delegate,Délégué technique,기술대표(TD),,
+TRK_CHF,BOB,,J,Chief of the Track,Directeur de piste,트랙 총책임자,,
+AA01,BTH,0,A,Athlete,Athlète,선수,Y,Y
+COMP_CHF,BTH,,J,Chief of Competition,Chef de compétition,경기위원장,,
+JUR_ME,BTH,,J,Member,Membre,쥬리 멤버,,
+OFFIC,BTH,,S,Technical Official,Officiel technique,기술임원,,
+RE,BTH,,J,International Referee for Course,Arbitre international du parcours,코스 국제심판,,
+TCH_DEL,BTH,,J,IBU Technical Delegate,Délégué technique de l'IBU,IBU 기술대표(TD),,
+TCH_DELA,BTH,,J,IBU Assistant Technical Delegate,Délégué technique adjoint de l'IBU,IBU 어시스턴트 기술대표,,
+AA01,CCS,0,A,Athlete,Athlète,선수,Y,Y
+COMP_CHF,CCS,4,J,Chief of Competition,Chef de compétition,경기위원장,Y,Y
+CRS_CHF,CCS,7,J,Chief of Course,Directeur de parcours,코스 위원장,Y,N
+JUR_ME,CCS,6,J,Member,Membre,쥬리 멤버,Y,Y
+OFFIC,CCS,,S,Technical Official,Officiel technique,기술임원,,
+RCE_DIR,CCS,2,J,FIS Race Director,Directeur de course FIS,FIS 레이스 디렉터,Y,Y
+RCE_DIRA,CCS,3,J,FIS Assistant Race Director,Directeur adjoint de course FIS,FIS 어시스턴트 레이스 디렉터,,
+TCH_DEL,CCS,1,J,FIS Technical Delegate,Délégué technique FIS,FIS 기술대표(TD),Y,Y
+TCH_DELA,CCS,5,J,FIS Assistant Technical Delegate,Délégué technique adjoint FIS,FIS 어시스턴트 기술대표,Y,Y
+AA01,CUR,0,A,Athlete,Athlète,선수,Y,Y
+AST_COA,CUR,2,C,2nd Team Coach,2nd entraîneur,2군 팀 코치,,
+COACH,CUR,1,C,Coach,Entraîneur,코치 ,,
+COACH_NA,CUR,3,T,National Coach,Entraîneur national,대표팀 코치,,
+ICE_AST,CUR,,S,Deputy Chief Ice Technician,Chef adjoint de la glace,데퓨티 치프 아이스 테크니션,,
+ICE_TCH,CUR,,S,Chief Ice Technician,Technicien chef de la glace,치프 아이스 테크니션,,
+TK,CUR,,J,Chief Timer,Chronométreur chef,치프 타이머,,
+TK_AST,CUR,,J,Deputy Chief Timer,Chronométreur chef adjoint,데퓨티 치프 타이머,,
+TM_MGR,CUR,4,T,Team Leader,Chef d'équipe,팀 리더,,
+TM_OFFIC,CUR,5,T,Team Official,Officiel d'équipe,팀 임원,,
+TRANSL,CUR,6,T,Translator,Interprète,통역사,,
+UC,CUR,,J,Chief Umpire,Chef arbitre,심판치프,,
+UDC,CUR,,J,Deputy Chief Umpire,Chef arbitre assistant,데퓨티 심판치프,,
+UM,CUR,,J,Game Umpire,Arbitre de l'épreuve,경기 심판,,
+AA01,FRS,0,A,Athlete,Athlète,선수,Y,Y
+CHF_HP,FRS,,J,Chief of Halfpipe,Chef du halfpipe,하프파이프 위원장,Y,Y
+CHF_SLP,FRS,,J,Chief of Slopestyle,Chef de Slopestyle,슬로프스타일 위원장,Y,Y
+COMP_CHF,FRS,,J,Chief of Competition,Chef de compétition,경기위원장,Y,Y
+CON_DIR,FRS,,J,FIS Contest Director,Directeur d'épreuve FIS,FIS 콘테스트 디렉터,Y,Y
+CRS_BLD,FRS,,J,Course Builder,Constructeur du parcours,코스 빌더,Y,Y
+CRS_CHF,FRS,,J,Chief of Course,Directeur de parcours,코스위원장,Y,Y
+CRS_CHFA,FRS,,J,Assistant Chief of Course,Directeur adjoint de parcours,어시스턴트 코스위원장,Y,Y
+CRS_DB,FRS,,J,Course Designer & Builder,Concepteur et constructeur du parcours,코스 디자이너 & 빌더,Y,Y
+CRS_DSG,FRS,,J,Course Designer,Concepteur du parcours,코스 디자이너,Y,Y
+CRS_SET,FRS,,J,Course Setter,Traceur,코스 세터,Y,Y
+CRS_SPV,FRS,,J,Course Supervisor,Superviseur de parcours,코스 수퍼바이저,Y,Y
+FSH_RE,FRS,,J,Finish Referee,Juge d'arrivée,피니시 레프리,Y,Y
+HED_JU,FRS,,J,Head Judge,Juge chef,헤드 저지,Y,Y
+HED_JU_A,FRS,,J,Assistant Head Judge,Juge en chef adjoint,어시스턴트 헤드 저지,Y,Y
+JU,FRS,,J,Judge,Juge,저지,Y,Y
+JUR_ME,FRS,,J,Jury Advisor,Conseiller du jury,쥬리 어드바이저,Y,Y
+MED_SPV,FRS,,J,Medical Supervisor,Responsable médical,메디컬 수퍼바이저,Y,N
+OFFIC,FRS,,J,Technical Official,Officiel technique,기술임원,Y,N
+RCE_DIR,FRS,,J,FIS Race Director,Directeur de course FIS,FIS 레이스 디렉터,Y,Y
+RE,FRS,,J,Referee,Arbitre,레프리,Y,Y
+SEC,FRS,,J,Competition Secretary,Secrétaire de la compétition,경기 사무장,Y,N
+SCR_CHF,FRS,,J,Chief of Scoring,Chef des résultats,계측 위원장,Y,N
+STR_RE,FRS,,J,Start Referee,Juge au départ,스타트 레프리,Y,Y
+TCH_DEL,FRS,,J,FIS Technical Delegate,Délégué technique FIS,FIS 기술대표(TD),Y,Y
+TCH_DELA,FRS,,J,Assistant Technical Delegate,Délégué technique adjoint,어시스턴트 기술대표,Y,Y
+TK,FRS,,J,Chief of Timing,Chef du chronométrage,계측 위원장,Y,N
+TRK_CAL,FRS,,J,Trick Caller,Trick Caller,트릭 콜러,Y,N
+VER_SCR,FRS,,J,Score Verifier,Vérificateur du pointage,점수 감사관,Y,Y
+VID,FRS,,S,Video Controller,Contrôleur vidéo,비디오 컨트롤러,Y,Y
+AA01,FSK,0,A,Athlete,Athlète,선수,Y,Y
+AST_TSP,FSK,,J,Assistant Technical Specialist,Spécialiste technique adjoint,어시스턴트 테크니컬 스페셜리스트,,
+CHOR,FSK,2,T,Choreographer,Chorégraphe,안무가,,
+COACH,FSK,1,C,Coach,Entraîneur,코치 ,,
+DOP,FSK,,S,Data Operator,Responsable entrée de données,데이터 오퍼레이터,,
+JU,FSK,,J,Judge,Juge,심판,,
+MEDIC,FSK,,J,Medical Advisor,Conseiller médical,메디컬 어드바이저,,
+OAC,FSK,,J,Official Assessment Commission,Commission officielle d'évaluation,공식 평가위원회,,
+RE,FSK,,J,Referee,Arbitre,레프리,,
+ROP,FSK,,S,Replay Operator,Contrôleur vidéo,리플레이 오퍼레이터,,
+TCH_CTR,FSK,,J,Technical Controller,Contrôleur technique,테크니컬 컨트롤러,,
+TCH_DEL,FSK,,J,Technical Delegate,Délégué technique,기술대표(TD),,
+TCH_SPC,FSK,,J,Technical Specialist,Spécialiste technique,테크니컬 스페셜리스트,,
+AA01,IHO,0,A,Athlete,Athlète,선수,Y,Y
+AST_COA,IHO,2,C,Team Assistant Coach,Entraîneur adjoint de l'équipe,팀 코치 ,,
+CHAIR,IHO,,J,Tournament Chairman,Président du tournoi,토너먼트 체어맨,Y,N
+COACH,IHO,1,C,Team Head Coach,Entraîneur chef de l'équipe,팀 감독,,
+DISC_J,IHO,,J,Disciplinary Judge,Juge disciplinaire,징계위원회 저지,Y,N
+DOCTOR,IHO,6,T,Team Doctor,Médecin de l'équipe,팀 닥터,,
+FIT_COA,IHO,13,C,Fitness Coach,Entraîneur physique,피트니스 코치,,
+GOAL_COA,IHO,12,C,Goaltending Coach,Entraîneur des gardiens de but,골키퍼 코치,,
+LIN_MEN,IHO,,J,Linesman,Juge de ligne,선심,,
+MED_SPV,IHO,,J,Medical Supervisor,Responsable médical,메디컬 수퍼바이저,Y,N
+MEDIC,IHO,8,T,Team Medical Officer,Officier de l'équipe médicale,팀 메디컬 오피서,Y,N
+OFFIC,IHO,,J,Technical Official,Officiel technique,기술임원,Y,N
+PHYSIO,IHO,7,T,Team Physiotherapist,Physiothérapeute de l'équipe,팀 물리치료사,,
+RE,IHO,,J,Referee,Arbitre,주심,,
+RFR_SPV,IHO,,J,Referee Supervisor,Superviseur des arbitres,레프리 수퍼바이저,Y,N
+RM,IHO,,J,Result Manager,Responsable des résultats,결과 매니저,Y,N
+SCR_KPR,IHO,,J,Scorekeeper,Marqueur,스코어키퍼,Y,N
+TCH_DEL,IHO,,J,IIHF Technical Delegate,Délégué technique IIHF,IIHF 기술대표(TD),Y,N
+TK,IHO,,J,Timekeeper,Chronométreur,타임키퍼,Y,N
+TM_EQUIP,IHO,5,T,Team Equipment Manager,Gestionnaire de l'équipement de l'équipe,팀 장비 매니저,,
+TM_MEDIA,IHO,11,T,Team Media Manager,Chargé de Média de l'équipe,팀 미디어 매니저,Y,N
+TM_MGR,IHO,3,T,Team General Manager,Directeur général de l'équipe,팀 총괄 매니저,,
+TM_OFFIC,IHO,4,T,Team Leader,Chef d'équipe,팀 리더,,
+TM_STF,IHO,10,T,Team Staff,Personnel d'équipe,팀직원,Y,N
+VID_COA,IHO,9,C,Team Video Coach,Entraîneur vidéo de l'équipe,팀 비디오 코치,,
+AA01,LUG,0,A,Athlete,Athlète,선수,Y,Y
+FIN,LUG,,J,Finish Leader,Juge à l'arrivée,피니시 총책임자,,
+JUR_ME,LUG,,J,Member of the Jury,Membre du corps arbitral,심판위원,,
+JUR_PR,LUG,,J,Chairperson of the Jury,Président du jury,심판위원장,,
+OFFIC,LUG,,S,Technical Official,Officiel technique,기술임원,,
+PR,LUG,,J,FIL President,Président de la FIL,FIL 회장,,
+RCE_DIR,LUG,,J,Race Director,Directeur de course,레이스 디렉터,,
+SEC,LUG,,J,FIL Secretary General,Secrétaire général de la FIL,FIL 사무총괄,,
+STR,LUG,,J,Start Leader,Juge au départ,스타트 총책임자,,
+TCH_DEL,LUG,,J,Technical Delegate,Délégué technique,기술대표(TD),,
+TCH_DELA,LUG,,J,FIL Technical Delegate,Délégué technique adjoint de la FIL,FIL 기술대표(TD),,
+TRK_CHF,LUG,,J,Chief of the Track,Directeur de piste,트랙 총책임자,,
+AA01,NCB,0,A,Athlete,Athlète,선수,Y,Y
+COMP_CHF,NCB,3,J,"Chief of Competition (SJP, CCS)","Chef de compétition (SJP, CCS)","경기위원장(SJP, CCS)",Y,Y
+CRS_CHF,NCB,6,J,Chief of Course (CCS),Directeur de parcours (CCS),코스 위원장,Y,Y
+EQUIP,NCB,7,J,"FIS Equipment Controller (SJP, CCS)","Contrôleur de l'équipement FIS (SJP, CCS)","FIS 장비 컨트롤러(SJP, CCS)",Y,Y
+JU,NCB,8,J,Judge (SJP),Juge (SJP),심판 (SJP),Y,Y
+RCE_DIR,NCB,1,J,"FIS Race Director (SJP, CCS)","Directeur de course FIS (SJP, CCS)","FIS 레이스 디렉터(SJP, CCS)",Y,Y
+RCE_DIRA,NCB,5,J,"FIS Assistant Race Director (SJP, CCS)","Directeur de course adjoint FIS (SJP, CCS)","FIS 어시스턴트 레이스 디렉터(SJP, CCS)",Y,Y
+TCH_DEL,NCB,2,J,"FIS Technical Delegate (SJP, CCS)","Délégué technique FIS (SJP, CCS)","FIS 기술대표(TD)(SJP, CCS)",Y,Y
+TCH_DELA,NCB,4,J,"FIS Assistant Technical Delegate (SJP, CCS)","Délégué technique adjoint FIS (SJP, CCS)","FIS 어시스턴트 기술대표(SJP, CCS)",Y,Y
+AA01,SBD,0,A,Athlete,Athlète,선수,Y,Y
+CHF_BA,SBD,,J,Chief of Big Air,Chef de Big Air,빅에어 위원장,,
+CHF_HP,SBD,,J,Chief of Halfpipe,Chef du halfpipe,하프파이프 위원장,,
+CHF_PGS,SBD,,J,Chief of Parallel Giant Slalom,Chef de Slalom Géant Parallèle,평행대회전 위원장,,
+CHF_SLP,SBD,,J,Chief of Slopestyle,Chef de Slopestyle,슬로프스타일 위원장,,
+COMP_CHF,SBD,,J,Chief of Competition,Chef de compétition,경기위원장,Y,Y
+CON_DIR,SBD,,J,FIS Contest Director,Directeur d'épreuve FIS,FIS 콘테스트 디렉터,Y,Y
+CRS_BLD,SBD,,S,Course Builder,Constructeur de la piste,코스 빌더,Y,Y
+CRS_CHF,SBD,,J,Chief of Course,Directeur de parcours,코스위원장,Y,Y
+CRS_DB,SBD,,J,Course Designer & Builder,Concepteur et constructeur du parcours,코스 디자이너 & 빌더,Y,Y
+CRS_DSG,SBD,,J,Course Designer,Traceur,코스 디자이너,Y,Y
+CRS_HP,SBD,,J,Halfpipe Technical Advisor,Conseiller technique du halfpipe,하프파이프 기술 어드바이저,,
+CRS_SET,SBD,,J,Course Setter,Traceur,코스 세터,Y,Y
+CRS_SPV,SBD,,J,Course Supervisor,Superviseur de parcours,코스 수퍼바이저,Y,Y
+FSH_CHF,SBD,,J,Chief of Finish,Chef de l'arrivée,피니시 치프,Y,Y
+FSH_RE,SBD,,J,Finish Referee,Juge d'arrivée,피니시 레프리,Y,Y
+HED_JU,SBD,,J,Head Judge,Juge chef,헤드 저지,Y,Y
+HED_JU_A,SBD,,J,Assistant Head Judge,Juge en chef adjoint,어시스턴트 헤드 저지,,
+JU,SBD,,J,Judge,Juge,저지,Y,Y
+MED_SPV,SBD,,J,Medical Supervisor,Responsable médical,메디컬 수퍼바이저,Y,N
+OFFIC,SBD,,J,Technical Official,Officiel technique,기술임원,Y,N
+RCE_DIR,SBD,,J,FIS Race Director,Directeur de course FIS,FIS 레이스 디렉터,Y,Y
+RCE_DIRA,SBD,,J,FIS Assistant Race Director,Directeur de course adjoint FIS,FIS 어시스턴트 레이스 디렉터,,
+RE,SBD,,J,Referee,Arbitre,레프리,Y,Y
+SCR_CHF,SBD,,J,Chief of Scoring,Chef des résultats,계측 위원장,Y,N
+SEC,SBD,,J,Competition Secretary,Secrétaire de la compétition,경기 사무장,Y,N
+STR_RE,SBD,,J,Start Referee,Juge au départ,스타트 레프리,Y,Y
+TCH_DEL,SBD,,J,FIS Technical Delegate,Délégué technique FIS,FIS 기술대표(TD),Y,Y
+TK,SBD,,J,Chief of Timing,Chef du chronométrage,계측 위원장,Y,N
+TRK_CAL,SBD,,J,Trick Caller,Trick Caller,트릭 콜러,Y,N
+VER_SCR,SBD,,J,Score Verifier,Vérificateur du pointage,점수 감사관,Y,Y
+VID,SBD,,S,Video Controller,Contrôleur vidéo,비디오 컨트롤러,Y,Y
+AA01,SJP,0,A,Athlete,Athlète,선수,Y,Y
+COMP_CHF,SJP,3,J,Chief of Competition,Chef de compétition,경기위원장,Y,Y
+EQUIP,SJP,6,J,FIS Equipment Controller,Contrôleur de l'équipement FIS,FIS 장비 컨트롤러,Y,Y
+JU,SJP,7,J,Judge,Juge,심판,Y,Y
+RCE_DIR,SJP,1,J,FIS Race Director,Directeur de course FIS,FIS 레이스 디렉터,Y,Y
+RCE_DIRA,SJP,5,J,FIS Assistant Race Director,Directeur de course adjoint FIS,FIS 어시스턴트 레이스 디렉터,Y,Y
+TCH_DEL,SJP,2,J,FIS Technical Delegate,Délégué technique FIS,FIS 기술대표(TD),Y,Y
+TCH_DELA,SJP,4,J,FIS Assistant Technical Delegate,Délégué technique adjoint FIS,FIS 어시스턴트 기술대표,Y,Y
+AA01,SKN,0,A,Athlete,Athlète,선수,Y,Y
+JUR_AST,SKN,,J,Jury Assistant,Juge adjoint,부 심판,,
+JUR_ME,SKN,,J,Member of the Jury,Membre du corps arbitral,심판위원,,
+JUR_PR,SKN,,J,President of the Jury,Président du corps arbitral,심판위원장,,
+OFFIC,SKN,,J,Technical Official,Officiel technique,기술임원,,
+RCE_DIR,SKN,,J,Race Director,Directeur de course,레이스 디렉터,,
+TCH_DEL,SKN,,J,Technical Delegate,Délégué technique,기술대표(TD),,
+TRK_CHF,SKN,,J,Chief of the Track,Directeur de piste,트랙 총책임자,,
+AA01,SSK,0,A,Athlete,Athlète,선수,Y,Y
+AR,SSK,,J,Assistant Referee,Arbitre assistant,어시스턴트 레프리,,
+RE,SSK,,J,Referee,Arbitre,레프리,,
+STR,SSK,,J,Starter,Préposé au départ,스타터,,
+AA01,STK,0,A,Athlete,Athlète,선수,Y,Y
+AR,STK,5,J,Assistant Referee,Arbitre assistant,부 심판장,,
+AR1,STK,4,J,First Assistant Referee,Premier arbitre assistant ,1st 부 심판장,,
+CST,STK,8,S,Competitors Steward,Assistant des athlètes,조 편성원,,
+MEDIC,STK,2,J,Medical Advisor,Conseiller médical,메디컬 어드바이저,,
+RE,STK,3,J,Referee,Arbitre,심판장,,
+STR,STK,7,J,Starter,Préposé au départ,스타터,,
+TCH_DEL,STK,1,J,Technical Delegate,Délégué technique,기술대표(TD),,
+VR,STK,6,J,Assistant Referee Video,Arbitre vidéo assistant,어시스턴트 비디오레프리,,

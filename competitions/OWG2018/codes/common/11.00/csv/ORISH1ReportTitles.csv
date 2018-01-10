@@ -1,0 +1,1101 @@
+Discipline,ORIS_NO,ENG Description,FRA Description,KOR Description
+ALP,C06,Activity List,Liste des activités,활동 리스트
+ALP,C08,Competition Schedule,Horaire des compétitions,경기 일정
+ALP,C25A,FIS World Cup Standings,Classement de la Coupe du monde FIS,FIS 월드컵 랭킹
+ALP,C25B,Overall FIS World Cup Standings,Classement général de la Coupe du monde FIS,FIS 월드컵 종합 리스트
+ALP,C26A,FIS WCSL List,Liste FIS WCSL,FIS WCSL 리스트
+ALP,C26B,Overall FIS WCSL List,Liste FIS WCSL - classement général,FIS 월드컵 종합 출발 리스트 
+ALP,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+ALP,C31A,Entries,Inscriptions,엔트리
+ALP,C32C,Entry List by Event,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+ALP,C35,Competition Officials,Officiels de compétition,경기임원
+ALP,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+ALP,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+ALP,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+ALP,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+ALP,C45,Draw List,Liste de tirage au sort,대진표 리스트
+ALP,C46A,Draw Cards,Cartes de tirage au sort,대진표 카드
+ALP,C46B,Draw Cards,Cartes de tirage au sort,대진표 카드
+ALP,C48A,Entry Form,Formulaire d'inscription,엔트리 양식
+ALP,C48B,Entry Form,Formulaire d'inscription,엔트리 양식
+ALP,C49,Weather,Météo,기상
+ALP,C51A,Start List,Liste de départ,스타트 리스트
+ALP,C51B,Start List,Liste de départ,스타트 리스트
+ALP,C51C,Start List,Liste de départ,스타트 리스트
+ALP,C51D,Start List,Liste de départ,스타트 리스트
+ALP,C51E,Start List,Liste de départ,스타트 리스트
+ALP,C67,Official Communication,Communication officielle,공식 전달사항
+ALP,C68,Sport Communication,Communication sportive,종목 전달사항
+ALP,C71A,Partial Results,Résultats partiels,중간 경기결과
+ALP,C71B,Partial Results,Résultats partiels,중간 경기결과
+ALP,C72A,Unofficial Results,Résultats non officiels,비공식 경기결과
+ALP,C72B,Unofficial Results,Résultats non officiels,비공식 경기결과
+ALP,C72C,Unofficial Results,Résultats non officiels,비공식 경기결과
+ALP,C72D,Unofficial Results,Résultats non officiels,비공식 경기결과
+ALP,C72E,Unofficial Results,Résultats non officiels,비공식 경기결과
+ALP,C73A,Official Results,Résultats officiels,공식 경기결과
+ALP,C73B,Official Results,Résultats officiels,공식 경기결과
+ALP,C73C,Official Results,Résultats officiels,공식 경기결과
+ALP,C73D,Official Results,Résultats officiels,공식 경기결과
+ALP,C73E,Official Results,Résultats officiels,공식 경기결과
+ALP,C73F,Official Results,Résultats officiels,공식 경기결과
+ALP,C73G,Results,Résultats,경기결과
+ALP,C75,Bracket,Tableau de résultat,대진표
+ALP,C77A,Performance Analysis by Rank,Analyses par rang,랭킹별 퍼포먼스
+ALP,C77B,Performance Analysis by Bib,Analyses par dossard,빕별 퍼포먼스 분석
+ALP,C77C,Penalty Calculation,Calcul de la pénalité,페널티 산출
+ALP,C92A,Medallists,Médaillé(e)s,메달리스트
+ALP,C92B,Medallists,Médaillé(e)s,메달리스트
+ALP,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+ALP,C95,Medal Standings,Classement des médailles,메달 순위
+ALP,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+ALP,N03,Course Map and Profile,Plan et profil du parcours,코스 지도 및 프로필
+ALP,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+ALP,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+ALP,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+ALP,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+ALP,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+ALP,N24,NOC Profile,Profil du CNO,NOC 프로필
+ALP,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+ALP,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+ALP,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+ALP,N86A,History,Histoire du sport,스포츠 역사
+ALP,N86B,FIS - Federation Facts,Informations sur la Fédération - FIS,FIS - 연맹 현황
+ALP,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+ALP,N86D,Facility Description,Description du site de compétition,시설 정보
+ALP,N86E,Media Information,Informations aux médias,미디어 정보
+ALP,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+ALP,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+ALP,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+ALP,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+ALP,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+ALP,N90A,Media Communication,Communication aux médias,미디어 전달사항
+ALP,N90B,News Article,Article de presse,일반 기사
+ALP,N90C,IOC News,Actualités du CIO,IOC 뉴스
+ALP,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+ALP,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+BOB,C06,Activity List,Liste des activités,활동 리스트
+BOB,C07,Training Schedule,Horaire des entraînements,연습 일정
+BOB,C08,Competition Schedule,Horaire des compétitions,경기 일정
+BOB,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+BOB,C31A,Entries,Inscriptions,엔트리
+BOB,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+BOB,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+BOB,C35,Competition Officials,Officiels de compétition,경기임원
+BOB,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+BOB,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+BOB,C45B,Entry Form,Formulaire d'inscription,엔트리 양식
+BOB,C48B,Control List,Liste de contrôle,컨트롤 리스트
+BOB,C49,Weather,Météo,기상
+BOB,C51A,Start List,Liste de départ,스타트 리스트
+BOB,C51B,Start List,Liste de départ,스타트 리스트
+BOB,C67,Official Communication,Communication officielle,공식 전달사항
+BOB,C68,Sport Communication,Communication sportive,종목 전달사항
+BOB,C72,Unofficial Results,Résultats non officiels,비공식 경기결과
+BOB,C73A1,Results,Résultats,경기결과
+BOB,C73A2,Results,Résultats,경기결과
+BOB,C73B1,Results,Résultats,경기결과
+BOB,C73B2,Official Results,Résultats officiels,공식 경기결과
+BOB,C77A,Performance Analysis,Analyses de l'épreuve,퍼포먼스 분석
+BOB,C77B,Performance Analysis,Analyses de l'épreuve,퍼포먼스 분석
+BOB,C81,Records,Records,기록
+BOB,C82,Competition Data,Données de compétition,경기 데이터
+BOB,C92B,Medallists,Médaillé(e)s,메달리스트
+BOB,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+BOB,C95,Medal Standings,Classement des médailles,메달 순위
+BOB,C97,IBSF Medal Standings,Classement des médailles - IBSF,IBSF 메달 랭킹
+BOB,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+BOB,N03,Track Information,Information sur la piste,트랙 정보
+BOB,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+BOB,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+BOB,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+BOB,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+BOB,N17B,Results Summary in Last Olympic Cycle,Résumé des résultats au dernier cycle olympique,지난 올림픽 주기 경기결과 요약
+BOB,N17C,World Cup Standings,Classement de la coupe du monde,월드컵 랭킹
+BOB,N17D,IBSF World Ranking,Classement mondial de l'IBSF,IBSF 세계 랭킹
+BOB,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+BOB,N24,NOC Profile,Profil du CNO,NOC 프로필
+BOB,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+BOB,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+BOB,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+BOB,N86A,History,Histoire du sport,스포츠 역사
+BOB,N86B,IBSF - Federation Facts,Informations sur la Fédération - IBSF,IBSF - 연맹 현황
+BOB,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+BOB,N86D,Facility Description,Description du site de compétition,시설 정보
+BOB,N86E,Media Information,Informations aux médias,미디어 정보
+BOB,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+BOB,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+BOB,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+BOB,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+BOB,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+BOB,N90A,Media Communication,Communication aux médias,미디어 전달사항
+BOB,N90B,News Article,Article de presse,일반 기사
+BOB,N90C,IOC News,Actualités du CIO,IOC 뉴스
+BOB,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+BOB,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+BTH,C06,Activity List,Liste des activités,활동 리스트
+BTH,C07,Training Schedule,Horaire des entraînements,연습 일정
+BTH,C08,Competition Schedule,Horaire des compétitions,경기 일정
+BTH,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+BTH,C31A,Entries,Inscriptions,엔트리
+BTH,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+BTH,C35,Competition Officials,Officiels de compétition,경기임원
+BTH,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+BTH,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+BTH,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+BTH,C45A,Entry Form,Formulaire d'inscription,엔트리 양식
+BTH,C45A1,Grouping List,Liste des concurrent(e)s par groupe,그룹 리스트
+BTH,C45C1,Zeroing Allocation,Attribution des lignes pour tir d'essai,영점사격 배치
+BTH,C45C2,Range Allocation,Attribution des lignes,사격장 배치
+BTH,C45D,Entry Confirmation,Confirmation d'inscription,참가선수 확정
+BTH,C49,Weather,Météo,기상
+BTH,C51A,Start List,Liste de départ,스타트 리스트
+BTH,C51B1,Provisional Start List by NOC,Liste de départ provisoire par CNO,NOC별 예비 스타트 리스트
+BTH,C51B2,Start List,Liste de départ,스타트 리스트
+BTH,C51C,Start List,Liste de départ,스타트 리스트
+BTH,C51C1,Lane Assignment,Attribution des lignes,레인 할당
+BTH,C51D1,Qualification Status - Provisional Start List,Chemin de qualification - liste de départ provisoire,출전자격 현황 - 잠정 스타트 리스트
+BTH,C51D2,Start List,Liste de départ,스타트 리스트
+BTH,C52A,Start List Summary,Liste de départ simplifiée,스타트 리스트 요약
+BTH,C52B,Start List Summary,Liste de départ simplifiée,스타트 리스트 요약
+BTH,C55,Bib Distribution List by NOC,Liste de distribution des dossards par CNO,NOC별 빕 배포 리스트
+BTH,C56A,Equipment Control List,Liste de contrôle de l'équipement,장비 컨트롤 리스트
+BTH,C56B,Equipment Control List - Spare Rifles,Liste de contrôle de l'équipement - carabines de rechange,장비 컨트롤 리스트 - 여분 소총
+BTH,C67,Official Communication,Communication officielle,공식 전달사항
+BTH,C68,Sport Communication,Communication sportive,종목 전달사항
+BTH,C72A,Provisional Results,Résultats provisoires,잠정 경기결과
+BTH,C72B,Provisional Results,Résultats provisoires,잠정 경기결과
+BTH,C72C,Provisional Results,Résultats provisoires,잠정 경기결과
+BTH,C72D,Provisional Results,Résultats provisoires,잠정 경기결과
+BTH,C72E,Provisional Results,Résultats provisoires,잠정 경기결과
+BTH,C73A,Final Results,Résultats définitifs,최종 경기결과
+BTH,C73B,Final Results,Résultats définitifs,최종 경기결과
+BTH,C73C,Final Results,Résultats définitifs,최종 경기결과
+BTH,C73D,Final Results,Résultats définitifs,최종 경기결과
+BTH,C73E,Final Results,Résultats définitifs,최종 경기결과
+BTH,C76,Participation Summary by NOC,Résumé des participant(e)s par CNO,NOC별 참가선수 요약
+BTH,C77A,Competition Analysis,Analyses de l'épreuve,경기 분석
+BTH,C77B,Competition Analysis,Analyses de l'épreuve,경기 분석
+BTH,C77C,Competition Analysis,Analyses de l'épreuve,경기 분석
+BTH,C77D,Competition Analysis,Analyses de l'épreuve,경기 분석
+BTH,C82,Final Results - Competition Data Summary,Résultats définitifs - résumé des données de compétition,최종 경기결과 - 경기 데이터 요약
+BTH,C92A,Medallists,Médaillé(e)s,메달리스트
+BTH,C92B,Medallists,Médaillé(e)s,메달리스트
+BTH,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+BTH,C95,Medal Standings,Classement des médailles,메달 순위
+BTH,N02,Competition Format and Rules,Format et règlements des compétitions,경기방식 및 규정
+BTH,N03,Course Map and Profile,Tracé et profil du parcours,코스 지도 및 프로필
+BTH,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+BTH,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+BTH,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+BTH,N17A1,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+BTH,N17A2,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+BTH,N17A3,World Cup Total Score,Classement de la coupe du monde,현 월드컵 점수
+BTH,N17A4,World Cup Relay Score,Classement de la coupe du monde - relais,현 월드컵 점수
+BTH,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+BTH,N24,NOC Profile,Profil du CNO,NOC 프로필
+BTH,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+BTH,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+BTH,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+BTH,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+BTH,N59B1,Extended Start List by Leg,Liste de départ détaillée par relais,주자별 상세 스타트리스트
+BTH,N86A,History,Histoire du sport,스포츠 역사
+BTH,N86B,IBU - Federation Facts,Informations sur la Fédération - IBU,IBU - 연맹 현황
+BTH,N86C,Qualification Criteria,Systèmes de qualification,출전자격 획득 절차
+BTH,N86D,Facility Description,Description du site de compétition,시설 정보
+BTH,N86E,Media Information,Informations aux médias,미디어 정보
+BTH,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+BTH,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+BTH,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+BTH,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+BTH,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+BTH,N90A,Media Communication,Communication aux médias,미디어 전달사항
+BTH,N90B,News Article,Article de presse,일반 기사
+BTH,N90C,IOC News,Actualités du CIO,IOC 뉴스
+BTH,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+BTH,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+CCS,C06,Activity List,Liste des activités,활동 리스트
+CCS,C07,Training Schedule,Horaire des entraînements,연습 일정
+CCS,C08,Competition Schedule,Horaire des compétitions,경기 일정
+CCS,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+CCS,C31A,Entries,Inscriptions,엔트리
+CCS,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+CCS,C35,Competition Officials,Officiels de compétition,경기임원
+CCS,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+CCS,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+CCS,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+CCS,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+CCS,C45A,Entry Form,Formulaire d'inscription,엔트리 양식
+CCS,C45B,Relay Entry Form,Formulaire d'inscription - relais,계주 엔트리 양식
+CCS,C45C,Team Sprint Entry Form,Formulaire d'inscription - sprint par équipe,팀 스프린트 엔트리 양식
+CCS,C49,Weather,Météo,기상
+CCS,C50A,Individual Entry Checklist,Liste de vérifications des inscriptions individuelles,개인 엔트리 체크리스트
+CCS,C50B,Individual Entry Checklist,Liste de vérifications des inscriptions individuelles,개인 엔트리 체크리스트
+CCS,C50C,Relay Entry Checklist,Liste de vérifications des inscriptions - relais,계주 엔트리 체크리스트
+CCS,C50D,Team Sprint Entry Checklist,Liste de vérifications des inscriptions - sprint par équipe,팀 스프린트 엔트리 체크리스트
+CCS,C51A,Start List,Liste de départ,스타트 리스트
+CCS,C51C,Start List,Liste de départ,스타트 리스트
+CCS,C51D1,Start List,Liste de départ,스타트 리스트
+CCS,C51E,Start List,Liste de départ,스타트 리스트
+CCS,C51F,Start List,Liste de départ,스타트 리스트
+CCS,C55,Bib Distribution List by NOC,Liste de distribution des dossards par CNO,NOC별 빕 배포 리스트
+CCS,C67,Official Communication,Communication officielle,공식 전달사항
+CCS,C68,Sport Communication,Communication sportive,종목 전달사항
+CCS,C71B,Unofficial Partial Results,Résultats partiels non officiels,비공식 부분 경기결과
+CCS,C71E,Unofficial Partial Results,Résultats partiels non officiels,비공식 부분 경기결과
+CCS,C72A,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72B,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72C,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72D1,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72D3,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72E,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72F2,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C72F3,Unofficial Results,Résultats non officiels,비공식 경기결과
+CCS,C73A,Results,Résultats,경기결과
+CCS,C73B,Results,Résultats,경기결과
+CCS,C73C,Results,Résultats,경기결과
+CCS,C73D1,Results,Résultats,경기결과
+CCS,C73D3,Results,Résultats,경기결과
+CCS,C73E,Results,Résultats,경기결과
+CCS,C73F2,Results,Résultats,경기결과
+CCS,C73F3,Results,Résultats,경기결과
+CCS,C75D,Results Bracket,Tableau des résultats,경기결과 대진표
+CCS,C75F,Results Bracket,Tableau des résultats,경기결과 대진표
+CCS,C77A,Competition Analysis,Analyse de la course,경기 분석
+CCS,C77B,Competition Analysis,Analyse de la course,경기 분석
+CCS,C77C,Competition Analysis,Analyse de la course,경기 분석
+CCS,C92A,Medallists,Médaillé(e)s,메달리스트
+CCS,C92B,Medallists,Médaillé(e)s,메달리스트
+CCS,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+CCS,C95,Medal Standings,Classement des médailles,메달 순위
+CCS,C97,FIS Nordic Events Medal Standings,Classement des médailles - épreuves nordiques de la FIS,FIS 노르딕 종목 메달 랭킹
+CCS,N02,Competition Format and Rules,Format et règlements des compétitions,경기방식 및 규정
+CCS,N03,Course Map and Profile,Tracé et profil du parcours,코스 지도 및 프로필
+CCS,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+CCS,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+CCS,N12,FIS Nordic Events Medals by NOC,Historique des médailles - épreuves nordiques de la FIS,NOC별 FIS 노르딕 종목 메달
+CCS,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+CCS,N15A,FIS Nordic Events Multi-Medallists,Multimédaillé(e)s - épreuves nordiques de la FIS,FIS 노르딕 종목 멀티 메달리스트
+CCS,N17A1,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+CCS,N17A2,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+CCS,N17B,Current FIS World Cup Standings,Classement actuel de la Coupe du monde FIS,현 FIS 월드컵 랭킹
+CCS,N17C,Current FIS Nations Standings,Classement actuel de la Coupe du monde FIS des nations,현 FIS 나라별 랭킹
+CCS,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+CCS,N24,NOC Profile,Profil du CNO,NOC 프로필
+CCS,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+CCS,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+CCS,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+CCS,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+CCS,N86A,History,Histoire du sport,스포츠 역사
+CCS,N86B,FIS - Federation Facts,Informations de la Fédération - FIS,FIS - 연맹 현황
+CCS,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+CCS,N86D,Facility Description,Description du site de compétition,시설 정보
+CCS,N86E,Media Information,Informations aux médias,미디어 정보
+CCS,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+CCS,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+CCS,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+CCS,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+CCS,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+CCS,N90A,Media Communication,Communication aux médias,미디어 전달사항
+CCS,N90B,News Article,Article de presse,일반 기사
+CCS,N90C,IOC News,Actualités du CIO,IOC 뉴스
+CCS,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+CCS,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+CUR,C06,Activity List,Liste des activités,활동 리스트
+CUR,C07,Training Schedule,Horaire des entraînements,연습 일정
+CUR,C08,Competition Schedule,Horaire des compétitions,경기 일정
+CUR,C31A,Entries,Inscriptions,엔트리
+CUR,C32E,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+CUR,C35,Competition Officials,Officiels de compétition,경기임원
+CUR,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+CUR,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+CUR,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+CUR,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+CUR,C48A,Original Team Line-up Form,Formulaire de composition initiale de l'équipe,기본 팀 라인업 양식
+CUR,C48B,Game Team Line-up Form,Formulaire de composition de l'équipe par partie,경기 팀 라인업 양식
+CUR,C48C,Team Line-up Change Form,Formulaire de modification de la composition de l'équipe,팀 라인업 변경 양식
+CUR,C48D,On-ice Official Form,Rapport de l'officiel,온 아이스 심판 양식
+CUR,C48E,Timing Form,Feuille de chronométrage,시간 계측 양식
+CUR,C51A,Line-ups,Composition des équipes,라인업
+CUR,C51B,Line-ups,Composition des équipes,라인업
+CUR,C54,Team Line-ups,Composition des équipes,팀 라인업
+CUR,C56,Extended Team List by NOC,Composition détaillée des équipes par CNO,NOC별 상세 팀 리스트
+CUR,C66,Last Stone Draw Control Sheet,Feuille de contrôle du placement de la dernière pierre,마지막 스톤 컨트롤 기록
+CUR,C67,Official Communication,Communication officielle,공식 전달사항
+CUR,C68,Sport Communication,Communication sportive,종목 전달사항
+CUR,C69,Game - Shot by Shot,Déroulement de la partie,경기별 슛 기록
+CUR,C73,Game Results,Résultats de la partie,대회 경기결과
+CUR,C74A,Session Results and Standings,Résultats de la session et classement,세션 경기결과 및 랭킹
+CUR,C74B,Session Results and Standings,Résultats de la session et classement,세션 경기결과 및 랭킹
+CUR,C76A,Competition Summary,Résumé de la compétition,경기 개요
+CUR,C76B,Final Standings,Classement final,최종 랭킹
+CUR,C76C,Competition Matrix,Tableau des rencontres,라운드로빈 경기결과
+CUR,C76D,Draw Shot Challenge,Moyenne des tirs à la cible,승부 던지기
+CUR,C83,Most Important Shots,Tirs les plus importants,우승 결정 슛
+CUR,C84A,Percentage Summary,Résumé des pourcentages,백분율 요약
+CUR,C84B,Cumulative Player Statistics by Team,Statistiques individuelles cumulées par équipe,팀별 선수 누적 통계
+CUR,C84C1,Shot Success Percentage by Position,Pourcentage de tirs réussis par position,포지션별 샷 성공률
+CUR,C84C2,Shot Success Percentage by Gender,Pourcentage de tirs réussis par sexe,성별 샷 성공률
+CUR,C84D,Scoring Analysis,Analyse des points marqués,득점 분석
+CUR,C84E,Summary of Big Ends,Résumé des manches avec quatre points et plus,대량 득점 엔드 요약
+CUR,C84F,Sheet by Sheet Statistics,Statistiques par piste,시트별 통계
+CUR,C84G,Time-out Statistics,Statistiques de temps d'arrêt,타임아웃 통계
+CUR,C84H,Power Play Analysis,Analyse du Power Play,파워 플레이 분석
+CUR,C92B,Medallists,Médaillé(e)s,메달리스트
+CUR,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+CUR,C95,Medal Standings,Classement par médailles,메달 순위
+CUR,N02A,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+CUR,N02B,Glossary of Terms,Glossaire,용어집
+CUR,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+CUR,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+CUR,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+CUR,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+CUR,N17B,WCF World Ranking,Classement de la coupe du monde WCF,WCF 세계 랭킹
+CUR,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+CUR,N21,Coach Biography,Biographie d'entraîneur,코치 바이오그래피
+CUR,N22,Team Profile,Profil de l'équipe,팀 프로필
+CUR,N24,NOC Profile,Profil du CNO,NOC 프로필
+CUR,N26,WCF Olympic Qualification,Qualification olympique WCF,WCF 올림픽 출전 자격
+CUR,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+CUR,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+CUR,N86A,History,Histoire du sport,스포츠 역사
+CUR,N86B,WCF - Federation Facts,Informations sur la Fédération - WCF,WCF - 연맹 현황
+CUR,N86C,Qualification Criteria,Systèmes de qualification,출전자격 획득 절차
+CUR,N86D,Facility Description,Description du site de compétition,시설 정보
+CUR,N86E,Media Information,Informations aux médias,미디어 정보
+CUR,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+CUR,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+CUR,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+CUR,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+CUR,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+CUR,N90A,Media Communication,Communication aux médias,미디어 전달사항
+CUR,N90B,News Article,Article de presse,일반 기사
+CUR,N90C,IOC News,Actualités du CIO,IOC 뉴스
+CUR,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+CUR,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+FRS,C06A,Activity List,Liste des activités,활동 리스트
+FRS,C06B,Activity List by Event,Liste des activités par épreuve,세부종목별 활동 리스트
+FRS,C07,Training Schedule,Horaire des entraînements,연습 일정
+FRS,C08,Competition Schedule,Horaire des compétitions,경기 일정
+FRS,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+FRS,C31A,Entries,Inscriptions,엔트리
+FRS,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+FRS,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+FRS,C32C,Entry List by Event,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+FRS,C35,Competition Officials,Officiels de compétition,경기임원
+FRS,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+FRS,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+FRS,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+FRS,C45A1,Draw List by FIS/WC Points,Liste de tirage au sort par points FIS/WC,FIS/WC 점수별 대진표 리스트
+FRS,C45A2,FIS Seeding List,Liste de tirage au sort,FIS 시딩 리스트
+FRS,C45B,Confirmation List,Liste de confirmation,확정 리스트
+FRS,C45C,Bib Assignment by Event,Attribution des dossards par épreuve,세부종목별 빕 할당
+FRS,C49,Weather,Météo,기상
+FRS,C51A1,Start List,Liste de départ,스타트 리스트
+FRS,C51A2,Start List,Liste de départ,스타트 리스트
+FRS,C51H,Start List,Liste de départ,스타트 리스트
+FRS,C51M1,Start List,Liste de départ,스타트 리스트
+FRS,C51M2,Start List,Liste de départ,스타트 리스트
+FRS,C51S,Start List,Liste de départ,스타트 리스트
+FRS,C51X1,Start List,Liste de départ,스타트 리스트
+FRS,C65A1,Starters' Protocol,Protocole de départ,스타터 프로토콜
+FRS,C65A2,Flight Plan,Liste initiale des sauts,비행 계획
+FRS,C65B,Roll Call List,Liste d'appel,출석확인 리스트
+FRS,C67,Official Communication,Communication officielle,공식 전달사항
+FRS,C68,Sport Communication,Communication sportive,종목 전달사항
+FRS,C71H,Partial Results,Résultats partiels,중간 경기결과
+FRS,C71S,Partial Results,Résultats partiels,중간 경기결과
+FRS,C72X1,Unofficial Results,Résultats non officiels,비공식 경기결과
+FRS,C73A,Results,Résultats,경기결과
+FRS,C73H,Results,Résultats,경기결과
+FRS,C73M,Results,Résultats,경기결과
+FRS,C73S,Results,Résultats,경기결과
+FRS,C73X1,Results,Résultats,경기결과
+FRS,C73X2,Results,Résultats,경기결과
+FRS,C74A1,Phase Results Summary,Résumé des résultats par phase,단계별 경기결과 요약
+FRS,C74A2,Event Results Summary,Résumé des résultats par épreuve,이벤트 경기결과 요약
+FRS,C74M1,Phase Results Summary,Résumé des résultats par phase,단계별 경기결과 요약
+FRS,C74M2,Event Results Summary,Résumé des résultats par épreuve,이벤트 경기결과 요약
+FRS,C75X,Brackets,Tableau de résultat,대진표
+FRS,C77A,Tie-Breaking Protocol,Partage des ex æquo,동점 처리 절차
+FRS,C77H,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+FRS,C77M,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+FRS,C77S,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+FRS,C77X1,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+FRS,C77X2,Lane Choice Analysis,Analyse du choix de couloir,레인 선정 분석
+FRS,C77X3,Race Analysis,Analyse de la course,경기 분석
+FRS,C92A,Medallists,Médaillé(e)s,메달리스트
+FRS,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+FRS,C95,Medal Standings,Classement des médailles,메달 순위
+FRS,N02A,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+FRS,N02B,Glossary of Terms,Glossaire,용어집
+FRS,N03,Course Map and Profile,Tracé et profil du parcours,코스 지도 및 프로필
+FRS,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+FRS,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+FRS,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+FRS,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+FRS,N17B,FIS World Cup Standings,Classement de la Coupe du monde FIS,FIS 월드컵 랭킹
+FRS,N17C,FIS Points List,Liste des points FIS,FIS 포인트 리스트
+FRS,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+FRS,N24,NOC Profile,Profil du CNO,NOC 프로필
+FRS,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+FRS,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+FRS,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+FRS,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+FRS,N86A,History,Histoire du sport,스포츠 역사
+FRS,N86B,FIS - Federation Facts,Informations sur la Fédération - FIS,FIS - 연맹 현황
+FRS,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+FRS,N86D,Facility Description,Description du site de compétition,시설 정보
+FRS,N86E,Media Information,Informations aux médias,미디어 정보
+FRS,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+FRS,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+FRS,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+FRS,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+FRS,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+FRS,N90A,Media Communication,Communication aux médias,미디어 전달사항
+FRS,N90B,News Article,Article de presse,일반 기사
+FRS,N90C,IOC News,Actualités du CIO,IOC 뉴스
+FRS,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+FRS,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+FSK,C06,Activity List,Liste des activités,활동 리스트
+FSK,C07A,Practice Schedule and Music Order,Horaire des entraînements et rotation des musiques,연습 일정 및 음악 순서
+FSK,C07B,Practice Groups,Groupes d'entraînements,연습 그룹
+FSK,C07C,Practice and Competition Schedule,Horaire des entraînements et des compétitions,연습 & 경기 일정
+FSK,C08,Competition Schedule,Horaire des compétitions,경기 일정
+FSK,C24,Season Best,Meilleur score de la saison,시즌 최고기록
+FSK,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+FSK,C31A,Entries,Inscriptions,엔트리
+FSK,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+FSK,C32E,Entry List by Event ,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+FSK,C32E2,Entry List by Event ,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+FSK,C35,Competition Officials,Officiels de compétition,경기임원
+FSK,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+FSK,C38B,Entry Data Checklist - Couples,Formulaire de contrôle des données d'inscription - couples,엔트리 데이터 체크리스트- 혼성
+FSK,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+FSK,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+FSK,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+FSK,C45,Draw List,Liste des participant(e)s au tirage au sort,추첨 리스트
+FSK,C51A1,Start List,Ordre de passage,스타트 리스트
+FSK,C51A2,Start List with Times,Ordre et horaires de passage,시간 포함 스타트 리스트
+FSK,C51B1,Start List,Ordre de passage,스타트 리스트
+FSK,C51B2,Start List with Times,Ordre et horaires de passage,시간 포함 스타트 리스트
+FSK,C51D1,Start List,Ordre de passage,스타트 리스트
+FSK,C51D2,Start List with Times,Ordre et horaires de passage,시간 포함 스타트 리스트
+FSK,C51E1,Start List,Ordre de passage,스타트 리스트
+FSK,C51E2,Start List with Times,Ordre et horaires de passage,시간 포함 스타트 리스트
+FSK,C51F,Start List Exhibition,Ordre de passage au gala,스타트 리스트 프로그램
+FSK,C51G,Exhibition Timing and Music Selection,Horaires du gala et sélections musicales,프로그램 시간 및 음악 선정
+FSK,C51H,Planned Program Content,Contenu prévu du programme,스타트 리스트
+FSK,C57,ISU Panel of Judges and Technical Panel,ISU Panel des juges et panel technique,ISU 심판 및 기술임원
+FSK,C63A,,,
+FSK,C63B,,,
+FSK,C63C,,,
+FSK,C67,Official Communication,Communication officielle,공식 전달사항
+FSK,C68,Sport Communication,Communication sportive,종목 전달사항
+FSK,C73A1,Segment Results,Résultats par segment,세그먼트 경기결과
+FSK,C73A2,Segment Results,Résultats par segment,세그먼트 경기결과
+FSK,C73B,Results,Résultats,경기결과
+FSK,C73D1,Results,Résultats,경기결과
+FSK,C73D2,Results,Résultats,경기결과
+FSK,C77A,Results Details,Détails des résultats,경기결과 상세
+FSK,C77B,Judges Details per Skater,Notation détaillée des juges par patineur,선수별 심판 세부채점 정보
+FSK,C81,New Season Best,Nouveau meilleur score de la saison,시즌 신기록
+FSK,C92A,Medallists,Médaillé(e)s,메달리스트
+FSK,C92B,Medallists,Médaillé(e)s,메달리스트
+FSK,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+FSK,C95,Medal Standings,Classement des médailles,메달 순위
+FSK,C97,Figure Skating Medal Standings,Classement des médailles - patinage artistique,피겨스케이팅 메달 순위
+FSK,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+FSK,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+FSK,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+FSK,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+FSK,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+FSK,N17B,Results in Current Season,Résultats de la saison actuelle,현 시즌 경기결과
+FSK,N18A,Individual Achievements / Records,Résultats / records individuels,개별 성적/기록
+FSK,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+FSK,N22,Couple Biography,Biographie du couple,커플 바이오그래피
+FSK,N23,ISU Competition Officials Profiles,Biographie - officiel de compétition,ISU 경기 임원 프로필
+FSK,N24,NOC Profile,Profil du CNO,NOC 프로필
+FSK,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+FSK,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+FSK,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+FSK,N86A,History,Histoire du sport,스포츠 역사
+FSK,N86B,ISU - Federation Facts,Informations sur la Fédération - ISU,ISU - 연맹 현황
+FSK,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+FSK,N86D,Facility Description,Description du site de compétition,시설 정보
+FSK,N86E,Media Information,Informations aux médias,미디어 정보
+FSK,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+FSK,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+FSK,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+FSK,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+FSK,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+FSK,N90A,Media Communication,Communication aux médias,미디어 전달사항
+FSK,N90B,News Article,Article de presse,일반 기사
+FSK,N90C,IOC News,Actualités du CIO,IOC 뉴스
+FSK,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+FSK,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+IHO,C06,Activity List,Liste des activités,활동 리스트
+IHO,C07,Practice Schedule,Horaire des entraînements,연습 일정
+IHO,C08,Competition Schedule,Horaire des compétitions,경기 일정
+IHO,C31T,Team Entries,Inscriptions par équipe,팀 엔트리
+IHO,C33,Team Roster ,Composition de l'équipe,팀 명단
+IHO,C35A,Directorate,Directoire,팀대표자
+IHO,C35B,Competition Officials,Officiels de compétition,경기임원
+IHO,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+IHO,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+IHO,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+IHO,C38E,Entry Data Checklist - Team Colours,Liste de contrôle des données d’inscription - Couleurs d'équipe,엔트리 데이터 체크리스트 - 팀 유니폼 색깔
+IHO,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+IHO,C48A,Team Line-Up Form,Formulaire de composition de l'équipe,팀 라인업 양식
+IHO,C48B,Game Starting Line-Up Form,Composition de l'équipe,경기 선발 라인업 양식
+IHO,C48E,Team Entry Long List,Longue liste de composition d'équipe,팀 예비엔트리 리스트
+IHO,C48F,Official Game Sheet/Report,Feuille officielle de match/Rapport officiel du match,공식 경기결과지
+IHO,C54A,Game Roster,Composition d'équipe,경기 명단
+IHO,C54B,Line-ups,Composition des équipes,라인업
+IHO,C54C,Graphical Line-ups,Alignements,그래픽 라인업
+IHO,C58,Game Officials Assignment,Désignations des officiels du match,경기 심판 배정
+IHO,C67,Official Communication,Communication officielle,공식 전달사항
+IHO,C68,Sport Communication,Communication sportive,종목 전달사항
+IHO,C74,Game Summary,Résumé du match,경기 요약
+IHO,C76A,Tournament Progress,Évolution du tournoi,토너먼트 진행상황
+IHO,C76B,Tournament Progress,Évolution du tournoi,토너먼트 진행상황
+IHO,C76C,Tournament Progress,Évolution du tournoi,토너먼트 진행상황
+IHO,C76D,Tournament Progress,Évolution du tournoi,토너먼트 진행상황
+IHO,C76E,Game Results by Team,Résultats des rencontres par équipes,팀별 대회 경기결과
+IHO,C76F,Teams Overall Record,Classement des équipes,팀 전체 기록
+IHO,C77A,Shot Chart,Statistiques des tirs,슛 차트
+IHO,C77B,Face-off Chart,Statistiques des mises en jeu,페이스오프 차트
+IHO,C83,Player Statistics by Team,Statistiques des joueurs par équipe,팀별 선수 통계
+IHO,C84,Team Statistics,Statistiques des équipes,팀 통계
+IHO,C85A,Goalkeepers,Gardiens de but,골키퍼
+IHO,C85B,Scoring Leaders,Meilleurs marqueurs,득점 선두
+IHO,C85C,Goal Scoring Leaders,Meilleurs buteurs,골득점 선두
+IHO,C85D,Assist Leaders,Meilleurs assistants,어시스트 선두
+IHO,C85E,Defencemen Scoring Leaders,Meilleurs défenseurs marqueurs,수비수 득점 선두
+IHO,C85F,Face-off Leaders,Meilleurs joueurs de mise en jeu,페이스오프 선두
+IHO,C85G,Plus-Minus Leaders,Meilleurs joueurs plus-moins,플러스-마이너스 선두
+IHO,C85H,Most Penalised Players,Joueurs les plus pénalisés,최다 반칙 선수
+IHO,C85I,Best Players Selected by the Directorate,Meilleurs joueurs choisis par la directoire,팀대표자가 선정한 최고의 선수
+IHO,C92C,Medallists,Médaillé(e)s,메달리스트
+IHO,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+IHO,C95,Medal Standings,Classement des médailles,메달 순위
+IHO,N02A,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+IHO,N02B,Glossary of Terms,Glossaire,용어집
+IHO,N02C,"Game, Penalty and Equipment Description","Description du jeu, des pénalités et de l'équipement","대회, 패널티, 장비 정보"
+IHO,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+IHO,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+IHO,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+IHO,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+IHO,N17B,Results in Qualification Period,Résultats pendant la période de qualification,예선 기간 경기결과
+IHO,N17C,Qualified Teams,Équipes qualifiées,본선 진출 팀
+IHO,N17D,World Ranking,Classement mondial,세계 랭킹
+IHO,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+IHO,N21,Coach Biography,Biographie d'entraîneur,코치 바이오그래피
+IHO,N22,Team Profile,Profil de l'équipe,팀 프로필
+IHO,N24,NOC Profile,Profil du CNO,NOC 프로필
+IHO,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+IHO,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+IHO,N62,Head To Head,Face à face,팀별 전적 
+IHO,N86A,History,Histoire du sport,스포츠 역사
+IHO,N86B,IIHF - Federation Facts,Informations sur la Fédération - IIHF,IIHF - 연맹 현황
+IHO,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+IHO,N86D,Facility Description,Description du site de compétition,시설 정보
+IHO,N86E,Media Information,Informations aux médias,미디어 정보
+IHO,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+IHO,N86H,Individual Achievements,Résultats individuels,선수 개별 성적
+IHO,N86I,Team Achievements,Résultats de l'équipe,팀 성적
+IHO,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+IHO,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+IHO,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+IHO,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+IHO,N90A,Media Communication,Communication aux médias,미디어 전달사항
+IHO,N90B,News Article,Article de presse,일반 기사
+IHO,N90C,IOC News,Actualités du CIO,IOC 뉴스
+IHO,N98,Media All Stars and Most Valuable Player,Étoiles choisies par les médias et joueur le plus utile,미디어 선정 올스타 및 MVP
+IHO,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+IHO,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+LUG,C06,Activity List,Liste des activités,활동 리스트
+LUG,C07,Training Schedule,Horaire des entraînements,연습 일정
+LUG,C08,Competition Schedule,Horaire des compétitions,경기 일정
+LUG,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+LUG,C31A,Entries,Inscriptions,엔트리
+LUG,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+LUG,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+LUG,C35,Competition Officials,Officiels de compétition,경기임원
+LUG,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+LUG,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+LUG,C48A,Training Start Order within NOC,Ordre de départ des entraînements par CNO,NOC 내 연습주행 스타트 리스트
+LUG,C49,Weather,Météo,기상
+LUG,C51A,Start List,Liste de départ,스타트 리스트
+LUG,C51B,Start List,Liste de départ,스타트 리스트
+LUG,C51C1,Start List,Liste de départ,스타트 리스트
+LUG,C51C2,Start List,Liste de départ,스타트 리스트
+LUG,C67,Official Communication,Communication officielle,공식 전달사항
+LUG,C68,Sport Communication,Communication sportive,종목 전달사항
+LUG,C72A,Unofficial Results,Résultats non officiels,비공식 경기결과
+LUG,C72C,Unofficial Results,Résultats non officiels,비공식 경기결과
+LUG,C73A1,Results - by Start Order,Résultats - par ordre de départ,경기결과 - 스타트 순서별
+LUG,C73A2,Results - by Start Order,Résultats - par ordre de départ,경기결과 - 스타트 순서별
+LUG,C73B1,Results ,Résultats,경기결과
+LUG,C73B2,Final Results,Résultats définitifs,최종 경기결과
+LUG,C73C2,Final Results,Résultats définitifs,최종 경기결과
+LUG,C77A,Training Analysis,Analyses,연습주행 분석
+LUG,C77B,Race Analysis,Analyses,경기 분석
+LUG,C81,New Track Records,Nouveaux records de piste,트랙 신기록
+LUG,C82,Competition Data,Données de compétition,경기 데이터
+LUG,C92A,Medallists,Médaillé(e)s,메달리스트
+LUG,C92B,Medallists,Médaillé(e)s,메달리스트
+LUG,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+LUG,C95,Medal Standings,Classement des médailles,메달 순위
+LUG,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+LUG,N03,Course Map and Profile,Information sur la piste,코스 지도 및 프로필
+LUG,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+LUG,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+LUG,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+LUG,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+LUG,N17B,Results Summary in Last Olympic Cycle,Résumé des résultats au dernier cycle olympique,지난 올림픽 주기 경기결과 요약
+LUG,N17C,Current Season World Cup Results,Classement actuel de la coupe du monde,현 시즌 월드컵 경기결과
+LUG,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+LUG,N24,NOC Profile,Profil du CNO,NOC 프로필
+LUG,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+LUG,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+LUG,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+LUG,N86A,History,Histoire du sport,스포츠 역사
+LUG,N86B,FIL - Federation Facts,Informations sur la Fédération - FIL,FIL - 연맹 현황
+LUG,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+LUG,N86D,Facility Description,Description du site de compétition,시설 정보
+LUG,N86E,Media Information,Informations aux médias,미디어 정보
+LUG,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+LUG,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+LUG,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+LUG,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+LUG,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+LUG,N90A,Media Communication,Communication aux médias,미디어 전달사항
+LUG,N90B,News Article,Article de presse,일반 기사
+LUG,N90C,IOC News,Actualités du CIO,IOC 뉴스
+LUG,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+LUG,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+NCB,C06,Activity List,Liste des activités,활동 리스트
+NCB,C07,Training Schedule,Horaire des entraînements,연습 일정
+NCB,C08,Competition Schedule,Horaire des compétitions,경기 일정
+NCB,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+NCB,C31A,Entries,Inscriptions,엔트리
+NCB,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+NCB,C35,Competition Officials,Officiels de compétition,경기임원
+NCB,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+NCB,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+NCB,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+NCB,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+NCB,C45A,Entry Form,Formulaire d'inscription,엔트리 양식
+NCB,C45B,Entry Form,Formulaire d'inscription,엔트리 양식
+NCB,C45C,Entry Form,Formulaire d'inscription,엔트리 양식
+NCB,C49,Weather,Météo,기상
+NCB,C51A,Start List,Liste de départ,스타트 리스트
+NCB,C51B2,Start List,Liste de départ,스타트 리스트
+NCB,C51B5,Start List,Liste de départ,스타트 리스트
+NCB,C51C1,Start List,Liste de départ,스타트 리스트
+NCB,C51C4,Start List,Liste de départ,스타트 리스트
+NCB,C51E,Lane Assignment,Attribution des couloirs,레인 할당
+NCB,C51E1,Lane Assignment,Attribution des couloirs,레인 할당
+NCB,C51E2,Lane Assignment,Attribution des couloirs,레인 할당
+NCB,C67,Official Communication,Communication officielle,공식 전달사항
+NCB,C68,Sport Communication,Communication sportive,종목 전달사항
+NCB,C72B2,Unofficial Intermediate Results,Résultats intermédiaires non officiels,비공식 중간 경기결과
+NCB,C72B4,Unofficial Results,Résultats non officiels,비공식 경기결과
+NCB,C72C2,Unofficial Intermediate Results,Résultats intermédiaires non officiels,비공식 중간 경기결과
+NCB,C72C4,Unofficial Results,Résultats non officiels,비공식 경기결과
+NCB,C73A,Results,Résultats,경기결과
+NCB,C73B1,Results,Résultats,경기결과
+NCB,C73B2,Intermediate Results,Résultats intermédiaires,중간 경기결과
+NCB,C73B4,Results,Résultats,경기결과
+NCB,C73C1,Results,Résultats,경기결과
+NCB,C73C2,Intermediate Results,Résultats intermédiaires,중간 경기결과
+NCB,C73C4,Results,Résultats,경기결과
+NCB,C77B4,Competition Analysis,Analyse de la course,경기 분석
+NCB,C77C4,Competition Analysis,Analyse de la course,경기 분석
+NCB,C92A,Medallists,Médaillé(e)s,메달리스트
+NCB,C92B,Medallists,Médaillé(e)s,메달리스트
+NCB,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+NCB,C95,Medal Standings,Classement des médailles,메달 순위
+NCB,C97,FIS Nordic Events Medal Standings,Classement des médailles - épreuves nordiques de la FIS,FIS 노르딕 종목 메달 랭킹
+NCB,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+NCB,N03,Course Map and Profile,Tracé et profil du parcours,코스 지도 및 프로필
+NCB,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+NCB,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+NCB,N12,FIS Nordic Events Medals by NOC,Classement des médailles - épreuves nordiques de la FIS,NOC별 FIS 노르딕 종목 메달
+NCB,N15A,FIS Nordic Events Multi-Medallists,Multimédaillé(e)s - épreuves nordiques de la FIS,FIS 노르딕 종목 멀티 메달리스트
+NCB,N17A1,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+NCB,N17A2,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+NCB,N17B,Current FIS World Cup Standings,Classement actuel de la Coupe du monde FIS,현 FIS 월드컵 랭킹
+NCB,N17C,Current FIS Nations Standings,Classement actuel de la Coupe du monde FIS des nations,현 FIS 나라별 랭킹
+NCB,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+NCB,N24,NOC Profile,Profil du CNO,NOC 프로필
+NCB,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+NCB,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+NCB,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+NCB,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+NCB,N86A,History,Histoire du sport,스포츠 역사
+NCB,N86B,FIS - Federation Facts,Informations sur la Fédération - FIS,FIS - 연맹 현황
+NCB,N86C,Qualification Criteria,Systèmes de qualification,출전자격 획득 절차
+NCB,N86D,Facility Description,Description du site de compétition,시설 정보
+NCB,N86E,Media Information,Informations aux médias,미디어 정보
+NCB,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+NCB,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+NCB,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+NCB,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+NCB,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+NCB,N90A,Media Communication,Communication aux médias,미디어 전달사항
+NCB,N90B,News Article,Article de presse,일반 기사
+NCB,N90C,IOC News,Actualités du CIO,IOC 뉴스
+NCB,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+NCB,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+SBD,C06A,Activity List,Liste des activités,활동 리스트
+SBD,C06B,Activity List by Event,Liste des activités par épreuve,세부종목별 활동 리스트
+SBD,C07,Training Schedule,Horaire des entraînements,연습 일정
+SBD,C08,Competition Schedule,Horaire des compétitions,경기 일정
+SBD,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+SBD,C31A,Entries,Inscriptions,엔트리
+SBD,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+SBD,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+SBD,C32C,Entry List by Event,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+SBD,C35,Competition Officials,Officiels de compétition,경기임원
+SBD,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+SBD,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+SBD,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+SBD,C45A,FIS Seeding List,Liste de tirage au sort,FIS 시딩 리스트
+SBD,C45B,Confirmation List,Liste de confirmation,확정 리스트
+SBD,C45C,Training Bib Assignment by Event,Attribution des dossards d'entraînement par épreuve,연습경기 선수번호 할당
+SBD,C49,Weather,Météo,기상
+SBD,C51B,Start List,Liste de départ,스타트 리스트
+SBD,C51H,Start List,Liste de départ,스타트 리스트
+SBD,C51P,Start List,Liste de départ,스타트 리스트
+SBD,C51S,Start List,Liste de départ,스타트 리스트
+SBD,C51X1,Start List,Liste de départ,스타트 리스트
+SBD,C65,Roll Call List,Liste d'appel,출석확인 리스트
+SBD,C67,Official Communication,Communication officielle,공식 전달사항
+SBD,C68,Sport Communication,Communication sportive,종목 전달사항
+SBD,C71B,Partial Results,Résultats partiels,중간 경기결과
+SBD,C71H,Partial Results,Résultats partiels,중간 경기결과
+SBD,C71S,Partial Results,Résultats partiels,중간 경기결과
+SBD,C72P2,Unofficial Results,Résultats non officiels,비공식 경기결과
+SBD,C72X1,Unofficial Results,Résultats non officiels,비공식 경기결과
+SBD,C73B,Results,Résultats,경기결과
+SBD,C73H,Results,Résultats,경기결과
+SBD,C73P1,Results,Résultats,경기결과
+SBD,C73P2,Results,Résultats,경기결과
+SBD,C73P3,Results,Résultats,경기결과
+SBD,C73S,Results,Résultats,경기결과
+SBD,C73X1,Results,Résultats,경기결과
+SBD,C73X2,Results,Résultats,경기결과
+SBD,C75P1,Brackets,Programme des matchs,대진표
+SBD,C75P2,Brackets,Programme des matchs,대진표
+SBD,C75X1,Brackets,Programme des matchs,대진표
+SBD,C75X2,Brackets,Programme des matchs,대진표
+SBD,C77B,Tie-Breaking Protocol,Partage des ex æquo,동점 처리 절차
+SBD,C77H,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+SBD,C77P,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+SBD,C77S1,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+SBD,C77S2,Race Analysis,Analyses,경기 분석
+SBD,C77X1,Tie-breaking Protocol,Partage des ex æquo,동점 처리 절차
+SBD,C77X2,Lane Choice Analysis,Analyse du choix de couloir,레인 선정 분석
+SBD,C77X3,Race Analysis,Analyses,경기 분석
+SBD,C92A,Medallists,Médaillé(e)s,메달리스트
+SBD,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+SBD,C95,Medal Standings,Classement des médailles,메달 순위
+SBD,N02A,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+SBD,N02B,Glossary of Terms,Glossaire,용어집
+SBD,N03,Course Map and Profile,Tracé et profil du parcours,코스 지도 및 프로필
+SBD,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+SBD,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+SBD,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+SBD,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+SBD,N17B,FIS World Cup Standings,Classement de la Coupe du monde FIS,FIS 월드컵 랭킹
+SBD,N17C,FIS Points List,Liste des points FIS,FIS 포인트 리스트
+SBD,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+SBD,N24,NOC Profile,Profil du CNO,NOC 프로필
+SBD,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+SBD,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+SBD,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SBD,N86A,History,Histoire du sport,스포츠 역사
+SBD,N86B,FIS - Federation Facts,Informations sur la Fédération - FIS,FIS - 연맹 현황
+SBD,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+SBD,N86D,Facility Description,Description du site de compétition,시설 정보
+SBD,N86E,Media Information,Informations aux médias,미디어 정보
+SBD,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+SBD,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+SBD,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+SBD,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+SBD,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+SBD,N90A,Media Communication,Communication aux médias,미디어 전달사항
+SBD,N90B,News Article,Article de presse,일반 기사
+SBD,N90C,IOC News,Actualités du CIO,IOC 뉴스
+SBD,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+SBD,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+SJP,C06,Activity List,Liste des activités,활동 리스트
+SJP,C08,"Training, Qualification and Competition Schedule","Horaire des entraînements, qualifications et compétitions","연습, 예선 및 경기 일정"
+SJP,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+SJP,C31A,Entries,Inscriptions,엔트리
+SJP,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+SJP,C35,Competition Officials,Officiels de compétition,경기임원
+SJP,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+SJP,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+SJP,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+SJP,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+SJP,C45A,Entry Form,Formulaire d'inscription,엔트리 양식
+SJP,C45B,Entry Form,Formulaire d'inscription,엔트리 양식
+SJP,C49,Weather,Météo,기상
+SJP,C51A,Start List,Liste de départ,스타트 리스트
+SJP,C51B,Start List,Liste de départ,스타트 리스트
+SJP,C51C1,Start List,Liste de départ,스타트 리스트
+SJP,C51C3,Start List,Liste de départ,스타트 리스트
+SJP,C51D1,Start List,Liste de départ,스타트 리스트
+SJP,C51D3,Start List,Liste de départ,스타트 리스트
+SJP,C51D4,Start List - Last Group,Liste de départ,스타트 리스트 - 최종 그룹
+SJP,C67,Official Communication,Communication officielle,공식 전달사항
+SJP,C68,Sport Communication,Communication sportive,종목 전달사항
+SJP,C72B,Unofficial Results,Résultats non officiels,비공식 경기결과
+SJP,C72C2,Intermediate Results,Résultats intermédiaires,중간 경기결과
+SJP,C72C3,Unofficial Results,Résultats non officiels,비공식 경기결과
+SJP,C72D2,Intermediate Results,Résultats intermédiaires,중간 경기결과
+SJP,C72D3,Unofficial Results,Résultats non officiels,비공식 경기결과
+SJP,C73A,Results,Résultats,경기결과
+SJP,C73B,Results,Résultats,경기결과
+SJP,C73C1,Results,Résultats,경기결과
+SJP,C73C3,Results,Résultats,경기결과
+SJP,C73D1,Results,Résultats,경기결과
+SJP,C73D3,Results,Résultats,경기결과
+SJP,C92A,Medallists,Médaillé(e)s,메달리스트
+SJP,C92B,Medallists,Médaillé(e)s,메달리스트
+SJP,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+SJP,C95,Medal Standings,Classement des médailles,메달 순위
+SJP,C97,FIS Nordic Events Medal Standings,Classement des médailles - épreuves nordiques de la FIS,FIS 노르딕 종목 메달 랭킹
+SJP,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+SJP,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+SJP,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+SJP,N12,FIS Nordic Events Medals by NOC,Historique des médailles - épreuves nordiques de la FIS,NOC별 FIS 노르딕 종목 메달
+SJP,N15A,FIS Nordic Events Multi-Medallists,Multimédaillé(e)s - épreuves nordiques de la FIS,FIS 노르딕 종목 멀티 메달리스트
+SJP,N17A1,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+SJP,N17A2,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+SJP,N17A3,FIS World Cup Standings in Last Olympic Cycle,Classement de la coupe du monde FIS au dernier cycle olympique,지난 올림픽 주기 FIS 월드컵 랭킹
+SJP,N17A4,FIS Nations Standings in Last Olympic Cycle,Classement de la coupe du monde FIS des nations au dernier cycle olympique,지난 올림픽 주기 FIS 나라별 랭킹
+SJP,N17B,Current FIS World Cup Standings,Classement actuel de la Coupe du monde FIS,현 FIS 월드컵 랭킹
+SJP,N17C,Current FIS Nations Standings,Classement actuel de la Coupe du monde FIS des nations,현 FIS 나라별 랭킹
+SJP,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+SJP,N24,NOC Profile,Profil du CNO,NOC 프로필
+SJP,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+SJP,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+SJP,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SJP,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SJP,N86A,History,Histoire du sport,스포츠 역사
+SJP,N86B,FIS - Federation Facts,Informations sur la Fédération - FIS,FIS - 연맹 현황
+SJP,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+SJP,N86D,Facility Description,Description du site de compétition,시설 정보
+SJP,N86E,Media Information,Informations aux médias,미디어 정보
+SJP,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+SJP,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+SJP,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+SJP,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+SJP,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+SJP,N90A,Media Communication,Communication aux médias,미디어 전달사항
+SJP,N90B,News Article,Article de presse,일반 기사
+SJP,N90C,IOC News,Actualités du CIO,IOC 뉴스
+SJP,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+SJP,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+SKN,C06,Activity List,Liste des activités,활동 리스트
+SKN,C07,Training Schedule,Horaire des entraînements,연습 일정
+SKN,C08,Competition Schedule,Horaire des compétitions,경기 일정
+SKN,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+SKN,C31A,Entries,Inscriptions,엔트리
+SKN,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+SKN,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+SKN,C35,Competition Officials,Officiels de compétition,경기임원
+SKN,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+SKN,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+SKN,C48B,Control List,Liste de contrôle,컨트롤 리스트
+SKN,C49,Weather,Météo,기상
+SKN,C51A,Start List,Liste de départ,스타트 리스트
+SKN,C51B,Start List,Liste de départ,스타트 리스트
+SKN,C67,Official Communication,Communication officielle,공식 전달사항
+SKN,C68,Sport Communication,Communication sportive,종목 전달사항
+SKN,C72,Unofficial Results,Résultats non officiels,비공식 경기결과
+SKN,C73A1,Results,Résultats,경기결과
+SKN,C73A2,Results,Résultats,경기결과
+SKN,C73B1,Results,Résultats,경기결과
+SKN,C73B2,Official Results,Résultats officiels,공식 경기결과
+SKN,C77A,Performance Analysis,Analyses de l'épreuve,퍼포먼스 분석
+SKN,C77B,Performance Analysis,Analyses de l'épreuve,퍼포먼스 분석
+SKN,C81,Records,Records,기록
+SKN,C82,Competition Data,Données de compétition,경기 데이터
+SKN,C92A,Medallists,Médaillé(e)s,메달리스트
+SKN,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+SKN,C95,Medal Standings,Classement des médailles,메달 순위
+SKN,C97,IBSF Medal Standings,Classement des médailles - IBSF,IBSF 메달 랭킹
+SKN,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+SKN,N03,Track Information,Information sur la piste,트랙 정보
+SKN,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+SKN,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+SKN,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+SKN,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+SKN,N17B,Results Summary in Last Olympic Cycle,Résumé des résultats au dernier cycle olympique,지난 올림픽 주기 경기결과 요약
+SKN,N17C,World Cup Standings,Classement de la coupe du monde,월드컵 랭킹
+SKN,N17D,IBSF World Ranking,Classement mondial de l'IBSF,IBSF 세계 랭킹
+SKN,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+SKN,N24,NOC Profile,Profil du CNO,NOC 프로필
+SKN,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+SKN,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+SKN,N59,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SKN,N86A,History,Histoire du sport,스포츠 역사
+SKN,N86B,IBSF - Federation Facts,Informations sur la Fédération - IBSF,IBSF - 연맹 현황
+SKN,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+SKN,N86D,Facility Description,Description du site de compétition,시설 정보
+SKN,N86E,Media Information,Informations aux médias,미디어 정보
+SKN,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+SKN,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+SKN,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+SKN,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+SKN,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+SKN,N90A,Media Communication,Communication aux médias,미디어 전달사항
+SKN,N90B,News Article,Article de presse,일반 기사
+SKN,N90C,IOC News,Actualités du CIO,IOC 뉴스
+SKN,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+SKN,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+SSK,C06,Activity List,Liste des activités,활동 리스트
+SSK,C07,Training Schedule,Horaire des entraînements,연습 일정
+SSK,C08,Competition Schedule,Horaire des compétitions,경기 일정
+SSK,C30A,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+SSK,C30B,Entry Quotas by NOC,Quotas d'inscription par CNO,NOC별 엔트리 쿼터 
+SSK,C31A,Entries,Inscriptions,엔트리
+SSK,C31C,Entries by Event,Inscriptions par épreuve,세부종목별 엔트리
+SSK,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+SSK,C32C,Entry List by Event,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+SSK,C35,Competition Officials,Officiels de compétition,경기임원
+SSK,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+SSK,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+SSK,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+SSK,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+SSK,C45A,Grouping List,Liste des concurrent(e)s par groupe,그룹 리스트
+SSK,C45B,Grouping List,Liste des concurrent(e)s par groupe,그룹 리스트
+SSK,C45E,Grouping List,Liste des concurrent(e)s par groupe,그룹 리스트
+SSK,C47A,Event Entry Form,Formulaire d'inscription par épreuve,세부종목 엔트리 양식
+SSK,C47E,Event Entry Form,Formulaire d'inscription par épreuve,세부종목 엔트리 양식
+SSK,C47F,Race Entry Form,Formulaire d'inscription,경기 엔트리 양식
+SSK,C48,Record Details Checklist,Liste de contrôle des records,상세 기록 체크리스트
+SSK,C51A,Start List,Liste de départ,스타트 리스트
+SSK,C51B,Start List,Liste de départ,스타트 리스트
+SSK,C51C,Distance Journal List,Journal de la distance,기록표
+SSK,C51E,Start List,Liste de départ,스타트 리스트
+SSK,C51F,Distance Journal List,Journal de la distance,기록표
+SSK,C67,Official Communication,Communication officielle,공식 전달사항
+SSK,C68,Sport Communication,Communication sportive,종목 전달사항
+SSK,C73A,Results,Résultats,경기결과
+SSK,C73B,Results,Résultats,경기결과
+SSK,C73E1,Results,Résultats,경기결과
+SSK,C73E2,Results,Résultats,경기결과
+SSK,C73E3,Results,Résultats,경기결과
+SSK,C74,Event Summary,Résumé de l'épreuve,세부종목 요약
+SSK,C77A,Distance Analysis in Pairs,Analyses des distances par paire,조별 거리 분석
+SSK,C77B,Distance Analysis,Analyse de la distance,거리 분석
+SSK,C77C,Distance Analysis - Graphical,Analyses graphiques des distances,거리 분석 - 도표
+SSK,C77E,Distance Analysis in Heats,Analyses des distances par série,조별 내 거리 분석
+SSK,C77G,Distance Analysis - Graphical,Analyses graphiques des distances,거리 분석 - 도표
+SSK,C81A,Records Broken/Equalled,Records battus/égalés,신기록 갱신
+SSK,C81C,Records Summary,Résumé des records,기록 요약
+SSK,C81E,Records Broken/Equalled,Records battus/égalés,신기록 갱신
+SSK,C82A,Ice and Climatic Conditions,Conditions de glace et climatique,빙면 및 기상 조건
+SSK,C82E,Ice and Climatic Conditions,Conditions de glace et climatique,빙면 및 기상 조건
+SSK,C92A,Medallists,Médaillé(e)s,메달리스트
+SSK,C92B,Medallists,Médaillé(e)s,메달리스트
+SSK,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+SSK,C95,Medal Standings,Classement des médailles,메달 순위
+SSK,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+SSK,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+SSK,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+SSK,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+SSK,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+SSK,N17B,Records,Records,이전 기록 
+SSK,N18,Current Season Best,Meilleur résultat de la saison actuelle,현 시즌 최고 기록
+SSK,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+SSK,N24,NOC Profile,Profil du CNO,NOC 프로필
+SSK,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+SSK,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+SSK,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SSK,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+SSK,N86A,History,Histoire du sport,스포츠 역사
+SSK,N86B,ISU - Federation Facts,Informations sur la Fédération - ISU,ISU - 연맹 현황
+SSK,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+SSK,N86D,Facility Description,Description du site de compétition,시설 정보
+SSK,N86E,Media Information,Informations aux médias,미디어 정보
+SSK,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+SSK,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+SSK,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+SSK,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+SSK,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+SSK,N90A,Media Communication,Communication aux médias,미디어 전달사항
+SSK,N90B,News Article,Article de presse,일반 기사
+SSK,N90C,IOC News,Actualités du CIO,IOC 뉴스
+SSK,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+SSK,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자
+STK,C06,Activity List,Liste des activités,활동 리스트
+STK,C07,Training Schedule,Horaire des entraînements,연습 일정
+STK,C08,Competition Schedule,Horaire des compétitions,경기 일정
+STK,C30,Number of Entries by NOC,Nombre d'inscriptions par CNO,NOC별 엔트리 인원
+STK,C31A,Entries,Inscriptions,엔트리
+STK,C32A,Entry List by NOC,Liste d'inscriptions par CNO,NOC별 엔트리 리스트
+STK,C32E,Entry List by Event ,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+STK,C32E2,Entry List by Event ,Liste d'inscriptions par épreuve,세부종목별 엔트리 리스트
+STK,C35,Competition Officials,Officiels de compétition,경기임원
+STK,C38A,Entry Data Checklist,Formulaire de contrôle des données d'inscription,엔트리 데이터 체크리스트
+STK,C38C,Entry Data Checklist - Teams,Formulaire de contrôle des données d'inscription - équipes,엔트리 데이터 체크리스트- 팀
+STK,C38D,Entry Data Checklist - Headshot Photographs,Liste de contrôle des données d’inscription - photos portraits,엔트리 데이터 체크리스트 - 상반신 사진
+STK,C39,Entry Data Checklist - Competition Officials,Formulaire de contrôle des données d'inscription - officiels de compétition,엔트리 데이터 체크리스트- 심판
+STK,C48A,Pre-draw List with Seeding Analysis,Liste avant tirage au sort avec têtes de séries,시드 분석 사전 대진리스트
+STK,C48B,Pre-draw List with Seeding Analysis,Liste avant tirage au sort avec têtes de séries,시드 분석 사전 대진리스트
+STK,C48C,Seeding Analysis,Analyse des résultats précédents,시딩 분석
+STK,C48D,Seeding Analysis,Analyse des résultats précédents,시딩 분석
+STK,C48E,Records Details Checklist,Liste de contrôle des records,상세 기록 체크리스트
+STK,C51A,Start List,Liste de départ,스타트 리스트
+STK,C51B,Start List,Liste de départ,스타트 리스트
+STK,C51C,Start List - Relay Participants,Liste de départ - participant(e)s au relais,스타트 리스트 - 계주 참가선수
+STK,C65B,Relay Race Form,Formulaire d'inscription,계주 경기 양식
+STK,C65C,Individual Race Form,Formulaire d'inscription,개인 경기 양식
+STK,C67,Official Communication,Communication officielle,공식 전달사항
+STK,C68,Sport Communication,Communication sportive,종목 전달사항
+STK,C73A,Results,Résultats,경기결과
+STK,C73B,Results,Résultats,경기결과
+STK,C74A,Event Classification,Classification de l'épreuve,전체 경기결과
+STK,C74B,Event Classification,Classification de l'épreuve,전체 경기결과
+STK,C81,Records Summary,Résumé des records,기록 요약
+STK,C92A,Medallists,Médaillé(e)s,메달리스트
+STK,C92B,Medallists,Médaillé(e)s,메달리스트
+STK,C93,Medallists by Event,Médaillé(e)s par épreuve,세부종목별 메달리스트
+STK,C95,Medal Standings,Classement des médailles,메달 순위
+STK,N02,Competition Format and Rules,Format et règlement des compétitions,경기방식 및 규정
+STK,N10,Medallists from previous Olympic Winter Games,Médaillé(e)s aux Jeux Olympiques d'hiver précédents,역대올림픽 메달리스트
+STK,N11,Medals by NOC,Historique des médailles par CNO,NOC별 메달
+STK,N15,Multi-Medallists,Multimédaillé(e)s,멀티 메달리스트
+STK,N17A,Results in Last Olympic Cycle,Résultats au dernier cycle olympique,지난 올림픽 주기 경기결과
+STK,N17B,World Ranking List,Classement mondial,세계 랭킹 리스트
+STK,N17C,World Ranking List,Classement mondial,세계 랭킹 리스트
+STK,N17D,Records,Records,이전 기록 
+STK,N20,Athlete Biography,Biographie d’athlète,선수 바이오그래피
+STK,N22,Team Profile,Profil de l'équipe,팀 프로필
+STK,N24,NOC Profile,Profil du CNO,NOC 프로필
+STK,N51A,Opening Ceremony Flag Bearers,Porte-drapeaux à la cérémonie d'ouverture,개회식 국기 게양요원
+STK,N51B,Closing Ceremony Flag Bearers,Porte-drapeaux à la cérémonie de clôture,폐회식 국기 게양요원
+STK,N59A,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+STK,N59B,Extended Start List,Liste de départ détaillée,상세 스타트리스트
+STK,N86A,History,Histoire du sport,스포츠 역사
+STK,N86B,ISU - Federation Facts,Informations sur la Fédération - ISU,ISU - 연맹 현황
+STK,N86C,Qualification Criteria,Système de qualification,출전자격 획득 절차
+STK,N86D,Facility Description,Description du site de compétition,시설 정보
+STK,N86E,Media Information,Informations aux médias,미디어 정보
+STK,N86F,Birthdays during the Games,Anniversaires durant les Jeux,대회 중 생일
+STK,N87A,Flash Quotes,Déclarations express,플래시 선수소감
+STK,N87B,Quotes of the Day,Citations du jour,오늘의 선수소감
+STK,N88,Press Conference Highlights,Extraits de la conférence de presse,기자회견 하이라이트
+STK,N89,Preview / Review,Présentation / Compte rendu,프리뷰/리뷰
+STK,N90A,Media Communication,Communication aux médias,미디어 전달사항
+STK,N90B,News Article,Article de presse,일반 기사
+STK,N90C,IOC News,Actualités du CIO,IOC 뉴스
+STK,P91A,Victory Ceremony Presenters,Remettants à la cérémonie des vainqueurs,메달 시상식 시상자
+STK,P91B,In-venue Ceremony Presenters,Remettants à la cérémonie sur site,경기장 내 시상식 시상자

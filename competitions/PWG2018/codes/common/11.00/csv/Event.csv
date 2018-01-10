@@ -1,0 +1,150 @@
+Discipline,Gender,Event,order,ENG Description,KOR Description,ENG longdescription,KOR longdescription,Team Event,Old DDGEEE
+ALP,W,DH------09110-----,1,"Women's Downhill, Standing","여자 활강, 입식","Women's Downhill, Standing","여자 활강, 입식",N,ASW110
+ALP,W,DH------12050-----,2,"Women's Downhill, Sitting","여자 활강, 좌식","Women's Downhill, Sitting","여자 활강, 좌식",N,ASW210
+ALP,W,DH------03030-----,3,"Women's Downhill, Visually Impaired","여자 활강, 시각 장애","Women's Downhill, Visually Impaired","여자 활강, 시각 장애",N,ASW310
+ALP,W,SL------09110-----,4,"Women's Slalom, Standing","여자 회전, 입식","Women's Slalom, Standing","여자 회전, 입식",N,ASW120
+ALP,W,SL------12050-----,5,"Women's Slalom, Sitting","여자 회전, 좌식","Women's Slalom, Sitting","여자 회전, 좌식",N,ASW220
+ALP,W,SL------03030-----,6,"Women's Slalom, Visually Impaired","여자 회전, 시각 장애","Women's Slalom, Visually Impaired","여자 회전, 시각 장애",N,ASW320
+ALP,W,GS------09110-----,7,"Women's Giant Slalom, Standing","여자 대회전, 입식","Women's Giant Slalom, Standing","여자 대회전, 입식",N,ASW130
+ALP,W,GS------12050-----,8,"Women's Giant Slalom, Sitting","여자 대회전, 좌식","Women's Giant Slalom, Sitting","여자 대회전, 좌식",N,ASW230
+ALP,W,GS------03030-----,9,"Women's Giant Slalom, Visually Impaired","여자 대회전, 시각 장애","Women's Giant Slalom, Visually Impaired","여자 대회전, 시각 장애",N,ASW330
+ALP,W,SG------09110-----,10,"Women's Super-G, Standing","여자 슈퍼대회전, 입식","Women's Super-G, Standing","여자 슈퍼대회전, 입식",N,ASW140
+ALP,W,SG------12050-----,11,"Women's Super-G, Sitting","여자 슈퍼대회전, 좌식","Women's Super-G, Sitting","여자 슈퍼대회전, 좌식",N,ASW240
+ALP,W,SG------03030-----,12,"Women's Super-G, Visually Impaired","여자 슈퍼대회전, 시각 장애","Women's Super-G, Visually Impaired","여자 슈퍼대회전, 시각 장애",N,ASW340
+ALP,W,AC------09110-----,13,"Women's Super Combined, Standing","여자 슈퍼복합, 입식","Women's Super Combined, Standing","여자 슈퍼복합, 입식",N,ASW160
+ALP,W,AC------12050-----,14,"Women's Super Combined, Sitting","여자 슈퍼복합, 좌식","Women's Super Combined, Sitting","여자 슈퍼복합, 좌식",N,ASW260
+ALP,W,AC------03030-----,15,"Women's Super Combined, Visually Imp","여자 슈퍼복합, 시각장애","Women's Super Combined, Visually Impaired","여자 슈퍼복합, 시각장애",N,ASW360
+ALP,M,DH------09110-----,16,"Men's Downhill, Standing","남자 활강, 입식","Men's Downhill, Standing","남자 활강, 입식",N,ASM110
+ALP,M,DH------12050-----,17,"Men's Downhill, Sitting","남자 활강, 좌식","Men's Downhill, Sitting","남자 활강, 좌식",N,ASM210
+ALP,M,DH------03030-----,18,"Men's Downhill, Visually Impaired","남자 활강, 시각 장애","Men's Downhill, Visually Impaired","남자 활강, 시각 장애",N,ASM310
+ALP,M,SL------09110-----,19,"Men's Slalom, Standing","남자 회전, 입식","Men's Slalom, Standing","남자 회전, 입식",N,ASM120
+ALP,M,SL------12050-----,20,"Men's Slalom, Sitting","남자 회전, 좌식","Men's Slalom, Sitting","남자 회전, 좌식",N,ASM220
+ALP,M,SL------03030-----,21,"Men's Slalom, Visually Impaired","남자 회전, 시각 장애","Men's Slalom, Visually Impaired","남자 회전, 시각 장애",N,ASM320
+ALP,M,GS------09110-----,22,"Men's Giant Slalom, Standing","남자 대회전, 입식","Men's Giant Slalom, Standing","남자 대회전, 입식",N,ASM130
+ALP,M,GS------12050-----,23,"Men's Giant Slalom, Sitting","남자 대회전, 좌식","Men's Giant Slalom, Sitting","남자 대회전, 좌식",N,ASM230
+ALP,M,GS------03030-----,24,"Men's Giant Slalom, Visually Impaired","남자 대회전, 시각 장애","Men's Giant Slalom, Visually Impaired","남자 대회전, 시각 장애",N,ASM330
+ALP,M,SG------09110-----,25,"Men's Super-G, Standing","남자 슈퍼대회전, 입식","Men's Super-G, Standing","남자 슈퍼대회전, 입식",N,ASM140
+ALP,M,SG------12050-----,26,"Men's Super-G, Sitting","남자 슈퍼대회전, 좌식","Men's Super-G, Sitting","남자 슈퍼대회전, 좌식",N,ASM240
+ALP,M,SG------03030-----,27,"Men's Super-G, Visually Impaired","남자 슈퍼대회전, 시각 장애","Men's Super-G, Visually Impaired","남자 슈퍼대회전, 시각 장애",N,ASM340
+ALP,M,AC------09110-----,28,"Men's Super Combined, Standing","남자 슈퍼복합, 입식","Men's Super Combined, Standing","남자 슈퍼복합, 입식",N,ASM160
+ALP,M,AC------12050-----,29,"Men's Super Combined, Sitting","남자 슈퍼복합, 좌식","Men's Super Combined, Sitting","남자 슈퍼복합, 좌식",N,ASM260
+ALP,M,AC------03030-----,30,"Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각장애","Men's Super Combined, Visually Impaired","남자 슈퍼복합, 시각장애",N,ASM360
+ALP,-,------------------,,Alpine Skiing,알파인 스키,Alpine Skiing,알파인 스키,,AS0000
+ALP,M,------------------,,Men's Alpine Skiing,알파인 스키 남자경기,Men's Alpine Skiing,알파인 스키 남자경기,,ASM000
+ALP,M,AC----------------,,Men's Super Combined,남자 슈퍼복합,Men's Super Combined,남자 슈퍼복합,N,ASM060
+ALP,M,DH----------------,,Men's Downhill,남자 활강,Men's Downhill,남자 활강,N,ASM010
+ALP,M,GS----------------,,Men's Giant Slalom,남자 대회전,Men's Giant Slalom,남자 대회전,N,ASM030
+ALP,M,SG----------------,,Men's Super-G,남자 슈퍼대회전,Men's Super-G,남자 슈퍼대회전,N,ASM040
+ALP,M,SL----------------,,Men's Slalom,남자 회전,Men's Slalom,남자 회전,N,ASM020
+ALP,W,------------------,,Women's Alpine Skiing,알파인 스키 여자경기,Women's Alpine Skiing,알파인 스키 여자경기,,ASW000
+ALP,W,AC----------------,,Women's Super Combined,여자 슈퍼복합,Women's Super Combined,여자 슈퍼복합,N,ASW060
+ALP,W,DH----------------,,Women's Downhill,여자 활강,Women's Downhill,여자 활강,N,ASW010
+ALP,W,GS----------------,,Women's Giant Slalom,여자 대회전,Women's Giant Slalom,여자 대회전,N,ASW030
+ALP,W,SG----------------,,Women's Super-G,여자 슈퍼대회전,Women's Super-G,여자 슈퍼대회전,N,ASW040
+ALP,W,SL----------------,,Women's Slalom,여자 회전,Women's Slalom,여자 회전,N,ASW020
+ALP,-,CANCEL------------,,No competition,경기 없음,No competition,경기 없음,,
+ART,-,CIRCUS------------,,Circus / Street Arts,서커스 / 거리예술,Circus / Street Arts,서커스 / 거리예술,N,AF0CRC
+ART,-,COMEDY------------,,Comedy,코메디,Comedy,코메디,N,AF0CMD
+ART,-,CULTURAL----------,,Cultural Activities,문화 행사,Cultural Activities,문화 행사,,AF0CUL
+ART,-,DANCE-------------,,Dance,댄스,Dance,댄스,N,AF0DNC
+ART,-,DIGITAL-----------,,Digital / Film / Video,디지털 / 필름 / 비디오,Digital / Film / Video,디지털 / 필름 / 비디오,N,AF0DGT
+ART,-,LITERARY----------,,Literary Arts,문학 예술,Literary Arts,문학 예술,N,AF0LTR
+ART,-,MUSIC-------------,,Music,음악,Music,음악,N,AF0MSC
+ART,-,SPONSOR-----------,,Sponsor Activities,스폰서 행사,Sponsor Activities,스폰서 행사,,AF0SPO
+ART,-,THEATRE-----------,,Theatre,극장,Theatre,극장,N,AF0THT
+ART,-,VISUAL------------,,Visual Arts,시각 예술,Visual Arts,시각 예술,N,AF0VSL
+BTH,W,6KM-----09070-----,1,"Women's 6km, Standing","여자 6km, 입식","Women's 6km, Standing","여자 6km, 입식",N,BTW110
+BTH,W,6KM-----12050-----,2,"Women's 6km, Sitting","여자 6km, 좌식","Women's 6km, Sitting","여자 6km, 좌식",N,BTW210
+BTH,W,6KM-----03030-----,3,"Women's 6km, Visually Impaired","여자 6km, 시각 장애","Women's 6km, Visually Impaired","여자 6km, 시각 장애",N,BTW310
+BTH,W,10KM----09070-----,4,"Women's 10km, Standing","여자 10km, 입식","Women's 10km, Standing","여자 10km, 입식",N,BTW120
+BTH,W,10KM----12050-----,5,"Women's 10km, Sitting","여자 10km, 좌식","Women's 10km, Sitting","여자 10km, 좌식",N,BTW220
+BTH,W,10KM----03030-----,6,"Women's 10km, Visually Impaired","여자 10km, 시각 장애","Women's 10km, Visually Impaired","여자 10km, 시각 장애",N,BTW320
+BTH,W,12.5KM--09070-----,7,"Women's 12.5km, Standing","여자 12.5km, 입식","Women's 12.5km, Standing","여자 12.5km, 입식",N,BTW130
+BTH,W,12.5KM--12050-----,8,"Women's 12.5km, Sitting","여자 12.5km, 좌식","Women's 12.5km, Sitting","여자 12.5km, 좌식",N,BTW230
+BTH,W,12.5KM--03030-----,9,"Women's 12.5km, Visually Impaired","여자 12.5 km, 시각장애","Women's 12.5km, Visually Impaired","여자 12.5 km, 시각장애",N,BTW330
+BTH,M,7.5KM---09070-----,10,"Men's 7.5km, Standing","남자 7.5 km, 입식","Men's 7.5km, Standing","남자 7.5 km, 입식",N,BTM110
+BTH,M,7.5KM---12050-----,11,"Men's 7.5km, Sitting","남자 7.5 km, 좌식","Men's 7.5km, Sitting","남자 7.5 km, 좌식",N,BTM210
+BTH,M,7.5KM---03030-----,12,"Men's 7.5km, Visually Impaired","남자 7.5 km, 시각 장애","Men's 7.5km, Visually Impaired","남자 7.5 km, 시각 장애",N,BTM310
+BTH,M,12.5KM--09070-----,13,"Men's 12.5km, Standing","남자 12.5 km, 입식","Men's 12.5km, Standing","남자 12.5 km, 입식",N,BTM120
+BTH,M,12.5KM--12050-----,14,"Men's 12.5km, Sitting","남자 12.5km, 좌식","Men's 12.5km, Sitting","남자 12.5km, 좌식",N,BTM220
+BTH,M,12.5KM--03030-----,15,"Men's 12.5km, Visually Impaired","남자 12.5km, 시각 장애","Men's 12.5km, Visually Impaired","남자 12.5km, 시각 장애",N,BTM320
+BTH,M,15KM----09070-----,16,"Men's 15km, Standing","남자 15km, 입식","Men's 15km, Standing","남자 15km, 입식",N,BTM130
+BTH,M,15KM----12050-----,17,"Men's 15km, Sitting","남자 15km, 좌식","Men's 15km, Sitting","남자 15km, 좌식",N,BTM230
+BTH,M,15KM----03030-----,18,"Men's 15km, Visually Impaired","남자 15km, 시각 장애","Men's 15km, Visually Impaired","남자 15km, 시각 장애",N,BTM330
+BTH,-,------------------,,Biathlon,바이애슬론,Biathlon,바이애슬론,,BT0000
+BTH,M,------------------,,Men's Biathlon,바이애슬론 남자경기,Men's Biathlon,바이애슬론 남자경기,,BTM000
+BTH,W,------------------,,Women's Biathlon,바이애슬론 여자경기,Women's Biathlon,바이애슬론 여자경기,,BTW000
+BTH,-,CANCEL------------,,No competition,경기 없음,No competition,경기 없음,,
+CCS,W,SPRINT--12050-----,1,"Women's 1.5km Sprint Classic, Standing","여자 1.5km 스프린트 클래식, 입식","Women's 1.5km Sprint Classic, Standing","여자 1.5km 스프린트 클래식, 입식",N,CCW102
+CCS,W,SPRINT--09070-----,2,"Women's 1.1km Sprint, Sitting","여자 1.1km 스프린트, 좌식","Women's 1.1km Sprint, Sitting","여자 1.1km 스프린트, 좌식",N,CCW202
+CCS,W,SPRINT--03030-----,3,"Women's 1.5km Sprint Classic, Vis Imp","여자 1.5km 스프린트 클래식, 시각 장애","Women's 1.5km Sprint Classic, Vis Imp","여자 1.5km 스프린트 클래식, 시각 장애",N,CCW302
+CCS,W,7.5KM---12050-----,4,"Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식","Women's 7.5km Classic, Standing","여자 7.5km 클래식, 입식",N,
+CCS,W,5KM-----09070-----,5,"Women's 5km, Sitting","여자 5km, 좌식","Women's 5km, Sitting","여자 5km, 좌식",N,
+CCS,W,7.5KM---03030-----,6,"Women's 7.5km Classic, Visually Imp","여자 7.5km 클래식, 시각 장애","Women's 7.5km Classic, Visually Imp","여자 7.5km 클래식, 시각 장애",N,
+CCS,W,15KM----12050-----,7,"Women's 15km Free, Standing","여자 15km 프리, 입식","Women's 15km Free, Standing","여자 15km 프리, 입식",N,CCW115
+CCS,W,12KM----09070-----,8,"Women's 12km, Sitting","여자 12km, 좌식","Women's 12km, Sitting","여자 12km, 좌식",N,CCW215
+CCS,W,15KM----03030-----,9,"Women's 15km Free, Visually Imp","여자 15km 프리, 시각 장애","Women's 15km Free, Visually Imp","여자 15km 프리, 시각 장애",N,CCW315
+CCS,M,SPRINT--12050-----,10,"Men's 1.5km Sprint Classic, Standing","남자 1.5km 스프린트 클래식, 입식","Men's 1.5km Sprint Classic, Standing","남자 1.5km 스프린트 클래식, 입식",N,CCM102
+CCS,M,SPRINT--09070-----,11,"Men's 1.1km Sprint, Sitting","남자 1.1km 스프린트, 좌식","Men's 1.1km Sprint, Sitting","남자 1.1km 스프린트, 좌식",N,CCM202
+CCS,M,SPRINT--03030-----,12,"Men's 1.5km Sprint Classic, Vis Imp","남자 1.5km 스프린트 클래식, 시각 장애","Men's 1.5km Sprint Classic, Vis Imp","남자 1.5km 스프린트 클래식, 시각 장애",N,CCM302
+CCS,M,10KM----12050-----,13,"Men's 10km Classic, Standing","남자 10km 클래식, 입식","Men's 10km Classic, Standing","남자 10km 클래식, 입식",N,CCM110
+CCS,M,7.5KM---09070-----,14,"Men's 7.5km, Sitting","남자 7.5km, 좌식","Men's 7.5km, Sitting","남자 7.5km, 좌식",N,
+CCS,M,10KM----03030-----,15,"Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애","Men's 10km Classic, Visually Impaired","남자 10km 클래식, 시각 장애",N,CCM310
+CCS,M,20KM----12050-----,16,"Men's 20km Free, Standing","남자 20km 프리, 입식","Men's 20km Free, Standing","남자 20km 프리, 입식",N,CCM120
+CCS,M,15KM----09070-----,17,"Men's 15km, Sitting","남자 15km, 좌식","Men's 15km, Sitting","남자 15km, 좌식",N,CCM220
+CCS,M,20KM----03030-----,18,"Men's 20km Free, Visually Impaired","남자 20km 프리, 시각 장애","Men's 20km, Visually Impaired","남자 20km 프리, 시각 장애",N,CCM320
+CCS,X,4X2.5KM-12150-----,19,4x2.5km Mixed Relay,4x2.5km 혼성 계주,4x2.5km Mixed Relay,4x2.5km 혼성 계주,Y,CCX401
+CCS,O,4X2.5KM-12150-----,20,4x2.5km Open Relay,4x2.5km 오픈 계주,4x2.5km Open Relay,4x2.5km 오픈 계주,Y,CCX402
+CCS,-,------------------,,Cross-Country Skiing,크로스컨트리 스키,Cross-Country Skiing,크로스컨트리 스키,,CC0000
+CCS,M,------------------,,Men's Cross-Country Skiing,크로스컨트리 스키 남자경기,Men's Cross-Country Skiing,크로스컨트리 스키 남자경기,,CCM000
+CCS,W,------------------,,Women's Cross-Country Skiing,크로스컨트리 스키 여자경기,Women's Cross-Country Skiing,크로스컨트리 스키 여자경기,,CCW000
+CCS,-,CANCEL------------,,No competition,경기 없음,No competition,경기 없음,,
+CER,-,CLOSING-----------,,Closing Ceremony,폐막식,Closing Ceremony,폐막식,,CE0CLO
+CER,-,OPENING-----------,,Opening Ceremony,개막식,Opening Ceremony,개막식,,CE0OPN
+CUR,X,TEAM4---00000-----,1,Mixed,혼성,Mixed,혼성,Y,CUX400
+CUR,-,------------------,,Wheelchair Curling,휠체어컬링,Wheelchair Curling,휠체어컬링,,CU0000
+GEN,-,------------------,,General,일반,General,일반,,GL0000
+IOC,-,MEETINGS----------,,IPC Meetings,IPC 회의,IPC Meetings,IPC 회의,,IA0MET
+ISH,O,TEAM6---00000-----,1,Mixed,혼성,Mixed,혼성,Y,IHX400
+ISH,-,------------------,,Ice Hockey,아이스하키,Ice Hockey,아이스하키,,IH0000
+ISH,O,------------------,,Ice Hockey,아이스하키,Ice Hockey,아이스하키,,IHX000
+NSK,-,------------------,,Nordic Skiing,노르딕 스키,Nordic Skiing,노르딕 스키,,NS0000
+OLV,-,ELECTION----------,,IPC Athletes' Commission Election,IPC 선수 위원회 선거,IPC Athletes' Commission Election,IPC 선수 위원회 선거,,OV0IOC
+OLV,-,ENTERTAN----------,,Entertainment Program,엔터테이먼트 프로그램,Entertainment Program,엔터테이먼트 프로그램,,OV0ENP
+OLV,-,FAITH-------------,,Interfaith Centre,종교 센터,Interfaith Centre,종교 센터,,OV0IFC
+OLV,-,WELCOME-----------,,Team Welcome Ceremonies,팀 웰컴 세레모니,Team Welcome Ceremonies,팀 웰컴 세레모니,,OV0TEA
+PCO,-,ALP---------------,,Alpine Skiing,알파인 스키,Alpine Skiing,알파인 스키,,PC0AS0
+PCO,-,BTH---------------,,Biathlon,바이애슬론,Biathlon,바이애슬론,,PC0BT0
+PCO,-,CCS---------------,,Cross-Country Skiing,크로스컨트리 스키,Cross-Country Skiing,크로스컨트리 스키,,PC0CC0
+PCO,-,CUR---------------,,Wheelchair Curling,휠체어컬링,Wheelchair Curling,휠체어컬링,,PC0CU0
+PCO,-,GEN---------------,,General,일반,General,일반,,PC0GEN
+PCO,-,IOC---------------,,IPC Press Conferences,IPC 기자회견,IPC Press Conferences,IPC 기자회견,,PC0IOC
+PCO,-,ISH---------------,,Ice Hockey,아이스하키,Ice Hockey,아이스하키,,PC0IH0
+PCO,-,LOC---------------,,PyeongChang 2018,2018 평창,PyeongChang 2018,2018 평창,,PC0LOC
+PCO,-,SBD---------------,,Snowboard,스노보드,Snowboard,스노보드,,PC0SB0
+SBD,W,SBX-----01010-----,1,Women's Snowboard Cross SB-UL,여자 스노보드 크로스 SB-UL ,Women's Snowboard Cross SB-UL,여자 스노보드 크로스 SB-UL ,N,
+SBD,W,SBX-----10010-----,2,Women's Snowboard Cross SB-LL1,여자 스노보드 크로스 SB-LL1 ,Women's Snowboard Cross SB-LL1,여자 스노보드 크로스 SB-LL1 ,N,
+SBD,W,SBX-----20010-----,3,Women's Snowboard Cross SB-LL2,여자 스노보드 크로스 SB-LL2 ,Women's Snowboard Cross SB-LL2,여자 스노보드 크로스 SB-LL2 ,N,
+SBD,W,BSL-----01010-----,4,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL ,Women's Banked Slalom SB-UL,여자 뱅크드 슬라롬 SB-UL ,N,
+SBD,W,BSL-----10010-----,5,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1 ,Women's Banked Slalom SB-LL1,여자 뱅크드 슬라롬 SB-LL1 ,N,
+SBD,W,BSL-----20010-----,6,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2 ,Women's Banked Slalom SB-LL2,여자 뱅크드 슬라롬 SB-LL2 ,N,
+SBD,M,SBX-----01010-----,7,Men's Snowboard Cross SB-UL,남자 스노보드 크로스 SB-UL ,Men's Snowboard Cross SB-UL,남자 스노보드 크로스 SB-UL ,N,
+SBD,M,SBX-----10010-----,8,Men's Snowboard Cross SB-LL1,남자 스노보드 크로스 SB-LL1 ,Men's Snowboard Cross SB-LL1,남자 스노보드 크로스 SB-LL1 ,N,
+SBD,M,SBX-----20010-----,9,Men's Snowboard Cross SB-LL2,남자 스노보드 크로스 SB-LL2 ,Men's Snowboard Cross SB-LL2,남자 스노보드 크로스 SB-LL2 ,N,
+SBD,M,BSL-----01010-----,10,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL ,Men's Banked Slalom SB-UL,남자 뱅크드 슬라롬 SB-UL ,N,
+SBD,M,BSL-----10010-----,11,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1 ,Men's Banked Slalom SB-LL1,남자 뱅크드 슬라롬 SB-LL1 ,N,
+SBD,M,BSL-----20010-----,12,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2 ,Men's Banked Slalom SB-LL2,남자 뱅크드 슬라롬 SB-LL2 ,N,
+SBD,-,------------------,,Snowboard,스노보드,Snowboard,스노보드,,
+SBD,M,------------------,,Men's Snowboard,스노보드 남자경기,Men's Snowboard,스노보드 남자경기,,
+SBD,M,BSL---------------,,Men's Banked Slalom,남자 뱅크드 슬라롬,Men's Banked Slalom,남자 뱅크드 슬라롬,,
+SBD,M,SBX---------------,,Men's Snowboard Cross,남자 스노보드 크로스,Men's Snowboard Cross,남자 스노보드 크로스,N,ASM190
+SBD,W,------------------,,Women's Snowboard,스노보드 여자경기,Women's Snowboard,스노보드 여자경기,,
+SBD,W,BSL---------------,,Women's Banked Slalom,여자 뱅크드 슬라롬,Women's Banked Slalom,여자 뱅크드 슬라롬,,
+SBD,W,SBX---------------,,Women's Snowboard Cross,여자 스노보드 크로스,Women's Snowboard Cross,여자 스노보드 크로스,N,ASW190
+SBD,-,CANCEL------------,,No competition,경기 없음,No competition,경기 없음,,
+TRU,-,ALP---------------,,Alpine Skiing,알파인 스키,Alpine Skiing,알파인 스키,,UT0AST
+TRU,-,BTH---------------,,Biathlon,바이애슬론,Biathlon,바이애슬론,,UT0BTT
+TRU,-,CCS---------------,,Cross-Country Skiing,크로스컨트리 스키,Cross-Country Skiing,크로스컨트리 스키,,UT0CCT
+TRU,-,CUR---------------,,Wheelchair Curling,휠체어컬링,Wheelchair Curling,휠체어컬링,,UT0CUT
+TRU,-,ISH---------------,,Ice Hockey,아이스하키,Ice Hockey,아이스하키,,UT0IHT
+TRU,-,SBD---------------,,Snowboard,스노보드,Snowboard,스노보드,,UT0SBT

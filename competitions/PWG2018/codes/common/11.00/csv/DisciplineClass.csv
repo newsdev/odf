@@ -1,0 +1,57 @@
+Class,Discipline,ENG Description,KOR Description
+B1,ALP,Visually impaired,시각장애
+B2,ALP,Visually impaired,시각장애
+B3,ALP,Visually impaired,시각장애
+LW1,ALP,Standing,입식
+LW2,ALP,Standing,입식
+LW3,ALP,Standing,입식
+LW4,ALP,Standing,입식
+LW5/7-1,ALP,Standing,입식
+LW5/7-2,ALP,Standing,입식
+LW5/7-3,ALP,Standing,입식
+LW6/8-1,ALP,Standing,입식
+LW6/8-2,ALP,Standing,입식
+LW9-1,ALP,Standing,입식
+LW9-2,ALP,Standing,입식
+LW10-1,ALP,Sitting,좌식
+LW10-2,ALP,Sitting,좌식
+LW11,ALP,Sitting,좌식
+LW12-1,ALP,Sitting,좌식
+LW12-2,ALP,Sitting,좌식
+B1,BTH,Visually impaired,시각장애
+B2,BTH,Visually impaired,시각장애
+B3,BTH,Visually impaired,시각장애
+LW2,BTH,Standing,입식
+LW3,BTH,Standing,입식
+LW4,BTH,Standing,입식
+LW5/7,BTH,Standing,입식
+LW6,BTH,Standing,입식
+LW8,BTH,Standing,입식
+LW9,BTH,Standing,입식
+LW10,BTH,Sitting,좌식
+LW10.5,BTH,Sitting,좌식
+LW11,BTH,Sitting,좌식
+LW11.5,BTH,Sitting,좌식
+LW12,BTH,Sitting,좌식
+B1,CCS,Visually impaired,시각장애
+B2,CCS,Visually impaired,시각장애
+B3,CCS,Visually impaired,시각장애
+LW2,CCS,Standing,입식
+LW3,CCS,Standing,입식
+LW4,CCS,Standing,입식
+LW5/7,CCS,Standing,입식
+LW6,CCS,Standing,입식
+LW8,CCS,Standing,입식
+LW9,CCS,Standing,입식
+LW10,CCS,Sitting,좌식
+LW10.5,CCS,Sitting,좌식
+LW11,CCS,Sitting,좌식
+LW11.5,CCS,Sitting,좌식
+LW12,CCS,Sitting,좌식
+ME,CUR,Sitting,좌식
+NE,CUR,Sitting,좌식
+ME,ISH,Sitting,좌식
+NE,ISH,Sitting,좌식
+LL-1,SBD,Below knee amputee,슬부이하절단
+LL-2,SBD,Above knee amputee,무릎위절단
+UL,SBD,Upper limb,상지

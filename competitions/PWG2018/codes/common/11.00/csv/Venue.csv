@@ -1,0 +1,134 @@
+Id,competition,ENG Description,KOR Description,ENG longdescription,KOR longdescription,IndoorOutdoor,Cluster,City
+ABT,Y,Alpensia Biathlon Centre,알펜시아 바이애슬론 센터,Alpensia Biathlon Centre,알펜시아 바이애슬론 센터,O,PYE,PyeongChang
+ACC,Y,Alpensia Cross-Ctry Ctr,알펜시아 크로스컨트리 센터,Alpensia Cross-Country Skiing Centre,알펜시아 크로스컨트리 센터,O,PYE,PyeongChang
+AKA,N,Alpensia Key Area,알펜시아 핵심지구,Alpensia Key Area,알펜시아 핵심지구,,PYE,PyeongChang
+AMC,N,Asan Medical Centre,서울아산병원,Asan Medical Centre,서울아산병원,,SEO,Seoul
+AMH,N,AM Hotel,AM호텔,AM Hotel,AM호텔,,,
+AOS,N,Incheon Int Airp T1 Statn,인천 국제 공항 T1 역,Incheon International Airport T1 Station,인천 국제 공항 T1 역,,,
+APD,N,Alpensia Depot,알펜시아 차고지,Alpensia Depot,알펜시아 차고지,,PYE,PyeongChang
+ASJ,Y,Alpensia Ski Jumping Ctr,알펜시아 스키점프 센터,Alpensia Ski Jumping Centre,알펜시아 스키점프 센터,O,PYE,PyeongChang
+ASL,Y,Olympic Sliding Centre,올림픽 슬라이딩 센터,Olympic Sliding Centre,올림픽 슬라이딩 센터,O,PYE,PyeongChang
+ASP,N,Alpensia Olympic Park,알펜시아올림픽파크,Alpensia Olympic Park,알펜시아올림픽파크,,PYE,PyeongChang
+ATC,N,Alternative TOC,보조기술운영센터,Alternative Technology Operations Centre,보조기술운영센터,,PYE,PyeongChang
+ATM,N,Alpensia T3 transp. mall,알펜시아 T3 수송몰,Alpensia T3 transport mall,알펜시아 T3 수송몰,,PYE,PyeongChang
+ATS,N,Incheon Int Airp T2 Statn,인천 국제 공항 T2 역,Incheon International Airport T2 Station,인천 국제 공항 T2 역,,,
+BKD,N,Bokwang Depot,보광 차고지,Bokwang Depot,보광 차고지,,PYE,PyeongChang
+BPP,N,Bongpyeong Park & Ride,봉평주차장,Bongpyeong Park & Ride,봉평주차장,,,
+BSP,Y,Phoenix Snow Park,휘닉스 스노 경기장,Phoenix Snow Park,휘닉스 스노 경기장,O,PYE,PyeongChang
+CAC,N,Coastal Accreditation Ctr,코스탈 클러스터 유니폼배부 및 메인 등록센터,Coastal Accreditation Centre,코스탈 클러스터 유니폼배부 및 메인 등록센터,,GNG,Gangneung 
+CHP,N,Primary Core Hosting,주 코어호스팅 센터,Primary Core Hosting,주 코어호스팅 센터,,,
+CHS,N,Secondary Core Hosting,부 코어호스팅 센터,Secondary Core Hosting,부 코어호스팅 센터,,,
+CTH,N,Coastal Technical Hub,코스탈 테크니컬 허브,Coastal Technical Hub,코스탈 테크니컬 허브,,GNG,Gangneung 
+CTM,N,Coastal T3 transport mall,코스탈 T3 수송몰,Coastal T3 transport mall,코스탈 T3 수송몰,,GNG,Gangneung 
+DGP,N,Daegwallyeong Park & Ride,대관령주차장,Daegwallyeong Park & Ride,대관령주차장,,,
+DTM,N,Daegwallyeong TS Mall,대관령 수송몰,Daegwallyeong Transport Mall (near DGP),대관령 수송몰,,,
+DVH,N,Dragon Valley Hotel,용평드래곤밸리 호텔,Yongpyong Dragon Valley Hotel ,용평드래곤밸리 호텔,,PYE,PyeongChang
+EDC,N,Equipment Deployment Ctr,장비분배센터,Equipment Deployment Centre,장비분배센터,,,
+FBH,N,Four Seasons Beach Hotel,포시즌비치관광호텔,Four Seasons Beach Tourist Hotel,포시즌비치관광호텔,,,
+GAC,N,Gangneung Art Centre,강릉아트센터,Gangneung Art Centre,강릉아트센터,,GNG,Gangneung 
+GAH,N,Gangneung Asan Hospital,강릉아산병원,Gangneung Asan Hospital,강릉아산병원,,GNG,Gangneung 
+GBD,N,Gangneung BUS Depot,강릉 버스 차고지,Gangneung BUS Depot,강릉 버스 차고지,,GNG,Gangneung 
+GCC,Y,Gangneung Curling Centre,강릉 컬링 센터,Gangneung Curling Centre,강릉 컬링 센터,I,GNG,Gangneung 
+GFD,N,Gangneung Fleet Depot,강릉 플릿 차고지,Gangneung Fleet Depot,강릉 플릿 차고지,,GNG,Gangneung 
+GHC,Y,Gangneung Hockey Centre,강릉 하키 센터,Gangneung Hockey Centre,강릉 하키 센터,I,GNG,Gangneung 
+GHT,N,Gangneung Hockey Training,강릉 하키 연습경기장,Gangneung Hockey Training Venue,강릉 하키 연습경기장,,GNG,Gangneung 
+GIA,Y,Gangneung Ice Arena,강릉 아이스 아레나,Gangneung Ice Arena,강릉 아이스 아레나,I,GNG,Gangneung 
+GKC,N,Gangneung K-Client Centre,강릉 키클라이언트센터,Gangneung Key-Client Centre,강릉 키클라이언트센터,,GNG,Gangneung 
+GMI,N,Gangneung Medical Centre,강릉의료원,Gangneung Medical Centre,강릉의료원,,GNG,Gangneung 
+GMP,N,Gimpo Int'l Airport,김포국제공항,Gimpo International Airport,김포국제공항,,SEO,Seoul
+GMV,N,Gangneung Media Village,강릉 미디어촌,Gangneung Media Village,강릉 미디어촌,,GNG,Gangneung 
+GMW,N,Gangneung Media Workroom,강릉 미디어 워크룸,Gangneung Media Workroom,강릉 미디어 워크룸,,GNG,Gangneung 
+GNB,N,GangNeung Bus terminal,강릉 버스터미널,GangNeung Bus terminal,강릉 버스터미널,,GNG,Gangneung 
+GNS,N,Gangneung Station,강릉역,Gangneung Station,강릉역,,GNG,Gangneung 
+GOP,N,Gangneung Olympic Park,강릉 올림픽 파크,Gangneung Olympic Park,강릉 올림픽 파크,,GNG,Gangneung 
+GOV,Y,Gangneung Oval,강릉 스피드 스케이팅 경기장,Gangneung Oval,강릉 스피드 스케이팅 경기장,I,GNG,Gangneung 
+GRV,N,Gangneung Rem Veh Site,강릉원거리차량검색시설,Gangneung Remote Vehicle Screening Site,강릉원거리차량검색시설,,GNG,Gangneung 
+GSB,N,Skybay Hotel,골든 튤립 스카이베이 경포호텔,Golden Tulip Skybay Gyeongpo Hotel,골든 튤립 스카이베이 경포호텔,,,
+GSP,N,Gangneung Stn Park & Ride,강릉역주차장,Gangneung Station Park & Ride,강릉역주차장,,,
+GST,N,Gangneung Stadium,강릉 스타디움,Gangneung Stadium,강릉 스타디움,,GNG,Gangneung 
+GTC,N,Gangneung Ticketing Ctr,2018 평창 동계올림픽 메인티켓센터 (강릉),Gangneung Ticketing Centre,2018 평창 동계올림픽 메인티켓센터 (강릉),,GNG,Gangneung 
+GVL,N,Gangneung Olympic Village,강릉 올림픽 선수촌,Gangneung Olympic Village,강릉 올림픽 선수촌,,GNG,Gangneung 
+HBD,N,Hoenggye Bus Depot,횡계 버스 차고지,Hoenggye Bus Depot,횡계 버스 차고지,,PYE,PyeongChang
+HFD,N,Hoenggye Fleet Depot,횡계 플릿 차고지,Hoenggye Fleet Depot,횡계 플릿 차고지,,PYE,PyeongChang
+HIH,N,Holiday Inn Resort Hotel,홀리데이인리조트 호텔,Holiday Inn Resort (Hotel),홀리데이인리조트 호텔,,PYE,PyeongChang
+HQ2,N,POCOG Seoul Office,평창조직위 서울사무소,PyeongChang 2018 Seoul Office,평창조직위 서울사무소,,SEO,Seoul
+HQ4,N,POCOG Ski Jumping Office,평창조직위 스키점프사무소,PyeongChang 2018 Ski Jumping Office,평창조직위 스키점프사무소,,PYE,PyeongChang
+HQ5,N,POCOG KAL Office,평창조직위 대한항공사무소,PyeongChang 2018 Korean Air Office,평창조직위 대한항공사무소,,SEO,Seoul
+HQG,N,POCOG Coastal Office,평창조직위 강릉사무소,PyeongChang 2018 Gangneung Office,평창조직위 강릉사무소,,GNG,Gangneung 
+HQP,N,POCOG Headquarters,평창조직위 본부,PyeongChang 2018 Headquarters,평창조직위 본부,,PYE,PyeongChang
+HTG,N,HOTEL TOPS TEN Gangneung,호텔 탑스텐 강릉,HOTEL TOPS TEN Gangneung,호텔 탑스텐 강릉,,,
+HTL,N,Hotels,호텔 공통,Hotels,호텔 공통,,,
+IBC,N,Intl’l Broadcast Centre,국제 방송 센터,International Broadcast Centre ,국제 방송 센터,,PYE,PyeongChang
+ICH,N,InterContinental Hotel,인터컨티넨탈 호텔,InterContinental Hotel,인터컨티넨탈 호텔,,PYE,PyeongChang
+ICN,N,Incheon Int'l Airport,인천국제공항,Incheon International Airport,인천국제공항,,SEO,Seoul
+ISM,N,Security Monitoring Ctr,보안관제센터,Integrated Security Monitoring Centre,보안관제센터,,,
+ITH,N,IBC Transport Hub,IBC 수송허브,IBC Transport Hub,IBC 수송허브,,PYE,PyeongChang
+JAL,Y,Jeongseon Alpine Centre,정선 알파인 경기장,Jeongseon Alpine Centre,정선 알파인 경기장,O,PYE,PyeongChang
+JBB,N,Jinbu Bus terminal,진부 버스터미널,Jinbu Bus terminal,진부 버스터미널,,,
+JBP,N,Jinbu Park & Ride,진부주차장,Jinbu Park & Ride,진부주차장,,,
+JBS,N,Jinbu Station,진부역,Jinbu Station,진부역,,PYE,PyeongChang
+JPB,N,JangPyeong Bus terminal,장평 버스터미널,JangPyeong Bus terminal,장평 버스터미널,,,
+JSA,N,JeongSeon Arari park,정선 아라리 공원,JeongSeon Arari park,정선 아라리 공원,,PYE,PyeongChang
+JSB,N,JeongSeon Bus terminal,정선 버스터미널,JeongSeon Bus terminal,정선 버스터미널,,PYE,PyeongChang
+JSP,N,Jeongseon Park & Ride,정선주차장,Jeongseon Park & Ride,정선주차장,,PYE,PyeongChang
+JTM,N,Jinbu Transport Mall,진부 수송몰,Jinbu Transport Mall (near JBS),진부 수송몰,,,
+KDP,N,Kwandong Park & Ride,관동주차장,Kwandong Park & Ride,관동주차장,,,
+KFH,N,Kensington Flora Hotel,켄싱턴 플로라 호텔,Kensington Flora Hotel,켄싱턴 플로라 호텔,,,
+KHC,Y,Kwandong Hockey Centre,관동 하키 센터,Kwandong Hockey Centre,관동 하키 센터,I,GNG,Gangneung 
+KHT,N,Kwandong Hockey Training,관동 하키 연습경기장,Kwandong Hockey Training Venue,관동 하키 연습경기장,,GNG,Gangneung 
+KST,N,Korea Science & Tec Inst.,한국과학기술연구원,Korea Institute of Science and Technology (KIST),한국과학기술연구원,,SEO,Seoul
+KTC,N,Gangwon Ticketing Ctr,2018 평창 동계올림픽 메인티켓센터(강원도),Gangwon Ticketing Centre,2018 평창 동계올림픽 메인티켓센터 (강원도),,PYE,PyeongChang
+LSH,N,Lakai Sandpine Resort,라카이샌드파인,Lakai Sandpine Resort,라카이샌드파인,,,
+MAC,N,Mountain Accred Ctr,마운틴 클러스터 유니폼배부 및 메인 등록센터,Mountain Accreditation Centre,마운틴 클러스터 유니폼배부 및 메인 등록센터,,PYE,PyeongChang
+MDC,N,Main Distribution Centre,물류분배센터,Main Distribution Centre,물류분배센터,,PYE,PyeongChang
+MGM,N,MGM Hotel,MGM 호텔,MGM Hotel,MGM 호텔,,,
+MMH,N,Maremons Hotel,마레몬스 호텔,Maremons Hotel,마레몬스 호텔,,,
+MNC,N,Main Network Centre,주 네트워크 센터,Main Network Centre,주 네트워크 센터,,,
+MOC,N,Main Operations Centre,종합운영센터,Main Operations Centre,종합운영센터,,PYE,PyeongChang
+MPC,N,Main Press Centre,메인 프레스 센터,Main Press Centre,메인 프레스 센터,,PYE,PyeongChang
+MTH,N,Media Vill. transport hub,미디어촌 수송허브,Media Village transport hub,미디어촌 수송허브,,GNG,Gangneung 
+MTM,N,Mountain T3 transp. mall,마운틴 T3 수송몰,Mountain T3 transport mall,마운틴 T3 수송몰,,,
+MVL,N,Media Village Management,미디어촌 관리,Media Village Management,미디어촌 관리,,,
+NGP,N,Nth Gangneung Park & Ride,북강릉주차장,North Gangneung Park & Ride,북강릉주차장,,,
+NTM,N,North Gangneung TS Mall,북강릉 수송몰,North Gangneung Transport Mall (near NGP),북강릉 수송몰,,,
+OF2,N,Holiday Inn Resort,홀리데이인 리조트 호텔,Holiday Inn Hotel and Resort,홀리데이인 리조트 호텔,,PYE,PyeongChang
+OF3,N,Dragon Valley Hotel,드래곤밸리 호텔,Dragon Valley Hotel,드래곤밸리 호텔,,PYE,PyeongChang
+OF4,N,Kensington Flora Hotel,켄싱턴 플로라 호텔,Kensington Flora Hotel,켄싱턴 플로라 호텔,,PYE,PyeongChang
+OFH,N,Olympic Family Hotel,올림픽패밀리호텔,Olympic Family Hotel,올림픽패밀리호텔,,,
+OLC,N,Olympic Club,올림픽클럽,Olympic Club,올림픽클럽,,PYE,PyeongChang
+PCS,N,PyeongChang Station,평창역,PyeongChang Station,평창역,,PYE,PyeongChang
+PDC,N,Primary Data Centre,주데이터센터,Primary Data Centre,주데이터센터,,,
+PFH,N,Paralympic Family Hotel,패럴림픽패밀리호텔,Paralympic Family Hotel,패럴림픽패밀리호텔,,,
+PHC,N,Paralymp. Hospitality Ctr,패럴림픽 호스피탈리티 센터,Paralympic Hospitality Centre,패럴림픽 호스피탈리티 센터,,PYE,PyeongChang
+PMP,N,PyeongChang Medals Plaza,평창 메달 플라자,PyeongChang Medals Plaza,평창 메달 플라자,,PYE,PyeongChang
+PMR,N,PyeongChang Media Resid.,평창 미디어 레지던스,PyeongChang Media Residence,평창 미디어 레지던스,,PYE,PyeongChang
+POP,N,PyeongChang Olympic Plaza,평창 올림픽 플라자,PyeongChang Olympic Plaza,평창 올림픽 플라자,,PYE,PyeongChang
+POS,N,PyeongChang Olympic Stad.,평창 올림픽 스타디움,PyeongChang Olympic Stadium,평창 올림픽 스타디움,,PYE,PyeongChang
+PRV,N,PyeongChang Rem Veh Site,평창원거리차량검색시설,PyeongChang Remote Vehicle Screening Site,평창원거리차량검색시설,,PYE,PyeongChang
+PVL,N,PyeongChang Olympic Vill.,평창 올림픽 선수촌,PyeongChang Olympic Village,평창 올림픽 선수촌,,PYE,PyeongChang
+SCD,N,Sokcho Depot,속초 차고지,Sokcho Depot,속초 차고지,,,
+SDC,N,Secondary Data Centre,보조데이터센터,Secondary Data Centre,보조데이터센터,,SEO,Seoul
+SFC,N,Seoul Fleet Call Ctr,서울 플릿 콜센터,Seoul Fleet Call Centre,서울 플릿 콜센터,,SEO,Seoul
+SNC,N,Secondary Network Centre,부 네트워크 센터,Secondary Network Centre,부 네트워크 센터,,,
+SPH,N,Seaspovil Resort,씨스포빌 리조트,Seaspovil Resort,씨스포빌 리조트,,,
+SRH,N,Ski Rental House,스키렌탈하우스,Ski Rental House,스키렌탈하우스,,,
+STC,N,Seoul Ticketing Ctr,2018 평창 동계올림픽 메인티켓센터 (서울),Seoul Ticketing Centre,2018 평창 동계올림픽 메인티켓센터 (서울),,SEO,Seoul
+STG,N,Gangneung Superstore,강릉 슈퍼스토어,Gangneung Superstore,강릉 슈퍼스토어,,GNG,Gangneung 
+STP,N,PyeongChang Superstore,평창 슈퍼스토어,PyeongChang Superstore,평창 슈퍼스토어,,PYE,PyeongChang
+STS,N,Seoul Station,서울역,Seoul Train/Railway Station,서울역,,SEO,Seoul
+STT,N,Gangeung Yeongdong U. Gym,강릉영동 쇼트트랙 연습경기장,Gangneung Yeongdong Short Track Training Venue,강릉영동 쇼트트랙 연습경기장,,GNG,Gangneung 
+THG,N,Gangneung Transport Hub,강릉 수송허브,Transport hub near Gangneung Station,강릉 수송허브,,GNG,Gangneung 
+THJ,N,Jinbu Transport hub,진부 수송허브,Transport hub near Jinbu Station,진부 수송허브,,PYE,PyeongChang
+TMI,N,Transport Mall near IBC,IBC 수송몰,Transport Mall near IBC,IBC 수송몰,,,
+TMM,N,TS near Media village,미디어촌 수송몰,Transport Mall near Media village,미디어촌 수송몰,,,
+TOC,N,Tech Operations Centre,기술운영센터,Technology Operations Centre,기술운영센터,,GNG,Gangneung 
+TSD,N,Technology Service Desk,정보통신 서비스데스크,Technology Service Desk,정보통신 서비스데스크,,GNG,Gangneung 
+TTC,N,Technology Training Ctr,테크놀로지 트레이닝 센터,Technology Training Centre,테크놀로지 트레이닝 센터,,,
+UAC,N,Uniform Distribution Ctr,유니폼 배부 및 메인 등록센터,Uniform Distribution and Main Accreditation Centre,유니폼 배부 및 메인 등록센터,,,
+WGP,N,Wst Gangneung Park & Ride,서강릉주차장,West Gangneung Park & Ride,서강릉주차장,,,
+WSC,N,Wonju Severance Hospital,원주세브란스기독병원,Wonju Severance Christian Hospital,원주세브란스기독병원,,PYE,PyeongChang
+YAL,Y,Yongpyong Alpine Centre,용평 알파인 경기장,Yongpyong Alpine Centre,용평 알파인 경기장,O,PYE,PyeongChang
+YBH,N,Yongpyong Birch Hill,용평 버치힐,Yongpyong Birch Hill,용평 버치힐,,PYE,PyeongChang
+YNY,N,YangYang Int'l Airport,양양국제공항,YangYang International Airport,양양국제공항,,GNG,Gangneung 
+YRP,N,Yongpyong Rainbow,용평 레인보우 주차장,Yongpyong Rainbow Parking lot,용평 레인보우 주차장,,,
+YRV,N,Yeoju Rem Veh Site,여주원거리차량검색시설,Yeoju Remote Vehicle Screening Site,여주원거리차량검색시설,,,

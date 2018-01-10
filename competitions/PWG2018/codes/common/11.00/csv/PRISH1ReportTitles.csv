@@ -1,0 +1,389 @@
+Discipline,PRIS_NO,ENG Description,KOR Description
+ALP,C06,Activity List,활동 리스트
+ALP,C08,Competition Schedule,경기 일정
+ALP,C30A,Number of Entries by NPC,NPC별 엔트리 인원
+ALP,C30B,Number of Entries by Category and Class,카테고리 및 등급별 인원엔트리
+ALP,C30C,Number of Entries by Event and Class,세부종목 및 등급별 인원엔트리
+ALP,C31A,Entries,엔트리
+ALP,C31C,Entries by Event,세부종목별 엔트리
+ALP,C32A,Entry List by NPC,NPC별 엔트리 리스트
+ALP,C32C,Entry List by Event,세부종목별 엔트리 리스트
+ALP,C35,Competition Officials,경기임원
+ALP,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+ALP,C38D,Entry Data Checklist - Headshot Photographs,엔트리 데이터 체크리스트 - 상반신 사진
+ALP,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+ALP,C45,Factors for Alpine Skiing,알파인스키 현황
+ALP,C48A,Event Entries Form,세부종목 엔트리양식
+ALP,C48B,Entry Confirmation,참가선수 확정
+ALP,C51A,Start List,스타트 리스트
+ALP,C51B,Start List,스타트 리스트
+ALP,C55,Bib Picking List,빕 리스트
+ALP,C58A,Program for Alpine Skiing,알파인스키 일정
+ALP,C59,Report by Referee,심판 보고서
+ALP,C67,Official Communication,공식 전달사항
+ALP,C68,Sport Communication,종목 전달사항
+ALP,C71A,Partial Results,중간 경기결과
+ALP,C71B,Partial Results,중간 경기결과
+ALP,C72A,Unofficial Results,비공식 경기결과
+ALP,C72B,Unofficial Results,비공식 경기결과
+ALP,C72C,Unofficial Results,비공식 경기결과
+ALP,C73A,Official Results,공식 경기결과
+ALP,C73B,Official Results,공식 경기결과
+ALP,C73C,Official Results,공식 경기결과
+ALP,C77A,Performance Analysis by Rank,랭킹별 퍼포먼스
+ALP,C77B,Performance Analysis by Bib,빕별 퍼포먼스 분석
+ALP,C77C,Penalty Calculation,페널티 산출
+ALP,C92A,Medallists,메달리스트
+ALP,C93,Medallists by Event,세부종목별 메달리스트
+ALP,C95,Medal Standings,메달 순위
+ALP,N02,Competition Format and Rules,경기방식 및 규정
+ALP,N03,Course Map and Profile,코스 지도 및 프로필
+ALP,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+ALP,N11,Medals by NPC,NPC별 메달
+ALP,N15,Multi-Medallists,멀티 메달리스트
+ALP,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+ALP,N17B,WPAS World Cup Standings,WPAS 월드컵 랭킹
+ALP,N17C,WPAS World Cup Points List,WPAS 월드컵 포인트 리스트
+ALP,N20,Athlete Biography,선수 바이오그래피
+ALP,N24,NPC Profile,NPC 프로필
+ALP,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+ALP,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+ALP,N86A,History,스포츠 역사
+ALP,N86B,WPAS - Federation Facts,WPAS - 연맹 현황
+ALP,N86C,Qualification Criteria,출전자격 획득 절차
+ALP,N86D,Facility Description,시설 정보
+ALP,N86E,Media Information,미디어 정보
+ALP,N86F,Birthdays during the Games,대회 중 생일
+ALP,N87A,Flash Quotes,플래시 선수소감
+ALP,N87B,Quotes of the Day,오늘의 선수소감
+ALP,N88,Press Conference Highlights,기자회견 하이라이트
+ALP,N89,Preview / Review,프리뷰/리뷰
+ALP,N90A,Media Communication,미디어 전달사항
+ALP,N90B,News Article,일반 기사
+ALP,N90C,IPC News,IPC 뉴스
+ALP,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+ALP,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자
+BTH,C06,Activity List,활동 리스트
+BTH,C07,Training Schedule,연습 일정
+BTH,C08,Competition Schedule,경기 일정
+BTH,C30A,Number of Entries by NPC,NPC별 엔트리 인원
+BTH,C30B,Number of Entries by Sport and Class,종목 및 등급별 인원엔트리
+BTH,C30C,Number of Entries by Event and Class,세부종목 및 등급별 인원엔트리
+BTH,C31A,Entries,엔트리
+BTH,C31C,Entries by Event,세부종목별 엔트리
+BTH,C32C,Entry List by Event,세부종목별 엔트리 리스트
+BTH,C35,Competition Officials,경기임원
+BTH,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+BTH,C38D,Entry Data Checklist - Headshot Photographs,엔트리 데이터 체크리스트 - 상반신 사진
+BTH,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+BTH,C44,Race Information Check Form,경기 정보 확인 양식
+BTH,C45A,Event Entries Form,세부종목 엔트리양식
+BTH,C45B,Final Event Entry Confirmation,최종 세부종목 엔트리 확인
+BTH,C46,Percentages for Nordic Events,노르딕 이벤트 확률
+BTH,C50A,Draw Overview,추첨 전체개요
+BTH,C51A,Start List,스타트 리스트
+BTH,C55,Bib Picking List,선수번호 리스트
+BTH,C67,Official Communication,공식 전달사항
+BTH,C68,Sport Communication,종목 전달사항
+BTH,C72A,Unofficial Results,비공식 경기결과
+BTH,C73A,Official Results,공식 경기결과
+BTH,C92A,Medallists,메달리스트
+BTH,C93,Medallists by Event,세부종목별 메달리스트
+BTH,C95,Medal Standings,메달 순위
+BTH,N02,Competition Format and Rules,경기방식 및 규정
+BTH,N03,Course Map and Profile,코스 지도 및 프로필
+BTH,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+BTH,N11,Medals by NPC,NPC별 메달
+BTH,N15,Multi-Medallists,멀티 메달리스트
+BTH,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+BTH,N17B,Current World Cup Standings,현 월드컵 랭킹
+BTH,N17C,Current World Cup Points List,현 월드컵 포인트 리스트
+BTH,N20,Athlete Biography,선수 바이오그래피
+BTH,N24,NPC Profile,NPC 프로필
+BTH,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+BTH,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+BTH,N86A,History,스포츠 역사
+BTH,N86B,WPNS - Federation Facts,WPNS - 연맹 현황
+BTH,N86C,Qualification Criteria,출전자격 획득 절차
+BTH,N86D,Facility Description,시설 정보
+BTH,N86E,Media Information,미디어 정보
+BTH,N86F,Birthdays during the Games,대회 중 생일
+BTH,N87A,Flash Quotes,플래시 선수소감
+BTH,N87B,Quotes of the Day,오늘의 선수소감
+BTH,N88,Press Conference Highlights,기자회견 하이라이트
+BTH,N89,Preview / Review,프리뷰/리뷰
+BTH,N90A,Media Communication,미디어 전달사항
+BTH,N90B,News Article,일반 기사
+BTH,N90C,IPC News,IPC 뉴스
+BTH,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+BTH,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자
+CCS,C06,Activity List,활동 리스트
+CCS,C07,Training Schedule,연습 일정
+CCS,C08,Competition Schedule,경기 일정
+CCS,C30A,Number of Entries by NPC,NPC별 엔트리 인원
+CCS,C30B,Number of Entries by Sport and Class,종목 및 등급별 인원엔트리
+CCS,C30C,Number of Entries by Event and Class,세부종목 및 등급별 인원엔트리
+CCS,C31A,Entries,엔트리
+CCS,C31C,Entries by Event,세부종목별 엔트리
+CCS,C32A,Entry List by NPC,NPC별 엔트리 리스트
+CCS,C35,Competition Officials,경기임원
+CCS,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+CCS,C38C,Entry Data Checklist - Teams,엔트리 데이터 체크리스트- 팀
+CCS,C38D,Entry Data Checklist - Headshot Photographs,엔트리 데이터 체크리스트 - 상반신 사진
+CCS,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+CCS,C44,Race Information Check Form,경기 정보 확인 양식
+CCS,C45A,Event Entries Form,세부종목 엔트리양식
+CCS,C45B,Final Event Entry Confirmation,최종 세부종목 엔트리 확인
+CCS,C45C,Final Event Entry Confirmation,최종 세부종목 엔트리 확인
+CCS,C46,Percentages for Nordic Events,노르딕 이벤트 확률
+CCS,C50A,Draw Overview,추첨 전체개요
+CCS,C51A,Start List,스타트 리스트
+CCS,C51C,Start List,스타트 리스트
+CCS,C55,Bib Picking List,선수번호 리스트
+CCS,C67,Official Communication,공식 전달사항
+CCS,C68,Sport Communication,종목 전달사항
+CCS,C72A,Unofficial Results,비공식 경기결과
+CCS,C72C,Unofficial Results,비공식 경기결과
+CCS,C72D1,Unofficial Results,비공식 경기결과
+CCS,C72D3,Unofficial Results,비공식 경기결과
+CCS,C73A,Official Results,공식 경기결과
+CCS,C73C,Official Results,공식 경기결과
+CCS,C73D1,Official Results,공식 경기결과
+CCS,C73D3,Official Results,공식 경기결과
+CCS,C75D,Results Bracket,경기결과 대진표
+CCS,C92A,Medallists,메달리스트
+CCS,C92B,Medallists,메달리스트
+CCS,C93,Medallists by Event,세부종목별 메달리스트
+CCS,C95,Medal Standings,메달 순위
+CCS,C97,Nordic Skiing Medal Standings,노르딕 스키 메달 랭킹
+CCS,N02,Competition Format and Rules,경기방식 및 규정
+CCS,N03,Course Map and Profile,코스 지도 및 프로필
+CCS,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+CCS,N11,Medals by NPC,NPC별 메달
+CCS,N15,Multi-Medallists,멀티 메달리스트
+CCS,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+CCS,N17B,Current World Cup Standings,현 월드컵 랭킹
+CCS,N17C,Current World Cup Points List,현 월드컵 포인트 리스트
+CCS,N20,Athlete Biography,선수 바이오그래피
+CCS,N24,NPC Profile,NPC 프로필
+CCS,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+CCS,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+CCS,N59A,Extended Start List,상세 스타트리스트
+CCS,N59B,Extended Start List,상세 스타트리스트
+CCS,N86A,History,스포츠 역사
+CCS,N86B,WPNS - Federation Facts,WPNS - 연맹 현황
+CCS,N86C,Qualification Criteria,출전자격 획득 절차
+CCS,N86D,Facility Description,시설 정보
+CCS,N86E,Media Information,미디어 정보
+CCS,N86F,Birthdays during the Games,대회 중 생일
+CCS,N87A,Flash Quotes,플래시 선수소감
+CCS,N87B,Quotes of the Day,오늘의 선수소감
+CCS,N88,Press Conference Highlights,기자회견 하이라이트
+CCS,N89,Preview / Review,프리뷰/리뷰
+CCS,N90A,Media Communication,미디어 전달사항
+CCS,N90B,News Article,일반 기사
+CCS,N90C,IPC News,IPC 뉴스
+CCS,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+CCS,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자
+CUR,C06,Activity List,활동 리스트
+CUR,C07,Training Schedule,연습 일정
+CUR,C08,Competition Schedule,경기 일정
+CUR,C31A,Entries,엔트리
+CUR,C32E,Entry List by NPC,NPC별 엔트리 리스트
+CUR,C35,Competition Officials,경기임원
+CUR,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+CUR,C38C,Entry Data Checklist - Teams,엔트리 데이터 체크리스트- 팀
+CUR,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+CUR,C48A,Original Team Line-up Form,기본 팀 라인업 양식
+CUR,C48B,Game Team Line-up Form,경기 팀 라인업 양식
+CUR,C48C,Team Line-up Change Form,팀 라인업 변경 양식
+CUR,C48D,On-ice Official Form,온 아이스 심판 양식
+CUR,C48E,Timing Form,시간 계측 양식
+CUR,C51A,Line-ups,라인업
+CUR,C51B,Line-ups,라인업
+CUR,C54,Team Line-ups,팀 라인업
+CUR,C56,Extended Team List by NPC,NPC별 상세 팀 리스트
+CUR,C66,Last Stone Draw Control Sheet,마지막 스톤 컨트롤 기록
+CUR,C67,Official Communication,공식 전달사항
+CUR,C68,Sport Communication,종목 전달사항
+CUR,C69,Game - Shot by Shot,경기별 슛 기록
+CUR,C73,Game Results,대회 경기결과
+CUR,C74A,Session Results and Standings,세션 경기결과 및 랭킹
+CUR,C74B,Session Results and Standings,세션 경기결과 및 랭킹
+CUR,C76A,Competition Summary,경기 개요
+CUR,C76B,Final Standings,최종 랭킹
+CUR,C76C,Competition Matrix,라운드로빈 경기결과
+CUR,C76D,Draw Shot Challenge,승부 던지기
+CUR,C83,Most Important Shots,우승 결정 슛
+CUR,C84A,Percentage Summary,백분율 요약
+CUR,C84B,Cumulative Player Statistics by Team,팀별 선수 누적 통계
+CUR,C84C1,Shot Success Percentage by Position,포지션별 샷 성공률
+CUR,C84D,Scoring Analysis,득점 분석
+CUR,C84E,Summary of Big Ends,대량 득점 엔드 요약
+CUR,C84F,Sheet by Sheet Statistics,시트별 통계
+CUR,C84G,Time-out Statistics,타임아웃 통계
+CUR,C92B,Medallists,메달리스트
+CUR,C93,Medallists by Event,세부종목별 메달리스트
+CUR,C95,Medal Standings,메달 순위
+CUR,N02A,Competition Format and Rules,경기방식 및 규정
+CUR,N02B,Glossary of Terms,용어집
+CUR,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+CUR,N11,Medals by NPC,NPC별 메달
+CUR,N15,Multi-Medallists,멀티 메달리스트
+CUR,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+CUR,N17B,WCF World Ranking,WCF 세계 랭킹
+CUR,N20,Athlete Biography,선수 바이오그래피
+CUR,N21,Coach Biography,코치 바이오그래피
+CUR,N22,Team Profile,팀 프로필
+CUR,N24,NPC Profile,NPC 프로필
+CUR,N26,WCF Paralympic Qualification,WCF 패럴림픽 출전 자격
+CUR,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+CUR,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+CUR,N86A,History,스포츠 역사
+CUR,N86B,WCF - Federation Facts,WCF - 연맹 현황
+CUR,N86C,Qualification Criteria,출전자격 획득 절차
+CUR,N86D,Facility Description,시설 정보
+CUR,N86E,Media Information,미디어 정보
+CUR,N86F,Birthdays during the Games,대회 중 생일
+CUR,N87A,Flash Quotes,플래시 선수소감
+CUR,N87B,Quotes of the Day,오늘의 선수소감
+CUR,N88,Press Conference Highlights,기자회견 하이라이트
+CUR,N89,Preview / Review,프리뷰/리뷰
+CUR,N90A,Media Communication,미디어 전달사항
+CUR,N90B,News Article,일반 기사
+CUR,N90C,IPC News,IPC 뉴스
+CUR,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+CUR,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자
+ISH,C06,Activity List,활동 리스트
+ISH,C07,Practice Schedule,연습 일정
+ISH,C08,Competition Schedule,경기 일정
+ISH,C31T,Team Entries,팀 엔트리
+ISH,C33,Team Roster ,팀 명단
+ISH,C35A,Directorate,팀대표자
+ISH,C35B,Competition Officials,경기임원
+ISH,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+ISH,C38C,Entry Data Checklist - Teams,엔트리 데이터 체크리스트- 팀
+ISH,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+ISH,C48A,Team Line-Up Form,팀 라인업 양식
+ISH,C48B,Game Starting Line-Up Form,경기 선발 라인업 양식
+ISH,C48F,Official Game Sheet/Report,공식 경기결과지
+ISH,C54A,Game Roster,경기 명단
+ISH,C54B,Line-Ups,라인업
+ISH,C54C,Graphical Line-Ups,그래픽 라인업
+ISH,C58,Game Officials Assignment,경기 심판 배정
+ISH,C67,Official Communication,공식 전달사항
+ISH,C68,Sport Communication,종목 전달사항
+ISH,C74,Game Summary,경기 요약
+ISH,C76C,Tournament Progress,토너먼트 진행상황
+ISH,C76D,Tournament Progress,토너먼트 진행상황
+ISH,C76E,Game Results by Team,팀별 대회 경기결과
+ISH,C76F,Teams Overall Record,팀 전체 기록
+ISH,C77A,Shot Chart,슛 차트
+ISH,C77B,Face-off Chart,페이스오프 차트
+ISH,C83,Player Statistics by Team,팀별 선수 통계
+ISH,C84,Team Statistics,팀 통계
+ISH,C85A,Goalkeepers,골키퍼
+ISH,C85B,Scoring Leaders,득점 선두
+ISH,C85C,Goal Scoring Leaders,골득점 선두
+ISH,C85D,Assist Leaders,어시스트 선두
+ISH,C85E,Defencemen Scoring Leaders,수비수 득점 선두
+ISH,C85F,Face-off Leaders,페이스오프 선두
+ISH,C85G,Plus-Minus Leaders,플러스-마이너스 선두
+ISH,C85H,Most Penalised Players,최다 반칙 선수
+ISH,C85I,Best Players Selected by the Directorate,팀 대표자가 선정한 최고의 선수
+ISH,C92C,Medallists,메달리스트
+ISH,C93,Medallists by Event,세부종목별 메달리스트
+ISH,C95,Medal Standings,메달 순위
+ISH,N02A,Competition Format and Rules,경기방식 및 규정
+ISH,N02B,Glossary of Terms,용어집
+ISH,N02C,"Game, Penalty and Equipment Description","대회, 패널티, 장비 정보"
+ISH,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+ISH,N11,Medals by NPC,NPC별 메달
+ISH,N15,Multi-Medallists,멀티 메달리스트
+ISH,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+ISH,N17B,Results in Qualification Period,예선 기간 경기결과
+ISH,N17C,Qualified Teams,본선 진출 팀
+ISH,N17D,World Ranking,세계 랭킹
+ISH,N20,Athlete Biography,선수 바이오그래피
+ISH,N21,Coach Biography,코치 바이오그래피
+ISH,N22,Team Profile,팀 프로필
+ISH,N24,NPC Profile,NPC 프로필
+ISH,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+ISH,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+ISH,N62,Head To Head,팀별 전적 
+ISH,N86A,History,스포츠 역사
+ISH,N86B,IPC - Federation Facts,IPC - 연맹 현황
+ISH,N86C,Qualification Criteria,출전자격 획득 절차
+ISH,N86D,Facility Description,시설 정보
+ISH,N86E,Media Information,미디어 정보
+ISH,N86F,Birthdays during the Games,대회 중 생일
+ISH,N86H,Individual Achievements,선수 개별 성적
+ISH,N86I,Team Achievements,팀 성적
+ISH,N87A,Flash Quotes,플래시 선수소감
+ISH,N87B,Quotes of the Day,오늘의 선수소감
+ISH,N88,Press Conference Highlights,기자회견 하이라이트
+ISH,N89,Preview / Review,프리뷰/리뷰
+ISH,N90A,Media Communication,미디어 전달사항
+ISH,N90B,News Article,일반 기사
+ISH,N90C,IPC News,IPC 뉴스
+ISH,N98,Media All Stars and Most Valuable Player,미디어 선정 올스타 및 MVP
+ISH,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+ISH,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자
+NSK,C09,Venue Activity List,경기장 활동 리스트
+SBD,C06,Activity List,활동 리스트
+SBD,C07,Training Schedule,연습 일정
+SBD,C08,Competition Schedule,경기 일정
+SBD,C30,Number of Entries by NPC,NPC별 엔트리 인원
+SBD,C31A,Entries,엔트리
+SBD,C31C,Entries by Event,세부종목별 엔트리
+SBD,C32A,Entry List by NPC,NPC별 엔트리 리스트
+SBD,C32C,Entry List by Event,세부종목별 엔트리 리스트
+SBD,C35,Competition Officials,경기임원
+SBD,C38A,Entry Data Checklist,엔트리 데이터 체크리스트
+SBD,C38D,Entry Data Checklist - Headshot Photographs,엔트리 데이터 체크리스트 - 상반신 사진
+SBD,C39,Entry Data Checklist - Competition Officials,엔트리 데이터 체크리스트- 심판
+SBD,C48A,Event Entries Form,세부종목 엔트리양식
+SBD,C48B,Entry Confirmation,참가선수 확정
+SBD,C51A,Start List,스타트 리스트
+SBD,C51B,Start List,스타트 리스트
+SBD,C55,Bib Picking List,선수번호 리스트
+SBD,C58,Program for Snowboard,스노보드 일정
+SBD,C67,Official Communication,공식 전달사항
+SBD,C68,Sport Communication,종목 전달사항
+SBD,C72A,Unofficial Results,비공식 경기결과
+SBD,C72B,Unofficial Results,비공식 경기결과
+SBD,C73A,Official Results,공식 경기결과
+SBD,C73B,Official Results,공식 경기결과
+SBD,C74A,Final Standings,최종 랭킹
+SBD,C75A,Bracket,대진표
+SBD,C92A,Medallists,메달리스트
+SBD,C93,Medallists by Event,세부종목별 메달리스트
+SBD,C95,Medal Standings,메달 순위
+SBD,N02A,Competition Format and Rules,경기방식 및 규정
+SBD,N02B,Glossary of Terms,용어집
+SBD,N03,Course Map and Profile,코스 지도 및 프로필
+SBD,N10,Medallists from Previous Paralympic Games,역대패럴림픽 메달리스트
+SBD,N11,Medals by NPC,NPC별 메달
+SBD,N15,Multi-Medallists,멀티 메달리스트
+SBD,N17A,Results in Last Paralympic Cycle,지난 패럴림픽 주기 경기결과
+SBD,N17B,WPSB World Cup Standings,WPSB 월드컵 랭킹
+SBD,N17C,WPSB Points List,WPSB 포인트 리스트
+SBD,N20,Athlete Biography,선수 바이오그래피
+SBD,N24,NPC Profile,NPC 프로필
+SBD,N51A,Opening Ceremony Flag Bearers,개회식 국기 게양요원
+SBD,N51B,Closing Ceremony Flag Bearers,폐회식 국기 게양요원
+SBD,N86A,History,스포츠 역사
+SBD,N86B,IPC - Federation Facts,IPC - 연맹 현황
+SBD,N86C,Qualification Criteria,출전자격 획득 절차
+SBD,N86D,Facility Description,시설 정보
+SBD,N86E,Media Information,미디어 정보
+SBD,N86F,Birthdays during the Games,대회 중 생일
+SBD,N87A,Flash Quotes,플래시 선수소감
+SBD,N87B,Quotes of the Day,오늘의 선수소감
+SBD,N88,Press Conference Highlights,기자회견 하이라이트
+SBD,N89,Preview / Review,프리뷰/리뷰
+SBD,N90A,Media Communication,미디어 전달사항
+SBD,N90B,News Article,일반 기사
+SBD,N90C,IPC News,IPC 뉴스
+SBD,P91A,Victory Ceremony Presenters,메달 시상식 시상자
+SBD,P91B,In-venue Ceremony Presenters,경기장 내 시상식 시상자

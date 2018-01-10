@@ -1,0 +1,18 @@
+Id,ENG Description,KOR Description
+E,East,동
+ENE,East-North-East,동북동
+ESE,East-South-East,동남동
+N,North,북
+NE,North-East,북동
+NNE,North-North-East,북북동
+NNW,North-North-West,북북서
+NW,North-West,북서
+S,South,남
+SE,South-East,남동
+SSE,South-South-East,남남동
+SSW,South-South-West,남남서
+SW,South-West,남서
+VR,Variable,가변
+W,West,서
+WNW,West-North-West,서북서
+WSW,West-South-West,서남서

@@ -1,0 +1,15 @@
+Discipline,Id,PositionOrder,ENG Description,FRA Description,KOR Description
+BOB,P,1,Pilot,Pilote,파일럿
+BOB,C,2,Crew,Équipage,크루
+CUR,4,1,Fourth,Quatrième,스킵
+CUR,3,2,Third,Troisième,서드
+CUR,2,3,Second,Deuxième,세컨
+CUR,1,4,Lead,Premier,리드
+CUR,A,5,Alternate,Remplaçant,대체선수
+CUR,F,6,Female,Femme,여성
+CUR,M,7,Male,Homme,남성
+IHO,GK,1,Goalkeeper,Gardien,골키퍼
+IHO,D,2,Defence,Défenseur,디펜스
+IHO,F,3,Forward,Attaquant,포워드
+LUG,F,1,Front,Avant,파일럿
+LUG,B,2,Back,Arrière,백맨

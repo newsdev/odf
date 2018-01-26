@@ -1,0 +1,223 @@
+Id,country,ENG Description,FRA Description,KOR Description,ENG longdescription,FRA longdescription,KOR longdescription,continent,participation,OMDOrder,ENG Short Description
+AFG,AFG,Afghanistan,Afghanistan,아프가니스탄,Afghanistan,Afghanistan,아프가니스탄,ASI,P,1,Afghanistan
+AHO,AHO,Netherlands Antilles,Ant. néerlandaises,네덜란드령 안틸레스 제도,Netherlands Antilles,Antilles néerlandaises,네덜란드령 안틸레스 제도,AME,H,2,
+ALB,ALB,Albania,Albanie,알바니아,Albania,Albanie,알바니아,EUR,P,3,Albania
+ALG,ALG,Algeria,Algérie,알제리,Algeria,Algérie,알제리,AFR,NP,4,Algeria
+AND,AND,Andorra,Andorre,안도라,Andorra,Andorre,안도라,EUR,P,5,Andorra
+ANG,ANG,Angola,Angola,앙골라,Angola,Angola,앙골라,AFR,NP,6,Angola
+ANT,ANT,Antigua & Barbuda,Antigua-et-Barbuda,앤티가바부다,Antigua and Barbuda,Antigua-et-Barbuda,앤티가바부다,AME,NP,7,Antig & Barbud
+ANZ,ANZ,AUS/NZL,AUS/NZL,호주뉴질랜드,Australia/New Zealand,Australie/Nouvelle-Zélande,호주뉴질랜드,OCE,H,8,
+ARG,ARG,Argentina,Argentine,아르헨티나,Argentina,Argentine,아르헨티나,AME,P,9,Argentina
+ARM,ARM,Armenia,Arménie,아르메니아,Armenia,Arménie,아르메니아,EUR,P,10,Armenia
+ARU,ARU,Aruba,Aruba,아루바,Aruba,Aruba,아루바,AME,NP,11,Aruba
+ASA,ASA,American Samoa,Samoa amér.,아메리칸사모아,American Samoa,Samoa américaines,아메리칸사모아,OCE,P,12,Amer. Samoa
+AUS,AUS,Australia,Australie,오스트레일리아,Australia,Australie,오스트레일리아,OCE,P,13,Australia
+AUT,AUT,Austria,Autriche,오스트리아,Austria,Autriche,오스트리아,EUR,P,14,Austria
+AZE,AZE,Azerbaijan,Azerbaïdjan,아제르바이잔,Azerbaijan,Azerbaïdjan,아제르바이잔,EUR,P,15,Azerbaijan
+BAH,BAH,Bahamas,Bahamas,바하마,Bahamas,Bahamas,바하마,AME,NP,16,Bahamas
+BAN,BAN,Bangladesh,Bangladesh,방글라데시,Bangladesh,Bangladesh,방글라데시,ASI,NP,17,Bangladesh
+BAR,BAR,Barbados,Barbade,바베이도스,Barbados,Barbade,바베이도스,AME,P,18,Barbados
+BDI,BDI,Burundi,Burundi,부룬디,Burundi,Burundi,부룬디,AFR,NP,19,Burundi
+BEL,BEL,Belgium,Belgique,벨기에,Belgium,Belgique,벨기에,EUR,P,20,Belgium
+BEN,BEN,Benin,Bénin,베냉,Benin,Bénin,베냉,AFR,NP,21,Benin
+BER,BER,Bermuda,Bermudes,버뮤다,Bermuda,Bermudes,버뮤다,AME,P,22,Bermuda
+BHU,BHU,Bhutan,Bhoutan,부탄,Bhutan,Bhoutan,부탄,ASI,NP,23,Bhutan
+BIH,BIH,Bosnia Herzegovina,Bosnie-Herzégovine,보스니아헤르체고비나,Bosnia and Herzegovina,Bosnie-Herzégovine,보스니아헤르체고비나,EUR,P,24,Bos&Herzeg.
+BIZ,BIZ,Belize,Belize,벨리즈,Belize,Belize,벨리즈,AME,NP,25,Belize
+BLR,BLR,Belarus,Bélarus,벨라루스,Belarus,Bélarus,벨라루스,EUR,P,26,Belarus
+BOL,BOL,Bolivia,Bolivie,볼리비아,Bolivia,Bolivie,볼리비아,AME,P,27,Bolivia
+BOT,BOT,Botswana,Botswana,보츠와나,Botswana,Botswana,보츠와나,AFR,NP,28,Botswana
+BRA,BRA,Brazil,Brésil,브라질,Brazil,Brésil,브라질,AME,P,29,Brazil
+BRN,BRN,Bahrain,Bahreïn,바레인,Bahrain,Bahreïn,바레인,ASI,NP,30,Bahrain
+BRU,BRU,Brunei Darussalam,Brunéi Darussalam,브루나이,Brunei Darussalam,Brunéi Darussalam,브루나이,ASI,NP,31,Brunei Daruss.
+BUL,BUL,Bulgaria,Bulgarie,불가리아,Bulgaria,Bulgarie,불가리아,EUR,P,32,Bulgaria
+BUR,BUR,Burkina Faso,Burkina Faso,부르키나파소,Burkina Faso,Burkina Faso,부르키나파소,AFR,NP,33,Burkina Faso
+CAF,CAF,Central African Rep,Rép. Centrafricaine,중앙아프리카공화국,Central African Republic,République centrafricaine,중앙아프리카공화국,AFR,NP,34,Centr Afric Rep
+CAM,CAM,Cambodia,Cambodge,캄보디아,Cambodia,Cambodge,캄보디아,ASI,NP,35,Cambodia
+CAN,CAN,Canada,Canada,캐나다,Canada,Canada,캐나다,AME,P,36,Canada
+CAY,CAY,Cayman Islands,Îles Caïmans,케이맨 제도,Cayman Islands,Îles Caïmans,케이맨 제도,AME,NP,37,Cayman Isl.
+CGO,CGO,Congo,Congo,콩고 공화국,Congo,Congo,콩고 공화국,AFR,NP,38,Congo
+CHA,CHA,Chad,Tchad,차드,Chad,Tchad,차드,AFR,NP,39,Chad
+CHI,CHI,Chile,Chili,칠레,Chile,Chili,칠레,AME,P,40,Chile
+CHN,CHN,China,Chine,중국,People's Republic of China,République populaire de Chine,중국,ASI,P,41,China
+CIS,CIS,CIS,CEI,독립국가연합,Commonwealth of Independent States,Communauté des États indépendants,독립국가연합,EUR,H,42,
+CIV,CIV,Côte d'Ivoire,Côte d'Ivoire,코트디부아르,Côte d'Ivoire,Côte d'Ivoire,코트디부아르,AFR,NP,43,Côte d'Ivoire
+CMR,CMR,Cameroon,Cameroun,카메룬,Cameroon,Cameroun,카메룬,AFR,NP,44,Cameroon
+COD,COD,D.R. Congo,RD du Congo,콩고 민주 공화국,Democratic Republic of the Congo,République démocratique du Congo,콩고 민주 공화국,AFR,NP,45,DR Congo
+COK,COK,Cook Islands,Îles Cook,쿡 아일랜드/쿡 제도,Cook Islands,Îles Cook,쿡 아일랜드/쿡 제도,OCE,NP,46,Cook Islands
+COL,COL,Colombia,Colombie,콜롬비아,Colombia,Colombie,콜롬비아,AME,P,47,Colombia
+COM,COM,Comoros,Comores,코모로,Comoros,Comores,코모로,AFR,NP,48,Comoros
+COR,COR,Korea,Corée,코리아,Korea,Corée,코리아,ASI,P,49,
+CPV,CPV,Cape Verde,Cap-Vert,카보베르데,Cape Verde,Cap-Vert,카보베르데,AFR,NP,50,Cape Verde
+CRC,CRC,Costa Rica,Costa Rica,코스타리카,Costa Rica,Costa Rica,코스타리카,AME,P,51,Costa Rica
+CRO,CRO,Croatia,Croatie,크로아티아,Croatia,Croatie,크로아티아,EUR,P,52,Croatia
+CUB,CUB,Cuba,Cuba,쿠바,Cuba,Cuba,쿠바,AME,NP,53,Cuba
+CYP,CYP,Cyprus,Chypre,키프로스,Cyprus,Chypre,키프로스,EUR,P,54,Cyprus
+CZE,CZE,Czech Republic,Rép. tchèque,체코,Czech Republic,République tchèque,체코,EUR,P,55,Czech Rep.
+DEN,DEN,Denmark,Danemark,덴마크,Denmark,Danemark,덴마크,EUR,P,56,Denmark
+DJI,DJI,Djibouti,Djibouti,지부티,Djibouti,Djibouti,지부티,AFR,NP,57,Djibouti
+DMA,DMA,Dominica,Dominique,도미니카,Dominica,Dominique,도미니카,AME,P,58,Dominica
+DOM,DOM,Dominican Rep.,Rép. dominicaine,도미니카공화국,Dominican Republic,République dominicaine,도미니카공화국,AME,NP,59,Dominican Rep
+ECU,ECU,Ecuador,Équateur,에콰도르,Ecuador,Équateur,에콰도르,AME,P,60,Ecuador
+EGY,EGY,Egypt,Égypte,이집트,Egypt,Égypte,이집트,AFR,NP,61,Egypt
+ERI,ERI,Eritrea,Érythrée,에리트레아,Eritrea,Érythrée,에리트레아,AFR,P,62,Eritrea
+ESA,ESA,El Salvador,El Salvador,엘살바도르,El Salvador,El Salvador,엘살바도르,AME,NP,63,El Salvador
+ESP,ESP,Spain,Espagne,스페인,Spain,Espagne,스페인,EUR,P,64,Spain
+EST,EST,Estonia,Estonie,에스토니아,Estonia,Estonie,에스토니아,EUR,P,65,Estonia
+ETH,ETH,Ethiopia,Éthiopie,에티오피아,Ethiopia,Éthiopie,에티오피아,AFR,NP,66,Ethiopia
+EUN,EUN,Unified Team,Équipe unifiée,단일팀,Unified Team,Équipe unifiée,단일팀,EUR,H,67,
+FIJ,FIJ,Fiji,Fidji,피지,Fiji,Fidji,피지,OCE,NP,68,Fiji
+FIN,FIN,Finland,Finlande,핀란드,Finland,Finlande,핀란드,EUR,P,69,Finland
+FRA,FRA,France,France,프랑스,France,France,프랑스,EUR,P,70,France
+FRG,FRG,FRG,FRG,독일연방공화국,Federal Republic of Germany,République Fédérale d'Allemagne,독일연방공화국,EUR,H,71,
+FSM,FSM,Micronesia,Micronésie,미크로네시아,Federated States of Micronesia,États fédérés de Micronésie,미크로네시아,OCE,NP,72,Micronesia
+GAB,GAB,Gabon,Gabon,가봉,Gabon,Gabon,가봉,AFR,NP,73,Gabon
+GAM,GAM,Gambia,Gambie,감비아,Gambia,Gambie,감비아,AFR,NP,74,Gambia
+GBR,GBR,Great Britain,Grande-Bretagne,영국,Great Britain,Grande-Bretagne,영국,EUR,P,75,Great Britain
+GBS,GBS,Guinea-Bissau,Guinée-Bissau,기니비사우,Guinea-Bissau,Guinée-Bissau,기니비사우,AFR,NP,76,Guinea-Bissau
+GDR,GDR,GDR,RDA,동독,GDR,RDA,동독,EUR,H,77,
+GEO,GEO,Georgia,Géorgie,조지아,Georgia,Géorgie,조지아,EUR,P,78,Georgia
+GEQ,GEQ,Equatorial Guinea,Guinée équatoriale,적도 기니,Equatorial Guinea,Guinée équatoriale,적도 기니,AFR,NP,79,Equ Guinea
+GER,GER,Germany,Allemagne,독일,Germany,Allemagne,독일,EUR,P,80,Germany
+GHA,GHA,Ghana,Ghana,가나,Ghana,Ghana,가나,AFR,P,81,Ghana
+GRE,GRE,Greece,Grèce,그리스,Greece,Grèce,그리스,EUR,P,82,Greece
+GRN,GRN,Grenada,Grenade,그레나다,Grenada,Grenade,그레나다,AME,NP,83,Grenada
+GUA,GUA,Guatemala,Guatemala,과테말라,Guatemala,Guatemala,과테말라,AME,P,84,Guatemala
+GUI,GUI,Guinea,Guinée,기니,Guinea,Guinée,기니,AFR,NP,85,Guinea
+GUM,GUM,Guam,Guam,괌,Guam,Guam,괌,OCE,NP,86,Guam
+GUY,GUY,Guyana,Guyana,가이아나,Guyana,Guyana,가이아나,AME,NP,87,Guyana
+HAI,HAI,Haiti,Haïti,아이티,Haiti,Haïti,아이티,AME,P,88,Haiti
+HKG,HKG,"Hong Kong, China","Hong Kong, Chine",홍콩,"Hong Kong, China","Hong Kong, Chine",홍콩,ASI,P,89,Hong Kong
+HON,HON,Honduras,Honduras,온두라스,Honduras,Honduras,온두라스,AME,NP,90,Honduras
+HUN,HUN,Hungary,Hongrie,헝가리,Hungary,Hongrie,헝가리,EUR,P,91,Hungary
+INA,INA,Indonesia,Indonésie,인도네시아,Indonesia,Indonésie,인도네시아,ASI,NP,92,Indonesia
+IND,IND,India,Inde,인도,India,Inde,인도,ASI,P,93,India
+IOA,IOA,IOA,AOI,올림픽독립선수,Independent Olympic Athletes,Athlètes olympiques indépendants,올림픽독립선수,EUR,NP,94,IOA
+IOP,IOP,IOP,POI,올림픽 독립참가단,Independent Olympic Participants,Participants olympiques indépendants,올림픽 독립참가단,EUR,H,95,IOP
+IRI,IRI,Islamic Rep. of Iran,Iran,이란,Islamic Republic of Iran,République islamique d'Iran,이란,ASI,P,96,Isl Rep of Iran
+IRL,IRL,Ireland,Irlande,아일랜드,Ireland,Irlande,아일랜드,EUR,P,97,Ireland
+IRQ,IRQ,Iraq,Iraq,이라크,Iraq,Iraq,이라크,ASI,NP,98,Iraq
+ISL,ISL,Iceland,Islande,아이슬란드,Iceland,Islande,아이슬란드,EUR,P,99,Iceland
+ISR,ISR,Israel,Israël,이스라엘,Israel,Israël,이스라엘,EUR,P,100,Israel
+ISV,ISV,"Virgin Islands, US",Îles Vierges US,버진아일랜드(미국령),"Virgin Islands, US",Îles Vierges des États-Unis,버진아일랜드(미국령),AME,P,101,"Virgin Isl., US"
+ITA,ITA,Italy,Italie,이탈리아,Italy,Italie,이탈리아,EUR,P,102,Italy
+IVB,IVB,"Virgin Isl., British",Îles Vierges brit.,영국령 버진아일랜드,"Virgin Islands, British",Îles Vierges britanniques,영국령 버진아일랜드,AME,NP,103,"Virgin Isl, Brit"
+JAM,JAM,Jamaica,Jamaïque,자메이카,Jamaica,Jamaïque,자메이카,AME,P,104,Jamaica
+JOR,JOR,Jordan,Jordanie,요르단,Jordan,Jordanie,요르단,ASI,NP,105,Jordan
+JPN,JPN,Japan,Japon,일본,Japan,Japon,일본,ASI,P,106,Japan
+KAZ,KAZ,Kazakhstan,Kazakhstan,카자흐스탄,Kazakhstan,Kazakhstan,카자흐스탄,ASI,P,107,Kazakhstan
+KEN,KEN,Kenya,Kenya,케냐,Kenya,Kenya,케냐,AFR,P,108,Kenya
+KGZ,KGZ,Kyrgyzstan,Kirghizistan,키르기스스탄,Kyrgyzstan,Kirghizistan,키르기스스탄,ASI,P,109,Kyrgyzstan
+KIR,KIR,Kiribati,Kiribati,키리바시,Kiribati,Kiribati,키리바시,OCE,NP,110,Kiribati
+KOR,KOR,Republic of Korea,Rép. de Corée,대한민국,Republic of Korea,République de Corée,대한민국,ASI,P,111,Korea
+KOS,KOS,Kosovo,Kosovo,코소보,Kosovo,Kosovo,코소보,EUR,P,112,Kosovo
+KSA,KSA,Saudi Arabia,Arabie saoudite,사우디 아라비아,Saudi Arabia,Arabie saoudite,사우디 아라비아,ASI,NP,113,Saudi Arabia
+KUW,KUW,Kuwait,Koweït,쿠웨이트,Kuwait,Koweït,쿠웨이트,ASI,NP,114,Kuwait
+LAO,LAO,Lao P.D.R.,RDP lao,라오스,Lao People's Democratic Republic,République démocratique populaire lao,라오스,ASI,NP,115,Lao P.D.R.
+LAT,LAT,Latvia,Lettonie,라트비아,Latvia,Lettonie,라트비아,EUR,P,116,Latvia
+LBA,LBA,Libya,Libye,리비아,Libya,Libye,리비아,AFR,NP,117,Libya
+LBN,LBN,Lebanon,Liban,레바논,Lebanon,Liban,레바논,ASI,P,118,Lebanon
+LBR,LBR,Liberia,Libéria,라이베리아,Liberia,Libéria,라이베리아,AFR,NP,119,Liberia
+LCA,LCA,Saint Lucia,Sainte-Lucie,세인트루시아,Saint Lucia,Sainte-Lucie,세인트루시아,AME,NP,120,Saint Lucia
+LES,LES,Lesotho,Lesotho,레소토,Lesotho,Lesotho,레소토,AFR,NP,121,Lesotho
+LIE,LIE,Liechtenstein,Liechtenstein,리히텐슈타인,Liechtenstein,Liechtenstein,리히텐슈타인,EUR,P,122,Liechtenstein
+LTU,LTU,Lithuania,Lituanie,리투아니아,Lithuania,Lituanie,리투아니아,EUR,P,123,Lithuania
+LUX,LUX,Luxembourg,Luxembourg,룩셈부르크,Luxembourg,Luxembourg,룩셈부르크,EUR,P,124,Luxembourg
+MAD,MAD,Madagascar,Madagascar,마다가스카르,Madagascar,Madagascar,마다가스카르,AFR,P,125,Madagascar
+MAR,MAR,Morocco,Maroc,모로코,Morocco,Maroc,모로코,AFR,P,126,Morocco
+MAS,MAS,Malaysia,Malaisie,말레이시아,Malaysia,Malaisie,말레이시아,ASI,P,127,Malaysia
+MAW,MAW,Malawi,Malawi,말라위,Malawi,Malawi,말라위,AFR,NP,128,Malawi
+MDA,MDA,Rep. of Moldova,Rép. de Moldova,몰도바,Republic of Moldova,République de Moldova,몰도바,EUR,P,129,Rep of Moldova
+MDV,MDV,Maldives,Maldives,몰디브,Maldives,Maldives,몰디브,ASI,NP,130,Maldives
+MEX,MEX,Mexico,Mexique,멕시코,Mexico,Mexique,멕시코,AME,P,131,Mexico
+MGL,MGL,Mongolia,Mongolie,몽골,Mongolia,Mongolie,몽골,ASI,P,132,Mongolia
+MHL,MHL,Marshall Islands,Îles Marshall,마셜 제도,Marshall Islands,Îles Marshall,마셜 제도,OCE,NP,133,Marshall Isl.
+MKD,MKD,MKD,MKD,구유고슬라비아 마케도니아 공화국,The Former Yugoslav Republic of Macedonia,ex-République yougoslave de Macédoine,구유고슬라비아 마케도니아 공화국,EUR,P,134,MKD
+MLI,MLI,Mali,Mali,말리,Mali,Mali,말리,AFR,NP,135,Mali
+MLT,MLT,Malta,Malte,몰타,Malta,Malte,몰타,EUR,P,136,Malta
+MNE,MNE,Montenegro,Monténégro,몬테네그로,Montenegro,Monténégro,몬테네그로,EUR,P,137,Montenegro
+MON,MON,Monaco,Monaco,모나코,Monaco,Monaco,모나코,EUR,P,138,Monaco
+MOZ,MOZ,Mozambique,Mozambique,모잠비크,Mozambique,Mozambique,모잠비크,AFR,NP,139,Mozambique
+MRI,MRI,Mauritius,Maurice,모리셔스,Mauritius,Maurice,모리셔스,AFR,NP,140,Mauritius
+MTN,MTN,Mauritania,Mauritanie,모리타니,Mauritania,Mauritanie,모리타니,AFR,NP,141,Mauritania
+MYA,MYA,Myanmar,Myanmar,미얀마,Myanmar,Myanmar,미얀마,ASI,NP,142,Myanmar
+NAM,NAM,Namibia,Namibie,나미비아,Namibia,Namibie,나미비아,AFR,NP,143,Namibia
+NCA,NCA,Nicaragua,Nicaragua,니카라과,Nicaragua,Nicaragua,니카라과,AME,NP,144,Nicaragua
+NED,NED,Netherlands,Pays-Bas,네덜란드,Netherlands,Pays-Bas,네덜란드,EUR,P,145,Netherlands
+NEP,NEP,Nepal,Népal,네팔,Nepal,Népal,네팔,ASI,P,146,Nepal
+NGR,NGR,Nigeria,Nigéria,나이지리아,Nigeria,Nigéria,나이지리아,AFR,P,147,Nigeria
+NIG,NIG,Niger,Niger,니제르,Niger,Niger,니제르,AFR,NP,148,Niger
+NOR,NOR,Norway,Norvège,노르웨이,Norway,Norvège,노르웨이,EUR,P,149,Norway
+NRU,NRU,Nauru,Nauru,나우루,Nauru,Nauru,나우루,OCE,NP,150,Nauru
+NZL,NZL,New Zealand,Nouvelle-Zélande,뉴질랜드,New Zealand,Nouvelle-Zélande,뉴질랜드,OCE,P,151,New Zealand
+OAR,RUS,OAR,OAR,러시아 출신 올림픽 선수,Olympic Athlete from Russia,Athlète Olympique de Russie,러시아 출신 올림픽 선수,EUR,P,152,OAR
+OMA,OMA,Oman,Oman,오만,Oman,Oman,오만,ASI,NP,153,Oman
+PAK,PAK,Pakistan,Pakistan,파키스탄,Pakistan,Pakistan,파키스탄,ASI,P,154,Pakistan
+PAN,PAN,Panama,Panama,파나마,Panama,Panama,파나마,AME,NP,155,Panama
+PAR,PAR,Paraguay,Paraguay,파라과이,Paraguay,Paraguay,파라과이,AME,P,156,Paraguay
+PER,PER,Peru,Pérou,페루,Peru,Pérou,페루,AME,P,157,Peru
+PHI,PHI,Philippines,Philippines,필리핀,Philippines,Philippines,필리핀,ASI,P,158,Philippines
+PLE,PLE,Palestine,Palestine,팔레스타인,Palestine,Palestine,팔레스타인,ASI,NP,159,Palestine
+PLW,PLW,Palau,Palaos,팔라우,Palau,Palaos,팔라우,OCE,NP,160,Palau
+PNG,PNG,Papua New Guinea,Pap. Nouv. Guinée,파푸아뉴기니,Papua New Guinea,Papouasie-Nouvelle-Guinée,파푸아뉴기니,OCE,NP,161,P. N. Guinea
+POL,POL,Poland,Pologne,폴란드,Poland,Pologne,폴란드,EUR,P,162,Poland
+POR,POR,Portugal,Portugal,포르투갈,Portugal,Portugal,포르투갈,EUR,P,163,Portugal
+PRK,PRK,DPR Korea,RPD Corée,조선민주주의인민공화국,Democratic People's Republic of Korea,République populaire démocratique de Corée,조선민주주의인민공화국,ASI,P,164,DPR Korea
+PUR,PUR,Puerto Rico,Porto Rico,푸에르토리코,Puerto Rico,Porto Rico,푸에르토리코,AME,NP,165,Puerto Rico
+QAT,QAT,Qatar,Qatar,카타르,Qatar,Qatar,카타르,ASI,NP,166,Qatar
+ROT,ROT,R.O.T.,Équipe de réfugiés,난민 올림픽 대표팀,Refugee Olympic Team,Équipe olympique de réfugiés,난민 올림픽 대표팀,EUR,NP,167,ROT
+ROU,ROU,Romania,Roumanie,루마니아,Romania,Roumanie,루마니아,EUR,P,168,Romania
+RSA,RSA,South Africa,Afrique du Sud,남아프리카공화국,South Africa,Afrique du Sud,남아프리카공화국,AFR,P,169,South Africa
+RUS,RUS,Russian Federation,Russie,러시아,Russian Federation,Fédération de Russie,러시아,EUR,NP,170,Russian Fed.
+RWA,RWA,Rwanda,Rwanda,르완다,Rwanda,Rwanda,르완다,AFR,NP,171,Rwanda
+SAM,SAM,Samoa,Samoa,사모아,Samoa,Samoa,사모아,OCE,NP,172,Samoa
+SCG,SCG,Serbia & Montenegro,Serbie-et-Monténégro,세르비아몬테네그로,Serbia and Montenegro,Serbie-et-Monténégro,세르비아몬테네그로,EUR,H,173,
+SEN,SEN,Senegal,Sénégal,세네갈,Senegal,Sénégal,세네갈,AFR,P,174,Senegal
+SEY,SEY,Seychelles,Seychelles,세이셸,Seychelles,Seychelles,세이셸,AFR,NP,175,Seychelles
+SGP,SGP,Singapore,Singapour,싱가포르,Singapore,Singapour,싱가포르,ASI,P,176,Singapore
+SKN,SKN,Saint Kitts & Nevis,Saint-Kitts-et-Nevis,세인트키츠네비스,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,세인트키츠네비스,AME,NP,177,StKitts & Nevis
+SLE,SLE,Sierra Leone,Sierra Leone,시에라리온,Sierra Leone,Sierra Leone,시에라리온,AFR,NP,178,Sierra Leone
+SLO,SLO,Slovenia,Slovénie,슬로베니아,Slovenia,Slovénie,슬로베니아,EUR,P,179,Slovenia
+SMR,SMR,San Marino,Saint-Marin,산마리노,San Marino,Saint-Marin,산마리노,EUR,P,180,San Marino
+SOL,SOL,Solomon Islands,Îles Salomon,솔로몬 제도,Solomon Islands,Îles Salomon,솔로몬 제도,OCE,NP,181,Solomon Isl.
+SOM,SOM,Somalia,Somalie,소말리아,Somalia,Somalie,소말리아,AFR,NP,182,Somalia
+SRB,SRB,Serbia,Serbie,세르비아,Serbia,Serbie,세르비아,EUR,P,183,Serbia
+SRI,SRI,Sri Lanka,Sri Lanka,스리랑카,Sri Lanka,Sri Lanka,스리랑카,ASI,P,184,Sri Lanka
+SSD,SSD,South Sudan,Soudan du Sud,남수단,South Sudan,Soudan du Sud,남수단,AFR,NP,185,South Sudan
+STP,STP,S Tome & Principe,São Tomé Príncipe,상투메프린시페,Sao Tome and Principe,São Tomé-et-Príncipe,상투메프린시페,AFR,NP,186,S. Tome&Princ
+SUD,SUD,Sudan,Soudan,수단,Sudan,Soudan,수단,AFR,NP,187,Sudan
+SUI,SUI,Switzerland,Suisse,스위스,Switzerland,Suisse,스위스,EUR,P,188,Switzerland
+SUR,SUR,Suriname,Suriname,수리남,Suriname,Suriname,수리남,AME,NP,189,Suriname
+SVK,SVK,Slovakia,Slovaquie,슬로바키아,Slovakia,Slovaquie,슬로바키아,EUR,P,190,Slovakia
+SWE,SWE,Sweden,Suède,스웨덴,Sweden,Suède,스웨덴,EUR,P,191,Sweden
+SWZ,SWZ,Swaziland,Swaziland,스와질란드,Swaziland,Swaziland,스와질란드,AFR,NP,192,Swaziland
+SYR,SYR,Syrian Arab Rep.,Syrie,시리아,Syrian Arab Republic,République arabe syrienne,시리아,ASI,NP,193,Syria
+TAH,TAH,Tahiti,Tahiti,타이티,Tahiti,Tahiti,타이티,OCE,NP,194,
+TAN,TAN,Tanzania,Tanzanie,탄자니아,United Republic of Tanzania,République-Unie de Tanzanie,탄자니아,AFR,NP,195,Tanzania
+TCH,TCH,Czechoslovakia,Tchécoslovaquie,체코슬로바키아,Czechoslovakia,Tchécoslovaquie,체코슬로바키아,EUR,H,196,
+TGA,TGA,Tonga,Tonga,통가,Tonga,Tonga,통가,OCE,P,197,Tonga
+THA,THA,Thailand,Thaïlande,태국,Thailand,Thaïlande,태국,ASI,P,198,Thailand
+TJK,TJK,Tajikistan,Tadjikistan,타지키스탄,Tajikistan,Tadjikistan,타지키스탄,ASI,P,199,Tajikistan
+TKM,TKM,Turkmenistan,Turkménistan,투르크메니스탄,Turkmenistan,Turkménistan,투르크메니스탄,ASI,NP,200,Turkmenistan
+TLS,TLS,Timor-Leste,Timor-Leste,동티모르,Democratic Republic of Timor-Leste,République démocratique du Timor-Leste,동티모르,ASI,P,201,Timor-Leste
+TOG,TOG,Togo,Togo,토고,Togo,Togo,토고,AFR,P,202,Togo
+TPE,TPE,Chinese Taipei,Chinese Taipei,차이니스 타이베이,Chinese Taipei,Chinese Taipei,차이니스 타이베이,ASI,P,203,Chinese Taipei
+TTO,TTO,Trinidad & Tobago,Trinité et Tobago,트리니다드토바고,Trinidad and Tobago,Trinité-et-Tobago,트리니다드토바고,AME,P,204,Tri. & Tobago
+TUN,TUN,Tunisia,Tunisie,튀니지,Tunisia,Tunisie,튀니지,AFR,NP,205,Tunisia
+TUR,TUR,Turkey,Turquie,터키,Turkey,Turquie,터키,EUR,P,206,Turkey
+TUV,TUV,Tuvalu,Tuvalu,투발루,Tuvalu,Tuvalu,투발루,OCE,NP,207,Tuvalu
+UAE,UAE,Utd Arab Emirates,Émirats arabes,아랍에미리트,United Arab Emirates,Émirats arabes unis,아랍에미리트,ASI,NP,208,UA Emirates
+UGA,UGA,Uganda,Ouganda,우간다,Uganda,Ouganda,우간다,AFR,P,209,Uganda
+UKR,UKR,Ukraine,Ukraine,우크라이나,Ukraine,Ukraine,우크라이나,EUR,P,210,Ukraine
+URS,URS,USSR,U.R.S.S.,소비에트연방,USSR,U.R.S.S.,소비에트연방,EUR,H,211,
+URU,URU,Uruguay,Uruguay,우루과이,Uruguay,Uruguay,우루과이,AME,NP,212,Uruguay
+USA,USA,United States,États-Unis,미국,United States of America,États-Unis d'Amérique,미국,AME,P,213,United States
+UZB,UZB,Uzbekistan,Ouzbékistan,우즈베키스탄,Uzbekistan,Ouzbékistan,우즈베키스탄,ASI,P,214,Uzbekistan
+VAN,VAN,Vanuatu,Vanuatu,바누아투,Vanuatu,Vanuatu,바누아투,OCE,NP,215,Vanuatu
+VEN,VEN,Venezuela,Venezuela,베네수엘라,Venezuela,Venezuela,베네수엘라,AME,P,216,Venezuela
+VIE,VIE,Vietnam,Viet Nam,베트남,Vietnam,Viet Nam,베트남,ASI,NP,217,Vietnam
+VIN,VIN,St Vincent & Gren.,St-Vincent-Gr.,세인트빈센트그레나딘,St Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,세인트빈센트그레나딘,AME,NP,218,St Vin&Grenad
+YEM,YEM,Yemen,Yémen,예멘,Yemen,Yémen,예멘,ASI,NP,219,Yemen
+YUG,YUG,Yugoslavia,Yougoslavie,유고슬라비아연방,The Federal Republic of Yugoslavia,Yougoslavie,유고슬라비아연방,EUR,H,220,
+ZAM,ZAM,Zambia,Zambie,잠비아,Zambia,Zambie,잠비아,AFR,NP,221,Zambia
+ZIM,ZIM,Zimbabwe,Zimbabwe,짐바브웨,Zimbabwe,Zimbabwe,짐바브웨,AFR,NP,222,Zimbabwe

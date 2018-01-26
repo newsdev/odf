@@ -1,0 +1,35 @@
+Id,Related Event,order,ENG Description,FRA Description,KOR Description,OLD Id
+BOBMTEAM2-------------------------,BOBMTEAM2-------------------------,1,2-man,Bob à deux hommes,남자 2인승,
+BOBOTEAM4-------------------------,BOBOTEAM4-------------------------,2,4-man,Bob à quatre,오픈 4인승,
+BOBWTEAM2-------------------------,BOBWTEAM2-------------------------,3,Women,Bob à deux femmes,여자 2인승,
+FSKMSINGLES-----------------------,FSKMSINGLES-----------------------,1,Men Single Skating,Patinage individuel hommes,피겨 스케이팅 남자 싱글,
+FSKWSINGLES-----------------------,FSKWSINGLES-----------------------,2,Ladies Single Skating,Patinage individuel femmes,피겨 스케이팅 여자 싱글,
+FSKXPAIRS-------------------------,FSKXPAIRS-------------------------,3,Pair Skating,Patinage en couple,피겨 스케이팅 페어,
+FSKXICEDANCE----------------------,FSKXICEDANCE----------------------,4,Ice Dance,Danse sur glace,피겨 스케이팅 아이스 댄스,
+FSKXTEAM--------------------------,FSKXTEAM--------------------------,5,Team Event,Épreuve par équipes,피겨 스케이팅 팀이벤트,
+LUGMSINGLES-----------------------,LUGMSINGLES-----------------------,1,Men's Singles,Simple hommes,남자 싱글,
+LUGODOUBLES-----------------------,LUGODOUBLES-----------------------,3,Doubles,Double,더블,
+LUGWSINGLES-----------------------,LUGWSINGLES-----------------------,2,Women's Singles,Simple femmes,여자 싱글,
+LUGXRELAY4------------------------,LUGXRELAY4------------------------,4,Team Relay,Relais par équipes,팀 계주,
+SKNMSINGLES-----------------------,SKNMSINGLES-----------------------,1,Men,Hommes,남자,
+SKNWSINGLES-----------------------,SKNWSINGLES-----------------------,2,Women,Femmes,여자,
+SSKM10000M------------------------,SSKM10000M------------------------,5,"Men's 10,000m",10 000 m hommes,"남자 10,000m",SSM100000
+SSKM1000M-------------------------,SSKM1000M-------------------------,2,"Men's 1,000m",1 000 m hommes,"남자 1,000m",SSM010000
+SSKM1500M-------------------------,SSKM1500M-------------------------,3,"Men's 1,500m",1 500 m hommes,"남자 1,500m",SSM015000
+SSKM5000M-------------------------,SSKM5000M-------------------------,4,"Men's 5,000m",5 000 m hommes,"남자 5,000m",SSM050000
+SSKM500M--------------------------,SSKM500M--------------------------,1,Men's 500m,500 m hommes,남자 500m,SSM005000
+SSKMTEAMPU------------------------,SSKMTEAMPU------------------------,6,Men's Team Pursuit,Poursuite par équipes hommes,남자 팀추월,SSM408000
+SSKW1000M-------------------------,SSKW1000M-------------------------,8,"Ladies' 1,000m",1 000 m femmes,"여자 1,000m",SSW010000
+SSKW1500M-------------------------,SSKW1500M-------------------------,9,"Ladies' 1,500m",1 500 m femmes,"여자 1,500m",SSW015000
+SSKW3000M-------------------------,SSKW3000M-------------------------,10,"Ladies' 3,000m",3 000 m femmes,"여자 3,000m",SSW030000
+SSKW5000M-------------------------,SSKW5000M-------------------------,11,"Ladies' 5,000m",5 000 m femmes,"여자 5,000m",SSW050000
+SSKW500M--------------------------,SSKW500M--------------------------,7,Ladies' 500m,500 m femmes,여자 500m,SSW005000
+SSKWTEAMPU------------------------,SSKWTEAMPU------------------------,12,Ladies' Team Pursuit,Poursuite par équipes femmes,여자 팀추월,SSW406000
+STKM1000M-------------------------,STKM1000M-------------------------,2,"Men's 1,000m",1 000 m hommes,"남자 1,000m",STM010000
+STKM1500M-------------------------,STKM1500M-------------------------,3,"Men's 1,500m",1 500 m hommes,"남자 1,500m",STM015000
+STKM5000MRY4----------------------,STKM5000MRY4----------------------,4,"Men's 5,000m Relay",Relais 5 000 m hommes,"남자 계주 5,000m",STM450000
+STKM500M--------------------------,STKM500M--------------------------,1,Men's 500m,500 m hommes,남자 500m,STM005000
+STKW1000M-------------------------,STKW1000M-------------------------,6,"Ladies' 1,000m",1 000 m femmes,"여자 1,000m",STW010000
+STKW1500M-------------------------,STKW1500M-------------------------,7,"Ladies' 1,500m",1 500 m femmes,"여자 1,500m",STW015000
+STKW3000MRY4----------------------,STKW3000MRY4----------------------,8,"Ladies' 3,000m Relay",Relais 3 000 m femmes,"여자 계주 3,000m",STW430000
+STKW500M--------------------------,STKW500M--------------------------,5,Ladies' 500m,500 m femmes,여자 500m,STW005000

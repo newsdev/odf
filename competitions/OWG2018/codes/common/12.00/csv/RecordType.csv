@@ -1,0 +1,13 @@
+Discipline,recordgroup,recordtype,ENG Description,FRA Description,KOR Description,Order
+BOB,SR,SR,Start Record,Record de départ,스타트 기록,1
+BOB,TR,TR,Track Record,Record de piste,트랙 기록,2
+FSK,PB,PB,Personal Best,Record personnel,개인 최고 기록,1
+FSK,SB,SB,Season Best,Record de la saison,시즌 최고 기록,2
+LUG,SR,SR,Start Record,Record de départ,스타트 기록,1
+LUG,TR,TR,Track Record,Record de piste,트랙 기록,2
+SKN,SR,SR,Start Record,Record de départ,스타트 기록,1
+SKN,TR,TR,Track Record,Record de piste,트랙 기록,2
+SSK,WR,WR,World Record,Record du monde,세계 신기록,1
+SSK,OR,OR,Olympic Record,Record olympique,올림픽 신기록,2
+STK,WR,WR,World Record,Record du monde,세계 신기록,1
+STK,OR,OR,Olympic Record,Record olympique,올림픽 신기록,2
